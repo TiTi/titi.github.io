@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi! I&#39;m Thibault ROHMER</title>
-    <link>https://titi.github.com/</link>
+    <link>https://titi.github.io/</link>
     <description>Recent content on Hi! I&#39;m Thibault ROHMER</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
     <lastBuildDate>Fri, 13 Mar 2015 21:08:51 +0100</lastBuildDate>
-    <atom:link href="https://titi.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Feed #50</title>
-      <link>https://titi.github.com/links/Feed-50/</link>
+      <link>https://titi.github.io/links/Feed-50/</link>
       <pubDate>Fri, 13 Mar 2015 21:08:51 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-50/</guid>
+      <guid>https://titi.github.io/links/Feed-50/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://engineering.intenthq.com/2015/03/what-is-good-code-a-scientific-definition/&#34;&gt;What is good code? A scientific definition&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://googlecloudplatform.blogspot.fr/2015/03/introducing-Google-Cloud-Storage-Nearline-near-online-data-at-an-offline-price.html&#34;&gt;Introducing Google Cloud Storage Nearline: (near)online data at an offline price&lt;/a&gt;&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Feed #49</title>
-      <link>https://titi.github.com/links/Feed-49/</link>
+      <link>https://titi.github.io/links/Feed-49/</link>
       <pubDate>Tue, 10 Mar 2015 23:47:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-49/</guid>
+      <guid>https://titi.github.io/links/Feed-49/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://googleprojectzero.blogspot.fr/2015/03/exploiting-dram-rowhammer-bug-to-gain.html&#34;&gt;Exploiting the DRAM rowhammer bug to gain kernel privileges &lt;/a&gt; - Crazy scary stuff!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://lizkeogh.com/2015/03/09/the-shallow-dive-into-chaos/&#34;&gt;The Shallow Dive into Chaos&lt;/a&gt;&lt;/p&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>Feed #48</title>
-      <link>https://titi.github.com/links/Feed-48/</link>
+      <link>https://titi.github.io/links/Feed-48/</link>
       <pubDate>Mon, 09 Mar 2015 10:12:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-48/</guid>
+      <guid>https://titi.github.io/links/Feed-48/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.f-secure.com/weblog/archives/00002794.html&#34;&gt;Is Babar a Bunny?&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://blogs.technet.com/b/askperf/archive/2008/06/27/an-intro-to-xperf.aspx&#34;&gt;Two Minute Drill: Introduction to XPerf&lt;/a&gt;&lt;/p&gt;
@@ -56,10 +56,10 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-
     
     <item>
       <title>Feed #47</title>
-      <link>https://titi.github.com/links/Feed-47/</link>
+      <link>https://titi.github.io/links/Feed-47/</link>
       <pubDate>Thu, 05 Mar 2015 09:25:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-47/</guid>
+      <guid>https://titi.github.io/links/Feed-47/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/03/putting-security-into-sprints.html&#34;&gt;Putting Security into Sprints&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.microsoft.com/security/sdl/discover/sdlagile.aspx&#34;&gt;Agile Development Using Microsoft Security Development Lifecycle&lt;/a&gt;&lt;/p&gt;
@@ -70,10 +70,10 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-
     
     <item>
       <title>Feed #46</title>
-      <link>https://titi.github.com/links/Feed-46/</link>
+      <link>https://titi.github.io/links/Feed-46/</link>
       <pubDate>Wed, 04 Mar 2015 09:03:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-46/</guid>
+      <guid>https://titi.github.io/links/Feed-46/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.javacodegeeks.com/2015/03/balanced-abstraction-principle.html&#34;&gt;Balanced Abstraction Principle&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://martinfowler.com/bliki/BeckDesignRules.html&#34;&gt;http://martinfowler.com/bliki/BeckDesignRules.html&lt;/a&gt;&lt;/p&gt;
@@ -82,10 +82,10 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-
     
     <item>
       <title>Feed #45</title>
-      <link>https://titi.github.com/links/Feed-45/</link>
+      <link>https://titi.github.io/links/Feed-45/</link>
       <pubDate>Tue, 24 Feb 2015 09:19:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-45/</guid>
+      <guid>https://titi.github.io/links/Feed-45/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://blog.jayfields.com/2015/02/experience-report-weak-code-ownership.html&#34;&gt;Experience Report: Weak Code Ownership&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mikehadlow.blogspot.fr/2014/06/heisenberg-developers.html&#34;&gt;Heisenberg Developers&lt;/a&gt;&lt;/p&gt;
@@ -96,10 +96,10 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-
     
     <item>
       <title>Feed #44</title>
-      <link>https://titi.github.com/links/Feed-44/</link>
+      <link>https://titi.github.io/links/Feed-44/</link>
       <pubDate>Tue, 17 Feb 2015 09:36:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-44/</guid>
+      <guid>https://titi.github.io/links/Feed-44/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/02/dont-waste-time-tracking-technical-debt.html&#34;&gt;Don’t waste time tracking technical debt&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf&#34;&gt;Nobody Ever Gets Credit for Fixing Problems that Never Happened&lt;/a&gt;&lt;/p&gt;
@@ -121,10 +121,10 @@ likely to groom and favor other can-do people like themselves.&lt;/p&gt;
     
     <item>
       <title>Feed #43</title>
-      <link>https://titi.github.com/links/Feed-43/</link>
+      <link>https://titi.github.io/links/Feed-43/</link>
       <pubDate>Tue, 10 Feb 2015 09:31:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-43/</guid>
+      <guid>https://titi.github.io/links/Feed-43/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/automated-testing-shows&#34;&gt;Automated Testing Shows a Respect for Employees&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/technical-debt-metaphors-get&#34;&gt;Technical Debt Metaphors Get It so Wrong&lt;/a&gt;&lt;/p&gt;
@@ -135,10 +135,10 @@ likely to groom and favor other can-do people like themselves.&lt;/p&gt;
     
     <item>
       <title>Feed #42</title>
-      <link>https://titi.github.com/links/Feed-42/</link>
+      <link>https://titi.github.io/links/Feed-42/</link>
       <pubDate>Mon, 09 Feb 2015 09:19:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-42/</guid>
+      <guid>https://titi.github.io/links/Feed-42/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://venturebeat.com/2015/01/22/this-is-whats-keeping-some-enterprises-from-adopting-devops/&#34;&gt;This is what’s keeping some enterprises from adopting devops&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://codeascraft.com/2015/02/05/rebuilding-the-foundation-of-etsy-seller-tools/&#34;&gt;Rebuilding the Foundation of Etsy’s Seller Tools&lt;/a&gt;&lt;/p&gt;
@@ -147,10 +147,10 @@ likely to groom and favor other can-do people like themselves.&lt;/p&gt;
     
     <item>
       <title>Feed #41</title>
-      <link>https://titi.github.com/links/Feed-41/</link>
+      <link>https://titi.github.io/links/Feed-41/</link>
       <pubDate>Fri, 06 Feb 2015 11:31:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-41/</guid>
+      <guid>https://titi.github.io/links/Feed-41/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://searchsoftwarequality.techtarget.com/tip/Strategies-for-minimizing-regression-defects&#34;&gt;Strategies for minimizing regression defects&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.daedtech.com/cutting-down-on-code-telepathy&#34;&gt;Flexibility, but at what cost?&lt;/a&gt;&lt;/p&gt;
@@ -161,10 +161,10 @@ likely to groom and favor other can-do people like themselves.&lt;/p&gt;
     
     <item>
       <title>Feed #40</title>
-      <link>https://titi.github.com/links/Feed-40/</link>
+      <link>https://titi.github.io/links/Feed-40/</link>
       <pubDate>Thu, 05 Feb 2015 13:31:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-40/</guid>
+      <guid>https://titi.github.io/links/Feed-40/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Agility:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://fr.slideshare.net/thekua/the-geeks-guide-to-leading-teams-43956687&#34;&gt;The Geek&amp;rsquo;s Guide to Leading Teams&lt;/a&gt;&lt;/p&gt;
@@ -192,10 +192,10 @@ Progress bar like the youtube one: &lt;a href=&#34;http://ricostacruz.com/nprogr
     
     <item>
       <title>Feed #39</title>
-      <link>https://titi.github.com/links/Feed-39/</link>
+      <link>https://titi.github.io/links/Feed-39/</link>
       <pubDate>Tue, 03 Feb 2015 09:27:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-39/</guid>
+      <guid>https://titi.github.io/links/Feed-39/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/you-dont-know-what-you-dont&#34;&gt;You Don&amp;rsquo;t Know What You Don&amp;rsquo;t Know&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.javacodegeeks.com/2015/01/how-to-define-performance-requirements.html&#34;&gt;How to define performance requirements?&lt;/a&gt;&lt;/p&gt;
@@ -211,10 +211,10 @@ Progress bar like the youtube one: &lt;a href=&#34;http://ricostacruz.com/nprogr
     
     <item>
       <title>Feed #38</title>
-      <link>https://titi.github.com/links/Feed-38/</link>
+      <link>https://titi.github.io/links/Feed-38/</link>
       <pubDate>Wed, 28 Jan 2015 09:40:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-38/</guid>
+      <guid>https://titi.github.io/links/Feed-38/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.ca/2013/04/code-ownership-who-should-own-code.html&#34;&gt;Code Ownership – Who Should Own the Code?&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2013/04/what-does-code-ownership-do-to-code.html&#34;&gt;What does Code Ownership do to Code?&lt;/a&gt;&lt;/p&gt;
@@ -235,20 +235,20 @@ Progress bar like the youtube one: &lt;a href=&#34;http://ricostacruz.com/nprogr
     
     <item>
       <title>Feed #37</title>
-      <link>https://titi.github.com/links/Feed-37/</link>
+      <link>https://titi.github.io/links/Feed-37/</link>
       <pubDate>Tue, 27 Jan 2015 09:20:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-37/</guid>
+      <guid>https://titi.github.io/links/Feed-37/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/trail-tears-architecture-anti&#34;&gt;Trail of Tears Architecture Anti-pattern&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Feed #36</title>
-      <link>https://titi.github.com/links/Feed-36/</link>
+      <link>https://titi.github.io/links/Feed-36/</link>
       <pubDate>Mon, 26 Jan 2015 09:51:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/links/Feed-36/</guid>
+      <guid>https://titi.github.io/links/Feed-36/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://mikehadlow.blogspot.fi/2014/12/the-lava-layer-anti-pattern.html&#34;&gt;The Lava Layer Anti-Pattern&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.javacodegeeks.com/2015/01/we-are-gonna-need-it.html&#34;&gt;We Are Gonna Need It&lt;/a&gt;&lt;/p&gt;

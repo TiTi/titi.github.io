@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hi! I&#39;m Thibault ROHMER</title>
-    <link>https://titi.github.com/posts/</link>
+    <link>https://titi.github.io/posts/</link>
     <description>Recent content in Posts on Hi! I&#39;m Thibault ROHMER</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
     <lastBuildDate>Wed, 26 Nov 2014 10:38:00 +0100</lastBuildDate>
-    <atom:link href="https://titi.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://titi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Redis</title>
-      <link>https://titi.github.com/2014/11/redis/</link>
+      <link>https://titi.github.io/2014/11/redis/</link>
       <pubDate>Wed, 26 Nov 2014 10:38:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/2014/11/redis/</guid>
+      <guid>https://titi.github.io/2014/11/redis/</guid>
       <description>
 
 &lt;h1 id=&#34;discover&#34;&gt;Discover&lt;/h1&gt;
@@ -130,10 +130,10 @@ save 60 10000
     
     <item>
       <title>Selenium tests in code only and the page object model</title>
-      <link>https://titi.github.com/2014/10/selenium-page-object-model/</link>
+      <link>https://titi.github.io/2014/10/selenium-page-object-model/</link>
       <pubDate>Thu, 23 Oct 2014 09:06:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/2014/10/selenium-page-object-model/</guid>
+      <guid>https://titi.github.io/2014/10/selenium-page-object-model/</guid>
       <description>
 
 &lt;h1 id=&#34;selenium-at-salesforce-scale&#34;&gt;Selenium at Salesforce Scale&lt;/h1&gt;
@@ -195,10 +195,10 @@ Specifically, this layer expose classes/methods like:&lt;/p&gt;
     
     <item>
       <title>No defect</title>
-      <link>https://titi.github.com/2014/10/no-defect/</link>
+      <link>https://titi.github.io/2014/10/no-defect/</link>
       <pubDate>Fri, 17 Oct 2014 15:15:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/2014/10/no-defect/</guid>
+      <guid>https://titi.github.io/2014/10/no-defect/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.fastcompany.com/28121/they-write-right-stuff&#34;&gt;They Write the Right Stuff&lt;/a&gt; - NASA / Software for Grown-Ups&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.klocwork.com/resources/research/research-improving-software-by-reducing-defects/download&#34;&gt;Improving software by reducing coding defects&lt;/a&gt;&lt;/p&gt;
@@ -214,10 +214,10 @@ Specifically, this layer expose classes/methods like:&lt;/p&gt;
     
     <item>
       <title>Scalability</title>
-      <link>https://titi.github.com/2014/10/scalability/</link>
+      <link>https://titi.github.io/2014/10/scalability/</link>
       <pubDate>Sun, 12 Oct 2014 18:44:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/2014/10/scalability/</guid>
+      <guid>https://titi.github.io/2014/10/scalability/</guid>
       <description>
 
 &lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
@@ -270,10 +270,10 @@ Specifically, this layer expose classes/methods like:&lt;/p&gt;
     
     <item>
       <title>Writing efficient CSS</title>
-      <link>https://titi.github.com/2014/09/writing-efficient-css/</link>
+      <link>https://titi.github.io/2014/09/writing-efficient-css/</link>
       <pubDate>Wed, 17 Sep 2014 10:58:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/2014/09/writing-efficient-css/</guid>
+      <guid>https://titi.github.io/2014/09/writing-efficient-css/</guid>
       <description>&lt;p&gt;September 17, 2014 10:58am&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741&#34;&gt;30 CSS Best Practices for Beginners&lt;/a&gt;&lt;/p&gt;
@@ -336,10 +336,10 @@ Great collection of short tips&lt;/p&gt;
     
     <item>
       <title>Software Testing Ice-cream Cone</title>
-      <link>https://titi.github.com/2014/08/software-testing-ice-cream-cone/</link>
+      <link>https://titi.github.io/2014/08/software-testing-ice-cream-cone/</link>
       <pubDate>Sun, 03 Aug 2014 10:17:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/2014/08/software-testing-ice-cream-cone/</guid>
+      <guid>https://titi.github.io/2014/08/software-testing-ice-cream-cone/</guid>
       <description>&lt;p&gt;What not to do:&lt;br /&gt;
 &lt;img src=&#34;cone/ice-cream_cone.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
@@ -395,10 +395,10 @@ See Part 4: Automated Testing&lt;/p&gt;
     
     <item>
       <title>Unit Testing</title>
-      <link>https://titi.github.com/2014/07/unit-testing/</link>
+      <link>https://titi.github.io/2014/07/unit-testing/</link>
       <pubDate>Tue, 15 Jul 2014 10:58:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/2014/07/unit-testing/</guid>
+      <guid>https://titi.github.io/2014/07/unit-testing/</guid>
       <description>&lt;p&gt;July 15, 2014 10:58am&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/nashjain/inverting-the-testing-pyramid&#34;&gt;Inverting The Testing Pyramid&lt;/a&gt; [SlideShare]
@@ -516,10 +516,10 @@ Complexity explanation: &lt;a href=&#34;https://github.com/philbooth/complexity-
     
     <item>
       <title>The javascript .prototype guide I would have wanted</title>
-      <link>https://titi.github.com/2013/12/prototype/</link>
+      <link>https://titi.github.io/2013/12/prototype/</link>
       <pubDate>Tue, 17 Dec 2013 00:19:38 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.com/2013/12/prototype/</guid>
+      <guid>https://titi.github.io/2013/12/prototype/</guid>
       <description>&lt;iframe id=&#34;prototypeFrame&#34; width=&#34;100%&#34; height=&#34;800&#34; style=&#34;border:0;&#34; src=&#34;prototypes/index.html&#34;&gt;&lt;/iframe&gt;
 
 &lt;script&gt;
