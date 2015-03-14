@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Redis</title>
+
+  <meta name="description" content="Redis"/>
+  <meta name="author" content="Thibault ROHMER"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <base href="https://titi.github.com/thibaultrohmer/" />
+
+  <link rel="stylesheet" href="css/fonts.css"/>
+  <link rel="stylesheet" href="css/normalize.css"/>
+  <link rel="stylesheet" href="css/skeleton.css"/>
+  <link rel="stylesheet" href="css/custom.css"/>
+  <link rel="stylesheet" href="genericons/genericons.css"/>
+  
+  
+  <link rel="stylesheet" href="highlight/tomorrow-night.css"/>
+
+  <link href="index.xml" rel="alternate" type="application/rss+xml" title="Posts + Links" />
+  <link href="links/index.xml" rel="alternate" type="application/rss+xml" title="Links" />
+  <link href="posts/index.xml" rel="alternate" type="application/rss+xml" title="Posts" />
+
+  
+</head>
+<body>
+
+
+<div id="container">
+  <div id="post-header">
+    <p class="post-infos">
+      <time>2014-11-26 10:38</time>
+      
+
+    </p>
+    <h1>Redis</h1>
+  </div>
+
+  
+
+  <div class="post">
+    
+
+<h1 id="discover">Discover</h1>
+
+<p>Collection of <a href="http://redis.io/">Redis</a> tutorials</p>
+
+<p>Note: In 30min-1H reading, you should have a good idea of what is Redis and how data is manipulated.</p>
+
+<p><a href="https://matt.sh/thinking-in-redis-part-one">Thinking In Redis (part one)</a></p>
+
+<p><a href="http://openmymind.net/2011/11/8/Redis-Zero-To-Master-In-30-Minutes-Part-1/">Redis: Zero to Master in 30 minutes - Part 1</a><br />
+<a href="http://openmymind.net/2011/11/8/Redis-Zero-To-Master-In-30-Minutes-Part-2/">Redis: Zero to Master in 30 minutes - Part 2</a></p>
+
+<p><a href="http://openmymind.net/redis.pdf">The Little Redis Book</a></p>
+
+<p>Videos :<br />
+<span class="genericon genericon-youtube"></span> <a href="https://www.youtube.com/watch?feature=player_detailpage&amp;v=CoQcNgfPYPc#t=265">Why and When You Should Use Redis</a><br />
+<span class="genericon genericon-youtube"></span> <a href="https://www.youtube.com/watch?feature=player_detailpage&amp;v=CoQcNgfPYPc#t=1080">Production problem example</a><br />
+<span class="genericon genericon-youtube"></span> <a href="https://www.youtube.com/watch?v=RNLJsjzRa4Y">Using PostgreSQL with Redis</a></p>
+
+<hr />
+
+<h1 id="specifics">Specifics</h1>
+
+<p>Recommendations :<br />
+<a href="https://redislabs.com/blog/5-key-takeaways-for-developing-with-redis">5 Key Takeaways for Developing with Redis</a>
+<a href="https://developer.mozilla.org/en-US/docs/Mozilla/Redis_Tips">Redis Tips</a> (Mozilla)</p>
+
+<p><a href="http://www.slideshare.net/vCoreDump/getting-startedwithredis">Getting Started with Redis</a> (by vmware, which was sponsor)</p>
+
+<hr />
+
+<p>December 1, 2014 9:53am</p>
+
+<p><a href="http://blog.mjrusso.com/2010/10/17/redis-from-the-ground-up.html">Redis, from the Ground Up</a></p>
+
+<p><a href="https://redis-docs.readthedocs.org/en/latest/">https://redis-docs.readthedocs.org/en/latest/</a></p>
+
+<p><a href="http://www.rediscookbook.org/">http://www.rediscookbook.org/</a></p>
+
+<hr />
+
+<ul>
+<li><a href="http://redis.io/">http://redis.io/</a></li>
+<li><a href="http://try.redis.io/">http://try.redis.io/</a></li>
+<li><a href="https://www.parleys.com/play/535e4ed8e4b03397a8eee8d4">https://www.parleys.com/play/535e4ed8e4b03397a8eee8d4</a></li>
+</ul>
+
+<hr />
+
+<h1 id="browser">Browser</h1>
+
+<ul>
+<li><a href="http://joeferner.github.io/redis-commander/">http://joeferner.github.io/redis-commander/</a></li>
+<li><a href="http://redisdesktop.com/">http://redisdesktop.com/</a></li>
+</ul>
+
+<hr />
+
+<h1 id="persistence">Persistence</h1>
+
+<ul>
+<li><a href="http://redis.io/commands/expire">http://redis.io/commands/expire</a> (cache expiration &amp; sliding timeout)</li>
+<li><a href="http://redis.io/topics/persistence">http://redis.io/topics/persistence</a></li>
+<li><a href="http://fr.slideshare.net/eugef/redis-persistence-in-practice-1">http://fr.slideshare.net/eugef/redis-persistence-in-practice-1</a></li>
+<li><a href="http://blog.sensible.io/2013/08/20/setting-up-redis-for-production-environment.html">http://blog.sensible.io/2013/08/20/setting-up-redis-for-production-environment.html</a></li>
+</ul>
+
+<p>By default, RDB persistence (by snapshots) is activated with several criterias:</p>
+
+<pre><code>################################ SNAPSHOTTING  #################################
+#
+# Save the DB on disk:
+#
+#   save &lt;seconds&gt; &lt;changes&gt;
+#
+#   Will save the DB if both the given number of seconds and the given
+#   number of write operations against the DB occurred.
+#
+#   In the example below the behaviour will be to save:
+#   after 900 sec (15 min) if at least 1 key changed
+#   after 300 sec (5 min) if at least 10 keys changed
+#   after 60 sec if at least 10000 keys changed
+#
+#   Note: you can disable saving at all commenting all the &quot;save&quot; lines.
+#
+#   It is also possible to remove all the previously configured save
+#   points by adding a save directive with a single empty string argument
+#   like in the following example:
+#
+#   save &quot;&quot;
+
+save 900 1
+save 300 10
+save 60 10000
+</code></pre>
+
+<p>But AOF persistance (append-only file: logs) is yet to be activated:</p>
+
+<pre><code>  appendonly yes
+</code></pre>
+
+<ul>
+<li>Le tout est sauvé sous /var/lib/redis/ ; cf les paramètres &ldquo;dbfilename&rdquo; et &ldquo;dir&rdquo;</li>
+<li>On peut demander à Redis de sauvegarder MAINTENANT avec la commande &ldquo;&lsquo;BGSAVE&rdquo;&rsquo; (ou &ldquo;&lsquo;SAVE&rdquo;&rsquo;, mais bloquante).</li>
+<li>La commande <strong>LASTSAVE</strong> donne le timestamp unix de la dernière sauvegarde</li>
+<li>La commande <strong>CONFIG GET *</strong> permet d&rsquo;avoir tous les paramètre d&rsquo;un coup</li>
+<li>La commande <strong><a href="http://redis.io/commands/config-set">CONFIG SET parameter value</a></strong> permet de changer en live sans redémarrer Redis ; mais ne modifie pas /etc/redis/redis.conf</li>
+</ul>
+
+  </div>
+</div>
+
+<div id="sidebar">
+<div class="sidebar">
+  <div class="sidebar-about">
+    <a href="https://titi.github.com/thibaultrohmer">
+      <img src="media/me.jpg" title="Thibault ROHMER" alt="Me" />
+      <h4 class="sidebar-title">Hi! I&#39;m Thibault ROHMER</h4>
+    </a>
+    <span class="sidebar-tagline"> \o/<br/>|<br/>/&nbsp;\ </span>
+  </div>
+  <nav class="sidebar-nav">
+    <ul class="sidebar-nav-list">
+      <li class="sidebar-nav-item nav-home">
+        <span class="genericon genericon-home"></span><a class="sidebar-link" href="https://titi.github.com/thibaultrohmer">Home</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a class="genericon genericon-feed" href="posts/index.xml"></a><a class="sidebar-link" href="posts/">Posts/</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a class="genericon genericon-feed" href="links/index.xml"></a><a class="sidebar-link" href="links/">Links/</a>
+      </li>
+    </ul>
+  </nav>
+  <div class="sidebar-externals">
+  
+
+  
+  <a class="genericon genericon-github" href="https://github.com/TiTi" ></a>
+  
+
+  
+
+  
+
+  
+  | <a class="genericon genericon-googleplus" href="https://plus.google.com/+ThibaultROHMER"></a>
+  
+
+  
+  | <a class="genericon genericon-linkedin-alt" href="https://www.linkedin.com/in/thibaultrohmer"></a>
+  
+
+  
+  | <a class="genericon genericon-mail" href="mailto:thibault.rohmer@gmail.com"></a>
+  </div>
+  <hr />
+  <div class="sidebar-bottom">
+    <p>Powered by <a href="http://gohugo.io">Hugo</a>. Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
+    <p>Copyright &copy; 2015. All rights reserved.</p>
+  </div>
+</div>
+</div>
+
+<footer>
+  <p class="footnote">Copyright &copy; 2015: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
+</footer>
+
+
+
+<script src="highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+</body>
+</html>
+
