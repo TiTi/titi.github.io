@@ -7,8 +7,58 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Tue, 17 Mar 2015 19:50:40 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2015 17:04:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #53</title>
+      <link>https://titi.github.io/links/Feed-53/</link>
+      <pubDate>Wed, 18 Mar 2015 17:04:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-53/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://m.windowscentral.com/you-can-upgrade-windows-10-free-even-if-youre-using-pirated-version-windows&#34;&gt;Microsoft will let you upgrade to Windows 10 for free, even if you&amp;rsquo;re running a pirated version&lt;/a&gt;&lt;br /&gt;
+Later the same day&amp;hellip; &lt;a href=&#34;http://arstechnica.com/information-technology/2015/03/the-windows-10-free-upgrade-for-pirates-more-confusing-than-it-seems/&#34;&gt;The Windows 10 free upgrade for pirates: More confusing than it seems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://libraries.io/&#34;&gt;Open Source Libraries&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://theholyjava.wordpress.com/2015/03/17/there-will-be-failures-on-systems-that-live-through-difficulties-instead-of-turning-them-into-a-catastrophy/&#34;&gt;There will be failures – On systems that live through difficulties instead of turning them into a catastrophy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://imgur.com/5JVUzoK&#34;&gt;&lt;img src=&#34;http://i.imgur.com/5JVUzoK.jpg&#34; alt=&#34;In 2015&#34; /&gt;
+&lt;/a&gt;&lt;br /&gt;
+Well, software is eating the world&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;a href=&#34;http://gojko.net/2011/04/05/how-is-it-even-possible-code-to-be-this-bad/&#34;&gt;How is it even possible for code to be this bad?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/working-legacy-test-code&#34;&gt;Working with Legacy Test Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;the ratio between possible number of tests and production code increase dramatically per test level.&lt;/p&gt;
+
+&lt;p&gt;Unit tests will grow linearly as the code grows.
+But starting with integration tests and higher level ones, the options start to grow in exponential rate.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://gojko.net/2010/10/15/how-google-does-test-engineering/&#34;&gt;How Google does test engineering&lt;/a&gt; (2010)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;http://www.nextinpact.com/news/93509-projet-loi-sur-renseignement-tous-points-noirs-denonces-par-cnil.htm&#34;&gt;Projet de loi sur le renseignement : tous les points noirs dénoncés par la CNIL&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[FR] Santé + Piratage :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.zataz.com/chantage-2-0-rex-mundi-met-sa-menace-a-execution&#34;&gt;Chantage 2.0 : Rex Mundi met sa menace à exécution&lt;/a&gt;&lt;br /&gt;
+Piratage d&amp;rsquo;un laboratoire d’analyse de sang (ou mauvaise sécurisation?) :&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;plus de 15,000 noms et prénoms de patients et 16 dossiers de « Biochimie sanguine » ; « biochimie urinaire » avec l’identité des patients et patientes, les adresses postales, dates de naissance, noms des médecins et les conclusions des tests médicaux. Autant dire des données très sensibles et privées.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nextinpact.com/news/93499-labio-fr-pirate-demande-rancon-et-publication-resultats-medicaux.htm&#34;&gt;Labio.fr piraté : demande de rançon et publication de résultats médicaux&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #52</title>
@@ -318,30 +368,6 @@ Progress bar like the youtube one: &lt;a href=&#34;http://ricostacruz.com/nprogr
 
 &lt;p&gt;In another theme, some guy with way too much free time:
 &lt;a href=&#34;http://www.andreas-dewes.de/en/2015/queens-of-the-data-age-abusing-common-table-expressions-to-solve-the-eight-queens-problem-in-sql/&#34;&gt;Using common table expressions to solve the “eight queens” problem in SQL&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #38</title>
-      <link>https://titi.github.io/links/Feed-38/</link>
-      <pubDate>Wed, 28 Jan 2015 09:40:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-38/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.ca/2013/04/code-ownership-who-should-own-code.html&#34;&gt;Code Ownership – Who Should Own the Code?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2013/04/what-does-code-ownership-do-to-code.html&#34;&gt;What does Code Ownership do to Code?&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.javacodegeeks.com/2015/01/which-ux-skills-should-product-owners-and-product-managers-have.html&#34;&gt;Which UX Skills should Product Owners and Product Managers have?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/01/if-you-got-bugs-youll-get-pwned.html&#34;&gt;If you got bugs, you’ll get pwned&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Just standard, accepted good development practices.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/01/netflixs-viewing-data-how-we-know-where.html&#34;&gt;Netflix&amp;rsquo;s Viewing Data: How We Know Where You Are in House of Cards&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
