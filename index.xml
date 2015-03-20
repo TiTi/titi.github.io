@@ -7,8 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Wed, 18 Mar 2015 17:04:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2015 10:27:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #54</title>
+      <link>https://titi.github.io/links/Feed-54/</link>
+      <pubDate>Fri, 20 Mar 2015 10:27:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-54/</guid>
+      <description>
+
+&lt;h1 id=&#34;engineering-management&#34;&gt;Engineering management&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/&#34;&gt;This Is What Impactful Engineering Leadership Looks Like&lt;/a&gt; - Dropbox&lt;br /&gt;
+Long but very interesting article about engineering management, software conception and guardrails.&lt;/p&gt;
+
+&lt;h1 id=&#34;testing&#34;&gt;Testing&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/excuses-not-testing&#34;&gt;Excuses For Not Testing&lt;/a&gt; &lt;span class=&#34;genericon genericon-heart&#34;&gt;&lt;/span&gt;&lt;span class=&#34;genericon genericon-heart&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;We complain that our managers don’t want us to write unit test. But the problem is that you asked for permission in the first place. And, by asking for permission, you’ve basically told your manager that unit testing is optional. Your manager has said “no” because he thinks YOU think it is optional.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;There is one other valid reason for not testing and that is, we simply don’t know how. This is almost as big of a reason as not believing it is worth while.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/dotnet/archive/2015/03/18/msbuild-engine-is-now-open-source-on-github.aspx&#34;&gt;MSBuild Engine is now Open Source on GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.brendangregg.com/blog/2015-03-17/linux-performance-analysis-perf-tools.html&#34;&gt;Linux Performance Analysis: New Tools and Old Secrets&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;refactoring&#34;&gt;Refactoring&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/03/making-refactoring-work.html&#34;&gt;Making Refactoring Work&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #53</title>
@@ -349,25 +384,6 @@ likely to groom and favor other can-do people like themselves.&lt;/p&gt;
 Progress bar like the youtube one: &lt;a href=&#34;http://ricostacruz.com/nprogress/&#34;&gt;http://ricostacruz.com/nprogress/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.speedawarenessmonth.com/when-8020-becomes-2080/&#34;&gt;When &lt;sup&gt;80&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt; Becomes &lt;sup&gt;20&lt;/sup&gt;&amp;frasl;&lt;sub&gt;80&lt;/sub&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #39</title>
-      <link>https://titi.github.io/links/Feed-39/</link>
-      <pubDate>Tue, 03 Feb 2015 09:27:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-39/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/you-dont-know-what-you-dont&#34;&gt;You Don&amp;rsquo;t Know What You Don&amp;rsquo;t Know&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.javacodegeeks.com/2015/01/how-to-define-performance-requirements.html&#34;&gt;How to define performance requirements?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://hacksoflife.blogspot.fr/2015/01/the-four-horsemen-of-performance.html&#34;&gt;The Four Horsemen of the Performance Apocalypse&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;In another theme, some guy with way too much free time:
-&lt;a href=&#34;http://www.andreas-dewes.de/en/2015/queens-of-the-data-age-abusing-common-table-expressions-to-solve-the-eight-queens-problem-in-sql/&#34;&gt;Using common table expressions to solve the “eight queens” problem in SQL&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -652,6 +652,34 @@ Great collection of short tips&lt;/p&gt;
 &lt;p&gt;Mars 13, 2015 10:20am&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://cssguidelin.es/&#34;&gt;High-level advice and guidelines for writing sane, manageable, scalable CSS&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Mars 20, 2015 5:10pm&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://specificity.keegan.st/&#34;&gt;CSS Specificity Calculator&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.w3.org/TR/CSS21/cascade.html#specificity&#34;&gt;CSS specificity rule&lt;/a&gt; is very important.
+For instance, imagine you have:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.item .text-normal {
+  color: blue;
+}
+
+.text-color-color2 {
+color: red;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And the following HTML:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;div class=&amp;quot;item&amp;quot;&amp;gt;
+  &amp;lt;div class=&amp;quot;text-normal text-color-color2&amp;quot;&amp;gt;test&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Well guess what will be the color of &lt;code&gt;test&lt;/code&gt;?&lt;br /&gt;
+The color &lt;span style=&#34;color:blue&#34;&gt;blue&lt;/span&gt; wins because the specificity is higher with the first selector (20 vs 10).&lt;/p&gt;
 </description>
     </item>
     
