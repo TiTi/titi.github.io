@@ -680,6 +680,12 @@ color: red;
 
 &lt;p&gt;Well guess what will be the color of &lt;code&gt;test&lt;/code&gt;?&lt;br /&gt;
 The color &lt;span style=&#34;color:blue&#34;&gt;blue&lt;/span&gt; wins because the specificity is higher with the first selector (20 vs 10).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Mars 24, 2015 7:33pm&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://primercss.io/&#34;&gt;Primer - The CSS toolkit and guidelines that power GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

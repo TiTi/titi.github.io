@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Fri, 20 Mar 2015 10:27:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2015 23:12:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #55</title>
+      <link>https://titi.github.io/links/Feed-55/</link>
+      <pubDate>Tue, 24 Mar 2015 23:12:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-55/</guid>
+      <description>
+
+&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://threatpost.com/all-major-browsers-fall-at-pwn2own-day-2&#34;&gt;All Major Browsers Fall at Pwn2Own Day 2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;gavindraper.com/2015/03/19/getting-under-the-hood/&#34;&gt;Getting Under The Hood&lt;/a&gt; (Debug Deezer with Google Chrome &amp;amp; Fiddler)&lt;/p&gt;
+
+&lt;h1 id=&#34;html-css&#34;&gt;HTML / CSS&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://primercss.io/&#34;&gt;Primer - The CSS toolkit and guidelines that power GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://html5please.com/&#34;&gt;HTML5 Please&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wallabyjs.com/&#34;&gt;wallaby.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wtfjs.com/2014/01/29/regular-expression-and-slash&#34;&gt;regular expression and slash&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/&#34;&gt;A Baseline for Front-End [JS] Developers: 2015&lt;/a&gt; - Rebecca Murphey&lt;/p&gt;
+
+&lt;h1 id=&#34;severe-bug&#34;&gt;Severe bug&lt;/h1&gt;
+
+&lt;p&gt;After the &lt;a href=&#34;https://github.com/ValveSoftware/steam-for-linux/issues/3671&#34;&gt;linux steam bug&lt;/a&gt;, another rm -rf /* story:&lt;br /&gt;
+&lt;a href=&#34;https://bugzilla.redhat.com/show_bug.cgi?id=1202858&#34;&gt;Bug 1202858 – restarting squid results in deleting all files in hard-drive (rm -rf /*)&lt;/a&gt;&lt;br /&gt;
+But this time it was fixed before shipping ;)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #54</title>
@@ -353,37 +389,6 @@ likely to groom and favor other can-do people like themselves.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.daedtech.com/cutting-down-on-code-telepathy&#34;&gt;Flexibility, but at what cost?&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://highscalability.com/blog/2015/2/4/matt-cutts-10-lessons-learned-from-the-early-days-of-google.html&#34;&gt;Matt Cutts: 10 Lessons Learned From The Early Days Of Google&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #40</title>
-      <link>https://titi.github.io/links/Feed-40/</link>
-      <pubDate>Thu, 05 Feb 2015 13:31:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-40/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Agility:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://fr.slideshare.net/thekua/the-geeks-guide-to-leading-teams-43956687&#34;&gt;The Geek&amp;rsquo;s Guide to Leading Teams&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://alistair.cockburn.us/Last+Responsible+Moment+reconsidered&#34;&gt;Last Responsible Moment&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Performance:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.joshbarczak.com/blog/?p=580&#34;&gt;Stop Misquoting Donald Knuth!&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Waste creeps in, little by little, because we let it.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://calendar.perfplanet.com/2014/different-angles-of-web-performance/&#34;&gt;Different Angles of Web Performance&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://calendar.perfplanet.com/2014/the-power-of-perceived-performance/&#34;&gt;The Power of Perceived Performance&lt;/a&gt;&lt;br /&gt;
-Progress bar like the youtube one: &lt;a href=&#34;http://ricostacruz.com/nprogress/&#34;&gt;http://ricostacruz.com/nprogress/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.speedawarenessmonth.com/when-8020-becomes-2080/&#34;&gt;When &lt;sup&gt;80&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt; Becomes &lt;sup&gt;20&lt;/sup&gt;&amp;frasl;&lt;sub&gt;80&lt;/sub&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
