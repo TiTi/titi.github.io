@@ -7,8 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Tue, 24 Mar 2015 23:12:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2015 21:37:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #56</title>
+      <link>https://titi.github.io/links/Feed-56/</link>
+      <pubDate>Wed, 25 Mar 2015 21:37:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-56/</guid>
+      <description>
+
+&lt;h1 id=&#34;programming-languages&#34;&gt;Programming languages&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070&#34;&gt;The JavaScript World Domination&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://google-opensource.blogspot.fr/2015/03/classp-classier-way-to-parse.html&#34;&gt;Classp: a “classier” way to parse &lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;conception-team-work&#34;&gt;Conception &amp;amp; Team work&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://biasedbit.com/blog/the-idiot-line/&#34;&gt;The Idiot Line&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;importance-of-code&#34;&gt;Importance of Code&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://martinfowler.com/bliki/CodeAsDocumentation.html&#34;&gt;Code As Documentation&lt;/a&gt; - Martin Fowler&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;it&amp;rsquo;s important that programmers put in the effort to make sure that this code is clear and readable&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;YES! And that is important because &lt;a href=&#34;http://www.joelonsoftware.com/articles/fog0000000069.html&#34;&gt;It’s harder to read code than to write it&lt;/a&gt;.&lt;br /&gt;
+Also worth the read:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://aestheticio.com/why-your-code-is-hard-to-understand/&#34;&gt;Why your code is so hard to understand&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard&#34;&gt;Why Learning to Code is So Damn Hard&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;browser-security&#34;&gt;Browser security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.fr/2015/03/even-more-unwanted-software-protection.html&#34;&gt;Even more unwanted software protection via the Safe Browsing API &lt;/a&gt; - Google Online Security Blog&lt;/p&gt;
+
+&lt;h1 id=&#34;cloud-auto-replication&#34;&gt;Cloud &amp;amp; Auto-Replication&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/fr/blogs/aws/new-cross-region-replication-for-amazon-s3/&#34;&gt;Cross-Region Replication for Amazon S3&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;fts-full-text-search&#34;&gt;FTS (Full-Text Search)&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://burakkanber.com/blog/machine-learning-full-text-search-in-javascript-relevance-scoring/&#34;&gt;Machine Learning: Full-Text Search in Javascript (Part 1: Relevance Scoring)&lt;/a&gt;&lt;br /&gt;
+Good article about algorithm &lt;a href=&#34;http://en.wikipedia.org/wiki/Okapi_BM25&#34;&gt;Okapi BM25&lt;/a&gt; used by &lt;a href=&#34;https://www.elastic.co/products/elasticsearch&#34;&gt;ElasticSearch&lt;/a&gt;. The author took the time to write a good introduction, then explains with good examples the inner working of the TF-IDF algorithm, which lead to the Okapi BM25 algorithm. Nothing too complicated and the concepts are nicely introduced one after the other. Then, there is a well commented javascript implementation with a demo, cool!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blogs.dropbox.com/tech/2015/03/firefly-instant-full-text-search-engine/&#34;&gt;Firefly – Instant, Full-Text Search Engine for Dropbox (Part 1)&lt;/a&gt;&lt;br /&gt;
+A new serie on the Dropbox Tech Blog!&lt;br /&gt;
+Dropbox developers present their FTS engine with a very clear explanation of the challenges.
+They have to leverage the power of sharding and results combination to process a search with a decent latency.
+In order to make the system work at the DropBox scale, they choose to develop a system from scratch rather than using existing tools like &lt;a href=&#34;http://lucene.apache.org/solr/&#34;&gt;Solr&lt;/a&gt; or &lt;a href=&#34;https://www.elastic.co/products/elasticsearch&#34;&gt;ElasticSearch&lt;/a&gt;.&lt;br /&gt;
+Most amazing fact is that Firefly was built by a very small team: 3 guys, wow!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #55</title>
@@ -375,20 +431,6 @@ likely to groom and favor other can-do people like themselves.&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href=&#34;http://venturebeat.com/2015/01/22/this-is-whats-keeping-some-enterprises-from-adopting-devops/&#34;&gt;This is what’s keeping some enterprises from adopting devops&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://codeascraft.com/2015/02/05/rebuilding-the-foundation-of-etsy-seller-tools/&#34;&gt;Rebuilding the Foundation of Etsy’s Seller Tools&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #41</title>
-      <link>https://titi.github.io/links/Feed-41/</link>
-      <pubDate>Fri, 06 Feb 2015 11:31:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-41/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://searchsoftwarequality.techtarget.com/tip/Strategies-for-minimizing-regression-defects&#34;&gt;Strategies for minimizing regression defects&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.daedtech.com/cutting-down-on-code-telepathy&#34;&gt;Flexibility, but at what cost?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://highscalability.com/blog/2015/2/4/matt-cutts-10-lessons-learned-from-the-early-days-of-google.html&#34;&gt;Matt Cutts: 10 Lessons Learned From The Early Days Of Google&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
