@@ -7,8 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 29 Mar 2015 19:36:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2015 00:09:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #59</title>
+      <link>https://titi.github.io/links/Feed-59/</link>
+      <pubDate>Tue, 31 Mar 2015 00:09:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-59/</guid>
+      <description>&lt;p&gt;User Experience (UX): &lt;a href=&#34;http://www.joelonsoftware.com/uibook/chapters/fog0000000057.html&#34;&gt;Controlling Your Environment Makes You Happy&lt;/a&gt; - Joel Spolsky&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.idonethis.com/google-performance-reviews/&#34;&gt;A Googler’s Critique of Google Performance Reviews&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.jrothman.com/mpd/agile/2015/03/why-managers-ask-for-estimates-and-what-they-need-to-know/&#34;&gt;Why Managers Ask for Estimates and What They Need to Know&lt;/a&gt; - Johanna Rothman&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://codurance.com/2014/05/26/a-craftsman-is/&#34;&gt;A Software Craftsman Is&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.scaledagileframework.com/&#34;&gt;Scaled Agile Framework&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.bothsidesofthetable.com/2015/03/23/what-ive-learned-from-fred-wilson/&#34;&gt;What I’ve Learned from Fred Wilson&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mortoray.com/2015/03/24/complexity-theory-isnt-required-to-be-a-programmer/&#34;&gt;Complexity theory isn’t required to be a programmer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://codurance.com/2015/03/23/multiple-projects-in-visual-studio/&#34;&gt;Multiple projects in Visual Studio solutions considered harmful&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://samirtalwar.github.io/talks/highly-strung.html&#34;&gt;Highly Strung&lt;/a&gt;&lt;br /&gt;
+Several examples about string pitfalls (complexity, security, coupling, type system, &amp;hellip;) and how to fix them.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/improving-compression-with-preset-deflate-dictionary/&#34;&gt;Improving compression with a preset DEFLATE dictionary&lt;/a&gt; - CloudFlare&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://fastml.com/what-you-wanted-to-know-about-ai/&#34;&gt;What you wanted to know about AI - Part I&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://fastml.com/what-you-wanted-to-know-about-ai-part-ii/&#34;&gt;What you wanted to know about AI - Part II&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://avant.org/media/incidental-data-capture&#34;&gt;Incidental Data Capture&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #58</title>
@@ -457,31 +491,6 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-
 &lt;p&gt;&lt;a href=&#34;http://mikehadlow.blogspot.fr/2014/06/heisenberg-developers.html&#34;&gt;Heisenberg Developers&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mikehadlow.blogspot.fr/2014/03/coconut-headphones-why-agile-has-failed.html&#34;&gt;Coconut Headphones: Why Agile Has Failed&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #44</title>
-      <link>https://titi.github.io/links/Feed-44/</link>
-      <pubDate>Tue, 17 Feb 2015 09:36:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-44/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/02/dont-waste-time-tracking-technical-debt.html&#34;&gt;Don’t waste time tracking technical debt&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf&#34;&gt;Nobody Ever Gets Credit for Fixing Problems that Never Happened&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Consequently, most organizations reward last-
-minute problem solving over the learning, training, and improvement activities
-that prevent such crises in the first place. As an engineer at an auto company
-told us, “Nobody ever gets credit for fixing problems that never happened.” Over
-time, senior management will increasingly consist of these war heroes, who are
-likely to groom and favor other can-do people like themselves.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://engineering.linkedin.com/distributed-service-call-graph/real-time-distributed-tracing-website-performance-and-efficiency&#34;&gt;Real-time distributed tracing for website performance and efficiency optimizations&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
