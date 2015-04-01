@@ -7,8 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Tue, 31 Mar 2015 00:09:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2015 19:30:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #60</title>
+      <link>https://titi.github.io/links/Feed-60/</link>
+      <pubDate>Tue, 31 Mar 2015 19:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-60/</guid>
+      <description>
+
+&lt;h1 id=&#34;process&#34;&gt;Process&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.reactivemanifesto.org/&#34;&gt;The Reactive Manifesto&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cacm.acm.org/magazines/2015/4/184705-who-builds-a-house-without-drawing-blueprints/fulltext&#34;&gt;Who Builds a House without Drawing Blueprints?&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Architects draw detailed plans before a brick is laid or a nail is hammered. But few programmers write even a rough sketch of what their programs will do before they start coding. We can learn from architects.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://brooker.co.za/blog/2015/03/29/formal.html&#34;&gt;How Amazon Web Services Uses Formal Methods&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://perfectionkills.com/the-poor-misunderstood-innerText/&#34;&gt;The poor, misunderstood innerText&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://swizec.com/blog/how-to-properly-wait-for-dom-elements-to-show-up-in-modern-browsers/&#34;&gt;How to wait for DOM elements to show up in modern browsers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.thedotpost.com/2014/11/domenic-denicola-the-jsdom&#34;&gt;jsdom&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript&#34;&gt;The Birth &amp;amp; Death of JavaScript&lt;/a&gt; (fun)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.thedotpost.com/2013/06/solomon-hykes-why-we-built-docker&#34;&gt;Why We Created Docker&lt;/a&gt; (2013)&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.mindedsecurity.com/2015/03/exploiting-cve-2011-2461-on-googlecom.html&#34;&gt;Exploiting CVE-2011-2461 on google.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;bytes-and-go&#34;&gt;Bytes and Go&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bouk.co/blog/monkey-patching-in-go/&#34;&gt;Monkey Patching in Go&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;http://framablog.org/2015/04/01/des-tablettes-a-lecole/&#34;&gt;Des tablettes à l’école ?&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #59</title>
@@ -477,20 +523,6 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-
       <description>&lt;p&gt;&lt;a href=&#34;http://www.javacodegeeks.com/2015/03/balanced-abstraction-principle.html&#34;&gt;Balanced Abstraction Principle&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://martinfowler.com/bliki/BeckDesignRules.html&#34;&gt;http://martinfowler.com/bliki/BeckDesignRules.html&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #45</title>
-      <link>https://titi.github.io/links/Feed-45/</link>
-      <pubDate>Tue, 24 Feb 2015 09:19:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-45/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://blog.jayfields.com/2015/02/experience-report-weak-code-ownership.html&#34;&gt;Experience Report: Weak Code Ownership&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mikehadlow.blogspot.fr/2014/06/heisenberg-developers.html&#34;&gt;Heisenberg Developers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mikehadlow.blogspot.fr/2014/03/coconut-headphones-why-agile-has-failed.html&#34;&gt;Coconut Headphones: Why Agile Has Failed&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
