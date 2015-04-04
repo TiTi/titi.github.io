@@ -7,8 +7,116 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Fri, 03 Apr 2015 00:23:48 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2015 00:28:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #63 - Sunday fun</title>
+      <link>https://titi.github.io/links/Feed-63/</link>
+      <pubDate>Sun, 05 Apr 2015 00:28:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-63/</guid>
+      <description>
+
+&lt;h1 id=&#34;special-april-fools-day-april-1-2015&#34;&gt;Special April Fools&amp;rsquo; Day - April 1, 2015&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://com.google/&#34;&gt;elgooG - https://com.google/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://chrome.blogspot.fr/2015/04/re-rethinking-computing.html&#34;&gt;Re-rethinking computing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dev.opera.com/blog/introducing-massage-api/&#34;&gt;Introducing a Massage API&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lumiaconversations.microsoft.com/2015/04/01/microsoft-launches-ms-dos-mobile/&#34;&gt;Microsoft launches MS-DOS Mobile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://home.web.cern.ch/about/updates/2015/04/cern-researchers-confirm-existence-force&#34;&gt;CERN researchers confirm existence of the Force&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://petapixel.com/2015/04/01/these-cgi-images-are-so-realistic-that-they-look-like-actual-photographs/&#34;&gt;These CGI Images Are So Realistic That They Look Like Actual Photographs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Google Fiber - Introducing Dial-Up mode:
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/XTTtkisylQw&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The Hovering Mouse - Project McFly | Razer:
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/IlCx5gjAmqI&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;April Fools Video Prank in Math Class:
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/P2SsIYEbCio&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+(This teacher did other similar videos on previous years, check out his channel!)&lt;/p&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;http://www.lesnumeriques.com/telephone-portable/reception-3g-4g-couleur-telephone-jouerait-sur-qualite-n40979.html&#34;&gt;Débits 3G/4G : la couleur du smartphone jouerait sur la qualité&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feed #62</title>
+      <link>https://titi.github.io/links/Feed-62/</link>
+      <pubDate>Sat, 04 Apr 2015 19:43:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-62/</guid>
+      <description>
+
+&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/OnTheImportanceOfOpenSearch.aspx&#34;&gt;On the importance of OpenSearch&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://addyosmani.com/blog/chrome-devtools-state-of-the-union-2015/&#34;&gt;Chrome DevTools: State Of The Union 2015&lt;/a&gt; - Addy Osmani&lt;br /&gt;
+Improvments in the the network panel are great (new waterfall bars, search filters, expand timeline).&lt;br /&gt;
+Performance case study is definitively worth a read for jQuery .hide()/.show().&lt;br /&gt;
+I&amp;rsquo;m a big fan of the FlameChart and script Blackboxing tools. Comin soon features such as Animations and Promises inspectors seem really powerfull.&lt;/p&gt;
+
+&lt;h1 id=&#34;process&#34;&gt;Process&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/given-enough-money-all-bugs-are-shallow/&#34;&gt;Given Enough Money, All Bugs Are Shallow&lt;/a&gt; - Jeff Atwood&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wired.com/2015/04/microsoft-open-source-windows-definitely-possible/&#34;&gt;Microsoft: An Open Source Windows Is ‘Definitely Possible’&lt;/a&gt; - wired.com&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.sokolenko.me/2014/11/javavm-options-production.html&#34;&gt;Java VM Options You Should Always Use in Production&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://theprogrammersparadox.blogspot.fr/2015/03/types-of-data.html&#34;&gt;Types of Data&lt;/a&gt;&lt;br /&gt;
+Looks boring at start but the last paragraph is great. I recommend to read it first then start over :)&lt;br /&gt;
+The black-box idea for data processing is great. Too much of our systems (i mean piece of code) aren&amp;rsquo;t isolated from others, and it&amp;rsquo;s sometimes hard to fix issues and imagine the complex situations we&amp;rsquo;ll get into.&lt;br /&gt;
+Indeed, programmer&amp;rsquo;s job is about data manipulation : storage, computation, presentation. The three types of data make sense.&lt;br /&gt;
+In the end, your post is about modularity/encapsulation. this is a very important design principle : &lt;a href=&#34;http://en.wikipedia.org/wiki/Separation_of_concerns&#34;&gt;separation of concerns&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/cloud-native-application&#34;&gt;Cloud Native Application Maturity Model&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://victorsavkin.com/post/81593577089/framework-a-la-carte&#34;&gt;Framework a la carte&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/&#34;&gt;You Cannot Have Exactly-Once Delivery&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;understand-how-it-works&#34;&gt;Understand how it works&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ninjadoge24.github.io/&#34;&gt;How I cracked NQ Vault&amp;rsquo;s &amp;ldquo;encryption&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.drivenbycode.com/turing-machines-and-the-busy--game/&#34;&gt;Turing Machines and the Busy Beaver Game&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mrale.ph/blog/2015/03/29/browser-as-an-interactive-disassembler.html&#34;&gt;Browser as an Interactive Disassembler&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@addyosmani/auto-formatting-javascript-code-style-fe0f98a923b&#34;&gt;Auto-formatting JavaScript Code Style&lt;/a&gt;  - Addy Osmani&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.2ality.com/2015/03/es6-generators.html&#34;&gt;ES6 generators in depth &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://victorsavkin.com/post/103211478761/why-javascript-needs-types&#34;&gt;Why JavaScript Needs Types&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;automated-testing&#34;&gt;Automated testing&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2015/03/decreasing-false-positives-in-automated-testing-recap/&#34;&gt;Decreasing False Positives in Automated Testing&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.leadingagile.com/2015/03/our-collective-agile-transformation-metaphor-is-broken/&#34;&gt;Our Agile Transformation Metaphors are Broken&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #61</title>
@@ -140,14 +248,12 @@ Several examples about string pitfalls (complexity, security, coupling, type sys
     </item>
     
     <item>
-      <title>Feed #58</title>
+      <title>Feed #58 - Sunday fun</title>
       <link>https://titi.github.io/links/Feed-58/</link>
       <pubDate>Sun, 29 Mar 2015 19:36:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/Feed-58/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Sunday fun:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://theuserisdrunk.com/&#34;&gt;The User is Drunk&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://theuserisdrunk.com/&#34;&gt;The User is Drunk&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2012/12/Strips-Duplicateur-de-code-550-finalenglish1.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;br /&gt;
@@ -446,14 +552,12 @@ Also see &lt;a href=&#34;http://en.wikipedia.org/wiki/Recovery_time_objective&#3
     </item>
     
     <item>
-      <title>Feed #51</title>
+      <title>Feed #51 - Sunday fun</title>
       <link>https://titi.github.io/links/Feed-51/</link>
       <pubDate>Sun, 15 Mar 2015 10:28:57 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/Feed-51/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Sunday fun:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Things IT People Never Say:
+      <description>&lt;p&gt;Things IT People Never Say:
 &lt;div class=&#34;embed video-player&#34;&gt;
 &lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/4m7YjAuDMY0&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -528,38 +632,6 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-
       <description>&lt;p&gt;&lt;a href=&#34;http://googleprojectzero.blogspot.fr/2015/03/exploiting-dram-rowhammer-bug-to-gain.html&#34;&gt;Exploiting the DRAM rowhammer bug to gain kernel privileges &lt;/a&gt; - Crazy scary stuff!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://lizkeogh.com/2015/03/09/the-shallow-dive-into-chaos/&#34;&gt;The Shallow Dive into Chaos&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #48</title>
-      <link>https://titi.github.io/links/Feed-48/</link>
-      <pubDate>Mon, 09 Mar 2015 10:12:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-48/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.f-secure.com/weblog/archives/00002794.html&#34;&gt;Is Babar a Bunny?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.technet.com/b/askperf/archive/2008/06/27/an-intro-to-xperf.aspx&#34;&gt;Two Minute Drill: Introduction to XPerf&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/03/Strip-Confession-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;br /&gt;
-Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-house-of-code/&#34;&gt;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-house-of-code/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #47</title>
-      <link>https://titi.github.io/links/Feed-47/</link>
-      <pubDate>Thu, 05 Mar 2015 09:25:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-47/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/03/putting-security-into-sprints.html&#34;&gt;Putting Security into Sprints&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.microsoft.com/security/sdl/discover/sdlagile.aspx&#34;&gt;Agile Development Using Microsoft Security Development Lifecycle&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.gdinwiddie.com/2015/03/05/no-time-to-learn/&#34;&gt;No Time to Learn&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
