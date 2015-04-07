@@ -7,8 +7,69 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 05 Apr 2015 00:28:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2015 19:43:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #64</title>
+      <link>https://titi.github.io/links/Feed-64/</link>
+      <pubDate>Mon, 06 Apr 2015 19:43:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-64/</guid>
+      <description>
+
+&lt;h1 id=&#34;stats&#34;&gt;Stats&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.stackoverflow.com/2015/04/stack-overflow-developer-survey-2015-the-results/&#34;&gt;Stack Overflow Developer Survey 2015: The Results&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://flowingdata.com/2015/04/02/how-we-spend-our-money-a-breakdown/&#34;&gt;How We Spend Our Money, a Breakdown&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;continuous-delivery&#34;&gt;Continuous Delivery&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://iamondemand.com/blog/5-things-you-should-know-about-continuous-deployment-by-the-man-who-coined-the-term/&#34;&gt;5 Things You Should Know About Continuous Deployment…by the Man Who Coined the Term&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.davefarley.net/?p=251&#34;&gt;Is Continuous Delivery Riskier?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;surveillance-and-security&#34;&gt;Surveillance and security&lt;/h1&gt;
+
+&lt;p&gt;Last Week Tonight with John Oliver: Government Surveillance (HBO):&lt;br /&gt;
+&amp;ldquo;John Oliver sits down with Edward Snowden to discuss the NSA, the balance between privacy and security, and dick-pics.&amp;rdquo;
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/XEVlyP4_11M#t=976&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.linkedin.com/2015/04/03/new-linkedin-security-site/&#34;&gt;New LinkedIn Security Site: Helping Members and Businesses Better Understand our Security Practices&lt;/a&gt;&lt;br /&gt;
+Well the security practices page is pretty empty for now, but that&amp;rsquo;s a good start !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://chargen.matasano.com/chargen/2015/3/26/enough-with-the-salts-updates-on-secure-password-schemes.html&#34;&gt;Enough With the Salts: Updates on Secure Password Schemes&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;process&#34;&gt;Process&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.atlassian.com/2015/04/3-steps-taming-technical-debt/&#34;&gt;3 steps to taming technical debt&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/04/towards-compliance-as-code.html&#34;&gt;Towards Compliance as Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;code&#34;&gt;Code&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.socalledprogrammer.com/2015/03/refactoring-getting-started.html&#34;&gt;Refactoring: How do I even start?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.daedtech.com/what-story-does-your-code-tell&#34;&gt;What Story Does Your Code Tell?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.elijahmanor.com/dynamic-repeating-sass-colors/&#34;&gt;Dynamic Repeating Sass Colors&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://keithclark.co.uk/articles/loading-css-without-blocking-render/&#34;&gt;Loading CSS without blocking render&lt;/a&gt;&lt;br /&gt;
+Interesting trick to trigger &lt;code&gt;DOMContentLoaded&lt;/code&gt; faster. But not cross-browser compliant. Heads-up definitively correct.&lt;/p&gt;
+
+&lt;h1 id=&#34;performance&#34;&gt;Performance&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://codeascraft.com/2015/04/06/experimenting-with-hhvm-at-etsy/&#34;&gt;Experimenting with HHVM at Etsy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/shard-or-not-shard&#34;&gt;To Shard, or Not to Shard&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://gomorpheus.com/blog/2014-10-09-the-key-to-distributed-database-performance-scalability&#34;&gt;The Key to Distributed Database Performance: Scalability&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #63 - Sunday fun</title>
@@ -620,18 +681,6 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-
 &lt;p&gt;&lt;a href=&#34;http://googlecloudplatform.blogspot.fr/2015/03/introducing-Google-Cloud-Storage-Nearline-near-online-data-at-an-offline-price.html&#34;&gt;Introducing Google Cloud Storage Nearline: (near)online data at an offline price&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://blog.ircmaxell.com/2015/03/security-issue-combining-bcrypt-with.html&#34;&gt;Security Issue: Combining Bcrypt With Other Hash Functions &lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #49</title>
-      <link>https://titi.github.io/links/Feed-49/</link>
-      <pubDate>Tue, 10 Mar 2015 23:47:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-49/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://googleprojectzero.blogspot.fr/2015/03/exploiting-dram-rowhammer-bug-to-gain.html&#34;&gt;Exploiting the DRAM rowhammer bug to gain kernel privileges &lt;/a&gt; - Crazy scary stuff!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://lizkeogh.com/2015/03/09/the-shallow-dive-into-chaos/&#34;&gt;The Shallow Dive into Chaos&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
