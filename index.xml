@@ -7,8 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Tue, 07 Apr 2015 22:21:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2015 23:40:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #65</title>
+      <link>https://titi.github.io/links/Feed-65/</link>
+      <pubDate>Wed, 08 Apr 2015 23:40:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-65/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://kamil.hism.ru/posts/about-vrg-and-delete-any-youtube-video-issue.html&#34;&gt;How I could delete any video on YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ejohn.org/blog/annotated-version-of-the-original-jquery-release/&#34;&gt;Annotated Version of the Original jQuery Release&lt;/a&gt; - John Resig&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/fundamentals/&#34;&gt;Web Fundamentals&lt;/a&gt; - Google Developers&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://kristopherwilson.com/2015/03/09/the-daily-stand-up-is-an-antipattern/&#34;&gt;The Daily Stand-up is an Antipattern&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bravenewgeek.com/writing-good-code/&#34;&gt;Writing Good Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2015/04/recap-practical-tips-tricks-for-selenium-test-automation/&#34;&gt;Practical Tips + Tricks for Selenium Test Automation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.jayfields.com/2015/04/unit-testing-points-of-view-probably.html&#34;&gt;Unit Testing Points of View, Probably&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.visualmess.com/&#34;&gt;Clean Up Your Mess - A Guide to Visual Design for Everyone&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://theprogrammersparadox.blogspot.fr/2015/03/the-data.html&#34;&gt;The data&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://benjiweber.co.uk/blog/2015/03/02/monitoring-check-smells/&#34;&gt;Monitoring Check Smells&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #64</title>
@@ -668,20 +696,6 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-
 &lt;p&gt;&lt;a href=&#34;http://www.frenchtech.co&#34;&gt;PITCH FRENCH TECH&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://services-data.mpsa.com/opendoc.action&#34;&gt;Les #API des voitures #Peugeot&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #50</title>
-      <link>https://titi.github.io/links/Feed-50/</link>
-      <pubDate>Fri, 13 Mar 2015 21:08:51 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-50/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://engineering.intenthq.com/2015/03/what-is-good-code-a-scientific-definition/&#34;&gt;What is good code? A scientific definition&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://googlecloudplatform.blogspot.fr/2015/03/introducing-Google-Cloud-Storage-Nearline-near-online-data-at-an-offline-price.html&#34;&gt;Introducing Google Cloud Storage Nearline: (near)online data at an offline price&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.ircmaxell.com/2015/03/security-issue-combining-bcrypt-with.html&#34;&gt;Security Issue: Combining Bcrypt With Other Hash Functions &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
