@@ -7,8 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Thu, 09 Apr 2015 22:52:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2015 19:17:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #67</title>
+      <link>https://titi.github.io/links/Feed-67/</link>
+      <pubDate>Fri, 10 Apr 2015 19:17:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-67/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/blog/1986-announcing-git-large-file-storage-lfs&#34;&gt;Announcing Git Large File Storage (LFS)&lt;/a&gt; - GitHub&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.percona.com/blog/2015/04/06/cost-not-properly-managing-databases/&#34;&gt;The cost of not properly managing your databases&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.newrelic.com/2015/04/07/cloud-migration/&#34;&gt;Rethinking Application Performance When Migrating to the Cloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@charlierguo/scaling-lessons-from-the-fastest-growing-saas-company-ever-a6e077653d21&#34;&gt;Scaling Lessons From The Fastest Growing SaaS Company Ever&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://engineering.linkedin.com/performance/who-moved-my-99th-percentile-latency&#34;&gt;Who moved my 99th percentile latency?&lt;/a&gt; - LinkedIn Engineering&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://roadlesstravelled.me/2015/04/06/why-steve-jobs-motivated-me-to-quit-apple/&#34;&gt;I Quit: What Really Goes on at Apple&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.google.com/design/spec/material-design/introduction.html&#34;&gt;Material design&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blogs.janestreet.com/building-a-lower-latency-gc/&#34;&gt;Building a lower-latency GC&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.agilefaqs.com/2015/04/11/what-is-agiles-biggest-shortcoming/&#34;&gt;What is Agile’s Biggest Shortcoming?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;https://eu.ovh.com/fr/news/articles/a1743.le-gouvernement-veut-il-contraindre-les-hebergeurs-internet-a-l-exil&#34;&gt;Le gouvernement veut-il contraindre les hébergeurs Internet à l&amp;rsquo;exil ?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.f-secure.com/weblog/archives/00002801.html&#34;&gt;Video: Terrorist Groups in the Online World&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.bluecoat.com/security-blog/2015-04-09/visual-basic-script-malware-reportedly-used-tv5-monde-intrusion&#34;&gt;Visual Basic Script malware reportedly used in TV5 Monde intrusion&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #66</title>
@@ -617,58 +648,6 @@ Piratage d&amp;rsquo;un laboratoire d’analyse de sang (ou mauvaise sécurisati
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.nextinpact.com/news/93499-labio-fr-pirate-demande-rancon-et-publication-resultats-medicaux.htm&#34;&gt;Labio.fr piraté : demande de rançon et publication de résultats médicaux&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #52</title>
-      <link>https://titi.github.io/links/Feed-52/</link>
-      <pubDate>Tue, 17 Mar 2015 19:50:40 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-52/</guid>
-      <description>
-
-&lt;h1 id=&#34;psychology&#34;&gt;Psychology&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Not_invented_here&#34;&gt;Not invented here (NIH)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://begriffs.com/posts/2015-03-15-tracking-joy-at-work.html&#34;&gt;Tracking Joy at Work&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;the-wrong-way-to-do-agile&#34;&gt;The Wrong way to do Agile&lt;/h1&gt;
-
-&lt;p&gt;The Wrong way to do Agile: Retrospectives&lt;br /&gt;
-&lt;div class=&#34;embed video-player&#34;&gt;
-&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/FJezcyKno5k&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The Wrong way to do Agile: Planning&lt;br /&gt;
-&lt;div class=&#34;embed video-player&#34;&gt;
-&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/8RX4rtnRogE&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The Wrong way to do Agile: Stand-ups&lt;br /&gt;
-&lt;div class=&#34;embed video-player&#34;&gt;
-&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/oLmDe8pAc6I&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Quality at Speed&lt;br /&gt;
-&lt;div class=&#34;embed video-player&#34;&gt;
-&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/w5MN1JWRM1I&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h1 id=&#34;future-and-security&#34;&gt;Future and security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://interconnected.org/home/2015/03/12/richter_scale_for_outages&#34;&gt;A Richter scale for outages&lt;/a&gt;&lt;br /&gt;
-Also see &lt;a href=&#34;http://en.wikipedia.org/wiki/Recovery_time_objective&#34;&gt;Recovery time objective&lt;/a&gt; &amp;amp; similar&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/xor/status/564356757007261696/photo/1&#34;&gt;Samsung SmartTV privacy policy vs 1984&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.law360.com/articles/629544/ford-gm-toyota-slammed-with-suit-over-hacking-risks&#34;&gt;Ford, GM, Toyota Slammed With Suit Over Hacking Risks&lt;/a&gt;&lt;br /&gt;
-[FR] &lt;a href=&#34;http://www.lesnumeriques.com/voiture/recours-collectif-contre-ford-toyota-gm-etats-unis-n40539.html&#34;&gt;Recours collectif contre Ford, Toyota et GM aux États-Unis&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
