@@ -7,8 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 12 Apr 2015 10:43:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2015 01:01:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #69</title>
+      <link>https://titi.github.io/links/Feed-69/</link>
+      <pubDate>Fri, 17 Apr 2015 01:01:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-69/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://sockpuppet.org/blog/2015/03/06/the-hiring-post/&#34;&gt;The Hiring Post&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ever wanted to mix a web page with NodeJS? Here you go: &lt;a href=&#34;http://nwjs.io/&#34;&gt;NW.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/cloudflare-is-protected-against-cve-2015-1635/&#34;&gt;Protection against critical Windows vulnerability (CVE-2015-1635)&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/&#34;&gt;Remote Code Execution Via HTTP Request In IIS On Windows&lt;/a&gt;&lt;br /&gt;
+By the way checkout this extension for Google Chrome: &lt;a href=&#34;https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf&#34;&gt;Project Naptha&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/the-oldest-trick-in-the-ascii-book/&#34;&gt;The oldest trick in the ASCII book&lt;/a&gt;&lt;br /&gt;
+(or how to do a fast case-insensitive comparison)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.crisp.se/2015/04/08/jimmyjanlen/how-to-peel-of-post-its&#34;&gt;How to peel off Post-its&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://delapouite.com/ramblings/javascript-coercion-rules.html&#34;&gt;JavaScript coercion rules&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes&#34;&gt;TortoiseHg 3.3.3&lt;/a&gt;&lt;br /&gt;
+&amp;gt; &lt;a href=&#34;http://evolution.experimentalworks.net/doc/&#34;&gt;Evolve extension&lt;/a&gt; is now bundled. Looks promising&lt;/p&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;http://ni-pigeons-ni-espions.fr/fr/&#34;&gt;#NiPigeonsNiEspions&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #68 - Sunday fun</title>
@@ -593,41 +621,6 @@ Most amazing fact is that Firefly was built by a very small team: 3 guys, wow!&l
 &lt;p&gt;After the &lt;a href=&#34;https://github.com/ValveSoftware/steam-for-linux/issues/3671&#34;&gt;linux steam bug&lt;/a&gt;, another rm -rf /* story:&lt;br /&gt;
 &lt;a href=&#34;https://bugzilla.redhat.com/show_bug.cgi?id=1202858&#34;&gt;Bug 1202858 – restarting squid results in deleting all files in hard-drive (rm -rf /*)&lt;/a&gt;&lt;br /&gt;
 But this time it was fixed before shipping ;)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #54</title>
-      <link>https://titi.github.io/links/Feed-54/</link>
-      <pubDate>Fri, 20 Mar 2015 10:27:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-54/</guid>
-      <description>
-
-&lt;h1 id=&#34;engineering-management&#34;&gt;Engineering management&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/&#34;&gt;This Is What Impactful Engineering Leadership Looks Like&lt;/a&gt; - Dropbox&lt;br /&gt;
-Long but very interesting article about engineering management, software conception and guardrails.&lt;/p&gt;
-
-&lt;h1 id=&#34;testing&#34;&gt;Testing&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/excuses-not-testing&#34;&gt;Excuses For Not Testing&lt;/a&gt; &lt;span class=&#34;genericon genericon-heart&#34;&gt;&lt;/span&gt;&lt;span class=&#34;genericon genericon-heart&#34;&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;We complain that our managers don’t want us to write unit test. But the problem is that you asked for permission in the first place. And, by asking for permission, you’ve basically told your manager that unit testing is optional. Your manager has said “no” because he thinks YOU think it is optional.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;There is one other valid reason for not testing and that is, we simply don’t know how. This is almost as big of a reason as not believing it is worth while.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/dotnet/archive/2015/03/18/msbuild-engine-is-now-open-source-on-github.aspx&#34;&gt;MSBuild Engine is now Open Source on GitHub&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.brendangregg.com/blog/2015-03-17/linux-performance-analysis-perf-tools.html&#34;&gt;Linux Performance Analysis: New Tools and Old Secrets&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;refactoring&#34;&gt;Refactoring&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/03/making-refactoring-work.html&#34;&gt;Making Refactoring Work&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
