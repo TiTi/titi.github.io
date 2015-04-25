@@ -7,8 +7,74 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Wed, 22 Apr 2015 22:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2015 11:50:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #71</title>
+      <link>https://titi.github.io/links/Feed-71/</link>
+      <pubDate>Sat, 25 Apr 2015 11:50:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-71/</guid>
+      <description>
+
+&lt;h1 id=&#34;performance&#34;&gt;Performance&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.catchpoint.com/2013/12/30/web-performance-is-not-an-it-thing-only/&#34;&gt;Web Performance is not an IT thing only!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dev.opera.com/blog/reducing-memory-use/&#34;&gt;Opera’s work to reduce Chromium’s memory use&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.tummy.com/articles/isolating-heavy-load/&#34;&gt;Isolating Linux High System Load&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.tarkalabs.com/2015/04/16/managing-big-enough-data-in-postgres/&#34;&gt;Managing big enough data in postgres&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;improvment&#34;&gt;Improvment&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techblog.bozho.net/my-most-frequent-code-review-comment/&#34;&gt;My Most Frequent Code Review Comment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://varianceexplained.org/programming/bad-code/&#34;&gt;A Million Lines of Bad Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://theprogrammersparadox.blogspot.fr/2015/04/shades-of-grey.html&#34;&gt;Shades of Grey&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://kevinlawler.com/prompts&#34;&gt;Oblique Strategies: Prompts for Programmers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techblog.bozho.net/kiss-with-essential-complexity/&#34;&gt;KISS With Essential Complexity&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;announces&#34;&gt;Announces&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.favbrowser.com/microsoft-adopts-googles-bounty-strategy/&#34;&gt;Microsoft Adopts Google’s Bounty Strategy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.jquery.com/2015/04/23/announcing-globalize-1-0/&#34;&gt;Announcing Globalize 1.0&lt;/a&gt; - jQuery blog&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.praetorian.com/blog/statistics-will-crack-your-password-mask-structure&#34;&gt;Statistics Will Crack Your Password&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.theguardian.com/technology/2015/apr/22/wi-fi-hack-ios-iphone-ipad-apple&#34;&gt;Wi-Fi hack creates &amp;lsquo;no iOS zone&amp;rsquo; that cripples iPhones and iPads&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.popsci.com/security-flaw-can-cause-your-iphone-reboot-endlessly&#34;&gt;This Security Flaw Can Cause Your iPhone To Reboot Endlessly&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;other-stuff&#34;&gt;Other stuff&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://digitalserb.me/writing-a-redis-client-in-pure-bash/&#34;&gt;Writing a Redis client in pure Bash&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://segment.com/blog/gotchas-from-two-years-of-node/&#34;&gt;Gotchas From Two Years With Node&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://edmundkirwan.com/general/cdf.html&#34;&gt;How do you compare the structure of two different programs?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.smartbear.com/transaction-monitoring/why-updown-monitoring-isnt-enough/&#34;&gt;Up/Down Monitoring Isn’t Enough For Your Business&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;jason-huggins-fixing-healthcare-gov-one-test-at-a-time&#34;&gt;Jason Huggins – Fixing HealthCare.gov, One Test at a Time&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;In late 2013, Selenium creator Jason Huggins joined President Obama’s “tech surge” team to help fix HealthCare.gov. In D.C. during the height of the crisis in November and December 2013, Jason had a behind-the-scenes view into a unique period in American history when a website’s quality (or lack thereof) had the attention of the nation, the press, the President, and Congress.&amp;rdquo;
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/wRTDo6uWBss&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;a href=&#34;http://sauceio.com/index.php/2015/04/video-jason-huggins-fixing-healthcare-gov-one-test-at-a-time/&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #70</title>
@@ -581,62 +647,6 @@ First time I&amp;rsquo;ve heard of the &lt;a href=&#34;https://wiki.php.net/rfc/
 
 &lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/toward-a-better-markdown-tutorial/&#34;&gt;Toward a Better Markdown Tutorial&lt;/a&gt; - Jeff Atwood&lt;br /&gt;
 Great way to request assistance and motivate people.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #56</title>
-      <link>https://titi.github.io/links/Feed-56/</link>
-      <pubDate>Wed, 25 Mar 2015 21:37:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-56/</guid>
-      <description>
-
-&lt;h1 id=&#34;programming-languages&#34;&gt;Programming languages&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070&#34;&gt;The JavaScript World Domination&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://google-opensource.blogspot.fr/2015/03/classp-classier-way-to-parse.html&#34;&gt;Classp: a “classier” way to parse &lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;conception-team-work&#34;&gt;Conception &amp;amp; Team work&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://biasedbit.com/blog/the-idiot-line/&#34;&gt;The Idiot Line&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;valuing-the-clarity-of-code&#34;&gt;Valuing the clarity of code&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://martinfowler.com/bliki/CodeAsDocumentation.html&#34;&gt;Code As Documentation&lt;/a&gt; - Martin Fowler&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;it&amp;rsquo;s important that programmers put in the effort to make sure that this code is clear and readable&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;YES! And that is important because &lt;a href=&#34;http://www.joelonsoftware.com/articles/fog0000000069.html&#34;&gt;It’s harder to read code than to write it&lt;/a&gt;.&lt;br /&gt;
-Also worth the read:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://aestheticio.com/why-your-code-is-hard-to-understand/&#34;&gt;Why your code is so hard to understand&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard&#34;&gt;Why Learning to Code is So Damn Hard&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;browser-security&#34;&gt;Browser security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.fr/2015/03/even-more-unwanted-software-protection.html&#34;&gt;Even more unwanted software protection via the Safe Browsing API &lt;/a&gt; - Google Online Security Blog&lt;/p&gt;
-
-&lt;h1 id=&#34;cloud-auto-replication&#34;&gt;Cloud &amp;amp; Auto-Replication&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/fr/blogs/aws/new-cross-region-replication-for-amazon-s3/&#34;&gt;Cross-Region Replication for Amazon S3&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;fts-full-text-search&#34;&gt;FTS (Full-Text Search)&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://burakkanber.com/blog/machine-learning-full-text-search-in-javascript-relevance-scoring/&#34;&gt;Machine Learning: Full-Text Search in Javascript (Part 1: Relevance Scoring)&lt;/a&gt;&lt;br /&gt;
-Good article about algorithm &lt;a href=&#34;http://en.wikipedia.org/wiki/Okapi_BM25&#34;&gt;Okapi BM25&lt;/a&gt; used by &lt;a href=&#34;https://www.elastic.co/products/elasticsearch&#34;&gt;ElasticSearch&lt;/a&gt;. The author took the time to write a good introduction, then explains with good examples the inner working of the TF-IDF algorithm, which lead to the Okapi BM25 algorithm. Nothing too complicated and the concepts are nicely introduced one after the other. Then, there is a well commented javascript implementation with a demo, cool!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blogs.dropbox.com/tech/2015/03/firefly-instant-full-text-search-engine/&#34;&gt;Firefly – Instant, Full-Text Search Engine for Dropbox (Part 1)&lt;/a&gt;&lt;br /&gt;
-A new serie on the Dropbox Tech Blog!&lt;br /&gt;
-Dropbox developers present their FTS engine with a very clear explanation of the challenges.
-They have to leverage the power of sharding and results combination to process a search with a decent latency.
-In order to make the system work at the DropBox scale, they choose to develop a system from scratch rather than using existing tools like &lt;a href=&#34;http://lucene.apache.org/solr/&#34;&gt;Solr&lt;/a&gt; or &lt;a href=&#34;https://www.elastic.co/products/elasticsearch&#34;&gt;ElasticSearch&lt;/a&gt;.&lt;br /&gt;
-Most amazing fact is that Firefly was built by a very small team: 3 guys, wow!&lt;/p&gt;
 </description>
     </item>
     
