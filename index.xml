@@ -7,8 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sat, 25 Apr 2015 11:50:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2015 21:08:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #72</title>
+      <link>https://titi.github.io/links/Feed-72/</link>
+      <pubDate>Sun, 26 Apr 2015 21:08:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-72/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/BadUXAndUserSelfBlameImSorryImNotAComputerPerson.aspx&#34;&gt;Bad UX and User Self-Blame - &amp;ldquo;I&amp;rsquo;m sorry, I&amp;rsquo;m not a computer person.&amp;rdquo;&lt;/a&gt; - Scott Hanselman&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://playbook.cio.gov/&#34;&gt;U.S. Digital Services Playbook&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/your-password-is-too-damn-short/&#34;&gt;Your Password is Too Damn Short&lt;/a&gt; - Jeff Atwood&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/&#34;&gt;Go&amp;rsquo;s error handling: good and bad&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/&#34;&gt;A beginner’s guide to Cache synchronization strategies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.thegrumpyprogrammer.com/2015/04/rfids-encryption-and-stop-rules-oh-my.html&#34;&gt;RFIDs, Encryption, and Stop Rules&amp;hellip; Oh My!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.16personalities.com/free-personality-test&#34;&gt;Free personality test&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://developermedia.com/developer-personalities-audience-brief-report/&#34;&gt;Developer Personalities: Audience Brief&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://google-opensource.blogspot.fr/2015/04/jsonnet-more-elegant-language-for.html&#34;&gt;Jsonnet: a more elegant language for composing JSON&lt;/a&gt; - Google Open Source Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mortoray.com/2015/04/20/nobody-cares-about-your-code/&#34;&gt;Nobody cares about your code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://numeratechoir.com/its-easier-to-be-honest-the-second-time-around/&#34;&gt;It’s Easier to Be Honest the Second Time Around&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/&#34;&gt;Lessons Learned in Software Development&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://software.intel.com/en-us/blogs/2015/04/20/null-pointer-dereferencing-causes-undefined-behavior&#34;&gt;Null Pointer Dereferencing Causes Undefined Behavior&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://software.intel.com/en-us/blogs/2015/04/22/the-last-line-effect&#34;&gt;The Last Line Effect&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #71</title>
@@ -605,48 +640,6 @@ Several examples about string pitfalls (complexity, security, coupling, type sys
 &lt;p&gt;&lt;a href=&#34;http://www.telegraph.co.uk/news/uknews/crime/11500973/Fraudster-escapes-from-one-of-Britains-most-secure-prisons-by-forging-letter-granting-him-bail.html&#34;&gt;Fraudster escapes from one of Britain&amp;rsquo;s most secure prisons by forging letter granting him bail&lt;/a&gt; - Social engineering&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://imgur.com/1kZf0Yv&#34;&gt;The great toilet paper debate&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #57</title>
-      <link>https://titi.github.io/links/Feed-57/</link>
-      <pubDate>Sun, 29 Mar 2015 18:45:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-57/</guid>
-      <description>
-
-&lt;h1 id=&#34;code&#34;&gt;Code&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://keyholesoftware.com/2015/03/24/avoid-perpetuating/&#34;&gt;Avoid Perpetuating These Things In Your Code&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Indeed, &amp;ldquo;&lt;a href=&#34;http://martinfowler.com/bliki/TwoHardThings.html&#34;&gt;There are only two hard things in Computer Science: cache invalidation and naming things.&lt;/a&gt;&amp;ldquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://keyholesoftware.com/2015/03/02/agile-team-member-anti-patterns/&#34;&gt;Agile Team Member Anti-Patterns&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.dmbcllc.com/technical-debt-is-inevitable/&#34;&gt;Technical Debt Is Inevitable&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;programming-languages&#34;&gt;Programming languages&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://keyholesoftware.com/2014/11/29/node-js-meets-net-edge-js/&#34;&gt;Node.js Meets .NET – Edge.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://pages.zend.com/TY-Infographic.html&#34;&gt;5 things you need to know about PHP 7&lt;/a&gt;&lt;br /&gt;
-First time I&amp;rsquo;ve heard of the &lt;a href=&#34;https://wiki.php.net/rfc/combined-comparison-operator&#34;&gt;Spaceship Operator&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://news.dartlang.org/2015/03/dart-for-entire-web.html&#34;&gt;Dart for the Entire Web &lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;devtools&#34;&gt;DevTools&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/&#34;&gt;Advanced Performance Audits With DevTools&lt;/a&gt; - Paul Irish (Google Chrome)&lt;/p&gt;
-
-&lt;h1 id=&#34;markdown&#34;&gt;Markdown&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/toward-a-better-markdown-tutorial/&#34;&gt;Toward a Better Markdown Tutorial&lt;/a&gt; - Jeff Atwood&lt;br /&gt;
-Great way to request assistance and motivate people.&lt;/p&gt;
 </description>
     </item>
     
