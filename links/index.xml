@@ -7,8 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 26 Apr 2015 21:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2015 08:52:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #74</title>
+      <link>https://titi.github.io/links/Feed-74/</link>
+      <pubDate>Tue, 28 Apr 2015 08:52:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-74/</guid>
+      <description>
+
+&lt;h1 id=&#34;recovering-data&#34;&gt;Recovering data&lt;/h1&gt;
+
+&lt;p&gt;AMAZING story of data recovery from a laptop with full-disk TrueCrypt encryption:&lt;br /&gt;
+&lt;a href=&#34;https://www.nccgroup.trust/en/blog/2015/04/a-back-to-front-truecrypt-recovery-story-the-plaintext-is-the-ciphertext/&#34;&gt;A back-to-front TrueCrypt recovery story: The plaintext is the ciphertext&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;methodologies&#34;&gt;Methodologies&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://benjiweber.co.uk/blog/2015/04/17/modern-extreme-programming/&#34;&gt;Modern Extreme Programming&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.agileconnection.com/article/how-do-your-estimates-provide-value&#34;&gt;How Do Your Estimates Provide Value?&lt;/a&gt; (2 pages) - Johanna Rothman&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sethgodin.typepad.com/seths_blog/2015/04/demand-higher-standards.html&#34;&gt;Demand higher standards&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://brooker.co.za/blog/2015/04/11/zero-one.html&#34;&gt;The Zero, One, Infinity Disease&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://avc.com/2015/04/dumbing-things-down/&#34;&gt;Dumbing Things Down&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lizkeogh.com/2015/04/22/a-dreyfus-model-for-agile-adoption/&#34;&gt;A Dreyfus model for Agile adoption&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.gilzilberfeld.com/2015/04/why-no-source-control-is-not-a-problem.html&#34;&gt;Why “No Source Control” Is Not A Problem&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jakubstas.com/github-and-jenkins-integration/&#34;&gt;GitHub and Jenkins integration&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://jakubstas.com/github-and-jenkins-pull-request-checking/&#34;&gt;GitHub and Jenkins pull request checking&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;frameworks&#34;&gt;Frameworks&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.box.com/blog/introducing-t3-enabling-large-scale-javascript-applications/&#34;&gt;Introducing T3: Enabling Large Scale JavaScript Applications&lt;/a&gt; - Box.com&lt;br /&gt;
+&lt;a href=&#34;http://t3js.org/&#34;&gt;http://t3js.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jxcore.com/node-needs-an-abstraction-layer-for-javascript-engines/&#34;&gt;Node Needs an Abstraction Layer for JavaScript Engines&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.fourthbit.com/2013/11/27/essential-css-positioning/&#34;&gt;Essential CSS positioning&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/news/2015/04/wordpress-4-1-2/&#34;&gt;WordPress 4.1.2 Security Release&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.darthnull.org/2015/04/21/blind-hash&#34;&gt;Salt as a Service: Interesting approach to hashing passwords&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #73 - Sunday fun</title>
@@ -633,40 +682,6 @@ Nothing bad found on the technical side. What about the human one?&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;p&gt;[FR] &lt;a href=&#34;http://framablog.org/2015/04/01/des-tablettes-a-lecole/&#34;&gt;Des tablettes à l’école ?&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #59</title>
-      <link>https://titi.github.io/links/Feed-59/</link>
-      <pubDate>Tue, 31 Mar 2015 00:09:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-59/</guid>
-      <description>&lt;p&gt;User Experience (UX): &lt;a href=&#34;http://www.joelonsoftware.com/uibook/chapters/fog0000000057.html&#34;&gt;Controlling Your Environment Makes You Happy&lt;/a&gt; - Joel Spolsky&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.idonethis.com/google-performance-reviews/&#34;&gt;A Googler’s Critique of Google Performance Reviews&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.jrothman.com/mpd/agile/2015/03/why-managers-ask-for-estimates-and-what-they-need-to-know/&#34;&gt;Why Managers Ask for Estimates and What They Need to Know&lt;/a&gt; - Johanna Rothman&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://codurance.com/2014/05/26/a-craftsman-is/&#34;&gt;A Software Craftsman Is&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.scaledagileframework.com/&#34;&gt;Scaled Agile Framework&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.bothsidesofthetable.com/2015/03/23/what-ive-learned-from-fred-wilson/&#34;&gt;What I’ve Learned from Fred Wilson&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mortoray.com/2015/03/24/complexity-theory-isnt-required-to-be-a-programmer/&#34;&gt;Complexity theory isn’t required to be a programmer&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://codurance.com/2015/03/23/multiple-projects-in-visual-studio/&#34;&gt;Multiple projects in Visual Studio solutions considered harmful&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://samirtalwar.github.io/talks/highly-strung.html&#34;&gt;Highly Strung&lt;/a&gt;&lt;br /&gt;
-Several examples about string pitfalls (complexity, security, coupling, type system, &amp;hellip;) and how to fix them.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/improving-compression-with-preset-deflate-dictionary/&#34;&gt;Improving compression with a preset DEFLATE dictionary&lt;/a&gt; - CloudFlare&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://fastml.com/what-you-wanted-to-know-about-ai/&#34;&gt;What you wanted to know about AI - Part I&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://fastml.com/what-you-wanted-to-know-about-ai-part-ii/&#34;&gt;What you wanted to know about AI - Part II&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://avant.org/media/incidental-data-capture&#34;&gt;Incidental Data Capture&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
