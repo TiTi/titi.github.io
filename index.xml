@@ -7,8 +7,65 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Thu, 30 Apr 2015 20:46:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2015 00:08:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #76</title>
+      <link>https://titi.github.io/links/Feed-76/</link>
+      <pubDate>Sun, 03 May 2015 00:08:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-76/</guid>
+      <description>
+
+&lt;h1 id=&#34;software-security&#34;&gt;Software Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/an-introduction-to-javascript-based-ddos/&#34;&gt;An introduction to JavaScript-based DDoS&lt;/a&gt; - CloudFlare&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://software.intel.com/en-us/blogs/2015/04/24/lets-play-a-game-find-bugs-in-popular-open-source-projects&#34;&gt;Let&amp;rsquo;s Play a Game - find bugs in popular open-source projects&lt;/a&gt; - Intel® Developer Zone&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/04/can-devopssec-make-software-more-secure.html&#34;&gt;Can DevOps(Sec) make Software more Secure?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bocoup.com/weblog/lessons-from-scrum/&#34;&gt;Lessons from Scrum&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/agile-metrics-people&#34;&gt;Agile Metrics to the People!&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;visual-studio&#34;&gt;Visual Studio&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://haacked.com/archive/2015/04/30/github-in-your-visual-studio/&#34;&gt;GitHub Inside Your Visual Studio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/IntroducingVisualStudioCodeForWindowsMacAndLinux.aspx&#34;&gt;Introducing Visual Studio Code for Windows, Mac, and Linux&lt;/a&gt; -
+Scott Hanselman / Microsoft&lt;/p&gt;
+
+&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.favbrowser.com/microsoft-edge-will-support-firefox-and-chrome-extensions/&#34;&gt;Microsoft Edge Will Support Firefox And Chrome Extensions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.chromium.org/2015/04/scheduling-tasks-intelligently-for_30.html&#34;&gt;Scheduling tasks intelligently for optimized performance&lt;/a&gt; - Chromium Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/&#34;&gt;Deprecating Non-Secure HTTP&lt;/a&gt; - Mozilla Security Blog&lt;/p&gt;
+
+&lt;h1 id=&#34;various&#34;&gt;Various&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.imore.com/apple-has-confirmed-it-will-reject-all-apple-watch-apps-just-tell-time&#34;&gt;Apple has confirmed it will reject all Apple Watch apps that just tell time&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/redesigning-cloudflare/&#34;&gt;Redesigning CloudFlare&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://swizec.com/blog/how-a-book-i-wrote-in-two-weeks-made-4000-in-its-first-month/swizec/6675&#34;&gt;How a book I wrote in two weeks made $4,000 in its first month&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/what-is-trolling/&#34;&gt;What is Trolling?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mortoray.com/2015/04/29/cohesion-and-coupling-good-measures-of-quality/&#34;&gt;Cohesion and coupling: good measures of quality&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.daedtech.com/defining-the-corporate-hierarchy&#34;&gt;Defining The Corporate Hierarchy&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;http://www.lesnumeriques.com/google-injecte-150-millions-euros-dans-presse-europeenne-n41733.html&#34;&gt;Google injecte 150 millions d&amp;rsquo;euros dans la presse européenne&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #75</title>
@@ -645,55 +702,6 @@ In the end, your post is about modularity/encapsulation. this is a very importan
 &lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.leadingagile.com/2015/03/our-collective-agile-transformation-metaphor-is-broken/&#34;&gt;Our Agile Transformation Metaphors are Broken&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #61</title>
-      <link>https://titi.github.io/links/Feed-61/</link>
-      <pubDate>Fri, 03 Apr 2015 00:23:48 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-61/</guid>
-      <description>
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.netresec.com/?page=Blog&amp;amp;month=2015-03&amp;amp;post=China%27s-Man-on-the-Side-Attack-on-GitHub&#34;&gt;China&amp;rsquo;s Man-on-the-Side Attack on GitHub&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.f-secure.com/weblog/archives/00002800.html&#34;&gt;Remote Code Execution Possible Via Dell System Detect&lt;/a&gt; - F-Secure Weblog&lt;br /&gt;
-This is really bad&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.fr/2015/03/maintaining-digital-certificate-security.html&#34;&gt;Maintaining digital certificate security&lt;/a&gt; - Google Online Security&lt;br /&gt;
-&lt;a href=&#34;https://blog.mozilla.org/security/2015/04/02/distrusting-new-cnnic-certificates/&#34;&gt;Distrusting New CNNIC Certificates&lt;/a&gt; - Mozilla Security Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html&#34;&gt;Truecrypt report&lt;/a&gt;&lt;br /&gt;
-Nothing bad found on the technical side. What about the human one?&lt;/p&gt;
-
-&lt;h1 id=&#34;scrum&#34;&gt;Scrum&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.leadingagile.com/2015/02/the-one-immutable-law-of-adopting-agile/&#34;&gt;The One Immutable Law of Adopting Agile&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.romanpichler.com/blog/product-roadmap-product-backlog/&#34;&gt;The Product Roadmap and the Product Backlog&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.romanpichler.com/blog/every-great-product-owner-needs-great-scrummaster/&#34;&gt;Every Great Product Owner Needs a Great ScrumMaster&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.romanpichler.com/blog/user-stories-enough-for-a-great-user-experience/&#34;&gt;User Stories are Not Enough to Create a Great User Experience&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.fr/2015/03/out-with-unwanted-ad-injectors.html&#34;&gt;Out with unwanted ad injectors&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Debug IE from Chrome DevTools:&lt;br /&gt;
-&lt;a href=&#34;http://blogs.msdn.com/b/ie/archive/2015/04/02/introducing-the-ie-diagnostics-adapter-for-third-party-developer-tools.aspx&#34;&gt;http://blogs.msdn.com/b/ie/archive/&lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt;/02/introducing-the-ie-diagnostics-adapter-for-third-party-developer-tools.aspx&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://daniel.haxx.se/blog/2015/03/31/the-state-and-rate-of-http2-adoption/&#34;&gt;The state and rate of HTTP/2 adoption&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;law&#34;&gt;Law&lt;/h1&gt;
-
-&lt;p&gt;[FR] &lt;a href=&#34;https://github.com/steeve/france.code-civil&#34;&gt;Le Code civil français, sous Git&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.nextinpact.com/news/93698-interview-steeve-morin-nous-explique-pourquoi-il-a-mis-code-civil-dans-github.htm&#34;&gt;[Interview] Steeve Morin nous explique pourquoi il a mis le Code civil dans GitHub&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[FR] &lt;a href=&#34;http://www.assemblee-nationale.fr/14/amendements/2669/CION_LOIS/CL262.asp&#34;&gt;Assemblée nationale ~ RENSEIGNEMENT(no 2669) - Amendement n°62&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
