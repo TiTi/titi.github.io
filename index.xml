@@ -7,8 +7,74 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 03 May 2015 00:11:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2015 23:57:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #78</title>
+      <link>https://titi.github.io/links/Feed-78/</link>
+      <pubDate>Mon, 04 May 2015 23:57:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-78/</guid>
+      <description>
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://thehackernews.com/2015/05/railway-system-password.html&#34;&gt;London Railway System Passwords Exposed During TV Documentary&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.fr/2015/04/a-javascript-based-ddos-attack-as-seen.html&#34;&gt;A Javascript-based DDoS Attack as seen by Safe Browsing&lt;/a&gt; - Google Online Security Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.technet.com/b/johnla/archive/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win.aspx&#34;&gt;Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;quality-assurance&#34;&gt;Quality Assurance&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://chadaustin.me/2015/01/code-reviews-follow-the-data/&#34;&gt;Code Reviews: Follow the Data&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://engineering.imvu.com/2015/01/27/the-case-of-the-page-cant-be-displayed-intermittent-selenium-test/&#34;&gt;The case of the “Page can’t be displayed” intermittent selenium test&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;sql-performance&#34;&gt;SQL Performance&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.percona.com/blog/2014/01/07/increasing-slow-query-performance-with-parallel-query-execution/&#34;&gt;Increasing slow query performance with the parallel query execution&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.percona.com/blog/2015/04/03/illustrating-primary-key-models-in-innodb-and-their-impact-on-disk-usage/&#34;&gt;Illustrating Primary Key models in InnoDB and their impact on disk usage&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;process&#34;&gt;Process&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://radianttiger.com/2015/04/20/a-culture-that-attracts-quality-candidates/&#34;&gt;A culture that attracts quality candidates&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.giorgiosironi.com/2015/03/evolution-in-software-development.html&#34;&gt;Evolution in software development&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dannorth.net/2015/04/24/two-hours-per-team/&#34;&gt;Two hours per team&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;languages&#34;&gt;Languages&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ralphsaunders.co.uk/jquery-is-dead.html&#34;&gt;jQuery is dead&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.dmiller.io/blog/2015/4/26/comparing-the-php7-and-hack-type-systems&#34;&gt;Comparing the PHP 7 and Hack Type Systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://chadaustin.me/2015/04/the-long-term-problem-with-dynamically-typed-languages/&#34;&gt;The Long-Term Problem With Dynamically Typed Languages&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Not improving core APIs results in a kind of broken windows effect. When APIs are confusing or vague, people tend not to notice other confusing or vague APIs, and it slows everyone down in the long term.&lt;/p&gt;
+
+&lt;p&gt;Thus, instead of easily refactoring the legacy APIs, people think &amp;ldquo;I’ll just make a new one and migrate the code over!&amp;rdquo; And now you have two hard-to-change APIs. And then three. And the cycle continues. Additionally, this cycle is fed by architect types who know or think they know a better way to do things, but can’t be bothered to update the old systems.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lostinjit.blogspot.it/2015/03/hippyvm-goes-to-y-combinator-and-fails.html&#34;&gt;HippyVM goes to Y Combinator and fails&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/&#34;&gt;FizzBuzz In Too Much Detail&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@dan.ellis/solving-a-tricky-problem-d1a8766f5347&#34;&gt;Solving a Tricky Problem&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hacks.mozilla.org/2015/04/es6-in-depth-an-introduction/&#34;&gt;ES6 In Depth: An Introduction&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.takipi.com/4-creative-ways-to-test-your-code-in-production/&#34;&gt;4 Creative Ways to Test Your Code in Production&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.twitter.com/2015/building-a-new-trends-experience&#34;&gt;Building a new trends experience&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #77 - Sunday fun</title>
@@ -616,51 +682,6 @@ Interesting trick to trigger &lt;code&gt;DOMContentLoaded&lt;/code&gt; faster. B
 &lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/shard-or-not-shard&#34;&gt;To Shard, or Not to Shard&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://gomorpheus.com/blog/2014-10-09-the-key-to-distributed-database-performance-scalability&#34;&gt;The Key to Distributed Database Performance: Scalability&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #63 - Sunday fun</title>
-      <link>https://titi.github.io/links/Feed-63/</link>
-      <pubDate>Sun, 05 Apr 2015 00:28:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-63/</guid>
-      <description>
-
-&lt;h1 id=&#34;special-april-fools-day-april-1-2015&#34;&gt;Special April Fools&amp;rsquo; Day - April 1, 2015&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://com.google/&#34;&gt;elgooG - https://com.google/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://chrome.blogspot.fr/2015/04/re-rethinking-computing.html&#34;&gt;Re-rethinking computing&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dev.opera.com/blog/introducing-massage-api/&#34;&gt;Introducing a Massage API&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://lumiaconversations.microsoft.com/2015/04/01/microsoft-launches-ms-dos-mobile/&#34;&gt;Microsoft launches MS-DOS Mobile&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://home.web.cern.ch/about/updates/2015/04/cern-researchers-confirm-existence-force&#34;&gt;CERN researchers confirm existence of the Force&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://petapixel.com/2015/04/01/these-cgi-images-are-so-realistic-that-they-look-like-actual-photographs/&#34;&gt;These CGI Images Are So Realistic That They Look Like Actual Photographs&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Google Fiber - Introducing Dial-Up mode:
-&lt;div class=&#34;embed video-player&#34;&gt;
-&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/XTTtkisylQw&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The Hovering Mouse - Project McFly | Razer:
-&lt;div class=&#34;embed video-player&#34;&gt;
-&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/IlCx5gjAmqI&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;April Fools Video Prank in Math Class:
-&lt;div class=&#34;embed video-player&#34;&gt;
-&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/P2SsIYEbCio&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-(This teacher did other similar videos on previous years, check out his channel!)&lt;/p&gt;
-
-&lt;p&gt;[FR] &lt;a href=&#34;http://www.lesnumeriques.com/telephone-portable/reception-3g-4g-couleur-telephone-jouerait-sur-qualite-n40979.html&#34;&gt;Débits 3G/4G : la couleur du smartphone jouerait sur la qualité&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
