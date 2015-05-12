@@ -7,8 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Thu, 07 May 2015 08:21:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2015 00:31:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #81</title>
+      <link>https://titi.github.io/links/Feed-81/</link>
+      <pubDate>Wed, 13 May 2015 00:31:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-81/</guid>
+      <description>
+
+&lt;h1 id=&#34;process-and-devops&#34;&gt;Process and DevOps&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jchyip.blogspot.fr/2015/05/command-and-control-i-dont-think-that.html&#34;&gt;&amp;ldquo;Command and Control&amp;rdquo;? I don&amp;rsquo;t think that means what you think it means&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/oldnewthing/archive/2015/05/08/10613194.aspx&#34;&gt;Documentation creates contract, which is why you need to be very careful what you document&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2015/05/not-just-faster-releases-better-understanding/&#34;&gt;Not Just Faster Releases; Better Understanding&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.continuousimprover.com/2015/03/a-scalable-software-development.html&#34;&gt;A scalable software development organization? This is how you do it!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.continuousimprover.com/2015/02/evolving-your-agile-architecture.html&#34;&gt;Evolving your agile architecture without loosing any people&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/05/devops-is-killing-maintenance-lets.html&#34;&gt;DevOps is Killing Maintenance. Let’s Celebrate.&lt;/a&gt; - Building Real Software&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.vitavonni.de/blog/201503/2015031201-the-sad-state-of-sysadmin-in-the-age-of-containers.html&#34;&gt;The sad state of sysadmin in the age of containers&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;web-development&#34;&gt;Web development&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://searchengineland.com/tested-googlebot-crawls-javascript-heres-learned-220157&#34;&gt;We Tested How Googlebot Crawls Javascript And Here’s What We Learned&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://keyholesoftware.com/2015/05/11/lessons-from-facebook-reactflux/&#34;&gt;Lessons From Facebook: React/Flux&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.thedotpost.com/2014/11/maxime-thirouin-back-to-the-css&#34;&gt;Back to the CSS&lt;/a&gt; - The dot Post&lt;br /&gt;
+&lt;a href=&#34;http://cssnext.github.io/&#34;&gt;cssnext - Use tomorrow&amp;rsquo;s CSS syntax, today.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;microsoft-edge-dev-blog&#34;&gt;Microsoft Edge Dev Blog&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/05/07/bringing-asm-js-to-chakra-microsoft-edge/&#34;&gt;Bringing Asm.js to Chakra and Microsoft Edge&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/05/11/microsoft-edge-building-a-safer-browser/&#34;&gt;Microsoft Edge: Building a safer browser&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/05/08/building-vorlon-js-with-the-help-of-the-developer-community-and-whats-next/&#34;&gt;Building vorlon.JS with the help of the developer community and what’s next&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #80</title>
@@ -660,37 +703,6 @@ Source: &lt;a href=&#34;www.commitstrip.com/en/2015/04/10/this-rare-moment-of-ri
 
 &lt;p&gt;&lt;a href=&#34;https://www.f-secure.com/weblog/archives/00002801.html&#34;&gt;Video: Terrorist Groups in the Online World&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.bluecoat.com/security-blog/2015-04-09/visual-basic-script-malware-reportedly-used-tv5-monde-intrusion&#34;&gt;Visual Basic Script malware reportedly used in TV5 Monde intrusion&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #66</title>
-      <link>https://titi.github.io/links/Feed-66/</link>
-      <pubDate>Thu, 09 Apr 2015 22:52:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-66/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://azure.microsoft.com/blog/2015/04/08/microsoft-unveils-new-container-technologies-for-the-next-generation-cloud&#34;&gt;Microsoft Unveils New Container Technologies for the Next Generation Cloud&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://blogs.technet.com/b/windowsserver/archive/2015/04/08/microsoft-announces-nano-server-for-modern-apps-and-cloud.aspx&#34;&gt;Microsoft Announces Nano Server for Modern Apps and Cloud&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/&#34;&gt;Scaling out PostgreSQL for CloudFlare Analytics using CitusDB&lt;/a&gt; - CloudFlare&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/04/introducing-vector-netflixs-on-host.html&#34;&gt;Introducing Vector: Netflix&amp;rsquo;s On-Host Performance Monitoring Tool&lt;/a&gt; - Netflix&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2015/04/what-automated-testing-really-provides/&#34;&gt;Guest Post: What Automated Testing Really Provides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/&#34;&gt;Responsive Tables in Pure CSS&lt;/a&gt;&lt;br /&gt;
-Impressive and elegant! (When on CodePen, resize your browser)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/typescript/archive/2015/03/05/angular-2-0-built-on-typescript.aspx&#34;&gt;Angular 2: Built on TypeScript&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://developer.telerik.com/featured/the-rise-of-typescript/&#34;&gt;The Rise of TypeScript?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://youtube-eng.blogspot.fr/2015/04/vp9-faster-better-buffer-free-youtube.html&#34;&gt;VP9: Faster, better, buffer-free YouTube videos&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.johndcook.com/blog/2015/04/07/more-on-the-80-20-rule/&#34;&gt;Another reason we don’t apply the 80-20 rule&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf&#34;&gt;Software Architecture Patterns&lt;/a&gt; [PDF]&lt;/p&gt;
-
-&lt;p&gt;[FR] &lt;a href=&#34;http://www.fredcavazza.net/2015/04/09/facebook-va-t-il-uberiser-le-web/&#34;&gt;Facebook va-t-il Uberiser le web ?&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
