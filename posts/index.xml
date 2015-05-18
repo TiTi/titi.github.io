@@ -7,8 +7,244 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Mon, 19 Jan 2015 22:13:06 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2015 20:42:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Windows shortcuts you should know</title>
+      <link>https://titi.github.io/2015/05/windows-shortcuts/</link>
+      <pubDate>Mon, 18 May 2015 20:42:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/2015/05/windows-shortcuts/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;ve skipped the famous ones and focused on some useful shortcuts.
+Try them out if you don&amp;rsquo;t know them!&lt;/p&gt;
+
+&lt;h1 id=&#34;windows&#34;&gt;Windows&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Shortcut&lt;/th&gt;
+&lt;th&gt;Action&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Windows+Left/Right&lt;/td&gt;
+&lt;td&gt;Move window the the half part or the screen. You can therefore split a screen to display two windows next to each other. You could also move a window to another screen in several steps. But the next shortcut is more relevant to do so:&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Windows+Shit+Left/Right&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Move window from a screen to another&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Windows+Up&lt;/td&gt;
+&lt;td&gt;Expand active window (quite useful with Windows+Left/Right)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Windows+Down&lt;/td&gt;
+&lt;td&gt;Reduce or minimize active window (depending on current state)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Alt+Shift+Tab&lt;/td&gt;
+&lt;td&gt;Select window in reverse order. You could easily switch between Alt+Tab and Alt+Shift+Tab without releasing Alt. This is pretty useful if you have a lot of windows opened.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;system&#34;&gt;System&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Shortcut&lt;/th&gt;
+&lt;th&gt;Action&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Windows+L&lt;/td&gt;
+&lt;td&gt;Lock the computer&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Alt+F4&lt;/td&gt;
+&lt;td&gt;Quit program&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Ctrl+Shift+Esc&lt;/td&gt;
+&lt;td&gt;Opens Windows Task Manager (seriously, are you still using Ctrl+Alt+Suppr ?)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Windows+Pause         &amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Opens System control panel (Device Manager, PATH, &amp;hellip;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;desktop&#34;&gt;Desktop&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Shortcut&lt;/th&gt;
+&lt;th&gt;Action&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Windows+R&lt;/td&gt;
+&lt;td&gt;Run dialog box&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Windows+D&lt;/td&gt;
+&lt;td&gt;Minimizes all open windows and displays the desktop&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Windows+P&lt;/td&gt;
+&lt;td&gt;Choose a presentation display mode (when using a projector)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Windows+Plus/Minus Sign &amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Zoom in, zoom out (also try out the 3 zoom modes available with the magnifier: fullscreen looks better!)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;file-explorer&#34;&gt;File Explorer&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Shortcut&lt;/th&gt;
+&lt;th&gt;Action&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Windows+E&lt;/td&gt;
+&lt;td&gt;Windows Explorer&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Shift+Delete&lt;/td&gt;
+&lt;td&gt;Delete selection permanently, without moving the item to the Recycle Bin&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Shift+Right click     &amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Displays a shortcut menu containing alternative commands (Copy as path, Open command window here [folders], &amp;hellip;)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Alt+double click      &amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Displays properties (same as Right clic &amp;gt; Properties)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Shortcut&lt;/th&gt;
+&lt;th&gt;Action&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Ctrl+Tab&lt;/td&gt;
+&lt;td&gt;Switch to the next tab&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Ctrl+Shift+Tab        &amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Switch to the previous tab&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;F11&lt;/td&gt;
+&lt;td&gt;Fullscreen&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Ctrl+T&lt;/td&gt;
+&lt;td&gt;Open a new tab&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Ctrl+Shift+T&lt;/td&gt;
+&lt;td&gt;Restore closed tab (you can press it several times to restore last N closed tabs)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Ctrl+W&lt;/td&gt;
+&lt;td&gt;Close current tab&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Ctrl+N&lt;/td&gt;
+&lt;td&gt;Open a new window&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;formatting&#34;&gt;Formatting&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Shortcut&lt;/th&gt;
+&lt;th&gt;Action&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Ctrl+B&lt;/td&gt;
+&lt;td&gt;Bold&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Ctrl+U&lt;/td&gt;
+&lt;td&gt;Underline&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Ctrl+I&lt;/td&gt;
+&lt;td&gt;Italic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Code Review &amp; Phabricator</title>
