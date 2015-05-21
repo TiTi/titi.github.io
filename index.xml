@@ -7,8 +7,65 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Mon, 18 May 2015 20:42:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2015 23:36:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #84</title>
+      <link>https://titi.github.io/links/Feed-84/</link>
+      <pubDate>Thu, 21 May 2015 23:36:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-84/</guid>
+      <description>
+
+&lt;h1 id=&#34;practices&#34;&gt;Practices&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nczonline.net/blog/2015/05/14/the-bunny-theory-of-code/&#34;&gt;The bunny theory of code&lt;/a&gt; - Nicholas C. Zakas&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.continuousimprover.com/2015/05/the-subtleties-of-developer-commitment.html&#34;&gt;The subtleties of developer commitment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.box.com/blog/effective-learning-through-code-workshops/&#34;&gt;Effective learning through code workshops&lt;/a&gt; - Box Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://devops.com/2015/05/14/moving-from-infrastructure-automation-to-true-devops/&#34;&gt;Moving from Infrastructure Automation to True DevOps&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;scrum-and-kanban&#34;&gt;Scrum and Kanban&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://leansoftwareengineering.com/ksse/scrum-ban/&#34;&gt;Scrum-ban&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://allankelly.blogspot.fr/2015/04/the-kanban-paradox.html&#34;&gt;The Kanban paradox&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;cloud&#34;&gt;Cloud&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techblog.bozho.net/aws-noisiness/&#34;&gt;AWS “Noisiness”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/developing-software-cloud&#34;&gt;Developing Software for the Cloud: The DHARMA Principles&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.slideshare.net/dbryant_uk/building-java-applications-for-the-cloud-the-dharma-principles&#34;&gt;Short version in ~60 slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;microsoft-edge&#34;&gt;Microsoft Edge&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/05/18/using-chakra-for-scripting-applications-across-windows-10/&#34;&gt;Using Chakra for Scripting Applications across Windows 10&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/05/20/delivering-fast-javascript-performance-in-microsoft-edge/&#34;&gt;Delivering fast JavaScript performance in Microsoft Edge&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://googlechromereleases.blogspot.fr/2015/05/stable-channel-update_19.html&#34;&gt;Chrome 43 - Stable Channel Update&lt;/a&gt; - 37 security fixes ; More than 38 000$ reward&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://yehudakatz.com/2013/05/24/an-extensible-approach-to-browser-security-policy/&#34;&gt;An Extensible Approach to Browser Security Policy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.phoronix.com/scan.php?page=news_item&amp;amp;px=Linux-4.0-EXT4-Warning&#34;&gt;The Linux 4.0 Kernel Currently Has An EXT4 Corruption Issue&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.mozilla.org/security/2015/05/20/mozdef-the-mozilla-defense-platform-v1-9/&#34;&gt;MozDef: The Mozilla Defense Platform v1.9&lt;/a&gt; - Mozilla Security Blog&lt;/p&gt;
+
+&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.pcworld.com/article/2922508/windows-10-will-ship-with-candy-crush-saga-preinstalled.html&#34;&gt;Windows 10 will ship with Candy Crush Saga preinstalled&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bravenewgeek.com/go-is-unapologetically-flawed-heres-why-we-use-it/&#34;&gt;Go Is Unapologetically Flawed, Here’s Why We Use It&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.benfrederickson.com/distance-metrics/&#34;&gt;&amp;ldquo;People Who Like This Also Like &amp;hellip; &amp;ldquo;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Windows shortcuts you should know</title>
@@ -907,58 +964,6 @@ Scott Hanselman / Microsoft&lt;/p&gt;
 
 &lt;a href=&#34;http://sauceio.com/index.php/2015/04/video-jason-huggins-fixing-healthcare-gov-one-test-at-a-time/&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #70</title>
-      <link>https://titi.github.io/links/Feed-70/</link>
-      <pubDate>Wed, 22 Apr 2015 22:30:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-70/</guid>
-      <description>
-
-&lt;h1 id=&#34;network-layer&#34;&gt;Network layer&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://packetzoom.com/blog/lets-not-use-http-over-tcp-for-mobile-apps-anymore.html&#34;&gt;Let&amp;rsquo;s not use HTTP over TCP for mobile apps anymore&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html&#34;&gt;A QUIC update on Google’s experimental transport&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://citizenlab.org/2015/04/chinas-great-cannon/&#34;&gt;China’s Great Cannon&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;communication&#34;&gt;Communication&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jchyip.blogspot.fr/2015/04/what-good-listeners-do.html&#34;&gt;What good listeners do&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.nczonline.net/blog/2015/04/14/consensus-driven-development/&#34;&gt;Consensus-Driven Development&lt;/a&gt; - Nicholas C. Zakas&lt;/p&gt;
-
-&lt;h1 id=&#34;new-and-exciting-stuff&#34;&gt;New and exciting stuff&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.omgubuntu.co.uk/2015/04/linux-kernel-4-0-new-features&#34;&gt;Linux Kernel 4.0 Features Live Kernel Patching&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://azure.microsoft.com/blog/2015/04/16/docker-client-for-windows-is-now-available/&#34;&gt;Docker Client for Windows is Now Available&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;process&#34;&gt;Process&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.daverooney.ca/2015/03/changing-tires.html&#34;&gt;Changing the Tires&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.leadingagile.com/2015/03/operationalizing-strategy-with-a-systems-perspective/&#34;&gt;Operationalizing Strategy with a Systems Perspective&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;google-chrome&#34;&gt;Google Chrome&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;www.favbrowser.com/google-chrome-42-stable-disables-java-silverlight-by-default/&#34;&gt;Google Chrome 42 Stable Disables Java / Silverlight By Default&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.chromium.org/2015/04/chrome-43-beta-web-midi-and-upgrading.html&#34;&gt;Chrome 43 Beta: Web MIDI and upgrading legacy sites to HTTPS&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/oldnewthing/archive/2015/04/17/10608077.aspx&#34;&gt;Why are there both TMP and TEMP environment variables, and which one is right?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://examples.javacodegeeks.com/enterprise-java/apache-solr/apache-solr-tutorial-beginners/&#34;&gt;Apache Solr Tutorial for Beginners&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2015/04/guest-post-functional-testing-in-2016/&#34;&gt;Functional Testing in 2016 – Forecast&lt;/a&gt; - Sauce Labs&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hacks.mozilla.org/2015/03/understanding-inline-box-model/&#34;&gt;Understanding the CSS box model for inline elements&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
