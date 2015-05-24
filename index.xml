@@ -7,8 +7,109 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Thu, 21 May 2015 23:36:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2015 22:22:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #86</title>
+      <link>https://titi.github.io/links/Feed-86/</link>
+      <pubDate>Sun, 24 May 2015 22:22:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-86/</guid>
+      <description>
+
+&lt;h1 id=&#34;trust&#34;&gt;Trust&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bravenewgeek.com/product-development-is-a-trust-fall/&#34;&gt;Product Development is a Trust Fall&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.daverooney.ca/2015/05/is-predictability-really-what-we-want.html&#34;&gt;Is Predictability Really What We Want?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;architecture-performance&#34;&gt;Architecture &amp;amp; Performance&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://code.facebook.com/posts/1433093613662262/-under-the-hood-facebook-s-cold-storage-system-/?hn=1&#34;&gt;Under the hood: Facebook’s cold storage system&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.3scale.net/2015/04/how-to-load-test-and-tune-performance-on-your-api-part-i/&#34;&gt;How to load test &amp;amp; tune performance on your API (Part I)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/microsoft_press/archive/2015/05/04/from-the-mvps-application-design-going-stateless-on-azure.aspx&#34;&gt;Application Design: Going Stateless on Azure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://highscalability.com/blog/2015/5/4/elements-of-scale-composing-and-scaling-data-platforms.html&#34;&gt;Elements of Scale: Composing and Scaling Data Platforms&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;deployment&#34;&gt;Deployment&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.codeship.com/fast-software-development-workflow/&#34;&gt;Stay Competitive: Keep Your Team Fast and Focused&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://devops.com/2015/04/29/webinar-ship-faster-without-breaking-everything/&#34;&gt;Webinar: Ship Faster without Breaking Everything&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;product-managment&#34;&gt;Product managment&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mortoray.com/2015/05/18/a-bug-an-error-or-fault-and-the-irrelevance-of-classification/&#34;&gt;A bug, an error, or fault, and the irrelevance of classification&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://agileworld.blogspot.fr/2015/05/stop-following-successful-companies.html&#34;&gt;Stop following the successful companies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.romanpichler.com/blog/product-strategy-defined/&#34;&gt;The Three Elements of an Effective [Product] Strategy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.leadingagile.com/2015/05/who-the-heck-is-the-business/&#34;&gt;Who the Heck Is “The Business”?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ryanmorr.com/true-hash-maps-in-javascript/&#34;&gt;True Hash Maps in JavaScript&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://aurelia.io/&#34;&gt;Aurelia&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Aurelia is a next generation JavaScript client framework that leverages simple conventions to empower your creativity.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;new&#34;&gt;New&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://unisonweb.org/2015-05-07/about.html&#34;&gt;Unison - a next-generation programming platform&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://geeks.everything.me/2015/05/03/adventures-with-disque/&#34;&gt;Adventures with Disque&lt;/a&gt;, a new distributed job-queue from the author of &lt;strong&gt;Redis&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;troubleshooting&#34;&gt;Troubleshooting&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://channel9.msdn.com/events/TechEd/NorthAmerica/2013/WCA-B306&#34;&gt;Windows Troubleshooting with Mark Russinovich&lt;/a&gt; (~1H video)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.serpentine.com/blog/2015/05/13/sometimes-the-old-ways-are-the-best/&#34;&gt;Sometimes, the old ways are the best&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;practices&#34;&gt;Practices&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://kevinlondon.com/2015/05/05/code-review-best-practices.html&#34;&gt;Code Review Best Practices&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.frankel.ch/quality-tools-humble-servants-or-tyrans&#34;&gt;Quality Tools: humble servants or tyrans?&lt;/a&gt; (about Sonar and such)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ayende.com/blog/170753/boldly-confidently-fail-it-is-better-than-the-alternative&#34;&gt;Boldly &amp;amp; confidently fail, it is better than the alternative&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;privacy-security&#34;&gt;Privacy &amp;amp; Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mortoray.com/2015/05/11/how-http-cache-headers-betray-your-privacy/&#34;&gt;How HTTP cache headers betray your privacy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://certsimple.com/blog/chrome-outdated-cryptography&#34;&gt;Why your A grade SSL is &amp;lsquo;outdated cryptography&amp;rsquo; on Chrome&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feed #85 - Sunday fun</title>
+      <link>https://titi.github.io/links/Feed-85/</link>
+      <pubDate>Sun, 24 May 2015 22:14:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-85/</guid>
+      <description>&lt;p&gt;Luke (11y.o) solving the MoYu 13x13 Cube in 5h30m:&lt;br /&gt;
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/dJ6301NOl-s&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&#34;http://boingboing.net/2015/05/19/watch-cute-video-blends-playf.html&#34;&gt;Cute video blends playful child with Super Mario Bros. effects&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The US Navy&amp;rsquo;s X-47B performs the first ever autonomous midair refueling:&lt;br /&gt;
+&lt;img src=&#34;http://i.imgur.com/LopfDkh.jpg&#34; alt=&#34;X-47B midair refueling&#34; width=&#34;1000&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.thalmic.com/en/myo/&#34;&gt;Thalmic Labs - Makers of Myo gesture control armband&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #84</title>
@@ -863,107 +964,6 @@ Scott Hanselman / Microsoft&lt;/p&gt;
 &lt;iframe src=&#34;//player.vimeo.com/video/125372219&#34; width=&#34;640&#34; height=&#34;385&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #72</title>
-      <link>https://titi.github.io/links/Feed-72/</link>
-      <pubDate>Sun, 26 Apr 2015 21:08:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-72/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/BadUXAndUserSelfBlameImSorryImNotAComputerPerson.aspx&#34;&gt;Bad UX and User Self-Blame - &amp;ldquo;I&amp;rsquo;m sorry, I&amp;rsquo;m not a computer person.&amp;rdquo;&lt;/a&gt; - Scott Hanselman&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://playbook.cio.gov/&#34;&gt;U.S. Digital Services Playbook&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/your-password-is-too-damn-short/&#34;&gt;Your Password is Too Damn Short&lt;/a&gt; - Jeff Atwood&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/&#34;&gt;Go&amp;rsquo;s error handling: good and bad&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/&#34;&gt;A beginner’s guide to Cache synchronization strategies&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.thegrumpyprogrammer.com/2015/04/rfids-encryption-and-stop-rules-oh-my.html&#34;&gt;RFIDs, Encryption, and Stop Rules&amp;hellip; Oh My!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.16personalities.com/free-personality-test&#34;&gt;Free personality test&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://developermedia.com/developer-personalities-audience-brief-report/&#34;&gt;Developer Personalities: Audience Brief&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://google-opensource.blogspot.fr/2015/04/jsonnet-more-elegant-language-for.html&#34;&gt;Jsonnet: a more elegant language for composing JSON&lt;/a&gt; - Google Open Source Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mortoray.com/2015/04/20/nobody-cares-about-your-code/&#34;&gt;Nobody cares about your code&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://numeratechoir.com/its-easier-to-be-honest-the-second-time-around/&#34;&gt;It’s Easier to Be Honest the Second Time Around&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/&#34;&gt;Lessons Learned in Software Development&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://software.intel.com/en-us/blogs/2015/04/20/null-pointer-dereferencing-causes-undefined-behavior&#34;&gt;Null Pointer Dereferencing Causes Undefined Behavior&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://software.intel.com/en-us/blogs/2015/04/22/the-last-line-effect&#34;&gt;The Last Line Effect&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #71</title>
-      <link>https://titi.github.io/links/Feed-71/</link>
-      <pubDate>Sat, 25 Apr 2015 11:50:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-71/</guid>
-      <description>
-
-&lt;h1 id=&#34;performance&#34;&gt;Performance&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.catchpoint.com/2013/12/30/web-performance-is-not-an-it-thing-only/&#34;&gt;Web Performance is not an IT thing only!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dev.opera.com/blog/reducing-memory-use/&#34;&gt;Opera’s work to reduce Chromium’s memory use&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.tummy.com/articles/isolating-heavy-load/&#34;&gt;Isolating Linux High System Load&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.tarkalabs.com/2015/04/16/managing-big-enough-data-in-postgres/&#34;&gt;Managing big enough data in postgres&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;improvment&#34;&gt;Improvment&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.bozho.net/my-most-frequent-code-review-comment/&#34;&gt;My Most Frequent Code Review Comment&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://varianceexplained.org/programming/bad-code/&#34;&gt;A Million Lines of Bad Code&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://theprogrammersparadox.blogspot.fr/2015/04/shades-of-grey.html&#34;&gt;Shades of Grey&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://kevinlawler.com/prompts&#34;&gt;Oblique Strategies: Prompts for Programmers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.bozho.net/kiss-with-essential-complexity/&#34;&gt;KISS With Essential Complexity&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;announces&#34;&gt;Announces&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.favbrowser.com/microsoft-adopts-googles-bounty-strategy/&#34;&gt;Microsoft Adopts Google’s Bounty Strategy&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.jquery.com/2015/04/23/announcing-globalize-1-0/&#34;&gt;Announcing Globalize 1.0&lt;/a&gt; - jQuery blog&lt;/p&gt;
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.praetorian.com/blog/statistics-will-crack-your-password-mask-structure&#34;&gt;Statistics Will Crack Your Password&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.theguardian.com/technology/2015/apr/22/wi-fi-hack-ios-iphone-ipad-apple&#34;&gt;Wi-Fi hack creates &amp;lsquo;no iOS zone&amp;rsquo; that cripples iPhones and iPads&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.popsci.com/security-flaw-can-cause-your-iphone-reboot-endlessly&#34;&gt;This Security Flaw Can Cause Your iPhone To Reboot Endlessly&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;other-stuff&#34;&gt;Other stuff&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://digitalserb.me/writing-a-redis-client-in-pure-bash/&#34;&gt;Writing a Redis client in pure Bash&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://segment.com/blog/gotchas-from-two-years-of-node/&#34;&gt;Gotchas From Two Years With Node&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://edmundkirwan.com/general/cdf.html&#34;&gt;How do you compare the structure of two different programs?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.smartbear.com/transaction-monitoring/why-updown-monitoring-isnt-enough/&#34;&gt;Up/Down Monitoring Isn’t Enough For Your Business&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;jason-huggins-fixing-healthcare-gov-one-test-at-a-time&#34;&gt;Jason Huggins – Fixing HealthCare.gov, One Test at a Time&lt;/h1&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;In late 2013, Selenium creator Jason Huggins joined President Obama’s “tech surge” team to help fix HealthCare.gov. In D.C. during the height of the crisis in November and December 2013, Jason had a behind-the-scenes view into a unique period in American history when a website’s quality (or lack thereof) had the attention of the nation, the press, the President, and Congress.&amp;rdquo;
-&lt;div class=&#34;embed video-player&#34;&gt;
-&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/wRTDo6uWBss&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;a href=&#34;http://sauceio.com/index.php/2015/04/video-jason-huggins-fixing-healthcare-gov-one-test-at-a-time/&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
