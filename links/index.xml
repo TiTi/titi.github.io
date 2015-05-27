@@ -7,8 +7,88 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 24 May 2015 22:22:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2015 00:47:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #87</title>
+      <link>https://titi.github.io/links/Feed-87/</link>
+      <pubDate>Thu, 28 May 2015 00:47:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-87/</guid>
+      <description>
+
+&lt;h1 id=&#34;hacking&#34;&gt;Hacking&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sakurity.com/blog/2015/05/21/starbucks.html&#34;&gt;Hacking Starbucks for unlimited coffee&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@arankhanna/stalking-your-friends-with-facebook-messenger-9da8820bd27d&#34;&gt;Stalking Your Friends with Facebook Messenger&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://tbranyen.com/post/clipboard-hijacking-with-html5&#34;&gt;Clipboard Hijacking with HTML5&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;software-development-101&#34;&gt;Software Development 101&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.svpino.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour&#34;&gt;Five programming problems every Software Engineer should be able to solve in less than 1 hour&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://blog.svpino.com/2015/05/08/solution-to-problem-5-and-some-other-thoughts-about-this-type-of-questions&#34;&gt;Solution to Problem 5 and some other thoughts about this type of questions&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://raganwald.com/2015/05/08/carnac-the-magnificent.html&#34;&gt;Carnac the Magnificent&lt;/a&gt; (other solutions and thoughts on the very same question)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://simpleprogrammer.com/2015/05/18/7-mistakes-youre-making-in-your-programming-career/&#34;&gt;7 Mistakes You’re Making In Your Programming Career&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/benwilli/archive/2015/04/07/back-to-basics-visual-studio-tips.aspx&#34;&gt;Back to basics: Visual Studio tips&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/&#34;&gt;Do you really know why you prefer REST over RPC?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.guylangston.net/blog/Article/MaxMemory&#34;&gt;.NET Process Maximum Memory&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.dotnetfoundation.org/blog/wcf-is-open-source&#34;&gt;WCF Client is Open Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ayende.com/blog/170915/ravendb-sharding-adding-a-new-shard-to-an-existing-cluster-the-easy-way?Key=fa813566-6263-435e-b955-028b23260bb0&#34;&gt;Adding a new shard to an existing cluster, the easy way&lt;/a&gt; - RavenDB Sharding&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://android-developers.blogspot.fr/2015/05/always-on-and-wi-fi-with-latest-android.html&#34;&gt;Always-on and Wi-Fi with the latest Android Wear update&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dev.opera.com/articles/fixing-the-scrolltop-bug/&#34;&gt;Fixing the scrollTop bug&lt;/a&gt; - Dev.Opera&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/05/26/announcing-dolby-audio-for-high-performance-audio-in-microsoft-edge/&#34;&gt;Announcing Dolby Audio for high performance audio in Microsoft Edge&lt;/a&gt; - Microsoft Edge Dev Blog&lt;/p&gt;
+
+&lt;h1 id=&#34;paas&#34;&gt;PaaS&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/fr/blogs/aws/look-before-you-leap-the-coming-leap-second-and-aws/&#34;&gt;Look Before You Leap – The Coming Leap Second and AWS&lt;/a&gt; - AWS Official Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://githubengineering.com/rearchitecting-github-pages/&#34;&gt;Rearchitecting GitHub Pages&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/PublishingAnASPNET5AppToDockerOnLinuxWithVisualStudio.aspx&#34;&gt;Publishing an ASP.NET 5 app to Docker on Linux with Visual Studio&lt;/a&gt; - Scott Hanselman&lt;/p&gt;
+
+&lt;h1 id=&#34;efficiency&#34;&gt;Efficiency&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/05/netflix-streaming-more-energy-efficient.html&#34;&gt;Netflix Streaming - More Energy Efficient than Breathing&lt;/a&gt; - The Netflix Tech Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://githubengineering.com/browser-monitoring-for-github-com/&#34;&gt;Browser Monitoring for GitHub.com&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://brandur.org/postgres-queues&#34;&gt;Postgres Job Queues &amp;amp; Failure By MVCC&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;www.javacodegeeks.com/2015/05/revisiting-the-first-rule-of-performance-optimisation-effects-of-escape-analysis.html&#34;&gt;Revisiting the First Rule of Performance Optimisation: Effects of Escape Analysis&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;product-development&#34;&gt;Product development&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://arian-celina.com/what-is-the-mission-of-a-software-developer/&#34;&gt;What is the mission of a software developer&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;[Software developers] are interested is that how a technology or a framework works and how they can use or advance it. That is it. They care about code quality, they care about unit testing, they care about code reuse, and lots of other technical characteristics of the software, but rarely they discuss about how usable their applications are, or how efficiently they optimize a business problem their software is addressing or what business value they have delivered with the software they have built.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.openjck.com/less-is-more/&#34;&gt;Less is more&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mrchlblng.me/2015/05/what-could-go-wrong/&#34;&gt;What could go wrong?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://a16z.com/2015/05/20/enterprise-sales-for-product-people/&#34;&gt;A Product Person’s Perspective on Enterprise Selling&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;http://www.nextinpact.com/news/95159-le-fisc-rechigne-a-reveler-code-source-ses-logiciels.htm&#34;&gt;Le fisc rechigne à révéler le code source de ses logiciels&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #86</title>
@@ -728,41 +808,6 @@ Scott Hanselman / Microsoft&lt;/p&gt;
 &lt;iframe src=&#34;//player.vimeo.com/video/125372219&#34; width=&#34;640&#34; height=&#34;385&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #72</title>
-      <link>https://titi.github.io/links/Feed-72/</link>
-      <pubDate>Sun, 26 Apr 2015 21:08:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-72/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/BadUXAndUserSelfBlameImSorryImNotAComputerPerson.aspx&#34;&gt;Bad UX and User Self-Blame - &amp;ldquo;I&amp;rsquo;m sorry, I&amp;rsquo;m not a computer person.&amp;rdquo;&lt;/a&gt; - Scott Hanselman&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://playbook.cio.gov/&#34;&gt;U.S. Digital Services Playbook&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/your-password-is-too-damn-short/&#34;&gt;Your Password is Too Damn Short&lt;/a&gt; - Jeff Atwood&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/&#34;&gt;Go&amp;rsquo;s error handling: good and bad&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/&#34;&gt;A beginner’s guide to Cache synchronization strategies&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.thegrumpyprogrammer.com/2015/04/rfids-encryption-and-stop-rules-oh-my.html&#34;&gt;RFIDs, Encryption, and Stop Rules&amp;hellip; Oh My!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.16personalities.com/free-personality-test&#34;&gt;Free personality test&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://developermedia.com/developer-personalities-audience-brief-report/&#34;&gt;Developer Personalities: Audience Brief&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://google-opensource.blogspot.fr/2015/04/jsonnet-more-elegant-language-for.html&#34;&gt;Jsonnet: a more elegant language for composing JSON&lt;/a&gt; - Google Open Source Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mortoray.com/2015/04/20/nobody-cares-about-your-code/&#34;&gt;Nobody cares about your code&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://numeratechoir.com/its-easier-to-be-honest-the-second-time-around/&#34;&gt;It’s Easier to Be Honest the Second Time Around&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/&#34;&gt;Lessons Learned in Software Development&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://software.intel.com/en-us/blogs/2015/04/20/null-pointer-dereferencing-causes-undefined-behavior&#34;&gt;Null Pointer Dereferencing Causes Undefined Behavior&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://software.intel.com/en-us/blogs/2015/04/22/the-last-line-effect&#34;&gt;The Last Line Effect&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
