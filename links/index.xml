@@ -7,8 +7,69 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 07 Jun 2015 11:54:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2015 23:39:45 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #90</title>
+      <link>https://titi.github.io/links/Feed-90/</link>
+      <pubDate>Tue, 09 Jun 2015 23:39:45 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-90/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://chrome.blogspot.fr/2015/06/quick-answers-to-quick-questions.html&#34;&gt;Quick answers to quick questions&lt;/a&gt; - Google Chrome Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/HowToEnableHTTPStrictTransportSecurityHSTSInIIS7.aspx&#34;&gt;How to enable HTTP Strict Transport Security (HSTS) in IIS7+&lt;/a&gt; -
+Scott Hanselman&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/oldnewthing/archive/2015/05/28/10617693.aspx&#34;&gt;When designing your user interface, be mindful of the selection-readers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html&#34;&gt;We have a problem with promises&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://firstdoit.com/react-1/&#34;&gt;How I learned to stop worrying and love React&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://rubyonwindowsguides.github.io/&#34;&gt;Ruby on Windows Guides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/06/software-architecture-in-devops.html&#34;&gt;Software Architecture in DevOps&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://benlog.com/2015/05/23/the-responsibility-we-have-as-software-engineers/&#34;&gt;the responsibility we have as software engineers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gocardless.com/blog/zero-downtime-postgres-migrations-the-hard-parts/&#34;&gt;Zero-downtime Postgres migrations - the hard parts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.banyanops.com/blog/analyzing-docker-hub/&#34;&gt;Over 30% of Official Images in Docker Hub Contain High Priority Security Vulnerabilities&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.yegor256.com/2015/05/25/unit-test-scaffolding.html&#34;&gt;A Few Thoughts on Unit Test Scaffolding&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html&#34;&gt;Seven Virtues of a Good Object&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation&#34;&gt;Optimistic UI with Meteor&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://simpleprogrammer.com/2015/05/25/some-advice-on-becoming-a-lead-developer/&#34;&gt;Some Advice On Becoming a Lead Developer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Reference counting is one thing, but not enough: a Garbage Collector needs to track non-reachable objects from Garbage Collection Roots.&lt;br /&gt;
+Check this article: &lt;a href=&#34;https://plumbr.eu/blog/garbage-collection/what-is-garbage-collection&#34;&gt;What is Garbage Collection?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.smashingmagazine.com/2015/05/25/designing-for-explicit-choice/&#34;&gt;Designing For Explicit Choice&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://naildrivin5.com/blog/2014/09/18/why-scrum-should-basically-die-in-a-fire.html&#34;&gt;Why Scrum Should Basically Die in a Fire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://zachholman.com/posts/git-commit-history/&#34;&gt;Utter Disregard for Git Commit History&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.continuousimprover.com/2015/05/dude-you-cant-solve-all-your-problems.html&#34;&gt;Dude, you can&amp;rsquo;t solve all the problems by yourself&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://weakdh.org/&#34;&gt;The Logjam Attack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://engineering.linkedin.com/open-source/why-open-source-works-linkedin&#34;&gt;Why Open Source Works for LinkedIn&lt;/a&gt;&lt;br /&gt;
+I don&amp;rsquo;t feel the title reflect the article but it&amp;rsquo;s interesting anyway.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.cask.co/2015/05/scalable-distributed-transactional-queues/&#34;&gt;Scalable Distributed Transactional Queues on HBase&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.yegor256.com/2015/05/11/software-architect-responsibilities.html&#34;&gt;Three Things I Expect From a Software Architect&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.schauderhaft.de/2015/05/31/critical-skills-for-software-developer-to-few-people-talk-about/&#34;&gt;Critical Skills for Software Developer too few People talk about&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mziccard.me/2015/05/28/beats-detection-algorithms-1/&#34;&gt;Beat Detection Algorithms (Part 1)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #89 - Sunday fun</title>
@@ -777,64 +838,6 @@ Scott Hanselman / Microsoft&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;p&gt;[FR] &lt;a href=&#34;http://www.lesnumeriques.com/google-injecte-150-millions-euros-dans-presse-europeenne-n41733.html&#34;&gt;Google injecte 150 millions d&amp;rsquo;euros dans la presse européenne&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #75</title>
-      <link>https://titi.github.io/links/Feed-75/</link>
-      <pubDate>Thu, 30 Apr 2015 20:46:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-75/</guid>
-      <description>
-
-&lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.leadingagile.com/2015/04/the-next-most-important-thing/&#34;&gt;The Next Most Important Thing&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.smashingmagazine.com/2015/04/23/how-to-become-a-ux-leader/&#34;&gt;How To Become A UX Leader&lt;/a&gt; - Smashing Magazine&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paulhammant.com/2015/04/23/the-origins-of-trunk-based-development/&#34;&gt;The origins of Trunk Based Development&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.leadingagile.com/2015/03/estimates-or-noestimates-its-all-a-matter-of-context/&#34;&gt;Estimates or #noestimates… It’s All a Matter of Context&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cppquiz.org&#34;&gt;C++ Quiz&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/&#34;&gt;Lessons Learned in Software Development&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://henrikwarne.com/2014/06/30/what-makes-a-good-programmer/&#34;&gt;What Makes a Good Programmer?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.evanmiller.org/four-days-of-go.html&#34;&gt;Four Days of Go&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.thekua.com/atwork/2015/04/book-review-software-architecture-for-developers/&#34;&gt;Book Review: Software Architecture for Developers&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.wired.com/2015/04/researchers-uncover-method-detect-nsa-quantum-insert-hacks&#34;&gt;How to Detect Sneaky NSA ‘Quantum Insert’ Attacks&lt;/a&gt; - wired.com&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://fosterelli.co/privilege-escalation-via-docker.html&#34;&gt;Privilege Escalation via Docker&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/ie/archive/2015/04/29/microsoft-edge-is-the-browser-for-windows-10.aspx&#34;&gt;Microsoft Edge is the browser for Windows 10&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.chromium.org/2015/04/dev-channel-for-chrome-on-android.html&#34;&gt;Dev channel for Chrome on Android&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;brain&#34;&gt;Brain&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://workflowy.com&#34;&gt;WorkFlowy - Organize your brain&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;arvindn.livejournal.com/57651.html&#34;&gt;The calculus of caffeine consumption&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://bocoup.com/weblog/vintage-visualization-restoration-bump-chart/&#34;&gt;Vintage Visualization Restoration - Bump Chart Edition&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;When Higinio Ochoa got out of prison for hacking in September of 2014, one of the terms of his parole was that he is not allowed to use any internet connected device. We went to his home in Austin to find out how he got caught and what it&amp;rsquo;s like – in 2015 – to go from living online to not having any internet access.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.f-secure.com/weblog/archives/00002807.html&#34;&gt;Reply All #21 Hack the Police&lt;/a&gt; - F-Secure Weblog&lt;/p&gt;
 </description>
     </item>
     

@@ -7,8 +7,69 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 07 Jun 2015 11:54:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2015 23:39:45 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #90</title>
+      <link>https://titi.github.io/links/Feed-90/</link>
+      <pubDate>Tue, 09 Jun 2015 23:39:45 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-90/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://chrome.blogspot.fr/2015/06/quick-answers-to-quick-questions.html&#34;&gt;Quick answers to quick questions&lt;/a&gt; - Google Chrome Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/HowToEnableHTTPStrictTransportSecurityHSTSInIIS7.aspx&#34;&gt;How to enable HTTP Strict Transport Security (HSTS) in IIS7+&lt;/a&gt; -
+Scott Hanselman&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/oldnewthing/archive/2015/05/28/10617693.aspx&#34;&gt;When designing your user interface, be mindful of the selection-readers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html&#34;&gt;We have a problem with promises&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://firstdoit.com/react-1/&#34;&gt;How I learned to stop worrying and love React&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://rubyonwindowsguides.github.io/&#34;&gt;Ruby on Windows Guides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/06/software-architecture-in-devops.html&#34;&gt;Software Architecture in DevOps&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://benlog.com/2015/05/23/the-responsibility-we-have-as-software-engineers/&#34;&gt;the responsibility we have as software engineers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gocardless.com/blog/zero-downtime-postgres-migrations-the-hard-parts/&#34;&gt;Zero-downtime Postgres migrations - the hard parts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.banyanops.com/blog/analyzing-docker-hub/&#34;&gt;Over 30% of Official Images in Docker Hub Contain High Priority Security Vulnerabilities&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.yegor256.com/2015/05/25/unit-test-scaffolding.html&#34;&gt;A Few Thoughts on Unit Test Scaffolding&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html&#34;&gt;Seven Virtues of a Good Object&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation&#34;&gt;Optimistic UI with Meteor&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://simpleprogrammer.com/2015/05/25/some-advice-on-becoming-a-lead-developer/&#34;&gt;Some Advice On Becoming a Lead Developer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Reference counting is one thing, but not enough: a Garbage Collector needs to track non-reachable objects from Garbage Collection Roots.&lt;br /&gt;
+Check this article: &lt;a href=&#34;https://plumbr.eu/blog/garbage-collection/what-is-garbage-collection&#34;&gt;What is Garbage Collection?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.smashingmagazine.com/2015/05/25/designing-for-explicit-choice/&#34;&gt;Designing For Explicit Choice&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://naildrivin5.com/blog/2014/09/18/why-scrum-should-basically-die-in-a-fire.html&#34;&gt;Why Scrum Should Basically Die in a Fire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://zachholman.com/posts/git-commit-history/&#34;&gt;Utter Disregard for Git Commit History&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.continuousimprover.com/2015/05/dude-you-cant-solve-all-your-problems.html&#34;&gt;Dude, you can&amp;rsquo;t solve all the problems by yourself&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://weakdh.org/&#34;&gt;The Logjam Attack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://engineering.linkedin.com/open-source/why-open-source-works-linkedin&#34;&gt;Why Open Source Works for LinkedIn&lt;/a&gt;&lt;br /&gt;
+I don&amp;rsquo;t feel the title reflect the article but it&amp;rsquo;s interesting anyway.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.cask.co/2015/05/scalable-distributed-transactional-queues/&#34;&gt;Scalable Distributed Transactional Queues on HBase&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.yegor256.com/2015/05/11/software-architect-responsibilities.html&#34;&gt;Three Things I Expect From a Software Architect&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.schauderhaft.de/2015/05/31/critical-skills-for-software-developer-to-few-people-talk-about/&#34;&gt;Critical Skills for Software Developer too few People talk about&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mziccard.me/2015/05/28/beats-detection-algorithms-1/&#34;&gt;Beat Detection Algorithms (Part 1)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #89 - Sunday fun</title>
@@ -956,63 +1017,6 @@ Source: &lt;a href=&#34;http://geek-and-poke.com/geekandpoke/2010/12/21/the-free
 
 &lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/oldnewthing/archive/2015/05/01/10611358.aspx&#34;&gt;That&amp;rsquo;s not how you start a boat&lt;/a&gt;&lt;br /&gt;
 (also, first comment is quite a story too)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #76</title>
-      <link>https://titi.github.io/links/Feed-76/</link>
-      <pubDate>Sun, 03 May 2015 00:08:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-76/</guid>
-      <description>
-
-&lt;h1 id=&#34;software-security&#34;&gt;Software Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/an-introduction-to-javascript-based-ddos/&#34;&gt;An introduction to JavaScript-based DDoS&lt;/a&gt; - CloudFlare&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://software.intel.com/en-us/blogs/2015/04/24/lets-play-a-game-find-bugs-in-popular-open-source-projects&#34;&gt;Let&amp;rsquo;s Play a Game - find bugs in popular open-source projects&lt;/a&gt; - Intel® Developer Zone&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/04/can-devopssec-make-software-more-secure.html&#34;&gt;Can DevOps(Sec) make Software more Secure?&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://bocoup.com/weblog/lessons-from-scrum/&#34;&gt;Lessons from Scrum&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/agile-metrics-people&#34;&gt;Agile Metrics to the People!&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;visual-studio&#34;&gt;Visual Studio&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://haacked.com/archive/2015/04/30/github-in-your-visual-studio/&#34;&gt;GitHub Inside Your Visual Studio&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/IntroducingVisualStudioCodeForWindowsMacAndLinux.aspx&#34;&gt;Introducing Visual Studio Code for Windows, Mac, and Linux&lt;/a&gt; -
-Scott Hanselman / Microsoft&lt;/p&gt;
-
-&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.favbrowser.com/microsoft-edge-will-support-firefox-and-chrome-extensions/&#34;&gt;Microsoft Edge Will Support Firefox And Chrome Extensions&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.chromium.org/2015/04/scheduling-tasks-intelligently-for_30.html&#34;&gt;Scheduling tasks intelligently for optimized performance&lt;/a&gt; - Chromium Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/&#34;&gt;Deprecating Non-Secure HTTP&lt;/a&gt; - Mozilla Security Blog&lt;/p&gt;
-
-&lt;h1 id=&#34;various&#34;&gt;Various&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.imore.com/apple-has-confirmed-it-will-reject-all-apple-watch-apps-just-tell-time&#34;&gt;Apple has confirmed it will reject all Apple Watch apps that just tell time&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/redesigning-cloudflare/&#34;&gt;Redesigning CloudFlare&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://swizec.com/blog/how-a-book-i-wrote-in-two-weeks-made-4000-in-its-first-month/swizec/6675&#34;&gt;How a book I wrote in two weeks made $4,000 in its first month&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/what-is-trolling/&#34;&gt;What is Trolling?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mortoray.com/2015/04/29/cohesion-and-coupling-good-measures-of-quality/&#34;&gt;Cohesion and coupling: good measures of quality&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.daedtech.com/defining-the-corporate-hierarchy&#34;&gt;Defining The Corporate Hierarchy&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;[FR] &lt;a href=&#34;http://www.lesnumeriques.com/google-injecte-150-millions-euros-dans-presse-europeenne-n41733.html&#34;&gt;Google injecte 150 millions d&amp;rsquo;euros dans la presse européenne&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
