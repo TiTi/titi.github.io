@@ -7,8 +7,56 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 14 Jun 2015 18:29:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2015 23:55:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #93</title>
+      <link>https://titi.github.io/links/Feed-93/</link>
+      <pubDate>Sun, 26 Jul 2015 23:55:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-93/</guid>
+      <description>
+
+&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.mozilla.org/nnethercote/2015/07/01/firefox-41-will-use-less-memory-when-running-adblock-plus/&#34;&gt;Firefox 41 will use less memory when running AdBlock Plus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://arstechnica.com/security/2015/07/adobe-flash-exploit-that-was-leaked-by-hacking-team-goes-wild-patch-now/&#34;&gt;Adobe Flash exploit that was leaked by Hacking Team goes wild; patch now!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.chromium.org/2015/07/revving-up-javascript-performance-with.html&#34;&gt;Revving up JavaScript performance with TurboFan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://googlechromereleases.blogspot.fr/2015/07/stable-channel-update_21.html&#34;&gt;Google Chrome Stable Channel Update - July 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;uri&#34;&gt;URI&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.w3.org/Provider/Style/URI.html&#34;&gt;Cool URIs don&amp;rsquo;t change&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.secretgeek.net/uri_enconding&#34;&gt;Which Uri Encoding method should i use in C#/.net?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;improve&#34;&gt;Improve&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://swizec.com/blog/why-offices-are-where-work-goes-to-die/swizec/6695&#34;&gt;Why offices are where work goes to die&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://haacked.com/archive/2015/06/15/the-getting-better-moment/&#34;&gt;The Getting Better Moment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/07/dont-blame-bad-software-on-developers.html&#34;&gt;Don’t Blame Bad Software on Developers – Blame it on their Managers&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;software&#34;&gt;Software&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://barahilia.github.io/blog/computers/2014/10/09/hg-pull-via-http-fails-400.html&#34;&gt;hg pull via HTTP fails with 400 error code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cryto.net/~joepie91/blog/2015/07/19/why-you-should-never-ever-ever-use-mongodb/&#34;&gt;Why you should never, ever, ever use MongoDB&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;http://www.lemagit.fr/conseil/Comment-fonctionne-Docker-sous-Windows&#34;&gt;Comment fonctionne Docker sous Windows&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;schrodinger-s-backup&#34;&gt;Schrodinger&amp;rsquo;s Backup&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The condition of any backup is unknown until a restore is attempted.&amp;rdquo; &lt;a href=&#34;https://twitter.com/nixcraft/status/613636528439345152&#34;&gt;@nixcraft&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #92 - Sunday fun</title>
@@ -757,72 +805,6 @@ Great to see Microsoft finally work on this! Maybe just a way to keep up with Go
 &lt;p&gt;&lt;a href=&#34;http://www.continuousimprover.com/2015/04/prioritizing-projects-and-tasks-with.html&#34;&gt;Prioritizing projects and tasks with minimum loss of time and money&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://foundersatwork.posthaven.com/subtle-mid-stage-pitfalls&#34;&gt;Subtle Mid-Stage Startup Pitfalls&lt;/a&gt; - Jessica Livingston, cofounder and partner at Y Combinator&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #78</title>
-      <link>https://titi.github.io/links/Feed-78/</link>
-      <pubDate>Mon, 04 May 2015 23:57:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-78/</guid>
-      <description>
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://thehackernews.com/2015/05/railway-system-password.html&#34;&gt;London Railway System Passwords Exposed During TV Documentary&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.fr/2015/04/a-javascript-based-ddos-attack-as-seen.html&#34;&gt;A Javascript-based DDoS Attack as seen by Safe Browsing&lt;/a&gt; - Google Online Security Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.technet.com/b/johnla/archive/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win.aspx&#34;&gt;Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;quality-assurance&#34;&gt;Quality Assurance&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://chadaustin.me/2015/01/code-reviews-follow-the-data/&#34;&gt;Code Reviews: Follow the Data&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://engineering.imvu.com/2015/01/27/the-case-of-the-page-cant-be-displayed-intermittent-selenium-test/&#34;&gt;The case of the “Page can’t be displayed” intermittent selenium test&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;sql-performance&#34;&gt;SQL Performance&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.percona.com/blog/2014/01/07/increasing-slow-query-performance-with-parallel-query-execution/&#34;&gt;Increasing slow query performance with the parallel query execution&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.percona.com/blog/2015/04/03/illustrating-primary-key-models-in-innodb-and-their-impact-on-disk-usage/&#34;&gt;Illustrating Primary Key models in InnoDB and their impact on disk usage&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;process&#34;&gt;Process&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://radianttiger.com/2015/04/20/a-culture-that-attracts-quality-candidates/&#34;&gt;A culture that attracts quality candidates&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.giorgiosironi.com/2015/03/evolution-in-software-development.html&#34;&gt;Evolution in software development&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://dannorth.net/2015/04/24/two-hours-per-team/&#34;&gt;Two hours per team&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;languages&#34;&gt;Languages&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ralphsaunders.co.uk/jquery-is-dead.html&#34;&gt;jQuery is dead&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.dmiller.io/blog/2015/4/26/comparing-the-php7-and-hack-type-systems&#34;&gt;Comparing the PHP 7 and Hack Type Systems&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://chadaustin.me/2015/04/the-long-term-problem-with-dynamically-typed-languages/&#34;&gt;The Long-Term Problem With Dynamically Typed Languages&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Not improving core APIs results in a kind of broken windows effect. When APIs are confusing or vague, people tend not to notice other confusing or vague APIs, and it slows everyone down in the long term.&lt;/p&gt;
-
-&lt;p&gt;Thus, instead of easily refactoring the legacy APIs, people think &amp;ldquo;I’ll just make a new one and migrate the code over!&amp;rdquo; And now you have two hard-to-change APIs. And then three. And the cycle continues. Additionally, this cycle is fed by architect types who know or think they know a better way to do things, but can’t be bothered to update the old systems.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://lostinjit.blogspot.it/2015/03/hippyvm-goes-to-y-combinator-and-fails.html&#34;&gt;HippyVM goes to Y Combinator and fails&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/&#34;&gt;FizzBuzz In Too Much Detail&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@dan.ellis/solving-a-tricky-problem-d1a8766f5347&#34;&gt;Solving a Tricky Problem&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hacks.mozilla.org/2015/04/es6-in-depth-an-introduction/&#34;&gt;ES6 In Depth: An Introduction&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.takipi.com/4-creative-ways-to-test-your-code-in-production/&#34;&gt;4 Creative Ways to Test Your Code in Production&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.twitter.com/2015/building-a-new-trends-experience&#34;&gt;Building a new trends experience&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
