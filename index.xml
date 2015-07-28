@@ -7,8 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 26 Jul 2015 23:55:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2015 20:36:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #94</title>
+      <link>https://titi.github.io/links/Feed-94/</link>
+      <pubDate>Tue, 28 Jul 2015 20:36:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-94/</guid>
+      <description>
+
+&lt;h1 id=&#34;awesome&#34;&gt;Awesome&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/07/java-in-flames.html&#34;&gt;Java in Flames - Netflix&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/how-to-receive-a-million-packets/&#34;&gt;How to receive a million packets per second - CloudFlare&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://coding-geek.com/how-shazam-works/&#34;&gt;How does Shazam work&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;css&#34;&gt;CSS&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://codersblock.com/blog/checkbox-trickery-with-css/&#34;&gt;Checkbox Trickery with CSS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bitsofco.de/2015/controlling-the-box-model/&#34;&gt;Controlling The Box Model&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/&#34;&gt;Understanding Block Formatting Contexts in CSS&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;software-craftsmanship&#34;&gt;Software craftsmanship&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://slott-softwarearchitect.blogspot.fr/2015/06/on-waiting-to-write-serious-code.html&#34;&gt;On Waiting to Write &amp;ldquo;Serious Code&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.benjaminfry.com/2015/06/software-engineers-are-lazy-bastards.html&#34;&gt;Software engineers are lazy bastards (pt. 1)&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://blog.benjaminfry.com/2015/06/software-engineers-are-lazy-bastards-pt.html&#34;&gt;Software engineers are lazy bastards (pt. 2)&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://blog.benjaminfry.com/2015/06/software-engineers-are-lazy-bastards-pt_23.html&#34;&gt;Software engineers are lazy bastards (pt. 3)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;upgrade&#34;&gt;Upgrade&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.jquery.com/2015/07/13/jquery-3-0-and-jquery-compat-3-0-alpha-versions-released/&#34;&gt;jQuery 3.0 and jQuery Compat 3.0 Alpha Versions Released&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/increasing-cache-hit-rates-with-query-string-sort/&#34;&gt;Increasing Cache Hit Rates with Query String Sort&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;not-to-do&#34;&gt;Not to do&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://martinfowler.com/articles/dont-start-monolith.html&#34;&gt;Don’t start with a monolith… when your goal is a microservices architecture&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mkremins.github.io/blog/unix-not-acceptable-unix/&#34;&gt;Unix is not an acceptable Unix&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techblog.bozho.net/government-abandonware/&#34;&gt;Government Abandonware&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://babeljs.io/docs/learn-es2015/&#34;&gt;Learn ES2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dibaiee.ir/es7-array-generator-comprehensions/&#34;&gt;ES7 Array and Generator comprehensions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bocoup.com/weblog/es2015-nightmarefile/&#34;&gt;The ES2015 Nightmarefile&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #93</title>
@@ -941,70 +997,6 @@ Also see: &lt;a href=&#34;http://pettermahlen.com/2011/04/08/if-its-broken-fix-i
 &lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/05/11/microsoft-edge-building-a-safer-browser/&#34;&gt;Microsoft Edge: Building a safer browser&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/05/08/building-vorlon-js-with-the-help-of-the-developer-community-and-whats-next/&#34;&gt;Building vorlon.JS with the help of the developer community and what’s next&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #80</title>
-      <link>https://titi.github.io/links/Feed-80/</link>
-      <pubDate>Thu, 07 May 2015 08:21:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-80/</guid>
-      <description>
-
-&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.technet.com/b/mmpc/archive/2015/04/28/cleaning-up-misleading-advertisements.aspx&#34;&gt;Cleaning up misleading advertisements&lt;/a&gt; - Microsoft Malware Protection Center&lt;br /&gt;
-Great to see Microsoft finally work on this! Maybe just a way to keep up with Google initiatives:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.fr/2015/03/out-with-unwanted-ad-injectors.html&#34;&gt;Out with unwanted ad injectors&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.fr/2015/03/even-more-unwanted-software-protection.html&#34;&gt;Even more unwanted software protection via the Safe Browsing API&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.fr/2015/02/more-protection-from-unwanted-software.html&#34;&gt;More Protection from Unwanted Software&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&amp;hellip; and Google just release &amp;ldquo;the results of a study performed with the University of California, Berkeley and Santa Barbara that examines the ad injector ecosystem, in-depth, for the first time&amp;rdquo;: &lt;a href=&#34;http://googleonlinesecurity.blogspot.fr/2015/05/new-research-ad-injection-economy.html&#34;&gt;New Research: The Ad Injection Economy&lt;/a&gt; - Google Online Security Blog&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://dev.modern.ie/platform/status/&#34;&gt;Microsoft Edge Dev site - Platform Status&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/05/06/a-break-from-the-past-part-2-saying-goodbye-to-activex-vbscript-attachevent/&#34;&gt;A break from the past, part 2: Saying goodbye to ActiveX, VBScript, attachEvent…&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cryto.net/~joepie91/blog/2015/05/01/on-mozillas-forced-ssl/&#34;&gt;On Mozilla&amp;rsquo;s forced SSL&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;scalability&#34;&gt;Scalability&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://leandromoreira.com.br/2015/04/26/fifa-2014-world-cup-live-stream-architecture/&#34;&gt;FIFA 2014 World Cup live stream architecture&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html&#34;&gt;Lessons Learned while Working on Large-Scale Server Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;You do not understand how your system works if you do not understand how it fails.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Be ready to restart the entire system from a blank slate, under load.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Next, an incredible troubleshooting and series of enhancements. Memory managment is really hard when you get into garbage collection issues and painful fragmentation:&lt;br /&gt;
-&lt;a href=&#34;https://blog.heroku.com/archives/2013/11/7/logplex-down-the-rabbit-hole&#34;&gt;Troubleshooting Down the Logplex Rabbit Hole&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;process&#34;&gt;Process&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.bozho.net/the-precious-feature-design-meetings/&#34;&gt;The Precious Feature Design Meetings&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://johannesbrodwall.com/2015/04/08/getting-excited-about-your-project-with-a-news-headline-from-the-future/&#34;&gt;Getting excited about your project with a news headline from the future&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://radar.oreilly.com/2015/04/embracing-failure-and-learning-from-the-imposter-syndrome.html&#34;&gt;Embracing failure and learning from the Imposter Syndrome&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://marxsoftware.blogspot.fr/2015/04/software-development-lessons-learned.html&#34;&gt;Software Development Lessons Learned from Consumer Experience&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.continuousimprover.com/2015/03/what-kind-of-software-architect-are-you.html&#34;&gt;What kind of software architect are you? Strategist or tactician?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/vcblog/archive/2015/05/01/bringing-clang-to-windows.aspx&#34;&gt;Bringing Clang to Windows&lt;/a&gt; - Visual C++ Team Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.eset.com/int/about/press/articles/malware/article/linux-and-bsd-web-servers-at-risk-of-sophisticated-mumblehard-infection-says-eset/&#34;&gt;Linux and BSD Web Servers At Risk Of Sophisticated Mumblehard Infection, Says ESET&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
