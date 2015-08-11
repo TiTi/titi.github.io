@@ -7,8 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Tue, 28 Jul 2015 20:36:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2015 23:33:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #95</title>
+      <link>https://titi.github.io/links/Feed-95/</link>
+      <pubDate>Tue, 11 Aug 2015 23:33:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-95/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/doing-terrible-things-to-your-code/&#34;&gt;Doing Terrible Things To Your Code&lt;/a&gt; - Jeff Atwood&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/a-deep-look-at-cve-2015-5477-and-how-cloudflare-virtual-dns-customers-are-protected/&#34;&gt;A deep look at CVE-2015-5477 and how CloudFlare Virtual DNS customers are protected&lt;/a&gt; - CloudFlare Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ruslanspivak.com/lsbaws-part1/&#34;&gt;Let’s Build A Web Server. Part 1.&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://ruslanspivak.com/lsbaws-part2/&#34;&gt;Let’s Build A Web Server. Part 2.&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://ruslanspivak.com/lsbaws-part3/&#34;&gt;Let’s Build A Web Server. Part 3.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://programmers.stackexchange.com/a/7285&#34;&gt;Cowboy coding&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/GettingStartedWithWindows10.aspx&#34;&gt;Getting Started with Windows 10&lt;/a&gt; - Scott Hanselman&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2015/07/to-validate-or-verify/&#34;&gt;To Validate or Verify?&lt;/a&gt; - Sauce Labs Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.mozilla.org/blog/2015/07/30/an-open-letter-to-microsofts-ceo-dont-roll-back-the-clock-on-choice-and-control/&#34;&gt;An Open Letter to Microsoft’s CEO: Don’t Roll Back the Clock on Choice and Control&lt;/a&gt; - The Mozilla Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/07/23/bringing-automated-testing-to-microsoft-edge-through-webdriver/&#34;&gt;Bringing automated testing to Microsoft Edge through WebDriver&lt;/a&gt; - Microsoft Edge Dev Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.romanpichler.com/blog/product-backlog-right-details/&#34;&gt;How Detailed should the Product Backlog be?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/&#34;&gt;DNS parser, meet Go fuzzer&lt;/a&gt; - CloudFlare Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/welcome-to-the-internet-of-compromised-things/&#34;&gt;Welcome to The Internet of Compromised Things&lt;/a&gt; - Jeff Atwood&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/08/making-netflixcom-faster.html&#34;&gt;Making Netflix.com Faster&lt;/a&gt; - The Netflix Tech Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://highscalability.com/blog/2015/8/10/how-google-invented-an-amazing-datacenter-network-only-they.html/&#34;&gt;How Google Invented An Amazing Datacenter Network Only They Could Create&lt;/a&gt; - High Scalability&lt;/p&gt;
+
+&lt;p&gt;Alphabet - &lt;a href=&#34;https://abc.xyz/&#34;&gt;https://abc.xyz/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #94</title>
@@ -761,70 +799,6 @@ Also see: &lt;a href=&#34;http://pettermahlen.com/2011/04/08/if-its-broken-fix-i
 &lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/05/11/microsoft-edge-building-a-safer-browser/&#34;&gt;Microsoft Edge: Building a safer browser&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/05/08/building-vorlon-js-with-the-help-of-the-developer-community-and-whats-next/&#34;&gt;Building vorlon.JS with the help of the developer community and what’s next&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #80</title>
-      <link>https://titi.github.io/links/Feed-80/</link>
-      <pubDate>Thu, 07 May 2015 08:21:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-80/</guid>
-      <description>
-
-&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.technet.com/b/mmpc/archive/2015/04/28/cleaning-up-misleading-advertisements.aspx&#34;&gt;Cleaning up misleading advertisements&lt;/a&gt; - Microsoft Malware Protection Center&lt;br /&gt;
-Great to see Microsoft finally work on this! Maybe just a way to keep up with Google initiatives:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.fr/2015/03/out-with-unwanted-ad-injectors.html&#34;&gt;Out with unwanted ad injectors&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.fr/2015/03/even-more-unwanted-software-protection.html&#34;&gt;Even more unwanted software protection via the Safe Browsing API&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.fr/2015/02/more-protection-from-unwanted-software.html&#34;&gt;More Protection from Unwanted Software&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&amp;hellip; and Google just release &amp;ldquo;the results of a study performed with the University of California, Berkeley and Santa Barbara that examines the ad injector ecosystem, in-depth, for the first time&amp;rdquo;: &lt;a href=&#34;http://googleonlinesecurity.blogspot.fr/2015/05/new-research-ad-injection-economy.html&#34;&gt;New Research: The Ad Injection Economy&lt;/a&gt; - Google Online Security Blog&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://dev.modern.ie/platform/status/&#34;&gt;Microsoft Edge Dev site - Platform Status&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/05/06/a-break-from-the-past-part-2-saying-goodbye-to-activex-vbscript-attachevent/&#34;&gt;A break from the past, part 2: Saying goodbye to ActiveX, VBScript, attachEvent…&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cryto.net/~joepie91/blog/2015/05/01/on-mozillas-forced-ssl/&#34;&gt;On Mozilla&amp;rsquo;s forced SSL&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;scalability&#34;&gt;Scalability&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://leandromoreira.com.br/2015/04/26/fifa-2014-world-cup-live-stream-architecture/&#34;&gt;FIFA 2014 World Cup live stream architecture&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html&#34;&gt;Lessons Learned while Working on Large-Scale Server Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;You do not understand how your system works if you do not understand how it fails.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Be ready to restart the entire system from a blank slate, under load.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Next, an incredible troubleshooting and series of enhancements. Memory managment is really hard when you get into garbage collection issues and painful fragmentation:&lt;br /&gt;
-&lt;a href=&#34;https://blog.heroku.com/archives/2013/11/7/logplex-down-the-rabbit-hole&#34;&gt;Troubleshooting Down the Logplex Rabbit Hole&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;process&#34;&gt;Process&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.bozho.net/the-precious-feature-design-meetings/&#34;&gt;The Precious Feature Design Meetings&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://johannesbrodwall.com/2015/04/08/getting-excited-about-your-project-with-a-news-headline-from-the-future/&#34;&gt;Getting excited about your project with a news headline from the future&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://radar.oreilly.com/2015/04/embracing-failure-and-learning-from-the-imposter-syndrome.html&#34;&gt;Embracing failure and learning from the Imposter Syndrome&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://marxsoftware.blogspot.fr/2015/04/software-development-lessons-learned.html&#34;&gt;Software Development Lessons Learned from Consumer Experience&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.continuousimprover.com/2015/03/what-kind-of-software-architect-are-you.html&#34;&gt;What kind of software architect are you? Strategist or tactician?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/vcblog/archive/2015/05/01/bringing-clang-to-windows.aspx&#34;&gt;Bringing Clang to Windows&lt;/a&gt; - Visual C++ Team Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.eset.com/int/about/press/articles/malware/article/linux-and-bsd-web-servers-at-risk-of-sophisticated-mumblehard-infection-says-eset/&#34;&gt;Linux and BSD Web Servers At Risk Of Sophisticated Mumblehard Infection, Says ESET&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
