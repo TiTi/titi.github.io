@@ -7,8 +7,81 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 16 Aug 2015 21:46:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2015 23:22:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #97</title>
+      <link>https://titi.github.io/links/Feed-97/</link>
+      <pubDate>Thu, 20 Aug 2015 23:22:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-97/</guid>
+      <description>
+
+&lt;h1 id=&#34;software-quality&#34;&gt;Software Quality&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.stevemcconnell.com/articles/art04.htm&#34;&gt;Software Quality at Top Speed&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;« Some project managers try to shorten their schedules by reducing the time spent on quality-assurance practices such as design and code reviews. Some shortchange the upstream activities of requirements analysis and design. Others&amp;ndash;running late&amp;ndash;try to make up time by compressing the testing schedule, which is vulnerable to reduction since it’s the critical-path item at the end of the schedule.&lt;/p&gt;
+
+&lt;p&gt;These are some of the worst decisions a person who wants to maximize development speed can make. »&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.bitnative.com/2014/01/28/who-chooses-quality-client-or-coder/&#34;&gt;Who Dictates Software Quality: Client or Coder?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bravenewgeek.com/designed-to-fail/&#34;&gt;Designed to Fail&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2015/08/reducing-regression-execution-times/&#34;&gt;Reducing Regression Execution Times&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2015/08/why-manual-testing-helps-your-release/&#34;&gt;Why Manual Testing Helps Your Release&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://codurance.com/2015/08/05/becoming-evergreen/&#34;&gt;Becoming Evergreen&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;performance&#34;&gt;Performance&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://v8project.blogspot.fr/2015/08/getting-garbage-collection-for-free.html&#34;&gt;Getting Garbage Collection for Free&lt;/a&gt; - V8 JavaScript Engine&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/08/netflix-at-velocity-2015-linux.html&#34;&gt;Netflix at Velocity 2015: Linux Performance Tools&lt;/a&gt; - Netflix Tech Blog&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/08/falcor-developer-preview.html&#34;&gt;Netflix Releases Falcor Developer Preview&lt;/a&gt; - Netflix Tech Blog&lt;br /&gt;
+&lt;a href=&#34;http://netflix.github.io/falcor/&#34;&gt;Falcor - A JavaScript library for efficient data fetching&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://rmurphey.com/blog/2015/07/20/karma-webpack-tape-code-coverage/&#34;&gt;Browser Testing and Code Coverage With Karma, Tape, and Webpack&lt;/a&gt; - Rebecca Murphey&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.superfeedr.com/streaming-average/&#34;&gt;Streaming averages&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841&#34;&gt;Exploring ES2016 Decorators&lt;/a&gt; - Addy Osmani&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hacks.mozilla.org/2015/08/trainspotting-firefox-40/&#34;&gt;Trainspotting: Firefox 40&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;c&#34;&gt;C#&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.informit.com/articles/article.aspx?p=2425867&#34;&gt;Sharp Regrets: Top 10 Worst C# Features&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.stackexchange.com/2015/07/announcing-stackexchange-precompilation/&#34;&gt;Announcing StackExchange.Precompilation&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;user-experience-ux&#34;&gt;User eXperience (UX)&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/jotform-form-builder/a-wide-perspective-for-designing-user-experience-1fac19643c5&#34;&gt;A Wide Perspective for Designing User Experience&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://thenextweb.com/dd/2015/07/16/5-ux-mistakes-that-make-users-feel-stupid/&#34;&gt;5 UX mistakes that make users feel stupid&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://conversionxl.com/animation-improve-user-experience/&#34;&gt;4 Ways Animation Can Actually Improve User Experience&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://prowebtype.com/delivering-web-fonts/&#34;&gt;Delivering Web Fonts&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://rmurphey.com/blog/2015/07/27/tech-podcast-recording-tips/&#34;&gt;So You&amp;rsquo;re Going on a Podcast&lt;/a&gt; - Rebecca Murphey&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://speedof.me/&#34;&gt;SpeedOf.Me - HTML5 Speed Test&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/our-brave-new-world-of-4k-displays/&#34;&gt;Our Brave New World of 4K Displays&lt;/a&gt; -  Jeff Atwood&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #96 - Sunday fun</title>
@@ -915,60 +988,6 @@ Try them out if you don&amp;rsquo;t know them!&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #83 - Sunday fun</title>
-      <link>https://titi.github.io/links/Feed-83/</link>
-      <pubDate>Sun, 17 May 2015 16:17:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-83/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://swapi.co/&#34;&gt;SWAPI - The Star Wars API&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://webuilddesign.com/wordpress-4-3-will-be-rewritten-in-node-js/&#34;&gt;WordPress 4.3 will be rewritten in Node.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.windowscentral.com/joe-belfiores-windows-10-binary-shirt-build-decoded&#34;&gt;These are the messages hidden in Belfiore&amp;rsquo;s Windows binary shirt&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://boingboing.net/2015/05/13/arduboy-a-40-credit-card-size.html&#34;&gt;Arduboy a $40 credit-card-sized game system for playing and coding&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/05/Strip-La-tron%C3%A7onneuse-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;br /&gt;
-&lt;a href=&#34;http://www.commitstrip.com/en/2015/05/04/when-there-was-a-library-for-it/&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/05/Strip-Le-pied-dans-la-porte-de-Skype-650-finalenglish1.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;br /&gt;
-&lt;a href=&#34;www.commitstrip.com/en/2015/05/12/why-dont-you-come-alone/&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Kids hack their Dad&amp;rsquo;s computer on her Raspberry Pi: (this kid is going places!)
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/W76o_iG7Y7g?start=11&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Jetman Dubai : Young Feathers 4K
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/Czy0pXRRZcs?start=365&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Is it Better to Walk or Run in the Rain?
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/3MqYE2UuN24&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The MOVA Rotating Globe:
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/yhsgqcq3mJU&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Bohemian Rhapsody Played by 100+ year old fairground organ:
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/JTnGI6Knw5Q&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Jamiroquai - Virtual Insanity - The Game: avoid sofas!
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/2WBdAsE2Lnc&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
 </description>
     </item>
     

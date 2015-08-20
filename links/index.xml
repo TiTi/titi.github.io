@@ -7,8 +7,81 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 16 Aug 2015 21:46:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2015 23:22:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #97</title>
+      <link>https://titi.github.io/links/Feed-97/</link>
+      <pubDate>Thu, 20 Aug 2015 23:22:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-97/</guid>
+      <description>
+
+&lt;h1 id=&#34;software-quality&#34;&gt;Software Quality&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.stevemcconnell.com/articles/art04.htm&#34;&gt;Software Quality at Top Speed&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;« Some project managers try to shorten their schedules by reducing the time spent on quality-assurance practices such as design and code reviews. Some shortchange the upstream activities of requirements analysis and design. Others&amp;ndash;running late&amp;ndash;try to make up time by compressing the testing schedule, which is vulnerable to reduction since it’s the critical-path item at the end of the schedule.&lt;/p&gt;
+
+&lt;p&gt;These are some of the worst decisions a person who wants to maximize development speed can make. »&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.bitnative.com/2014/01/28/who-chooses-quality-client-or-coder/&#34;&gt;Who Dictates Software Quality: Client or Coder?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bravenewgeek.com/designed-to-fail/&#34;&gt;Designed to Fail&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2015/08/reducing-regression-execution-times/&#34;&gt;Reducing Regression Execution Times&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2015/08/why-manual-testing-helps-your-release/&#34;&gt;Why Manual Testing Helps Your Release&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://codurance.com/2015/08/05/becoming-evergreen/&#34;&gt;Becoming Evergreen&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;performance&#34;&gt;Performance&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://v8project.blogspot.fr/2015/08/getting-garbage-collection-for-free.html&#34;&gt;Getting Garbage Collection for Free&lt;/a&gt; - V8 JavaScript Engine&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/08/netflix-at-velocity-2015-linux.html&#34;&gt;Netflix at Velocity 2015: Linux Performance Tools&lt;/a&gt; - Netflix Tech Blog&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/08/falcor-developer-preview.html&#34;&gt;Netflix Releases Falcor Developer Preview&lt;/a&gt; - Netflix Tech Blog&lt;br /&gt;
+&lt;a href=&#34;http://netflix.github.io/falcor/&#34;&gt;Falcor - A JavaScript library for efficient data fetching&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://rmurphey.com/blog/2015/07/20/karma-webpack-tape-code-coverage/&#34;&gt;Browser Testing and Code Coverage With Karma, Tape, and Webpack&lt;/a&gt; - Rebecca Murphey&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.superfeedr.com/streaming-average/&#34;&gt;Streaming averages&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841&#34;&gt;Exploring ES2016 Decorators&lt;/a&gt; - Addy Osmani&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hacks.mozilla.org/2015/08/trainspotting-firefox-40/&#34;&gt;Trainspotting: Firefox 40&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;c&#34;&gt;C#&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.informit.com/articles/article.aspx?p=2425867&#34;&gt;Sharp Regrets: Top 10 Worst C# Features&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.stackexchange.com/2015/07/announcing-stackexchange-precompilation/&#34;&gt;Announcing StackExchange.Precompilation&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;user-experience-ux&#34;&gt;User eXperience (UX)&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/jotform-form-builder/a-wide-perspective-for-designing-user-experience-1fac19643c5&#34;&gt;A Wide Perspective for Designing User Experience&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://thenextweb.com/dd/2015/07/16/5-ux-mistakes-that-make-users-feel-stupid/&#34;&gt;5 UX mistakes that make users feel stupid&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://conversionxl.com/animation-improve-user-experience/&#34;&gt;4 Ways Animation Can Actually Improve User Experience&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://prowebtype.com/delivering-web-fonts/&#34;&gt;Delivering Web Fonts&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://rmurphey.com/blog/2015/07/27/tech-podcast-recording-tips/&#34;&gt;So You&amp;rsquo;re Going on a Podcast&lt;/a&gt; - Rebecca Murphey&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://speedof.me/&#34;&gt;SpeedOf.Me - HTML5 Speed Test&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/our-brave-new-world-of-4k-displays/&#34;&gt;Our Brave New World of 4K Displays&lt;/a&gt; -  Jeff Atwood&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #96 - Sunday fun</title>
@@ -733,55 +806,6 @@ Scott Hanselman&lt;/p&gt;
 &lt;br /&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/2WBdAsE2Lnc&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #82</title>
-      <link>https://titi.github.io/links/Feed-82/</link>
-      <pubDate>Fri, 15 May 2015 19:30:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-82/</guid>
-      <description>
-
-&lt;h1 id=&#34;methodologies-and-culture&#34;&gt;Methodologies and Culture&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.toolshed.com/2015/05/the-failure-of-agile.html&#34;&gt;The Failure of Agile&lt;/a&gt; - Andy Hunt (One of the 17 founders/authors of the &lt;a href=&#34;http://agilemanifesto.org/&#34;&gt;The Agile Manifesto&lt;/a&gt;)&lt;br /&gt;
-&lt;a href=&#34;http://growsmethod.com/&#34;&gt;The GROWS Method™&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.davidmarquet.com/OurStory.html&#34;&gt;Intent based leadership&lt;/a&gt;&lt;br /&gt;
-From David Marquet, a former captain of multiple nuclear powered attack submarines. Stephen R. Covey (&lt;a href=&#34;http://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People&#34;&gt;The 7 Habits of Highly Effective People&lt;/a&gt;) &lt;a href=&#34;https://www.stephencovey.com/about/career.php&#34;&gt;met him on the U.S.S. Santa Fe&lt;/a&gt; submarine.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://imgur.com/blog/2015/05/06/at-imgur-everything-is-an-iteration/&#34;&gt;At Imgur, Everything is an Iteration&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.docker.com/2015/04/microsoft-demonstrates-docker-in-build-2015-keynote-address/&#34;&gt;Microsoft Demonstrates Docker in Build 2015 Keynote Address&lt;/a&gt;&lt;br /&gt;
-Video is here: &lt;a href=&#34;http://channel9.msdn.com/events/Build/2015/3-618&#34;&gt;http://channel9.msdn.com/events/Build/2015/3-618&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.smashingmagazine.com/2015/04/28/creating-web-app-in-foundation-for-apps/&#34;&gt;Creating A Complete Web App In Foundation For Apps&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://labs.spotify.com/2014/04/11/qualities-of-quality/&#34;&gt;Qualities of Quality&lt;/a&gt; - Spotify Labs&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Implementation quality doesn’t affect the end user experience, but it impacts the productivity of the teams working on improving the end user experience.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Poor implementation quality kills your ability to add features and evolve your product and therefore makes poor product quality a much more serious problem. Poor implementation quality becomes an obstacle to changing your product, and changing the product quickly is key to getting it right.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;The short of it is that unfixed bugs in your code lead to additional meetings, bug management overhead, duplicate reports of the same bug and context switching. So a lot of the time, the best thing you can do for your own productivity is to just fix pretty much everything that’s ever reported. That that also leads to a better end user experience is a nice bonus.&amp;rdquo;&lt;br /&gt;
-Also see: &lt;a href=&#34;http://pettermahlen.com/2011/04/08/if-its-broken-fix-it/&#34;&gt;If it’s Broken, Fix It&lt;/a&gt; and &lt;a href=&#34;http://tech.shopzilla.com/2009/11/the-cost-of-a-feature/&#34;&gt;The Cost of a Feature&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://lucumr.pocoo.org/2015/4/28/unintended-affordances/&#34;&gt;Unintended Affordances (or why I believe encrypting everything is a bad idea)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://aeon.co/magazine/culture/what-tech-offices-tell-us-about-the-future-of-work/&#34;&gt;What tech offices tell us about the future work&lt;/a&gt; - Kate Losse – Aeon&lt;/p&gt;
-
-&lt;h1 id=&#34;manifesto&#34;&gt;Manifesto&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.mozilla.org/en-US/about/manifesto/&#34;&gt;The Mozilla Manifesto&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://zurb.com/manifesto&#34;&gt;ZURB Manifesto&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://zurb.com/sitemap&#34;&gt;ZURB - Lead by Design&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
