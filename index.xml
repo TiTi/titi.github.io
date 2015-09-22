@@ -7,8 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Fri, 04 Sep 2015 22:26:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2015 23:49:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #101</title>
+      <link>https://titi.github.io/links/Feed-101/</link>
+      <pubDate>Tue, 22 Sep 2015 23:49:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-101/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98&#34;&gt;React’s JSX: The Other Side of the Coin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.mozilla.org/security/2015/09/04/improving-security-for-bugzilla/&#34;&gt;Improving Security for Bugzilla&lt;/a&gt; - Mozilla Security Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/why-your-managers-think-your-software-quality-is-g&#34;&gt;Why Your Managers Think Your Software Quality is Great—or Not&lt;/a&gt; - Johanna Rothman&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mikehadlow.blogspot.fr/2015/08/c-program-entirely-with-static-methods.html&#34;&gt;C#: Program Entirely With Static Methods&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;blogs.technet.com/b/srd/archive/2015/09/08/what-makes-a-good-microsoft-defense-bounty-submission.aspx&#34;&gt;What makes a good Microsoft Defense Bounty submission?&lt;/a&gt; - Microsoft Security Research &amp;amp; Defense Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.cloudscaling.com/blog/cloud-computing/cloud-youre-doing-it-wrong/&#34;&gt;Cloud … You’re Doing it Wrong!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.mozilla.org/security/2015/09/11/deprecating-the-rc4-cipher/&#34;&gt;Deprecating the RC4 Cipher&lt;/a&gt; - Mozilla Security Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://githubengineering.com/subresource-integrity/&#34;&gt;Subresource Integrity&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.justinmind.com/underline-uxdesign-usability/&#34;&gt;The underline at the intersection of UX design and usability&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://danieldelaney.github.io/confirm/&#34;&gt;Never Use The Confirm Dialog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://google-opensource.blogspot.fr/2015/09/introducing-brotli-new-compression.html&#34;&gt;Introducing Brotli: a new compression algorithm for the internet&lt;/a&gt; - Google&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://imgur.com/blog/2015/09/15/tech-tuesday-imgur-notifications-from-mysql-to-hbase/&#34;&gt;Tech Tuesday: Imgur Notifications: From MySQL to HBase&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://githubengineering.com/counting-objects/&#34;&gt;Counting [Git] Objects&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #100</title>
@@ -765,84 +799,6 @@ Scott Hanselman&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;p&gt;[FR] &lt;a href=&#34;http://www.nextinpact.com/news/95159-le-fisc-rechigne-a-reveler-code-source-ses-logiciels.htm&#34;&gt;Le fisc rechigne à révéler le code source de ses logiciels&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #86</title>
-      <link>https://titi.github.io/links/Feed-86/</link>
-      <pubDate>Sun, 24 May 2015 22:22:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-86/</guid>
-      <description>
-
-&lt;h1 id=&#34;trust&#34;&gt;Trust&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://bravenewgeek.com/product-development-is-a-trust-fall/&#34;&gt;Product Development is a Trust Fall&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.daverooney.ca/2015/05/is-predictability-really-what-we-want.html&#34;&gt;Is Predictability Really What We Want?&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;architecture-performance&#34;&gt;Architecture &amp;amp; Performance&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://code.facebook.com/posts/1433093613662262/-under-the-hood-facebook-s-cold-storage-system-/?hn=1&#34;&gt;Under the hood: Facebook’s cold storage system&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.3scale.net/2015/04/how-to-load-test-and-tune-performance-on-your-api-part-i/&#34;&gt;How to load test &amp;amp; tune performance on your API (Part I)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/microsoft_press/archive/2015/05/04/from-the-mvps-application-design-going-stateless-on-azure.aspx&#34;&gt;Application Design: Going Stateless on Azure&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://highscalability.com/blog/2015/5/4/elements-of-scale-composing-and-scaling-data-platforms.html&#34;&gt;Elements of Scale: Composing and Scaling Data Platforms&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;deployment&#34;&gt;Deployment&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.codeship.com/fast-software-development-workflow/&#34;&gt;Stay Competitive: Keep Your Team Fast and Focused&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://devops.com/2015/04/29/webinar-ship-faster-without-breaking-everything/&#34;&gt;Webinar: Ship Faster without Breaking Everything&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;product-managment&#34;&gt;Product managment&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mortoray.com/2015/05/18/a-bug-an-error-or-fault-and-the-irrelevance-of-classification/&#34;&gt;A bug, an error, or fault, and the irrelevance of classification&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://agileworld.blogspot.fr/2015/05/stop-following-successful-companies.html&#34;&gt;Stop following the successful companies&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.romanpichler.com/blog/product-strategy-defined/&#34;&gt;The Three Elements of an Effective [Product] Strategy&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.leadingagile.com/2015/05/who-the-heck-is-the-business/&#34;&gt;Who the Heck Is “The Business”?&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ryanmorr.com/true-hash-maps-in-javascript/&#34;&gt;True Hash Maps in JavaScript&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://aurelia.io/&#34;&gt;Aurelia&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Aurelia is a next generation JavaScript client framework that leverages simple conventions to empower your creativity.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&#34;new&#34;&gt;New&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://unisonweb.org/2015-05-07/about.html&#34;&gt;Unison - a next-generation programming platform&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://geeks.everything.me/2015/05/03/adventures-with-disque/&#34;&gt;Adventures with Disque&lt;/a&gt;, a new distributed job-queue from the author of &lt;strong&gt;Redis&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;troubleshooting&#34;&gt;Troubleshooting&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://channel9.msdn.com/events/TechEd/NorthAmerica/2013/WCA-B306&#34;&gt;Windows Troubleshooting with Mark Russinovich&lt;/a&gt; (~1H video)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.serpentine.com/blog/2015/05/13/sometimes-the-old-ways-are-the-best/&#34;&gt;Sometimes, the old ways are the best&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;practices&#34;&gt;Practices&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://kevinlondon.com/2015/05/05/code-review-best-practices.html&#34;&gt;Code Review Best Practices&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.frankel.ch/quality-tools-humble-servants-or-tyrans&#34;&gt;Quality Tools: humble servants or tyrans?&lt;/a&gt; (about Sonar and such)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ayende.com/blog/170753/boldly-confidently-fail-it-is-better-than-the-alternative&#34;&gt;Boldly &amp;amp; confidently fail, it is better than the alternative&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;privacy-security&#34;&gt;Privacy &amp;amp; Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mortoray.com/2015/05/11/how-http-cache-headers-betray-your-privacy/&#34;&gt;How HTTP cache headers betray your privacy&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://certsimple.com/blog/chrome-outdated-cryptography&#34;&gt;Why your A grade SSL is &amp;lsquo;outdated cryptography&amp;rsquo; on Chrome&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
