@@ -7,8 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Mon, 16 Nov 2015 23:02:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2015 15:30:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #106</title>
+      <link>https://titi.github.io/links/Feed-106/</link>
+      <pubDate>Sun, 22 Nov 2015 15:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-106/</guid>
+      <description>
+
+&lt;h1 id=&#34;dns&#34;&gt;DNS&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://code.tutsplus.com/tutorials/an-introduction-to-learning-and-using-dns-records--cms-24704&#34;&gt;An Introduction to Learning and Using DNS Records&lt;/a&gt; - Envato Tuts+ Code Tutorial&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://javascriptweblog.wordpress.com/2015/11/02/of-classes-and-arrow-functions-a-cautionary-tale/&#34;&gt;Of Classes and Arrow Functions (a cautionary tale)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://perfectionkills.com/javascript-quiz-es6/&#34;&gt;Javascript quiz. ES6 edition.&lt;/a&gt; - Perfection Kills&lt;br /&gt;
+&amp;gt; &lt;a href=&#34;https://gist.github.com/DmitrySoshnikov/3928607cb8fdba42e712&#34;&gt;Detailled solutions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://swizec.com/blog/theres-a-bug-in-es6-modules/swizec/6753&#34;&gt;There’s a “bug” in ES6 modules&lt;/a&gt; - Swizec Teller&lt;/p&gt;
+
+&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.forbes.com/sites/stevedenning/2015/10/29/microsofts-sixteen-keys-to-becoming-agile-at-scale/&#34;&gt;Microsoft&amp;rsquo;s 16 Keys To Being Agile At Scale&lt;/a&gt; - Forbes&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The authorities could make the freeway much safer by putting speed bumps every hundred yards, and a stop light every mile. It would be safer but it would slow things down. The managers at Microsoft take the same approach. They are specifying the minimum basic road rules the teams need to adhere to. Their goal is to ensure that the rules help the teams move fast, to get where they want and need to go, not just slow them down.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;If the manager yells at the team or monitors their burn-down chart, guess what the manager gets? Perfect burn-down charts. So does the manager want perfect burn-down charts or the right conversation? In the end, it has to be the latter.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://haacked.com/archive/2015/10/21/meaning-of-work/&#34;&gt;The Meaning of Work&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;http://rue89.nouvelobs.com/2015/02/01/gerard-berry-lordinateur-est-completement-con-257428&#34;&gt;Gérard Berry : « L’ordinateur est complètement con »&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;&lt;strong&gt;Comment expliquez-vous alors que quand on achète un smartphone, il y ait des bugs dans les applications, le système d’exploitation, etc.  ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Parce que tout ça est fabriqué par des hommes qui n’ont pas la préoccupation de faire juste.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pourquoi  ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Parce que leur préoccupation est de faire des sous. Et que ça ne dérange pas trop les clients. Un smartphone qui a des bugs, on le reboote, et voilà.&lt;/p&gt;
+
+&lt;p&gt;Dans un smartphone, il y a approximativement 50 millions de lignes de code. C’est gigantesque. On ne peut pas imprimer 50 millions de lignes de code. Il faudrait 500 000 pages de chacune 100 lignes. Sur ces 50 millions, la moitié ont été écrites par des débutants. Et puis, quand les applis sont mises en service, elles ne sont pas cuites. C’est comme si quelqu’un ouvrait un resto et apprenait la cuisine en même temps.&lt;/p&gt;
+
+&lt;p&gt;Ça ne marche avec les smartphones que parce que les gens sont très tolérants. On est beaucoup moins tolérant dans un avion.&lt;/p&gt;
+
+&lt;p&gt;C’est très dur de rendre l’informatique intuitive.
+On revient toujours au même problème du gouffre entre l’intelligence humaine et la connerie de la machine. Programmer, ça consiste à combler un gouffre absolu entre l’intelligence et la connerie.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #105</title>
@@ -609,44 +665,6 @@ Source: &lt;a href=&#34;http://geek-and-poke.com/geekandpoke/2015/7/27/the-last-
 &lt;p&gt;&lt;img src=&#34;http://imgs.xkcd.com/comics/types.png&#34; alt=&#34;&#34; /&gt;
 &lt;br /&gt;
 &lt;a href=&#34;http://xkcd.com/1537/&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #91</title>
-      <link>https://titi.github.io/links/Feed-91/</link>
-      <pubDate>Fri, 12 Jun 2015 00:14:18 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-91/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.yegor256.com/2014/10/26/hacker-vs-programmer-mentality.html&#34;&gt;Are You a Hacker or a Designer?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.third-bit.com/2015/06/09/people-you-dont-want-on-your-team.html&#34;&gt;People You Don&amp;rsquo;t Want On Your Team&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://chris.beams.io/posts/git-commit/&#34;&gt;How to Write a Git Commit Message&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/SoftwareAndSavingBabies.aspx&#34;&gt;Software and Saving Babies&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.hello2morrow.com/2015/06/love-your-architecture/&#34;&gt;Love your Architecture&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://bravenewgeek.com/service-disoriented-architecture/&#34;&gt;Service-Disoriented Architecture&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://securityblog.redhat.com/2015/06/03/emergency-security-band-aids-with-systemtap/&#34;&gt;Emergency Security Band-Aids with Systemtap&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.securitytracker.com/id/1032453&#34;&gt;PCRE Heap Overflow in Regex Processing Lets Users Execute Arbitrary Code&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/&#34;&gt;Inside NGINX: How We Designed for Performance &amp;amp; Scale&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend&#34;&gt;Using Protobuf instead of JSON to communicate with a frontend&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://rrees.me/2015/06/04/overview-of-javascript-reactive-frameworks/&#34;&gt;An overview of Javascript reactive frameworks&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://ymichael.com/2015/06/06/some-notes-playing-with-haproxy.html&#34;&gt;Some notes playing with HAProxy&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hound Internal Demo
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/M1ONXea0mXg&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;br /&gt;
-Wow! Impressive!&lt;/p&gt;
 </description>
     </item>
     
