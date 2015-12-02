@@ -7,8 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Wed, 25 Nov 2015 22:50:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2015 23:50:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #109</title>
+      <link>https://titi.github.io/links/Feed-109/</link>
+      <pubDate>Wed, 02 Dec 2015 23:50:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-109/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/showcase/case-study/googleplus&#34;&gt;Google+ goes completely responsive&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2015/11/app-shell?hl=en&#34;&gt;Instant Loading Web Apps With An Application Shell Architecture&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/addyosmani/chrome-devtools-deep-dive&#34;&gt;Chrome DevTools Deep-dive&lt;/a&gt; - Addy Osmani&lt;/p&gt;
+
+&lt;p&gt;Introduction to RAIL (Chrome Dev Summit 2015):
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/wO9GGY17NXY&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://labsblog.f-secure.com/2015/11/24/oops-dell-did-it-again/&#34;&gt;Dell has installed a rogue root CA on customer PC&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://kevinlondon.com/2015/11/01/how-i-prepare-talks.html&#34;&gt;How to Prepare for Talks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Really cool debugging:&lt;br /&gt;
+&lt;a href=&#34;https://blog.cloudflare.com/the-story-of-one-latency-spike/&#34;&gt;The story of one latency spike&lt;/a&gt; - Cloudflare&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://googlechromereleases.blogspot.fr/2015/12/stable-channel-update.html&#34;&gt;Chrome 47.0.2526.73 Stable Channel Update&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://chrome.blogspot.fr/2015/11/a-new-way-to-save-data-with-chrome-on.html&#34;&gt;A new way to save data with Chrome on Android&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #108</title>
@@ -628,62 +658,6 @@ Source: &lt;a href=&#34;http://geek-and-poke.com/geekandpoke/2015/7/27/the-last-
 &lt;p&gt;&lt;a href=&#34;http://highscalability.com/blog/2015/8/10/how-google-invented-an-amazing-datacenter-network-only-they.html/&#34;&gt;How Google Invented An Amazing Datacenter Network Only They Could Create&lt;/a&gt; - High Scalability&lt;/p&gt;
 
 &lt;p&gt;Alphabet - &lt;a href=&#34;https://abc.xyz/&#34;&gt;https://abc.xyz/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #94</title>
-      <link>https://titi.github.io/links/Feed-94/</link>
-      <pubDate>Tue, 28 Jul 2015 20:36:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-94/</guid>
-      <description>
-
-&lt;h1 id=&#34;awesome&#34;&gt;Awesome&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/07/java-in-flames.html&#34;&gt;Java in Flames - Netflix&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/how-to-receive-a-million-packets/&#34;&gt;How to receive a million packets per second - CloudFlare&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://coding-geek.com/how-shazam-works/&#34;&gt;How does Shazam work&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;css&#34;&gt;CSS&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://codersblock.com/blog/checkbox-trickery-with-css/&#34;&gt;Checkbox Trickery with CSS&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://bitsofco.de/2015/controlling-the-box-model/&#34;&gt;Controlling The Box Model&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/&#34;&gt;Understanding Block Formatting Contexts in CSS&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;software-craftsmanship&#34;&gt;Software craftsmanship&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://slott-softwarearchitect.blogspot.fr/2015/06/on-waiting-to-write-serious-code.html&#34;&gt;On Waiting to Write &amp;ldquo;Serious Code&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.benjaminfry.com/2015/06/software-engineers-are-lazy-bastards.html&#34;&gt;Software engineers are lazy bastards (pt. 1)&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://blog.benjaminfry.com/2015/06/software-engineers-are-lazy-bastards-pt.html&#34;&gt;Software engineers are lazy bastards (pt. 2)&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://blog.benjaminfry.com/2015/06/software-engineers-are-lazy-bastards-pt_23.html&#34;&gt;Software engineers are lazy bastards (pt. 3)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;upgrade&#34;&gt;Upgrade&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.jquery.com/2015/07/13/jquery-3-0-and-jquery-compat-3-0-alpha-versions-released/&#34;&gt;jQuery 3.0 and jQuery Compat 3.0 Alpha Versions Released&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/increasing-cache-hit-rates-with-query-string-sort/&#34;&gt;Increasing Cache Hit Rates with Query String Sort&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;not-to-do&#34;&gt;Not to do&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://martinfowler.com/articles/dont-start-monolith.html&#34;&gt;Don’t start with a monolith… when your goal is a microservices architecture&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mkremins.github.io/blog/unix-not-acceptable-unix/&#34;&gt;Unix is not an acceptable Unix&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.bozho.net/government-abandonware/&#34;&gt;Government Abandonware&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://babeljs.io/docs/learn-es2015/&#34;&gt;Learn ES2015&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://dibaiee.ir/es7-array-generator-comprehensions/&#34;&gt;ES7 Array and Generator comprehensions&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://bocoup.com/weblog/es2015-nightmarefile/&#34;&gt;The ES2015 Nightmarefile&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
