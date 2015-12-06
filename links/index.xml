@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Wed, 02 Dec 2015 23:50:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 06 Dec 2015 18:00:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #110 - Sunday fun</title>
+      <link>https://titi.github.io/links/Feed-110/</link>
+      <pubDate>Sun, 06 Dec 2015 18:00:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-110/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.theallium.com/engineering/torvalds-announces-plans-to-change-linux-line-endings-to-letter-z/&#34;&gt;Torvalds Announces Plans To Change Linux Line Endings To Letter Z&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/NARKOZ/hacker-scripts&#34;&gt;Hacker Scripts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://xebialabs.com/periodic-table-of-devops-tools/&#34;&gt;Periodic Table of DevOps Tools&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/11/Strip-La-boucle-du-Framwork-english650-final.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/11/24/the-new-framework/?setLocale=1&#34;&gt;The New Framework&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #109</title>
@@ -620,44 +638,6 @@ Source: &lt;a href=&#34;http://geek-and-poke.com/geekandpoke/2015/7/27/the-last-
 &lt;p&gt;&lt;a href=&#34;http://www.firstpersontetris.com/&#34;&gt;First-Person Tetris&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://wurstify.me/&#34;&gt;Wurstify Your Web Experience&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #95</title>
-      <link>https://titi.github.io/links/Feed-95/</link>
-      <pubDate>Tue, 11 Aug 2015 23:33:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-95/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/doing-terrible-things-to-your-code/&#34;&gt;Doing Terrible Things To Your Code&lt;/a&gt; - Jeff Atwood&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/a-deep-look-at-cve-2015-5477-and-how-cloudflare-virtual-dns-customers-are-protected/&#34;&gt;A deep look at CVE-2015-5477 and how CloudFlare Virtual DNS customers are protected&lt;/a&gt; - CloudFlare Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ruslanspivak.com/lsbaws-part1/&#34;&gt;Let’s Build A Web Server. Part 1.&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://ruslanspivak.com/lsbaws-part2/&#34;&gt;Let’s Build A Web Server. Part 2.&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://ruslanspivak.com/lsbaws-part3/&#34;&gt;Let’s Build A Web Server. Part 3.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://programmers.stackexchange.com/a/7285&#34;&gt;Cowboy coding&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/GettingStartedWithWindows10.aspx&#34;&gt;Getting Started with Windows 10&lt;/a&gt; - Scott Hanselman&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2015/07/to-validate-or-verify/&#34;&gt;To Validate or Verify?&lt;/a&gt; - Sauce Labs Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.mozilla.org/blog/2015/07/30/an-open-letter-to-microsofts-ceo-dont-roll-back-the-clock-on-choice-and-control/&#34;&gt;An Open Letter to Microsoft’s CEO: Don’t Roll Back the Clock on Choice and Control&lt;/a&gt; - The Mozilla Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/07/23/bringing-automated-testing-to-microsoft-edge-through-webdriver/&#34;&gt;Bringing automated testing to Microsoft Edge through WebDriver&lt;/a&gt; - Microsoft Edge Dev Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.romanpichler.com/blog/product-backlog-right-details/&#34;&gt;How Detailed should the Product Backlog be?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/&#34;&gt;DNS parser, meet Go fuzzer&lt;/a&gt; - CloudFlare Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/welcome-to-the-internet-of-compromised-things/&#34;&gt;Welcome to The Internet of Compromised Things&lt;/a&gt; - Jeff Atwood&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/08/making-netflixcom-faster.html&#34;&gt;Making Netflix.com Faster&lt;/a&gt; - The Netflix Tech Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://highscalability.com/blog/2015/8/10/how-google-invented-an-amazing-datacenter-network-only-they.html/&#34;&gt;How Google Invented An Amazing Datacenter Network Only They Could Create&lt;/a&gt; - High Scalability&lt;/p&gt;
-
-&lt;p&gt;Alphabet - &lt;a href=&#34;https://abc.xyz/&#34;&gt;https://abc.xyz/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
