@@ -77,8 +77,7 @@
 <p>&ldquo;developers are often distracted by the tiny problems (style issues, typos) and ignore the larger problems (algorithmic issues, design flaws, bigger picture tasks) when reviewing.&rdquo;</p>
 </blockquote>
 
-<p><img src="http://www.commitstrip.com/wp-content/uploads/2015/02/Strip-Code-review-650-finalenglish1.jpg" alt="" />
-<br />
+<p><img src="http://www.commitstrip.com/wp-content/uploads/2015/02/Strip-Code-review-650-finalenglish1.jpg" alt="" /><br />
 Source: <a href="http://www.commitstrip.com/en/2015/02/10/the-truth-about-code-reviews/">http://www.commitstrip.com/en/2015/02/10/the-truth-about-code-reviews/</a></p>
 
 <hr />
@@ -93,9 +92,9 @@ Source: <a href="http://www.commitstrip.com/en/2015/02/10/the-truth-about-code-r
 
 <p><a href="http://swreflections.blogspot.fr/2014/09/can-static-analysis-replace-code-reviews.html">Can Static Analysis replace Code Reviews?</a></p>
 
-<p><br />
+<br />
 <iframe class="youtube-player" width="640" height="385" src="https://www.youtube.com/embed/CKjRt48rZGk" allowfullscreen></iframe>
-</p>
+
 
 <hr />
 
@@ -221,11 +220,11 @@ Want to upload an image in a comment: just drag it from your filesystem, and voi
 
 <ul>
 <li>Download setup on <a href="http://php.iis.net/">http://php.iis.net/</a> and install it</li>
-<li>Fix PATH environment variable after installation to add the missing &ldquo;(x86)&rdquo;:</li>
+<li>Fix PATH environment variable after installation to add the missing &ldquo;(x86)&rdquo;:
+<code>
+C:\Program Files (x86)\PHP\v5.3
+</code></li>
 </ul>
-
-<pre><code>C:\Program Files (x86)\PHP\v5.3
-</code></pre>
 
 <h4 id="install-arcanist">Install Arcanist</h4>
 
@@ -252,47 +251,42 @@ Want to upload an image in a comment: just drag it from your filesystem, and voi
 <p>Once and for all, in a terminal:</p>
 
 <ul>
-<li>Set phabricator url:</li>
-</ul>
+<li><p>Set phabricator url:</p>
 
 <pre><code class="language-html">arc set-config default http://phabricator-test.esker.corp
 </code></pre>
 
-<p><em>Edit: not required if you have a .arcconfig file in your project</em></p>
+<p><em>Edit: not required if you have a .arcconfig file in your project</em></p></li>
 
-<ul>
-<li>Allow arcanist web service:</li>
-</ul>
+<li><p>Allow arcanist web service:</p>
 
 <pre><code class="language-html">arc install-certificate
 </code></pre>
 
 <p>. Copy url displayed in terminal, ex: <a href="http://phabricator-test.esker.corp/conduit/token/">http://phabricator-test.esker.corp/conduit/token/</a><br />
-. Login &amp; copy the displayed token from the web page into your terminal</p>
+. Login &amp; copy the displayed token from the web page into your terminal</p></li>
 
-<ul>
-<li>Setup editor:</li>
-</ul>
+<li><p>Setup editor:</p>
 
 <pre><code class="language-html">arc set-config editor &quot;\&quot;C:\Program Files (x86)\Notepad++\notepad++.exe\&quot; -multiInst -nosession&quot;
 </code></pre>
 
 <p>According to officiel documentation:  &ldquo;You can not use Notepad as your editor, because it does not have a blocking mode.&rdquo;<br />
-I&rsquo;m using Notepad2 which works great. But Notepad++ and GitPad work too.</p>
+I&rsquo;m using Notepad2 which works great. But Notepad++ and GitPad work too.</p></li>
+</ul>
 
 <h4 id="submit-code-for-pre-push-review">Submit code for pre-push review</h4>
 
 <ul>
 <li>Do one or more commits, still in <code>draft</code> state (not pushed).</li>
-<li>Open a terminal and type:</li>
+<li>Open a terminal and type:
+<code>html
+arc diff
+</code>
+Editor is going to open, you have to specify some infos:<br /></li>
+<li>test plan ; can be optionnal, cf config differential.require-test-plan-field<br /></li>
+<li>reviewers ; you can specify one or several (comma separation)</li>
 </ul>
-
-<pre><code class="language-html">arc diff
-</code></pre>
-
-<p>Editor is going to open, you have to specify some infos:<br />
-- test plan ; can be optionnal, cf config differential.require-test-plan-field<br />
-- reviewers ; you can specify one or several (comma separation)</p>
 
 <h4 id="arc-patch">Arc patch</h4>
 

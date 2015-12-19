@@ -289,8 +289,7 @@ Try them out if you don&amp;rsquo;t know them!&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;developers are often distracted by the tiny problems (style issues, typos) and ignore the larger problems (algorithmic issues, design flaws, bigger picture tasks) when reviewing.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/02/Strip-Code-review-650-finalenglish1.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/02/Strip-Code-review-650-finalenglish1.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/02/10/the-truth-about-code-reviews/&#34;&gt;http://www.commitstrip.com/en/2015/02/10/the-truth-about-code-reviews/&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -305,9 +304,9 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/02/10/the-truth-about
 
 &lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2014/09/can-static-analysis-replace-code-reviews.html&#34;&gt;Can Static Analysis replace Code Reviews?&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/CKjRt48rZGk&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
+
 
 &lt;hr /&gt;
 
@@ -433,11 +432,11 @@ Want to upload an image in a comment: just drag it from your filesystem, and voi
 
 &lt;ul&gt;
 &lt;li&gt;Download setup on &lt;a href=&#34;http://php.iis.net/&#34;&gt;http://php.iis.net/&lt;/a&gt; and install it&lt;/li&gt;
-&lt;li&gt;Fix PATH environment variable after installation to add the missing &amp;ldquo;(x86)&amp;rdquo;:&lt;/li&gt;
+&lt;li&gt;Fix PATH environment variable after installation to add the missing &amp;ldquo;(x86)&amp;rdquo;:
+&lt;code&gt;
+C:\Program Files (x86)\PHP\v5.3
+&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;pre&gt;&lt;code&gt;C:\Program Files (x86)\PHP\v5.3
-&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h4 id=&#34;install-arcanist&#34;&gt;Install Arcanist&lt;/h4&gt;
 
@@ -464,47 +463,42 @@ Want to upload an image in a comment: just drag it from your filesystem, and voi
 &lt;p&gt;Once and for all, in a terminal:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Set phabricator url:&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;Set phabricator url:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;arc set-config default http://phabricator-test.esker.corp
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;em&gt;Edit: not required if you have a .arcconfig file in your project&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Edit: not required if you have a .arcconfig file in your project&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Allow arcanist web service:&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;Allow arcanist web service:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;arc install-certificate
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;. Copy url displayed in terminal, ex: &lt;a href=&#34;http://phabricator-test.esker.corp/conduit/token/&#34;&gt;http://phabricator-test.esker.corp/conduit/token/&lt;/a&gt;&lt;br /&gt;
-. Login &amp;amp; copy the displayed token from the web page into your terminal&lt;/p&gt;
+. Login &amp;amp; copy the displayed token from the web page into your terminal&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Setup editor:&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;Setup editor:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;arc set-config editor &amp;quot;\&amp;quot;C:\Program Files (x86)\Notepad++\notepad++.exe\&amp;quot; -multiInst -nosession&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;According to officiel documentation:  &amp;ldquo;You can not use Notepad as your editor, because it does not have a blocking mode.&amp;rdquo;&lt;br /&gt;
-I&amp;rsquo;m using Notepad2 which works great. But Notepad++ and GitPad work too.&lt;/p&gt;
+I&amp;rsquo;m using Notepad2 which works great. But Notepad++ and GitPad work too.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&#34;submit-code-for-pre-push-review&#34;&gt;Submit code for pre-push review&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Do one or more commits, still in &lt;code&gt;draft&lt;/code&gt; state (not pushed).&lt;/li&gt;
-&lt;li&gt;Open a terminal and type:&lt;/li&gt;
+&lt;li&gt;Open a terminal and type:
+&lt;code&gt;html
+arc diff
+&lt;/code&gt;
+Editor is going to open, you have to specify some infos:&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;test plan ; can be optionnal, cf config differential.require-test-plan-field&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;reviewers ; you can specify one or several (comma separation)&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;arc diff
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Editor is going to open, you have to specify some infos:&lt;br /&gt;
-- test plan ; can be optionnal, cf config differential.require-test-plan-field&lt;br /&gt;
-- reviewers ; you can specify one or several (comma separation)&lt;/p&gt;
 
 &lt;h4 id=&#34;arc-patch&#34;&gt;Arc patch&lt;/h4&gt;
 
@@ -846,20 +840,20 @@ Great collection of short tips&lt;/p&gt;
 
 &lt;p&gt;September 25, 2014 9:09am&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;div class=&#34;embed video-player&#34;&gt;
 &lt;iframe src=&#34;//player.vimeo.com/video/100501790&#34; width=&#34;640&#34; height=&#34;385&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;embed video-player&#34;&gt;
+
+&lt;div class=&#34;embed video-player&#34;&gt;
 &lt;iframe src=&#34;//player.vimeo.com/video/99877232&#34; width=&#34;640&#34; height=&#34;385&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;embed video-player&#34;&gt;
+
+&lt;div class=&#34;embed video-player&#34;&gt;
 &lt;iframe src=&#34;//player.vimeo.com/video/100264064&#34; width=&#34;640&#34; height=&#34;385&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;/p&gt;
+
 
 &lt;hr /&gt;
 
@@ -936,12 +930,10 @@ The color &lt;span style=&#34;color:blue&#34;&gt;blue&lt;/span&gt; wins because 
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/2014/08/software-testing-ice-cream-cone/</guid>
       <description>&lt;p&gt;What not to do:&lt;br /&gt;
-&lt;img src=&#34;cone/ice-cream_cone.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
+&lt;img src=&#34;cone/ice-cream_cone.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;What we should do:&lt;br /&gt;
-&lt;img src=&#34;cone/cone1.png&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
+&lt;img src=&#34;cone/cone1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -974,11 +966,9 @@ See Part 4: Automated Testing&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&#34;cone/blind_commit.png&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;cone/blind_commit.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;cone/break.png&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;cone/break.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1031,9 +1021,9 @@ See Part 4: Automated Testing&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://martinfowler.com/articles/is-tdd-dead/&#34;&gt;Is TDD Dead?&lt;/a&gt; [article]&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/z9quxZsLcfo&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
+
 
 &lt;p&gt;&lt;span class=&#34;genericon genericon-audio&#34;&gt;&lt;/span&gt; &lt;a href=&#34;http://www.hanselman.com/blog/HanselminutesPodcast146TestDrivenDevelopmentIsDesignTheLastWordOnTDD.aspx&#34;&gt;Hanselminutes Podcast 146 - Test Driven Development is Design - The Last Word on TDD&lt;/a&gt;&lt;/p&gt;
 
