@@ -7,8 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Tue, 15 Dec 2015 23:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jan 2016 23:55:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #112 - Sunday fun</title>
+      <link>https://titi.github.io/links/Feed-112/</link>
+      <pubDate>Sun, 10 Jan 2016 23:55:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-112/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://christmasinfairbanks.com/&#34;&gt;Ken &amp;amp; R-E&amp;rsquo;s Internet Controlled Christmas Lights&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ci4.googleusercontent.com/proxy/wYfEA08maHoPmBy0pYwXft8G1lXw3B07RUtOr3pkvigQJpDPvu7jX8v_r9cLYgIZY3cLZm3XSxV6Gabpu4nXvvAaJovVv0KdfNuz8IJIF7uzwZUe=s0-d-e1-ft#https://info.microsoft.com/rs/157-GQE-382/images/comic-dec.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.cloudtweaks.com&#34;&gt;www.cloudtweaks.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/12/Strip-Nouvel-an-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/12/31/happy-new-year-2016/?setLocale=1&#34;&gt;CommitStrip&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.dylanjpierce.com/raspberrypi/magicmirror/tutorial/2015/12/27/build-a-magic-mirror.html&#34;&gt;Building MirrorMirror:&lt;br /&gt;
+&lt;img src=&#34;http://i.imgur.com/lNB7QSt.jpg?1&#34; alt=&#34;MirrorMirror&#34; width=&#34;600&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/UBWAcNJf5pM?t=113&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+&lt;a href=&#34;https://www.ted.com/talks/a_robot_that_flies_like_a_bird?language=en&#34;&gt;Markus Fischer: A robot that flies like a bird&lt;/a&gt; - TED Talks&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://starbnb.co/&#34;&gt;Explore New Horizons - StarBnB&lt;/a&gt;&lt;br /&gt;
+(Which is a pardoy of Airbnb in case you didn&amp;rsquo;t get that ; from &lt;a href=&#34;http://pointlesscorp.com/&#34;&gt;Pointless Corp&lt;/a&gt; - The Innovation Lab at Viget)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #111</title>
@@ -593,79 +621,6 @@ It is easier to understand on the &lt;a href=&#34;https://github.com/MicrosoftEd
 &lt;p&gt;&lt;a href=&#34;https://www.thekua.com/atwork/2015/08/book-review-difficult-conversations/&#34;&gt;Book Review: Difficult Conversations&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mortoray.com/2015/07/27/a-real-cost-of-low-performing-applications/&#34;&gt;A real cost of low performing applications&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #97</title>
-      <link>https://titi.github.io/links/Feed-97/</link>
-      <pubDate>Thu, 20 Aug 2015 23:22:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-97/</guid>
-      <description>
-
-&lt;h1 id=&#34;software-quality&#34;&gt;Software Quality&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.stevemcconnell.com/articles/art04.htm&#34;&gt;Software Quality at Top Speed&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;« Some project managers try to shorten their schedules by reducing the time spent on quality-assurance practices such as design and code reviews. Some shortchange the upstream activities of requirements analysis and design. Others&amp;ndash;running late&amp;ndash;try to make up time by compressing the testing schedule, which is vulnerable to reduction since it’s the critical-path item at the end of the schedule.&lt;/p&gt;
-
-&lt;p&gt;These are some of the worst decisions a person who wants to maximize development speed can make. »&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.bitnative.com/2014/01/28/who-chooses-quality-client-or-coder/&#34;&gt;Who Dictates Software Quality: Client or Coder?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://bravenewgeek.com/designed-to-fail/&#34;&gt;Designed to Fail&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2015/08/reducing-regression-execution-times/&#34;&gt;Reducing Regression Execution Times&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2015/08/why-manual-testing-helps-your-release/&#34;&gt;Why Manual Testing Helps Your Release&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://codurance.com/2015/08/05/becoming-evergreen/&#34;&gt;Becoming Evergreen&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;performance&#34;&gt;Performance&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://v8project.blogspot.fr/2015/08/getting-garbage-collection-for-free.html&#34;&gt;Getting Garbage Collection for Free&lt;/a&gt; - V8 JavaScript Engine&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/08/netflix-at-velocity-2015-linux.html&#34;&gt;Netflix at Velocity 2015: Linux Performance Tools&lt;/a&gt; - Netflix Tech Blog&lt;/p&gt;
-
-&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/08/falcor-developer-preview.html&#34;&gt;Netflix Releases Falcor Developer Preview&lt;/a&gt; - Netflix Tech Blog&lt;br /&gt;
-&lt;a href=&#34;http://netflix.github.io/falcor/&#34;&gt;Falcor - A JavaScript library for efficient data fetching&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://rmurphey.com/blog/2015/07/20/karma-webpack-tape-code-coverage/&#34;&gt;Browser Testing and Code Coverage With Karma, Tape, and Webpack&lt;/a&gt; - Rebecca Murphey&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.superfeedr.com/streaming-average/&#34;&gt;Streaming averages&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841&#34;&gt;Exploring ES2016 Decorators&lt;/a&gt; - Addy Osmani&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hacks.mozilla.org/2015/08/trainspotting-firefox-40/&#34;&gt;Trainspotting: Firefox 40&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;c&#34;&gt;C#&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.informit.com/articles/article.aspx?p=2425867&#34;&gt;Sharp Regrets: Top 10 Worst C# Features&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.stackexchange.com/2015/07/announcing-stackexchange-precompilation/&#34;&gt;Announcing StackExchange.Precompilation&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;user-experience-ux&#34;&gt;User eXperience (UX)&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/jotform-form-builder/a-wide-perspective-for-designing-user-experience-1fac19643c5&#34;&gt;A Wide Perspective for Designing User Experience&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://thenextweb.com/dd/2015/07/16/5-ux-mistakes-that-make-users-feel-stupid/&#34;&gt;5 UX mistakes that make users feel stupid&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://conversionxl.com/animation-improve-user-experience/&#34;&gt;4 Ways Animation Can Actually Improve User Experience&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://prowebtype.com/delivering-web-fonts/&#34;&gt;Delivering Web Fonts&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://rmurphey.com/blog/2015/07/27/tech-podcast-recording-tips/&#34;&gt;So You&amp;rsquo;re Going on a Podcast&lt;/a&gt; - Rebecca Murphey&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://speedof.me/&#34;&gt;SpeedOf.Me - HTML5 Speed Test&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/our-brave-new-world-of-4k-displays/&#34;&gt;Our Brave New World of 4K Displays&lt;/a&gt; - Jeff Atwood&lt;/p&gt;
 </description>
     </item>
     
