@@ -7,8 +7,88 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 10 Jan 2016 23:55:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jan 2016 00:20:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #113</title>
+      <link>https://titi.github.io/links/Feed-113/</link>
+      <pubDate>Wed, 13 Jan 2016 00:20:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-113/</guid>
+      <description>
+
+&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.adobe.com/agile/2014/10/10/agile-and-leadership-turn-the-ship-around/&#34;&gt;Agile and Leadership – Turn the Ship Around&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/articles/towards-agile-software-architecture&#34;&gt;Towards an Agile Software Architecture&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://hmarco.org/bugs/CVE-2015-8370-Grub2-authentication-bypass.html&#34;&gt;Back to 28: Grub2 Authentication 0-Day&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.theregister.co.uk/2015/12/22/ftc_oracle_java/&#34;&gt;Oracle ordered to admit on its website that it lost the plot on Java security&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2015/12/security-panel?hl=en&#34;&gt;Security Panel debuts in Chrome DevTools&lt;/a&gt; | Web Updates - Google Developers&lt;/p&gt;
+
+&lt;h1 id=&#34;web-dev&#34;&gt;Web dev&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2015/11/devtools-digest-cds-edition?hl=en&#34;&gt;DevTools Digest (CDS Edition): A glimpse into the future + RAIL Profiling&lt;/a&gt; | Web Updates - Google Developers&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://thedubiousdisc.wordpress.com/2015/12/19/how-to-write-unfancy-web-apps/&#34;&gt;How to Write Unfancy Web Apps&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/12/html5-video-is-now-supported-in-firefox.html&#34;&gt;HTML5 Video is now supported in Firefox&lt;/a&gt; - The Netflix Tech Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://idlewords.com/talks/website_obesity.htm&#34;&gt;The Website Obesity Crisis&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;code-style&#34;&gt;Code style&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://haacked.com/archive/2015/12/16/to-string-or-not/&#34;&gt;To String or to string&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://freedom-to-tinker.com/blog/aylin/when-coding-style-survives-compilation-de-anonymizing-programmers-from-executable-binaries/&#34;&gt;When coding style survives compilation: De-anonymizing programmers from executable binaries&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;culture&#34;&gt;Culture&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wisdompills.com/2014/05/28/the-famous-social-experiment-5-monkeys-a-ladder/&#34;&gt;The Famous ‘Social Experiment’: 5 Monkeys and a Ladder&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.gatesnotes.com/Books/Mindset-The-New-Psychology-of-Success&#34;&gt;What You Believe Affects What You Achieve&lt;/a&gt; - Bill Gates&lt;/p&gt;
+
+&lt;h1 id=&#34;microservices&#34;&gt;Microservices&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://smartbear.com/learn/api-design/what-are-microservices/&#34;&gt;What is Microservices Architecture?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/news/2015/12/microservices-amazon&#34;&gt;Microservices and Teams at Amazon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/7-sins-microservices&#34;&gt;The Seven Deadly Sins of Microservices&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html&#34;&gt;How we ended up with microservices&lt;/a&gt; - ex-SoundCloud dev&lt;br /&gt;
+This article is a goldmine about team work, software architecture, code ownership and culture:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;that very frequently your feature would be rolled back because of a problem in a completely unrelated part of the code.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Most people were happy with pairing, and those who weren’t happy were given the option to keep working by themselves, but only on tasks not related to the Next project.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Turns out that the monolithic code base we had was so massive and so broad no one knew all of it. People had developed their own areas of expertise and custodianship around submodules of the application.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;A meme around the company was “everything is fun and games until someone has to touch the monolith”.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;The irreducible complexity of the monolith&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;But even if everything went smoothly, we knew that the current code for the monolith had to be refactored anyway. The code had suffered a lot during the past few years, tech debt everywhere.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Anything new we were to build would become a greenfield project, and the delay introduced by Pull Requests wouldn’t be necessary.&amp;rdquo;&lt;br /&gt;
+&amp;ldquo;We decided to give it a try, and eventually built everything required for our first monetisation project as services, isolated from the monolith. The project introduced several big features and a complete revamp of our subscription model, and it was delivered ahead of deadlines by 2 teams of 2 engineers each.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;People would still either implement the change in the old code base or create some weird hybrid, where the changes would be implemented in a microservice that was so coupled to the monolith that it might as well be the same system.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;People would be jumping from one feature to another all the time, and we realised that we didn’t develop a sense of ownership or autonomy towards any part of the system. Nobody wanted to make the risky investment of extracting some ancient piece of code if they didn’t feel responsible for it. It’s an instance of the old adage: what’s everybody’s responsibility is nobody’s responsibility.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;We could finally afford having these people facing the extraction of modules from the monolith as a project in itself.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #112 - Sunday fun</title>
@@ -554,73 +634,6 @@ It is easier to understand on the &lt;a href=&#34;https://github.com/MicrosoftEd
 &lt;p&gt;&lt;a href=&#34;https://blog.growth.supply/how-i-increased-lonely-planet-s-in-app-purchase-revenue-by-30-case-study-inside-35213dd0f29a&#34;&gt;How I Increased Lonely Planet’s In-App Purchase Revenue By 30% (Case Study Inside)&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://blog.growth.supply/the-cognitively-biased-designer-7e6561d6f89a&#34;&gt;The Cognitively Biased Designer&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #98</title>
-      <link>https://titi.github.io/links/Feed-98/</link>
-      <pubDate>Wed, 26 Aug 2015 23:37:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-98/</guid>
-      <description>
-
-&lt;h1 id=&#34;working-software&#34;&gt;Working software&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.continuousimprover.com/2015/08/12-things-professional-software.html&#34;&gt;12 things professional software developers do&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mir.aculo.us/2015/08/25/how-to-actually-ship-software-that-actually-works/&#34;&gt;How to actually ship software that actually works&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2015/08/building-applications-for-quality/&#34;&gt;Building Applications for Quality&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2015/08/how-to-prevent-catastrophic-failures-in.html&#34;&gt;How to Prevent Catastrophic Failures in Complex Distributed Systems&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;tech-lead&#34;&gt;Tech lead&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.itproportal.com/2015/08/07/the-tech-of-a-tech-lead/&#34;&gt;The “tech” of a tech lead&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.information-age.com/it-management/skills-training-and-leadership/123459858/why-expert-developers-make-worst-tech-leads&#34;&gt;Why expert developers make the worst tech leads&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jchyip.blogspot.fr/2015/08/you-dont-need-agile-just-let-developers.html&#34;&gt;You don&amp;rsquo;t need Agile, just let the developers do what they think is right?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.thekua.com/atwork/2015/07/talking-with-tech-leads-now-available-in-print/&#34;&gt;Talking with Tech Leads now available in print&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;code&#34;&gt;Code&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/dennisdoomen/csharpguidelines/blob/master/Guidelines/1500_MaintainabilityGuidelines.md&#34;&gt;C# Maintainability Guidelines&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.thecodewhisperer.com/2013/12/07/putting-an-age-old-battle-to-rest/&#34;&gt;Putting an Age-Old Battle to Rest&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jchyip.blogspot.fr/2015/08/agile-is-for-extroverts.html&#34;&gt;Agile is for extroverts?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.continuousimprover.com/2015/08/a-reminder-on-why-every-software-team.html&#34;&gt;A reminder on why every software team can benefit from Scrum and/or Kanban&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;fun&#34;&gt;Fun&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/oldnewthing/archive/2015/08/24/10637017.aspx&#34;&gt;Insightful graph: The ship date predictor&lt;/a&gt; - The Old New Thing&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/DealingWithSoftwareReligiousArgumentsAndArchitecturalZealotry.aspx&#34;&gt;Dealing with Software Religious Arguments and Architectural Zealotry&lt;/a&gt; - Scott Hanselman&lt;/p&gt;
-
-&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.chromium.org/2015/08/scheduling-timers-to-improve-input.html&#34;&gt;Scheduling timers to improve input responsiveness&lt;/a&gt; - Chromium Blog&lt;/p&gt;
-
-&lt;p&gt;Backward compatibility is painful:&lt;br /&gt;
-&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/08/26/how-microsoft-edge-and-internet-explorer-11-on-windows-10-work-better-together-in-the-enterprise/&#34;&gt;How Microsoft Edge and Internet Explorer 11 on Windows 10 work better together in the Enterprise&lt;/a&gt; - Microsoft Edge Dev Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/TheEvergreenWeb.aspx&#34;&gt;The Evergreen Web&lt;/a&gt; - Scott Hanselman&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html&#34;&gt;Stop pushing the web forward&lt;/a&gt; - quirksmode.org&lt;/p&gt;
-
-&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@housecor/browserify-vs-webpack-b3d7ca08a0a9&#34;&gt;Browserify vs Webpack&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.thekua.com/atwork/2015/08/book-review-difficult-conversations/&#34;&gt;Book Review: Difficult Conversations&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mortoray.com/2015/07/27/a-real-cost-of-low-performing-applications/&#34;&gt;A real cost of low performing applications&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
