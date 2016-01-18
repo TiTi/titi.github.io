@@ -7,8 +7,78 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Wed, 13 Jan 2016 00:20:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jan 2016 21:55:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #114</title>
+      <link>https://titi.github.io/links/Feed-114/</link>
+      <pubDate>Mon, 18 Jan 2016 21:55:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-114/</guid>
+      <description>
+
+&lt;h1 id=&#34;improvment&#34;&gt;Improvment&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://githubengineering.com/move-fast/&#34;&gt;Move Fast and Fix Things&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://danluu.com/wat/&#34;&gt;Normalization of Deviance in Software: How Completely Messed Up Practices Become Normal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://boagworld.com/working-in-web/i-am-done-with-bad-meetings/&#34;&gt;I am done with bad meetings&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://codeascraft.com/2015/12/21/leveling-up-with-system-reviews/&#34;&gt;Leveling Up Your Organization With System Reviews&lt;/a&gt; - Etsy&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/autonomy-leadership-spotify&#34;&gt;Autonomy and Leadership at Spotify&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;open-source&#34;&gt;Open source&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nczonline.net/blog/2015/12/why-im-not-using-your-open-source-project/&#34;&gt;Why I&amp;rsquo;m not using your open source project&lt;/a&gt; - Nicholas C. Zakas&lt;/p&gt;
+
+&lt;h1 id=&#34;cloud&#34;&gt;Cloud&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wired.com/2015/12/2015-was-the-year-the-cloud-defeated-techs-walking-dead/&#34;&gt;Nobody Knew How Big a Deal the Cloud Would Be—They Do Now&lt;/a&gt; - Wired&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://highscalability.com/amazon-architecture&#34;&gt;Amazon Architecture&lt;/a&gt; - High Scalability&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html&#34;&gt;A 360 Degree View Of The Entire Netflix Stack&lt;/a&gt; - High Scalability&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://v8project.blogspot.fr/2015/12/theres-mathrandom-and-then-theres.html&#34;&gt;There&amp;rsquo;s Math.random(), and then there&amp;rsquo;s Math.random()&lt;/a&gt; - V8 JavaScript Engine&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.8h2tu1von&#34;&gt;Angular 2 versus React: There Will Be Blood&lt;/a&gt; - Cory House&lt;/p&gt;
+
+&lt;h1 id=&#34;self-driving-car&#34;&gt;Self-Driving Car&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.bloomberg.com/features/2015-george-hotz-self-driving-car/&#34;&gt;The First Person to Hack the iPhone Built a Self-Driving Car. In His Garage&lt;/a&gt;&lt;br /&gt;
+Elon Musk comments are great: &lt;a href=&#34;http://fortune.com/2015/12/21/elon-musk-interview/&#34;&gt;Elon Musk Says Tesla Vehicles Will Drive Themselves in Two Years&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;ux&#34;&gt;UX&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://css-tricks.com/the-blur-up-technique-for-loading-background-images/&#34;&gt;The “Blur Up” Technique for Loading Background Images&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;How Bad Kissing is Like Working with Developers:&lt;br /&gt;
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe src=&#34;//player.vimeo.com/video/145364291&#34; width=&#34;640&#34; height=&#34;385&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;a href=&#34;http://www.webydo.com/blog/our-community/influencers/what-do-bad-kissing-and-working-with-developers-have-in-common-video/&#34;&gt;What do Bad Kissing and Working with Developers have in Common?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/guides/application-security-2015-edition&#34;&gt;Application Security, 2015 Edition&lt;/a&gt; - DZone&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/&#34;&gt;What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nationalcrimeagency.gov.uk/crime-threats/cyber-crime/cyber-crime-preventing-young-people-from-getting-involved&#34;&gt;Cyber crime: Preventing young people from getting involved&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/news/2016/01/VS-64-bit&#34;&gt;Rico Mariani on Why Visual Studio Isn’t 64-bit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality&#34;&gt;Parkinson&amp;rsquo;s law of triviality&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #113</title>
@@ -577,63 +647,6 @@ And I keep &lt;a href=&#34;http://www.viva64.com/en/l/&#34;&gt;this one&lt;/a&gt
 &lt;p&gt;&lt;a href=&#34;https://robots.thoughtbot.com/input-output-redirection-in-the-shell&#34;&gt;Input/Output Redirection in the Shell&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.atlassian.com/git/tutorials/comparing-workflows&#34;&gt;Comparing Git Workflows&lt;/a&gt; - Atlassian&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #99</title>
-      <link>https://titi.github.io/links/Feed-99/</link>
-      <pubDate>Wed, 02 Sep 2015 23:11:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-99/</guid>
-      <description>
-
-&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
-
-&lt;p&gt;Doc Norton - Agile Metrics - Velocity is NOT the Goal:&lt;br /&gt;
-&lt;div class=&#34;embed video-player&#34;&gt;
-&lt;iframe src=&#34;//player.vimeo.com/video/97505655&#34; width=&#34;640&#34; height=&#34;385&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/articles/host-leadership-agile&#34;&gt;I’m Not a Servant - I’m a Host! A New Metaphor for Leadership in Agile?&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://labsblog.f-secure.com/2015/09/01/trackers-are-out-of-control/&#34;&gt;Trackers Are Out Of Control&lt;/a&gt; - F-Secure labs&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://venturebeat.com/2015/08/13/how-microsoft-built-and-is-still-building-windows-10/&#34;&gt;How Microsoft built, and is still building, Windows 10&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/09/01/ending-support-for-the-rc4-cipher-in-microsoft-edge-and-internet-explorer-11/&#34;&gt;Ending support for the RC4 cipher in Microsoft Edge and Internet Explorer 11&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/08/27/creating-your-own-browser-with-html-and-javascript/&#34;&gt;Creating your own browser with HTML and JavaScript&lt;/a&gt;&lt;br /&gt;
-It is easier to understand on the &lt;a href=&#34;https://github.com/MicrosoftEdge/JSBrowser&#34;&gt;MicrosoftEdge/JSBrowser GitHub repository&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://v8project.blogspot.fr/2015/08/v8-release-46.html&#34;&gt;V8 Release 4.6&lt;/a&gt; - V8 JavaScript Engine&lt;/p&gt;
-
-&lt;h1 id=&#34;feature&#34;&gt;Feature&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://codepen.io/pixelass/pen/PqMpYL&#34;&gt;morphing search input&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/railgun-v5-has-landed/&#34;&gt;Railgun v5 has landed: better, faster, lighter&lt;/a&gt; - CloudFlare&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.wired.com/2015/09/facebooks-new-anti-spam-system-hints-future-coding/&#34;&gt;Facebook’s New Spam-Killer Hints at the Future of Coding&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://semver.org/&#34;&gt;Semantic Versioning 2.0.0&lt;/a&gt;&lt;/p&gt;
-
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/XDqZemwVXUk&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-
-&lt;p&gt;&lt;a href=&#34;http://www.nczonline.net/blog/2015/08/wordpress-jekyll-my-new-blog-setup/&#34;&gt;From Wordpress to Jekyll: My new blog setup&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.8thlight.com/uncle-bob/2015/05/28/TheFirstMicroserviceArchitecture.html&#34;&gt;The First Micro-service Architecture&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.growth.supply/how-i-increased-lonely-planet-s-in-app-purchase-revenue-by-30-case-study-inside-35213dd0f29a&#34;&gt;How I Increased Lonely Planet’s In-App Purchase Revenue By 30% (Case Study Inside)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.growth.supply/the-cognitively-biased-designer-7e6561d6f89a&#34;&gt;The Cognitively Biased Designer&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
