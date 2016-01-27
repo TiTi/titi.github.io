@@ -7,8 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Mon, 18 Jan 2016 21:55:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jan 2016 23:40:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #115</title>
+      <link>https://titi.github.io/links/Feed-115/</link>
+      <pubDate>Wed, 27 Jan 2016 23:40:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-115/</guid>
+      <description>
+
+&lt;h1 id=&#34;guides&#34;&gt;Guides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/guides/continuous-delivery-3&#34;&gt;DZone&amp;rsquo;S 2015 guide to Continuous Delivery&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/minibooks/emag-patterns-devops-culture&#34;&gt;InfoQ eMag: Patterns of DevOps Culture&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/guides/application-security-2015-edition&#34;&gt;DZone&amp;rsquo;S 2015 guide to Application Security&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;net&#34;&gt;.NET&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://fullstack.info/to-dotnet-or-not-to-dotnet-that-is-the-question/&#34;&gt;To .NET or not to .NET, That is the Question&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/ASPNET5IsDeadIntroducingASPNETCore10AndNETCore10.aspx&#34;&gt;ASP.NET 5 is dead - Introducing ASP.NET Core 1.0 and .NET Core 1.0&lt;/a&gt; - Scott Hanselman&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://es6katas.org/&#34;&gt;ES6 Katas - Learn ECMAScript6 by doing it&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dev.opera.com/articles/offline-with-upup-service-workers/&#34;&gt;Building Offline Sites with ServiceWorkers and UpUp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://tvcutsem.github.io/js-membranes/&#34;&gt;Membranes in JavaScript&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;browsers-web-development&#34;&gt;Browsers &amp;amp; Web development&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://v8project.blogspot.fr/2016/01/v8-release-49.html&#34;&gt;V8 Release 4.9&lt;/a&gt; - V8 JavaScript Engine&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html&#34;&gt;A faster, more stable Chrome on iOS&lt;/a&gt; - Chromium Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.chromium.org/2016/01/introducing-security-panel-in-devtools.html&#34;&gt;Introducing the Security Panel in DevTools&lt;/a&gt; - Chromium Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://danielmall.com/articles/content-display-patterns/&#34;&gt;Content &amp;amp; Display Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;when thinking about patterns, content strategists are primarily thinking about Content patterns, designers are primarily thinking about Display patterns, and front-end developers are responsible for bringing the two together&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #114</title>
@@ -601,52 +647,6 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/09/17/meanwhile-in-a-
 &lt;p&gt;&lt;a href=&#34;http://imgur.com/blog/2015/09/15/tech-tuesday-imgur-notifications-from-mysql-to-hbase/&#34;&gt;Tech Tuesday: Imgur Notifications: From MySQL to HBase&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://githubengineering.com/counting-objects/&#34;&gt;Counting [Git] Objects&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #100</title>
-      <link>https://titi.github.io/links/Feed-100/</link>
-      <pubDate>Fri, 04 Sep 2015 22:26:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-100/</guid>
-      <description>
-
-&lt;h1 id=&#34;64-bits&#34;&gt;64 bits&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@CPP_Coder/how-to-port-a-9-million-code-line-project-to-64-bits-3571376525d9&#34;&gt;How to Port a 9 Million Code Line Project to 64 bits?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.viva64.com/en/a/0065/&#34;&gt;A Collection of Examples of 64-bit Errors in Real Programs&lt;/a&gt;&lt;br /&gt;
-Wow! Awesome article!&lt;br /&gt;
-And I keep &lt;a href=&#34;http://www.viva64.com/en/l/&#34;&gt;this one&lt;/a&gt; for later&lt;/p&gt;
-
-&lt;h1 id=&#34;quality&#34;&gt;Quality&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@alexmc/are-programmers-decreasing-in-quality-cf3cc5df32e0&#34;&gt;Are developers decreasing in quality?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://codebetter.com/jeremymiller/2006/08/14/creating-a-maintainable-software-ecosystem/&#34;&gt;Creating a Maintainable Software Ecosystem&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@thomasfuchs/how-to-write-an-error-message-883718173322&#34;&gt;How to write a great error message&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48&#34;&gt;Lint Like It’s 2015&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d&#34;&gt;5 Questions Every Unit Test Must Answer&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;improvement&#34;&gt;Improvement&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.chromium.org/2015/09/chrome-46-beta-flexible-animations-and.html&#34;&gt;Chrome 46 Beta: Flexible animations and improved loading performance&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.stackexchange.com/2015/08/a-better-syntax-for-scheduled-tasks/&#34;&gt;A Better Syntax for Scheduled Tasks&lt;/a&gt; - StackExchange Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://devblog.avdi.org/2015/08/03/dont-introduce-yourself/&#34;&gt;Don’t introduce yourself&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jchyip.blogspot.fr/2015/08/you-dont-need-agile-just-get-rid-of.html&#34;&gt;You don&amp;rsquo;t need Agile, just get rid of the deadweight developers?&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://robots.thoughtbot.com/input-output-redirection-in-the-shell&#34;&gt;Input/Output Redirection in the Shell&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.atlassian.com/git/tutorials/comparing-workflows&#34;&gt;Comparing Git Workflows&lt;/a&gt; - Atlassian&lt;/p&gt;
 </description>
     </item>
     
