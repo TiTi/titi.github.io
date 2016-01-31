@@ -26,21 +26,28 @@
 </head>
 <body>
 
+<input type="checkbox" id="sidebar-menu-checkbox" />
+<label for="sidebar-menu-checkbox" id="sidebar-menu"></label>
 
-<div id="container">
-  <div id="post-header">
-    <p class="post-infos">
-      <time>2015-09-22 23:49</time>
-      
+<div id="flex-container">
+  <div id="fake-sidebar">:)</div>
+  <div id="container-mask"></div>
+  <div id="container">
 
-    </p>
-    <h1>Feed #101</h1>
-  </div>
 
-  
+<div id="post-header">
+  <p class="post-infos">
+    <time>2015-09-22 23:49</time>
+    
 
-  <div class="post">
-    <p><a href="https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98">React’s JSX: The Other Side of the Coin</a></p>
+  </p>
+  <h1>Feed #101</h1>
+</div>
+
+
+
+<div class="post">
+  <p><a href="https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98">React’s JSX: The Other Side of the Coin</a></p>
 
 <p><a href="https://blog.mozilla.org/security/2015/09/04/improving-security-for-bugzilla/">Improving Security for Bugzilla</a> - Mozilla Security Blog</p>
 
@@ -66,10 +73,10 @@
 
 <p><a href="http://githubengineering.com/counting-objects/">Counting [Git] Objects</a> - GitHub Engineering</p>
 
-  </div>
+</div>
 
-  
-    <div id="disqus_thread"></div>
+
+  <div id="disqus_thread"></div>
 <script type="text/javascript">
 
 (function() {
@@ -85,7 +92,12 @@
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 
-  
+
+<footer>
+  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
+</footer>
+
+  </div>
 </div>
 
 <div id="sidebar">
@@ -134,15 +146,12 @@
   </div>
   <hr />
   <div class="sidebar-bottom">
-    <p>Powered by <a href="http://gohugo.io">Hugo</a>. Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
-    <p>Copyright &copy; 2016. All rights reserved.</p>
+    <p>Powered by <a href="http://gohugo.io">Hugo</a>.</p> <p>Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
+    <p>Copyright &copy; 2016.</p> <p>All rights reserved.</p>
   </div>
 </div>
 </div>
 
-<footer>
-  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
-</footer>
 
 <script src="highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>

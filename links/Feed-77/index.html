@@ -26,12 +26,19 @@
 </head>
 <body>
 
+<input type="checkbox" id="sidebar-menu-checkbox" />
+<label for="sidebar-menu-checkbox" id="sidebar-menu"></label>
 
-<div id="container">
-  <div id="post-header">
-    <p class="post-infos">
-      <time>2015-05-03 00:11</time>
-      
+<div id="flex-container">
+  <div id="fake-sidebar">:)</div>
+  <div id="container-mask"></div>
+  <div id="container">
+
+
+<div id="post-header">
+  <p class="post-infos">
+    <time>2015-05-03 00:11</time>
+    
   
 
   
@@ -41,14 +48,14 @@
   
 
 
-    </p>
-    <h1>Feed #77 - Sunday fun</h1>
-  </div>
+  </p>
+  <h1>Feed #77 - Sunday fun</h1>
+</div>
 
-  
 
-  <div class="post">
-    <p><a href="http://blog.francoismaillet.com/epic-celebration/">Hacking an epic NHL goal celebration with a hue light show and real-time machine learning</a></p>
+
+<div class="post">
+  <p><a href="http://blog.francoismaillet.com/epic-celebration/">Hacking an epic NHL goal celebration with a hue light show and real-time machine learning</a></p>
 
 <p>The Lighter Side Of The Cloud - Transformation<br />
 <img src="http://cloudtweaks.com/wp-content/uploads/2012/02/cloud_84-1024x950.jpg" alt="The Lighter Side Of The Cloud - Transformation" width="500" /><br />
@@ -60,10 +67,10 @@ Source: <a href="http://geek-and-poke.com/geekandpoke/2010/12/21/the-free-model.
 <p><a href="http://blogs.msdn.com/b/oldnewthing/archive/2015/05/01/10611358.aspx">That&rsquo;s not how you start a boat</a><br />
 (also, first comment is quite a story too)</p>
 
-  </div>
+</div>
 
-  
-    <div id="disqus_thread"></div>
+
+  <div id="disqus_thread"></div>
 <script type="text/javascript">
 
 (function() {
@@ -79,7 +86,12 @@ Source: <a href="http://geek-and-poke.com/geekandpoke/2010/12/21/the-free-model.
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 
-  
+
+<footer>
+  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
+</footer>
+
+  </div>
 </div>
 
 <div id="sidebar">
@@ -128,15 +140,12 @@ Source: <a href="http://geek-and-poke.com/geekandpoke/2010/12/21/the-free-model.
   </div>
   <hr />
   <div class="sidebar-bottom">
-    <p>Powered by <a href="http://gohugo.io">Hugo</a>. Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
-    <p>Copyright &copy; 2016. All rights reserved.</p>
+    <p>Powered by <a href="http://gohugo.io">Hugo</a>.</p> <p>Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
+    <p>Copyright &copy; 2016.</p> <p>All rights reserved.</p>
   </div>
 </div>
 </div>
 
-<footer>
-  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
-</footer>
 
 <script src="highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>

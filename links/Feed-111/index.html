@@ -26,21 +26,28 @@
 </head>
 <body>
 
+<input type="checkbox" id="sidebar-menu-checkbox" />
+<label for="sidebar-menu-checkbox" id="sidebar-menu"></label>
 
-<div id="container">
-  <div id="post-header">
-    <p class="post-infos">
-      <time>2015-12-15 23:00</time>
-      
+<div id="flex-container">
+  <div id="fake-sidebar">:)</div>
+  <div id="container-mask"></div>
+  <div id="container">
 
-    </p>
-    <h1>Feed #111</h1>
-  </div>
 
-  
-
-  <div class="post">
+<div id="post-header">
+  <p class="post-infos">
+    <time>2015-12-15 23:00</time>
     
+
+  </p>
+  <h1>Feed #111</h1>
+</div>
+
+
+
+<div class="post">
+  
 
 <h1 id="culture">Culture</h1>
 
@@ -90,10 +97,10 @@
 
 <p><a href="http://addyosmani.com/basket.js/">basket.js</a> - Addy Osmani</p>
 
-  </div>
+</div>
 
-  
-    <div id="disqus_thread"></div>
+
+  <div id="disqus_thread"></div>
 <script type="text/javascript">
 
 (function() {
@@ -109,7 +116,12 @@
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 
-  
+
+<footer>
+  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
+</footer>
+
+  </div>
 </div>
 
 <div id="sidebar">
@@ -158,15 +170,12 @@
   </div>
   <hr />
   <div class="sidebar-bottom">
-    <p>Powered by <a href="http://gohugo.io">Hugo</a>. Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
-    <p>Copyright &copy; 2016. All rights reserved.</p>
+    <p>Powered by <a href="http://gohugo.io">Hugo</a>.</p> <p>Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
+    <p>Copyright &copy; 2016.</p> <p>All rights reserved.</p>
   </div>
 </div>
 </div>
 
-<footer>
-  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
-</footer>
 
 <script src="highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>

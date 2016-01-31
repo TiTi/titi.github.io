@@ -26,12 +26,19 @@
 </head>
 <body>
 
+<input type="checkbox" id="sidebar-menu-checkbox" />
+<label for="sidebar-menu-checkbox" id="sidebar-menu"></label>
 
-<div id="container">
-  <div id="post-header">
-    <p class="post-infos">
-      <time>2015-12-06 18:00</time>
-      
+<div id="flex-container">
+  <div id="fake-sidebar">:)</div>
+  <div id="container-mask"></div>
+  <div id="container">
+
+
+<div id="post-header">
+  <p class="post-infos">
+    <time>2015-12-06 18:00</time>
+    
   
 
   
@@ -41,14 +48,14 @@
   
 
 
-    </p>
-    <h1>Feed #110 - Sunday fun</h1>
-  </div>
+  </p>
+  <h1>Feed #110 - Sunday fun</h1>
+</div>
 
-  
 
-  <div class="post">
-    <p><a href="http://www.theallium.com/engineering/torvalds-announces-plans-to-change-linux-line-endings-to-letter-z/">Torvalds Announces Plans To Change Linux Line Endings To Letter Z</a></p>
+
+<div class="post">
+  <p><a href="http://www.theallium.com/engineering/torvalds-announces-plans-to-change-linux-line-endings-to-letter-z/">Torvalds Announces Plans To Change Linux Line Endings To Letter Z</a></p>
 
 <p><a href="https://github.com/NARKOZ/hacker-scripts">Hacker Scripts</a></p>
 
@@ -57,10 +64,10 @@
 <p><img src="http://www.commitstrip.com/wp-content/uploads/2015/11/Strip-La-boucle-du-Framwork-english650-final.jpg" alt="" /><br />
 Source: <a href="http://www.commitstrip.com/en/2015/11/24/the-new-framework/?setLocale=1">The New Framework</a></p>
 
-  </div>
+</div>
 
-  
-    <div id="disqus_thread"></div>
+
+  <div id="disqus_thread"></div>
 <script type="text/javascript">
 
 (function() {
@@ -76,7 +83,12 @@ Source: <a href="http://www.commitstrip.com/en/2015/11/24/the-new-framework/?set
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 
-  
+
+<footer>
+  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
+</footer>
+
+  </div>
 </div>
 
 <div id="sidebar">
@@ -125,15 +137,12 @@ Source: <a href="http://www.commitstrip.com/en/2015/11/24/the-new-framework/?set
   </div>
   <hr />
   <div class="sidebar-bottom">
-    <p>Powered by <a href="http://gohugo.io">Hugo</a>. Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
-    <p>Copyright &copy; 2016. All rights reserved.</p>
+    <p>Powered by <a href="http://gohugo.io">Hugo</a>.</p> <p>Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
+    <p>Copyright &copy; 2016.</p> <p>All rights reserved.</p>
   </div>
 </div>
 </div>
 
-<footer>
-  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
-</footer>
 
 <script src="highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>

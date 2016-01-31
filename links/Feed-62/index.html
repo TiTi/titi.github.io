@@ -26,21 +26,28 @@
 </head>
 <body>
 
+<input type="checkbox" id="sidebar-menu-checkbox" />
+<label for="sidebar-menu-checkbox" id="sidebar-menu"></label>
 
-<div id="container">
-  <div id="post-header">
-    <p class="post-infos">
-      <time>2015-04-04 19:43</time>
-      
+<div id="flex-container">
+  <div id="fake-sidebar">:)</div>
+  <div id="container-mask"></div>
+  <div id="container">
 
-    </p>
-    <h1>Feed #62</h1>
-  </div>
 
-  
-
-  <div class="post">
+<div id="post-header">
+  <p class="post-infos">
+    <time>2015-04-04 19:43</time>
     
+
+  </p>
+  <h1>Feed #62</h1>
+</div>
+
+
+
+<div class="post">
+  
 
 <h1 id="browsers">Browsers</h1>
 
@@ -95,10 +102,10 @@ In the end, your post is about modularity/encapsulation. this is a very importan
 
 <p><a href="http://www.leadingagile.com/2015/03/our-collective-agile-transformation-metaphor-is-broken/">Our Agile Transformation Metaphors are Broken</a></p>
 
-  </div>
+</div>
 
-  
-    <div id="disqus_thread"></div>
+
+  <div id="disqus_thread"></div>
 <script type="text/javascript">
 
 (function() {
@@ -114,7 +121,12 @@ In the end, your post is about modularity/encapsulation. this is a very importan
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 
-  
+
+<footer>
+  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
+</footer>
+
+  </div>
 </div>
 
 <div id="sidebar">
@@ -163,15 +175,12 @@ In the end, your post is about modularity/encapsulation. this is a very importan
   </div>
   <hr />
   <div class="sidebar-bottom">
-    <p>Powered by <a href="http://gohugo.io">Hugo</a>. Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
-    <p>Copyright &copy; 2016. All rights reserved.</p>
+    <p>Powered by <a href="http://gohugo.io">Hugo</a>.</p> <p>Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
+    <p>Copyright &copy; 2016.</p> <p>All rights reserved.</p>
   </div>
 </div>
 </div>
 
-<footer>
-  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
-</footer>
 
 <script src="highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>

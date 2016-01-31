@@ -26,21 +26,28 @@
 </head>
 <body>
 
+<input type="checkbox" id="sidebar-menu-checkbox" />
+<label for="sidebar-menu-checkbox" id="sidebar-menu"></label>
 
-<div id="container">
-  <div id="post-header">
-    <p class="post-infos">
-      <time>2015-02-03 09:27</time>
-      
+<div id="flex-container">
+  <div id="fake-sidebar">:)</div>
+  <div id="container-mask"></div>
+  <div id="container">
 
-    </p>
-    <h1>Feed #39</h1>
-  </div>
 
-  
+<div id="post-header">
+  <p class="post-infos">
+    <time>2015-02-03 09:27</time>
+    
 
-  <div class="post">
-    <p><a href="http://java.dzone.com/articles/you-dont-know-what-you-dont">You Don&rsquo;t Know What You Don&rsquo;t Know</a></p>
+  </p>
+  <h1>Feed #39</h1>
+</div>
+
+
+
+<div class="post">
+  <p><a href="http://java.dzone.com/articles/you-dont-know-what-you-dont">You Don&rsquo;t Know What You Don&rsquo;t Know</a></p>
 
 <p><a href="http://www.javacodegeeks.com/2015/01/how-to-define-performance-requirements.html">How to define performance requirements?</a></p>
 
@@ -51,10 +58,10 @@
 <p>In another theme, some guy with way too much free time:
 <a href="http://www.andreas-dewes.de/en/2015/queens-of-the-data-age-abusing-common-table-expressions-to-solve-the-eight-queens-problem-in-sql/">Using common table expressions to solve the “eight queens” problem in SQL</a></p>
 
-  </div>
+</div>
 
-  
-    <div id="disqus_thread"></div>
+
+  <div id="disqus_thread"></div>
 <script type="text/javascript">
 
 (function() {
@@ -70,7 +77,12 @@
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 
-  
+
+<footer>
+  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
+</footer>
+
+  </div>
 </div>
 
 <div id="sidebar">
@@ -119,15 +131,12 @@
   </div>
   <hr />
   <div class="sidebar-bottom">
-    <p>Powered by <a href="http://gohugo.io">Hugo</a>. Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
-    <p>Copyright &copy; 2016. All rights reserved.</p>
+    <p>Powered by <a href="http://gohugo.io">Hugo</a>.</p> <p>Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
+    <p>Copyright &copy; 2016.</p> <p>All rights reserved.</p>
   </div>
 </div>
 </div>
 
-<footer>
-  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
-</footer>
 
 <script src="highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>

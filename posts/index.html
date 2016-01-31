@@ -26,52 +26,65 @@
 </head>
 <body>
 
+<input type="checkbox" id="sidebar-menu-checkbox" />
+<label for="sidebar-menu-checkbox" id="sidebar-menu"></label>
 
-<div id="container">
-  <div class="section">
-    <ul class="posts">
-      
-      
-      <li><a href="/2015/05/windows-shortcuts/">Windows shortcuts you should know</a><time datetime="2015-05-18T20:42:00&#43;01:00">Mon, May 18, 2015</time></li>
-      
-      
-      
-      <li><a href="/2015/01/phabricator/">Code Review &amp; Phabricator</a><time datetime="2015-01-19T22:13:06&#43;01:00">Mon, Jan 19, 2015</time></li>
-      
-      
-      
-      <li><a href="/2014/11/redis/">Redis</a><time datetime="2014-11-26T10:38:00&#43;01:00">Wed, Nov 26, 2014</time></li>
-      
-      
-      
-      <li><a href="/2014/10/selenium-page-object-model/">Selenium tests in code only and the page object model</a><time datetime="2014-10-23T09:06:00&#43;01:00">Thu, Oct 23, 2014</time></li>
-      
-      
-      
-      <li><a href="/2014/10/no-defect/">No defect</a><time datetime="2014-10-17T15:15:00&#43;01:00">Fri, Oct 17, 2014</time></li>
-      
-      
-      
-      <li><a href="/2014/10/scalability/">Scalability</a><time datetime="2014-10-12T18:44:00&#43;01:00">Sun, Oct 12, 2014</time></li>
-      
-      
-      
-      <li><a href="/2014/09/writing-efficient-css/">Writing efficient CSS</a><time datetime="2014-09-17T10:58:00&#43;01:00">Wed, Sep 17, 2014</time></li>
-      
-      
-      
-      <li><a href="/2014/08/software-testing-ice-cream-cone/">Software Testing Ice-cream Cone</a><time datetime="2014-08-03T10:17:00&#43;01:00">Sun, Aug 3, 2014</time></li>
-      
-      
-      
-      <li><a href="/2014/07/unit-testing/">Unit Testing</a><time datetime="2014-07-15T10:58:00&#43;01:00">Tue, Jul 15, 2014</time></li>
-      
-      
-      
-      <li><a href="/2013/12/prototype/">The javascript .prototype guide I would have wanted</a><time datetime="2013-12-17T00:19:38&#43;01:00">Tue, Dec 17, 2013</time></li>
-      
-      
-    </ul>
+<div id="flex-container">
+  <div id="fake-sidebar">:)</div>
+  <div id="container-mask"></div>
+  <div id="container">
+
+
+<div class="section">
+  <ul class="posts">
+    
+    
+    <li><a href="/2015/05/windows-shortcuts/">Windows shortcuts you should know</a><time datetime="2015-05-18T20:42:00&#43;01:00">Mon, May 18, 2015</time></li>
+    
+    
+    
+    <li><a href="/2015/01/phabricator/">Code Review &amp; Phabricator</a><time datetime="2015-01-19T22:13:06&#43;01:00">Mon, Jan 19, 2015</time></li>
+    
+    
+    
+    <li><a href="/2014/11/redis/">Redis</a><time datetime="2014-11-26T10:38:00&#43;01:00">Wed, Nov 26, 2014</time></li>
+    
+    
+    
+    <li><a href="/2014/10/selenium-page-object-model/">Selenium tests in code only and the page object model</a><time datetime="2014-10-23T09:06:00&#43;01:00">Thu, Oct 23, 2014</time></li>
+    
+    
+    
+    <li><a href="/2014/10/no-defect/">No defect</a><time datetime="2014-10-17T15:15:00&#43;01:00">Fri, Oct 17, 2014</time></li>
+    
+    
+    
+    <li><a href="/2014/10/scalability/">Scalability</a><time datetime="2014-10-12T18:44:00&#43;01:00">Sun, Oct 12, 2014</time></li>
+    
+    
+    
+    <li><a href="/2014/09/writing-efficient-css/">Writing efficient CSS</a><time datetime="2014-09-17T10:58:00&#43;01:00">Wed, Sep 17, 2014</time></li>
+    
+    
+    
+    <li><a href="/2014/08/software-testing-ice-cream-cone/">Software Testing Ice-cream Cone</a><time datetime="2014-08-03T10:17:00&#43;01:00">Sun, Aug 3, 2014</time></li>
+    
+    
+    
+    <li><a href="/2014/07/unit-testing/">Unit Testing</a><time datetime="2014-07-15T10:58:00&#43;01:00">Tue, Jul 15, 2014</time></li>
+    
+    
+    
+    <li><a href="/2013/12/prototype/">The javascript .prototype guide I would have wanted</a><time datetime="2013-12-17T00:19:38&#43;01:00">Tue, Dec 17, 2013</time></li>
+    
+    
+  </ul>
+</div>
+
+<footer>
+  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
+</footer>
+
   </div>
 </div>
 
@@ -121,15 +134,12 @@
   </div>
   <hr />
   <div class="sidebar-bottom">
-    <p>Powered by <a href="http://gohugo.io">Hugo</a>. Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
-    <p>Copyright &copy; 2016. All rights reserved.</p>
+    <p>Powered by <a href="http://gohugo.io">Hugo</a>.</p> <p>Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
+    <p>Copyright &copy; 2016.</p> <p>All rights reserved.</p>
   </div>
 </div>
 </div>
 
-<footer>
-  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
-</footer>
 
 <script src="highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>

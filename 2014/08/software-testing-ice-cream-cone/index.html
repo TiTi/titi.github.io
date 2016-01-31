@@ -26,21 +26,28 @@
 </head>
 <body>
 
+<input type="checkbox" id="sidebar-menu-checkbox" />
+<label for="sidebar-menu-checkbox" id="sidebar-menu"></label>
 
-<div id="container">
-  <div id="post-header">
-    <p class="post-infos">
-      <time>2014-08-03 10:17</time>
-      
+<div id="flex-container">
+  <div id="fake-sidebar">:)</div>
+  <div id="container-mask"></div>
+  <div id="container">
 
-    </p>
-    <h1>Software Testing Ice-cream Cone</h1>
-  </div>
 
-  
+<div id="post-header">
+  <p class="post-infos">
+    <time>2014-08-03 10:17</time>
+    
 
-  <div class="post">
-    <p>What not to do:<br />
+  </p>
+  <h1>Software Testing Ice-cream Cone</h1>
+</div>
+
+
+
+<div class="post">
+  <p>What not to do:<br />
 <img src="cone/ice-cream_cone.jpg" alt="" /></p>
 
 <p>What we should do:<br />
@@ -87,10 +94,10 @@ See Part 4: Automated Testing</p>
 
 <p><a href="http://www.slideshare.net/Urbancode/scaling-continuous-integration-practices-to-teams-with-parallel-development">Scaling Continuous Integration Practices to Teams with Parallel Development</a></p>
 
-  </div>
+</div>
 
-  
-    <div id="disqus_thread"></div>
+
+  <div id="disqus_thread"></div>
 <script type="text/javascript">
 
 (function() {
@@ -106,7 +113,12 @@ See Part 4: Automated Testing</p>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 
-  
+
+<footer>
+  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
+</footer>
+
+  </div>
 </div>
 
 <div id="sidebar">
@@ -155,15 +167,12 @@ See Part 4: Automated Testing</p>
   </div>
   <hr />
   <div class="sidebar-bottom">
-    <p>Powered by <a href="http://gohugo.io">Hugo</a>. Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
-    <p>Copyright &copy; 2016. All rights reserved.</p>
+    <p>Powered by <a href="http://gohugo.io">Hugo</a>.</p> <p>Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
+    <p>Copyright &copy; 2016.</p> <p>All rights reserved.</p>
   </div>
 </div>
 </div>
 
-<footer>
-  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
-</footer>
 
 <script src="highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>

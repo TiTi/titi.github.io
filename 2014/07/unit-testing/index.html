@@ -26,21 +26,28 @@
 </head>
 <body>
 
+<input type="checkbox" id="sidebar-menu-checkbox" />
+<label for="sidebar-menu-checkbox" id="sidebar-menu"></label>
 
-<div id="container">
-  <div id="post-header">
-    <p class="post-infos">
-      <time>2014-07-15 10:58</time>
-      
+<div id="flex-container">
+  <div id="fake-sidebar">:)</div>
+  <div id="container-mask"></div>
+  <div id="container">
 
-    </p>
-    <h1>Unit Testing</h1>
-  </div>
 
-  
+<div id="post-header">
+  <p class="post-infos">
+    <time>2014-07-15 10:58</time>
+    
 
-  <div class="post">
-    <p>July 15, 2014 10:58am</p>
+  </p>
+  <h1>Unit Testing</h1>
+</div>
+
+
+
+<div class="post">
+  <p>July 15, 2014 10:58am</p>
 
 <p><a href="http://www.slideshare.net/nashjain/inverting-the-testing-pyramid">Inverting The Testing Pyramid</a> [SlideShare]
 &gt; <a href="http://blogs.agilefaqs.com/2011/02/01/inverting-the-testing-pyramid/">http://blogs.agilefaqs.com/2011/02/01/inverting-the-testing-pyramid/</a> [Article]</p>
@@ -151,10 +158,10 @@ Complexity explanation: <a href="https://github.com/philbooth/complexity-report/
 <li>unit vs integration</li>
 </ul>
 
-  </div>
+</div>
 
-  
-    <div id="disqus_thread"></div>
+
+  <div id="disqus_thread"></div>
 <script type="text/javascript">
 
 (function() {
@@ -170,7 +177,12 @@ Complexity explanation: <a href="https://github.com/philbooth/complexity-report/
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 
-  
+
+<footer>
+  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
+</footer>
+
+  </div>
 </div>
 
 <div id="sidebar">
@@ -219,15 +231,12 @@ Complexity explanation: <a href="https://github.com/philbooth/complexity-report/
   </div>
   <hr />
   <div class="sidebar-bottom">
-    <p>Powered by <a href="http://gohugo.io">Hugo</a>. Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
-    <p>Copyright &copy; 2016. All rights reserved.</p>
+    <p>Powered by <a href="http://gohugo.io">Hugo</a>.</p> <p>Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
+    <p>Copyright &copy; 2016.</p> <p>All rights reserved.</p>
   </div>
 </div>
 </div>
 
-<footer>
-  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
-</footer>
 
 <script src="highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>

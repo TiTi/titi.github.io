@@ -26,21 +26,28 @@
 </head>
 <body>
 
+<input type="checkbox" id="sidebar-menu-checkbox" />
+<label for="sidebar-menu-checkbox" id="sidebar-menu"></label>
 
-<div id="container">
-  <div id="post-header">
-    <p class="post-infos">
-      <time>2014-10-21 14:15</time>
-      
+<div id="flex-container">
+  <div id="fake-sidebar">:)</div>
+  <div id="container-mask"></div>
+  <div id="container">
 
-    </p>
-    <h1>Feed #16</h1>
-  </div>
 
-  
+<div id="post-header">
+  <p class="post-infos">
+    <time>2014-10-21 14:15</time>
+    
 
-  <div class="post">
-    <p><a href="http://blogs.agilefaqs.com/2014/10/03/key-principles-for-reducing-continuous-integration-build-time/">Key Principles for Reducing Continuous Integration Build Time</a></p>
+  </p>
+  <h1>Feed #16</h1>
+</div>
+
+
+
+<div class="post">
+  <p><a href="http://blogs.agilefaqs.com/2014/10/03/key-principles-for-reducing-continuous-integration-build-time/">Key Principles for Reducing Continuous Integration Build Time</a></p>
 
 <p><a href="http://inedo.com/buildmaster">BuildMaster</a></p>
 
@@ -54,10 +61,10 @@
 
 <p><a href="http://code.tutsplus.com/tutorials/using-pull-requests-as-code-reviews--cms-21959">Using Pull Requests as Code Reviews</a></p>
 
-  </div>
+</div>
 
-  
-    <div id="disqus_thread"></div>
+
+  <div id="disqus_thread"></div>
 <script type="text/javascript">
 
 (function() {
@@ -73,7 +80,12 @@
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 
-  
+
+<footer>
+  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
+</footer>
+
+  </div>
 </div>
 
 <div id="sidebar">
@@ -122,15 +134,12 @@
   </div>
   <hr />
   <div class="sidebar-bottom">
-    <p>Powered by <a href="http://gohugo.io">Hugo</a>. Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
-    <p>Copyright &copy; 2016. All rights reserved.</p>
+    <p>Powered by <a href="http://gohugo.io">Hugo</a>.</p> <p>Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
+    <p>Copyright &copy; 2016.</p> <p>All rights reserved.</p>
   </div>
 </div>
 </div>
 
-<footer>
-  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
-</footer>
 
 <script src="highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>

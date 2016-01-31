@@ -70,7 +70,15 @@ display: none;
 }
 </style>
 
-<div id="container">
+<input type="checkbox" id="sidebar-menu-checkbox" />
+<label for="sidebar-menu-checkbox" id="sidebar-menu"></label>
+
+<div id="flex-container">
+  <div id="fake-sidebar">:)</div>
+  <div id="container-mask"></div>
+  <div id="container">
+
+
 <h1>Oops! That page couldn't be found :-/</h1>
 Want to play some SpaceInvaders instead?
 
@@ -84,10 +92,12 @@ Want to play some SpaceInvaders instead?
 </div>
 <span id="fps"></span>
 
-</div>
+<footer>
+  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
+</footer>
 
-<script type="text/javascript" src="404/game.min.js"></script>
-<script type="text/javascript" src="404/start.js"></script>
+  </div>
+</div>
 
 <div id="sidebar">
 <div class="sidebar">
@@ -135,15 +145,16 @@ Want to play some SpaceInvaders instead?
   </div>
   <hr />
   <div class="sidebar-bottom">
-    <p>Powered by <a href="http://gohugo.io">Hugo</a>. Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
-    <p>Copyright &copy; 2016. All rights reserved.</p>
+    <p>Powered by <a href="http://gohugo.io">Hugo</a>.</p> <p>Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
+    <p>Copyright &copy; 2016.</p> <p>All rights reserved.</p>
   </div>
 </div>
 </div>
 
-<footer>
-  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
-</footer>
+
+
+<script type="text/javascript" src="404/game.min.js"></script>
+<script type="text/javascript" src="404/start.js"></script>
 
 <script src="highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>

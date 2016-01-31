@@ -26,21 +26,28 @@
 </head>
 <body>
 
+<input type="checkbox" id="sidebar-menu-checkbox" />
+<label for="sidebar-menu-checkbox" id="sidebar-menu"></label>
 
-<div id="container">
-  <div id="post-header">
-    <p class="post-infos">
-      <time>2014-09-17 10:58</time>
-      
+<div id="flex-container">
+  <div id="fake-sidebar">:)</div>
+  <div id="container-mask"></div>
+  <div id="container">
 
-    </p>
-    <h1>Writing efficient CSS</h1>
-  </div>
 
-  
+<div id="post-header">
+  <p class="post-infos">
+    <time>2014-09-17 10:58</time>
+    
 
-  <div class="post">
-    <p>September 17, 2014 10:58am</p>
+  </p>
+  <h1>Writing efficient CSS</h1>
+</div>
+
+
+
+<div class="post">
+  <p>September 17, 2014 10:58am</p>
 
 <p><a href="http://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741">30 CSS Best Practices for Beginners</a></p>
 
@@ -138,10 +145,10 @@ The color <span style="color:blue">blue</span> wins because the specificity is h
 
 <p><a href="http://blog.fourthbit.com/2013/11/27/essential-css-positioning/">Essential CSS positioning</a></p>
 
-  </div>
+</div>
 
-  
-    <div id="disqus_thread"></div>
+
+  <div id="disqus_thread"></div>
 <script type="text/javascript">
 
 (function() {
@@ -157,7 +164,12 @@ The color <span style="color:blue">blue</span> wins because the specificity is h
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 
-  
+
+<footer>
+  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
+</footer>
+
+  </div>
 </div>
 
 <div id="sidebar">
@@ -206,15 +218,12 @@ The color <span style="color:blue">blue</span> wins because the specificity is h
   </div>
   <hr />
   <div class="sidebar-bottom">
-    <p>Powered by <a href="http://gohugo.io">Hugo</a>. Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
-    <p>Copyright &copy; 2016. All rights reserved.</p>
+    <p>Powered by <a href="http://gohugo.io">Hugo</a>.</p> <p>Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
+    <p>Copyright &copy; 2016.</p> <p>All rights reserved.</p>
   </div>
 </div>
 </div>
 
-<footer>
-  <p class="footnote">Copyright &copy; 2016: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
-</footer>
 
 <script src="highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
