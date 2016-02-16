@@ -7,8 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Wed, 27 Jan 2016 23:40:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 16 Feb 2016 19:52:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #116</title>
+      <link>https://titi.github.io/links/Feed-116/</link>
+      <pubDate>Tue, 16 Feb 2016 19:52:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-116/</guid>
+      <description>
+
+&lt;h1 id=&#34;methods&#34;&gt;Methods&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/news/2016/01/technical-debt-team-morale&#34;&gt;Technical Debt and Team Morale when Maintaining a Large System&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/articles/devops-team-topologies&#34;&gt;How Different Team Topologies Influence DevOps Culture&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://githubengineering.com/scientist/&#34;&gt;Scientist: Measure Twice, Cut Over Once&lt;/a&gt; - GitHub Engineering&lt;br /&gt;
+&lt;a href=&#34;http://haacked.com/archive/2016/01/20/scientist/&#34;&gt;A .NET port of Scientist&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;ux&#34;&gt;UX&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://rafaltomal.com/visually-effective-cta/&#34;&gt;How to Create Visually Effective Calls-To-Action&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gathercontent.com/a-project-guide-to-ux-design-download-pdf&#34;&gt;UX Design And Content Strategy: The Project Guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;ai&#34;&gt;AI&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/&#34;&gt;In a Huge Breakthrough, Google’s AI Beats a Top Player at the Game of Go&lt;/a&gt; - Wired&lt;br /&gt;
+&lt;a href=&#34;http://googleresearch.blogspot.fr/2016/01/alphago-mastering-ancient-game-of-go.html&#34;&gt;AlphaGo: Mastering the ancient game of Go with Machine Learning&lt;/a&gt;&lt;br /&gt;
+I&amp;rsquo;m wondering if they coded thoses programs in Go :p&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/vanilla-javascript/choosing-vanilla-javascript-in-2016-6f38a8302ee5#.rbjjtw9or&#34;&gt;Choosing Vanilla JavaScript in 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.allenpike.com/2015/javascript-framework-fatigue/&#34;&gt;A JS framework on every table&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@franciov/how-to-make-your-web-app-installable-8b71571605e#.82tz0tclr&#34;&gt;How to make your web app installable&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.scirra.com/blog/173/just-how-evergreen-is-microsoft-edge&#34;&gt;Just how evergreen is Microsoft Edge?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.chromium.org/2016/02/transitioning-from-spdy-to-http2.html&#34;&gt;Transitioning from SPDY to HTTP/2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.chromium.org/2016/02/the-physical-web-expands-to-chrome-for_10.html&#34;&gt;The Physical Web expands to Chrome for Android&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #115</title>
@@ -613,40 +660,6 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/09/17/meanwhile-in-a-
 &lt;p&gt;&lt;a href=&#34;http://thenewstack.io/stack-always-changing/&#34;&gt;How the Enterprise Adopts the New Stack, or “I Said No, Dammit”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/doubling-the-speed-of-jpegtran/&#34;&gt;Doubling the speed of jpegtran with SIMD&lt;/a&gt; - CloudFlare Blog&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #101</title>
-      <link>https://titi.github.io/links/Feed-101/</link>
-      <pubDate>Tue, 22 Sep 2015 23:49:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-101/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98&#34;&gt;React’s JSX: The Other Side of the Coin&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.mozilla.org/security/2015/09/04/improving-security-for-bugzilla/&#34;&gt;Improving Security for Bugzilla&lt;/a&gt; - Mozilla Security Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/why-your-managers-think-your-software-quality-is-g&#34;&gt;Why Your Managers Think Your Software Quality is Great—or Not&lt;/a&gt; - Johanna Rothman&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mikehadlow.blogspot.fr/2015/08/c-program-entirely-with-static-methods.html&#34;&gt;C#: Program Entirely With Static Methods&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;blogs.technet.com/b/srd/archive/2015/09/08/what-makes-a-good-microsoft-defense-bounty-submission.aspx&#34;&gt;What makes a good Microsoft Defense Bounty submission?&lt;/a&gt; - Microsoft Security Research &amp;amp; Defense Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.cloudscaling.com/blog/cloud-computing/cloud-youre-doing-it-wrong/&#34;&gt;Cloud … You’re Doing it Wrong!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.mozilla.org/security/2015/09/11/deprecating-the-rc4-cipher/&#34;&gt;Deprecating the RC4 Cipher&lt;/a&gt; - Mozilla Security Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://githubengineering.com/subresource-integrity/&#34;&gt;Subresource Integrity&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.justinmind.com/underline-uxdesign-usability/&#34;&gt;The underline at the intersection of UX design and usability&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://danieldelaney.github.io/confirm/&#34;&gt;Never Use The Confirm Dialog&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://google-opensource.blogspot.fr/2015/09/introducing-brotli-new-compression.html&#34;&gt;Introducing Brotli: a new compression algorithm for the internet&lt;/a&gt; - Google&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://imgur.com/blog/2015/09/15/tech-tuesday-imgur-notifications-from-mysql-to-hbase/&#34;&gt;Tech Tuesday: Imgur Notifications: From MySQL to HBase&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://githubengineering.com/counting-objects/&#34;&gt;Counting [Git] Objects&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
 </description>
     </item>
     
