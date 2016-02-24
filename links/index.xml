@@ -7,8 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Tue, 16 Feb 2016 19:52:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2016 23:40:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #117</title>
+      <link>https://titi.github.io/links/Feed-117/</link>
+      <pubDate>Wed, 24 Feb 2016 23:40:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-117/</guid>
+      <description>
+
+&lt;h1 id=&#34;communication&#34;&gt;Communication&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.theeffectiveengineer.com/blog/communication-first-casualty-of-teams-growth&#34;&gt;Communication: The First Casualty of a Team&amp;rsquo;s Growth&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/GitHubActivityGuiltAndTheCodersFitBit.aspx&#34;&gt;GitHub Activity Guilt and the Coder&amp;rsquo;s FitBit&lt;/a&gt; -
+Scott Hanselman&lt;/p&gt;
+
+&lt;h1 id=&#34;css&#34;&gt;CSS&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://thenewcode.com/368/Controlling-Elements-with-JavaScript-classList&#34;&gt;Controlling Elements with JavaScript classList&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care&#34;&gt;CSS Variables: Why Should You Care?&lt;/a&gt;&lt;br /&gt;
+No IE support yet&amp;hellip;&lt;/p&gt;
+
+&lt;h1 id=&#34;programming-language&#34;&gt;Programming language&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make&#34;&gt;Avoid the 10 Most Common Mistakes That Python Programmers Make&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms&#34;&gt;C++ idioms&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;sotfware-hardware-stack&#34;&gt;Sotfware &amp;amp; Hardware stack&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/&#34;&gt;Stack Overflow: The Architecture - 2016 Edition&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;smartphone-privacy&#34;&gt;Smartphone &amp;amp; Privacy&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.apple.com/customer-letter/&#34;&gt;A Message to Our Customers&lt;/a&gt; - Apple&lt;/p&gt;
+
+&lt;h1 id=&#34;microservices&#34;&gt;Microservices&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/&#34;&gt;Creating a Microservice? Answer these 10 Questions First&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;scrum-master&#34;&gt;Scrum Master&lt;/h1&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;Qu&#39;est-ce que le Succès pour un Scrum Master ?&#34;&gt;http://www.infoq.com/fr/articles/scrum-master-success&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #116</title>
@@ -631,35 +677,6 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/09/17/meanwhile-in-a-
 &lt;p&gt;&lt;a href=&#34;http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/&#34;&gt;Defensive BASH Programming&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.favbrowser.com/firefox-is-11-years-old/&#34;&gt;Firefox is 11 Years Old&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #102</title>
-      <link>https://titi.github.io/links/Feed-102/</link>
-      <pubDate>Sat, 10 Oct 2015 23:17:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-102/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.scylladb.com/&#34;&gt;ScyllaDB: Cassandra Rewritten In C++ (claims to be up to 10x faster)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://helpx.adobe.com/security/products/flash-player/apsb15-23.html&#34;&gt;Adobe Security Bulletin - 23 exploits, 18 critical&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.principlesofchaos.org/&#34;&gt;Principles of Chaos Engineering&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html&#34;&gt;Chaos Engineering Upgraded&lt;/a&gt; - The Netflix Tech Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/mobile-ad-networks-as-ddos-vectors/&#34;&gt;Mobile Ad Networks as DDoS Vectors: A Case Study&lt;/a&gt; - CloudFlare Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://labsblog.f-secure.com/2015/09/14/can-the-speakularity-be-secured/&#34;&gt;Can the “Speakularity” Be Secured?&lt;/a&gt; - F-Secure Labs&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.thisisant.com/developer/ant-plus/ant-ble-comparison&#34;&gt;ANT+ / Bluetooth Smart comparison&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://githubengineering.com/counting-objects/&#34;&gt;Counting Objects&lt;/a&gt; (a git improvment) - GitHub Engineering&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://lowlevelbits.org/bitcode-demystified/&#34;&gt;Bitcode Demystified&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://thenewstack.io/stack-always-changing/&#34;&gt;How the Enterprise Adopts the New Stack, or “I Said No, Dammit”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/doubling-the-speed-of-jpegtran/&#34;&gt;Doubling the speed of jpegtran with SIMD&lt;/a&gt; - CloudFlare Blog&lt;/p&gt;
 </description>
     </item>
     
