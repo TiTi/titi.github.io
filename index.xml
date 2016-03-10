@@ -7,8 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Wed, 24 Feb 2016 23:40:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 11 Mar 2016 00:15:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #118</title>
+      <link>https://titi.github.io/links/Feed-118/</link>
+      <pubDate>Fri, 11 Mar 2016 00:15:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-118/</guid>
+      <description>
+
+&lt;h1 id=&#34;ux&#34;&gt;UX&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://boagworld.com/marketing/users-will-always-choose-the-easiest-option-so-if-we-want-a-competitive-advantage-we-must-focus-on-simplicity/&#34;&gt;Users always choose the path of least resistance&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://peterchamberlin.com/fast.php&#34;&gt;Performance is a feature&lt;/a&gt; - Peter Chamberlin (BBC News)&lt;/p&gt;
+
+&lt;h1 id=&#34;improve&#34;&gt;Improve&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/8-ways-to-become-a-better-coder&#34;&gt;8 Ways to Become a Better Coder&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/what-happens-to-older-programmersdevelopers&#34;&gt;What Happens To Older Programmers and Developers?&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://dzone.com/articles/the-biggest-challenge-for-older-developers-is&#34;&gt;The Biggest Challenge for Older Developers Is…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/the-13-developer-skills-that-will-get-you-hired&#34;&gt;The 13 Developer Skills That Will Get You Hired&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.checkpoint.com/2016/02/02/ebay-platform-exposed-to-severe-vulnerability/&#34;&gt;eBay Platform Exposed to Severe Vulnerability&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@blakeross/mr-fart-s-favorite-colors-3177a406c775#.r7o2wbu8t&#34;&gt;Why your phone’s security is unlike any other&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.businessinsider.com/john-mcafee-nsa-back-door-gives-every-us-secret-to-enemies-2016-2?IR=T&#34;&gt;The NSA&amp;rsquo;s back door has given every US secret to our enemies&lt;/a&gt; - John McAfee&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://haacked.com/archive/2016/02/29/regex-turkish-i/&#34;&gt;A Subtle Case Sensitivity Gotcha with Regular Expressions&lt;/a&gt; - Phil Haack (GitHub)&lt;/p&gt;
+
+&lt;h1 id=&#34;agility-at-blablacar&#34;&gt;Agility at BlaBlaCar&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blablatech.com/blog/the-history-of-scrum-at-blablacar&#34;&gt;The History of Scrum at BlaBlaCar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blablatech.com/blog/BlaBlaTech-behind-the-scene&#34;&gt;BlaBlaCar Tech, behind the scene&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;others&#34;&gt;Others&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://msdn.microsoft.com/en-us/library/dn600223.aspx&#34;&gt;Design Patterns&lt;/a&gt;&lt;br /&gt;
+and the &lt;a href=&#34;https://azure.microsoft.com/en-us/documentation/infographics/cloud-design-patterns/&#34;&gt;corresponding PDF infographic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/minimum-viable-architecture&#34;&gt;How to Create a Minimum Viable Architecture&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nczonline.net/blog/2016/02/reflections-on-eslints-success/&#34;&gt;Reflections on ESLint&amp;rsquo;s success&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/constructor-or-setter&#34;&gt;Constructor or Setter?&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #117</title>
@@ -639,44 +691,6 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/09/16/how-to-choose-t
 &lt;p&gt;Maybe not so funny after all:&lt;br /&gt;
 &lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/09/Strip-le-machisme-invers%C3%A9-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/09/17/meanwhile-in-a-parallel-universe-2/&#34;&gt;Meanwhile, in a parallel universe&lt;/a&gt; | CommitStrip&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #103</title>
-      <link>https://titi.github.io/links/Feed-103/</link>
-      <pubDate>Thu, 12 Nov 2015 21:30:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-103/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/&#34;&gt;Why Performance Matters: The Perception Of Time&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/shared-challenge-unique-skills-leader-kodjo-agbenu&#34;&gt;Shared challenge, unique skills and a leader&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.hipchat.com/2014/06/24/elasticsearch-at-hipchat-10x-faster-queries/&#34;&gt;Elasticsearch at HipChat: 10x faster queries&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;RAID: Obsolete? New Tech BTRFS/ZFS and &amp;ldquo;traditional&amp;rdquo; RAID:
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/yAuEgepZG_8&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@housecor/12-rules-for-professional-javascript-in-2015-f158e7d3f0fc&#34;&gt;12 Rules for Professional JavaScript in 2015&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The Boy With The Incredible Brain (Brain Man):
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/PPySn3slfXI&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jchyip.blogspot.fr/2015/10/agile-is-just-throwing-stuff-together.html&#34;&gt;Agile is just throwing stuff together as quickly as possible?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.percona.com/files/presentations/percona-live/PLMCE2012/PLMCE2012-Sharding_At_Box.pdf&#34;&gt;The Story of Sharding at Box&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://01.org/blogs/2015/zero-copy-texture-uploads-chrome-os&#34;&gt;Zero-copy texture uploads in Chrome OS&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.haschek.at/2015-that-not-so-awesome-time-the-police&#34;&gt;That (not so) awesome time the police raided my home&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/&#34;&gt;Defensive BASH Programming&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.favbrowser.com/firefox-is-11-years-old/&#34;&gt;Firefox is 11 Years Old&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
