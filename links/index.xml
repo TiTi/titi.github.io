@@ -7,8 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Fri, 11 Mar 2016 00:15:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2016 00:17:20 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #119</title>
+      <link>https://titi.github.io/links/Feed-119/</link>
+      <pubDate>Mon, 04 Apr 2016 00:17:20 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-119/</guid>
+      <description>
+
+&lt;h1 id=&#34;learning&#34;&gt;Learning&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://learnxinyminutes.com/&#34;&gt;Learn X in Y minutes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.secretgeek.net/til&#34;&gt;Today I Learned&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;craft&#34;&gt;Craft&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/software-artisans-craftsmanship-competitive-advantage-donnie-flood&#34;&gt;Software Artisans: Craftsmanship as a Competitive Advantage&lt;/a&gt; - Director of Software Engineering at LinkedIn&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/the-craft-of-software-development&#34;&gt;The Craft of Software Development&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;developers&#34;&gt;Developers&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://stackoverflow.com/research/developer-survey-2016&#34;&gt;Stack Overflow Developer Survey 2016 Results&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/&#34;&gt;We Hire the Best, Just Like Everyone Else&lt;/a&gt; - Jeff Atwood&lt;/p&gt;
+
+&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://googlechromereleases.blogspot.fr/2016/03/stable-channel-update_24.html&#34;&gt;Chrome Releases - Stable Channel Update (Thursday, March 24, 2016)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dev.opera.com/blog/opera-36/&#34;&gt;What’s new in Chromium 49 and Opera 36&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;https://www.lexsi.com/securityhub/comment-creer-un-vaccin-contre-le-ransomware-locky/&#34;&gt;Comment créer un vaccin contre le ransomware Locky&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #118</title>
@@ -665,32 +703,6 @@ On revient toujours au même problème du gouffre entre l’intelligence humaine
 &lt;p&gt;&lt;a href=&#34;https://leaverou.github.io/awesomplete/&#34;&gt;Awesomplete.js&lt;/a&gt; | Ultra lightweight, highly customizable, simple autocomplete&lt;/p&gt;
 
 &lt;p&gt;[FR] &lt;a href=&#34;http://doisjeutiliser.fr/&#34;&gt;DoisJeUtiliser.fr&lt;/a&gt; | Des contre-exemples ergonomiques illustrés&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #104 - Sunday fun</title>
-      <link>https://titi.github.io/links/Feed-104/</link>
-      <pubDate>Sun, 15 Nov 2015 12:44:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-104/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://visual6502.org/JSSim/expert.html&#34;&gt;Atari 2600 CPU plans&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gloomyson/StarCraft&#34;&gt;HTML5 version of StarCraft game&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.ptclwg.com/news/the-most-hackable-cars-on-the-road-1&#34;&gt;The Most Hackable Cars on the Road&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Real Life First Person Shooter (Chatroulette version):
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/p747PrxmZJ4&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/09/Strip-Prendre-le-train-en-marche-650-finalenglish1.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/09/16/how-to-choose-the-right-javascript-framework/&#34;&gt;How to choose the right JavaScript framework&lt;/a&gt; | CommitStrip&lt;/p&gt;
-
-&lt;p&gt;Maybe not so funny after all:&lt;br /&gt;
-&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/09/Strip-le-machisme-invers%C3%A9-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/09/17/meanwhile-in-a-parallel-universe-2/&#34;&gt;Meanwhile, in a parallel universe&lt;/a&gt; | CommitStrip&lt;/p&gt;
 </description>
     </item>
     
