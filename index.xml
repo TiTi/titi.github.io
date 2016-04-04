@@ -7,13 +7,59 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Mon, 04 Apr 2016 00:17:20 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 Apr 2016 17:30:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #120</title>
+      <link>https://titi.github.io/links/Feed-120/</link>
+      <pubDate>Tue, 05 Apr 2016 17:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-120/</guid>
+      <description>
+
+&lt;h1 id=&#34;safety&#34;&gt;Safety&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://themacro.com/articles/2016/03/agility-requires-safety/&#34;&gt;Agility Requires Safety&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/&#34;&gt;How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://engineering.linkedin.com/blog/2016/02/q-a-with-jim-brikman--splitting-up-a-codebase-into-microservices&#34;&gt;LinkedIn Engineering - Q&amp;amp;A with Jim Brikman: Splitting Up a Codebase into Microservices and Artifacts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2016/03/how-we-build-code-at-netflix.html&#34;&gt;How We Build Code at Netflix&lt;/a&gt; - The Netflix Tech Blog&lt;/p&gt;
+
+&lt;h1 id=&#34;build-2016&#34;&gt;Build 2016&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techcrunch.com/2016/03/30/be-very-afraid-hell-has-frozen-over-bash-is-coming-to-windows-10/&#34;&gt;Microsoft is bringing the Bash shell to Windows 10&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.dustinkirkland.com/2016/03/ubuntu-on-windows.html&#34;&gt;Ubuntu on Windows &amp;ndash; The Ubuntu Userspace for Windows Developers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/&#34;&gt;Visual C++ for Linux Development&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.xdsd.org&#34;&gt;eXtremely Distributed Software Development&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://age-of-product.com/cargo-cult-agile-state-agile-checklist-organization/&#34;&gt;Cargo Cult Agile: The ‘State Of Agile’ Checklist For Your Organization&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;efficient&#34;&gt;Efficient&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.teamten.com/lawrence/writings/java-for-everything.html&#34;&gt;Java for Everything&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.” —Edsger Dijkstra, Turing Award Lecture (1972)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://chrismm.com/blog/how-to-reduce-the-cognitive-load-of-your-code/&#34;&gt;Writing good code: how to reduce the cognitive load of your code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #119</title>
       <link>https://titi.github.io/links/Feed-119/</link>
-      <pubDate>Mon, 04 Apr 2016 00:17:20 +0100</pubDate>
+      <pubDate>Mon, 04 Apr 2016 17:20:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/Feed-119/</guid>
       <description>
@@ -666,43 +712,6 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/11/10/coder-epitaphs/
 &lt;p&gt;C’est très dur de rendre l’informatique intuitive.
 On revient toujours au même problème du gouffre entre l’intelligence humaine et la connerie de la machine. Programmer, ça consiste à combler un gouffre absolu entre l’intelligence et la connerie.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #105</title>
-      <link>https://titi.github.io/links/Feed-105/</link>
-      <pubDate>Mon, 16 Nov 2015 23:02:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-105/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://chrome.blogspot.fr/2015/11/safe-browsing-protection-from-even-more.html&#34;&gt;Safe Browsing protection from even more deceptive attacks&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://flutter.io/faq/&#34;&gt;Flutter&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/articles/rising-continuous-retrospective&#34;&gt;Linda Rising on Continuous Retrospectives&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://kevinlondon.com/2015/05/05/code-review-best-practices.html&#34;&gt;Code Review Best Practices&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.coactiv.fr/developper-sans-faire-destimation-le-mouvement-noestimates/&#34;&gt;Développer sans faire d’estimation, le mouvement #NoEstimates&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://zuill.us/WoodyZuill/2013/04/13/why-do-we-need-estimates/&#34;&gt;Why do we need estimates?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/TheCrowdsourcingOfSoftwareQuality.aspx&#34;&gt;The Crowdsourcing of Software Quality&lt;/a&gt; - Scott Hanselman&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://haacked.com/archive/2015/10/29/git-shell/&#34;&gt;Set up a smoking Git shell on Windows&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.raymond.cc/blog/10-ad-blocking-extensions-tested-for-best-performance/view-all/&#34;&gt;10 Ad Blocking Extensions Tested for Best Performance&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://queue.acm.org/detail.cfm?id=2839461&#34;&gt;Fail at Scale&lt;/a&gt; - Ben Maurer, Facebook&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/&#34;&gt;TDD Anti-Patterns&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@mikaelcho/create-more-than-you-consume-9c1bc89dc71d&#34;&gt;Create more than you consume&lt;/a&gt; - Medium&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/better-humans/dont-get-lost-in-being-right-8b6eeb4f493c&#34;&gt;Don’t Get Lost in Being Right&lt;/a&gt; - Medium&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://leaverou.github.io/awesomplete/&#34;&gt;Awesomplete.js&lt;/a&gt; | Ultra lightweight, highly customizable, simple autocomplete&lt;/p&gt;
-
-&lt;p&gt;[FR] &lt;a href=&#34;http://doisjeutiliser.fr/&#34;&gt;DoisJeUtiliser.fr&lt;/a&gt; | Des contre-exemples ergonomiques illustrés&lt;/p&gt;
 </description>
     </item>
     
