@@ -7,8 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 17 Apr 2016 23:50:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 24 Apr 2016 23:30:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #123</title>
+      <link>https://titi.github.io/links/Feed-123/</link>
+      <pubDate>Sun, 24 Apr 2016 23:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-123/</guid>
+      <description>
+
+&lt;h1 id=&#34;scaling&#34;&gt;Scaling&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@producthunt/inside-the-mind-of-aaron-levie-founder-and-ceo-of-box-134ae1c369e1&#34;&gt;Inside the Mind of Aaron Levie: Founder and CEO of Box&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/linkedin-architecture-stack&#34;&gt;Lessons from Building and Scaling LinkedIn&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://allankelly.blogspot.fr/2015/10/software-has-diseconomies-of-scale-not.html&#34;&gt;Software has diseconomies of scale - not economies of scale&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;reliability&#34;&gt;Reliability&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wired.com/2016/04/google-ensures-services-almost-never-go/&#34;&gt;Here’s How Google Makes Sure It (Almost) Never Goes Down&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bus_factor&#34;&gt;The Bus factor&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.baselinemag.com/careers/slideshows/confessions-of-a-database-administrator.html&#34;&gt;Confessions of a Database Administrator&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;code-reviews&#34;&gt;Code Reviews&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/code-reviews-can-make-or-break-your-team-a3cfdcc15de1#.s2xh7z1zd&#34;&gt;Code Reviews Can Make or Break Your Team&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction&#34;&gt;The Wrong Abstraction&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;give-up&#34;&gt;Give up&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techcrunch.com/2016/04/07/devops-is-dead-long-live-devops/&#34;&gt;Managed services killed DevOps&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/giving-up-on-tdd-1&#34;&gt;Giving Up On TDD&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;chrome&#34;&gt;Chrome&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://v8project.blogspot.fr/2016/04/jank-busters-part-two-orinoco.html&#34;&gt;Jank Busters Part Two: Orinoco&lt;/a&gt; - V8 JavaScript Engine&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://googlechromereleases.blogspot.fr/2016/04/stable-channel-update_13.html&#34;&gt;Chrome 50.0.2661.75 Stable Channel Update&lt;/a&gt; - Security Fixes and Rewards&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2016/04/scroll-anchoring&#34;&gt;Experiment Time: Scroll Anchoring&lt;/a&gt; - Google Developers&lt;/p&gt;
+
+&lt;h1 id=&#34;technical-debt&#34;&gt;Technical Debt&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ontechnicaldebt.com/uncategorized/the-path-from-technical-debt-to-bad-code/&#34;&gt;The Path from Technical Debt to Bad Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://marketing.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring&#34;&gt;Paying Technical Debt - How To Rescue Legacy Code through Refactoring&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/avoid-remove-technical-debt&#34;&gt;Crushed by Technical Debt?&lt;/a&gt; - Talk by Scott W. Ambler&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/application-rebuilds&#34;&gt;The Challenge of Application Rebuilds&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;windows&#34;&gt;Windows&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.nullspace.io/batch.html&#34;&gt;How bad is the Windows command line really?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bitquabit.com/&#34;&gt;Separate, support, serve&lt;/a&gt; (about Microsoft choices)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #122 - Sunday fun</title>
@@ -646,66 +708,6 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/11/24/the-new-framewo
 &lt;p&gt;&lt;a href=&#34;http://googlechromereleases.blogspot.fr/2015/12/stable-channel-update.html&#34;&gt;Chrome 47.0.2526.73 Stable Channel Update&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://chrome.blogspot.fr/2015/11/a-new-way-to-save-data-with-chrome-on.html&#34;&gt;A new way to save data with Chrome on Android&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #108</title>
-      <link>https://titi.github.io/links/Feed-108/</link>
-      <pubDate>Wed, 25 Nov 2015 22:50:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-108/</guid>
-      <description>
-
-&lt;h1 id=&#34;readability&#34;&gt;Readability&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ryanwinchester.ca/post/refactoring-code-for-readability&#34;&gt;Refactoring Code For Readability&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.ircmaxell.com/2015/11/simple-easy-risk-and-change.html&#34;&gt;Simple, Easy, Risk and Change&lt;/a&gt; - Anthony Ferrara&lt;/p&gt;
-
-&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/11/16/introducing-edgehtml-13-our-first-platform-update-for-microsoft-edge/&#34;&gt;Introducing EdgeHTML 13, our first platform update for Microsoft Edge&lt;/a&gt; - Microsoft Edge Dev Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://devtoolschallenger.com/&#34;&gt;DevTools Challenger&lt;/a&gt; (with Firefox)&lt;/p&gt;
-
-&lt;h1 id=&#34;user-experience&#34;&gt;User Experience&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://userbrain.net/blog/10-of-the-best-slide-decks-for-usability-optimization&#34;&gt;10 of the Best Slide Decks for Usability Optimization&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.suprq.com/&#34;&gt;The Standardized User Experience Percentile Rank Questionnaire&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://codeascraft.com/2015/11/10/q3-2015-site-performance-report/&#34;&gt;Etsy Q3 2015 Site Performance Report&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;job&#34;&gt;Job&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/ben-fathi-why-i-joined-cloudflare/&#34;&gt;Ben Fathi: Why I Joined CloudFlare&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/javascript-scene/don-t-sign-that-contract-developer-job-deal-breakers-346c2685a109#.jwki7yu2p&#34;&gt;Don’t Sign That Contract! Developer Job Deal Breakers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@vanschneider/the-cake-is-a-lie-bc25b385aa88&#34;&gt;The cake is a lie&lt;/a&gt; - Medium&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/&#34;&gt;This 90-Day Plan Turns Engineers into Remarkable Managers&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jchyip.blogspot.fr/2015/10/agile-encourages-developers-not-to.html&#34;&gt;Agile encourages developers not to think about the future?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jchyip.blogspot.fr/2015/11/single-prioritised-input-queue.html&#34;&gt;Single Prioritised Input Queue&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.mozilla.org/security/2015/11/03/updated-firefox-security-indicators-2/&#34;&gt;Updated Firefox Security Indicators&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://githubengineering.com/like-injection/&#34;&gt;LIKE injection&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ryanwinchester.ca/post/stop-forcing-your-arbitrary-password-rules-on-me&#34;&gt;Stop forcing your arbitrary password rules on me&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.windows.com/msedgedev/2015/11/17/microsoft-edge-module-code-integrity/&#34;&gt;Protecting Microsoft Edge against binary injection&lt;/a&gt; - Microsoft Edge Dev Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://freedom-to-tinker.com/blog/haldermanheninger/how-is-nsa-breaking-so-much-crypto/&#34;&gt;How is NSA breaking so much crypto?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://securityaffairs.co/wordpress/41967/hacking/android-chrome-exploit.html&#34;&gt;Chrome exploit leaves million Android devices open to attack&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
