@@ -7,8 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Wed, 27 Apr 2016 23:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 May 2016 22:45:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #125 - Sunday fun</title>
+      <link>https://titi.github.io/links/Feed-125/</link>
+      <pubDate>Sun, 01 May 2016 22:45:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-125/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://virtualart.chromeexperiments.com/&#34;&gt;Virtual Art Sessions - Chrome Experiment using Tilt Brush&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Original resume:&lt;br /&gt;
+&lt;a href=&#34;http://portfolio.davidprati.fr/&#34;&gt;David Prati — Digital art director&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2016/04/Strip-Bien-fixer-ou-bien-bien-fixer-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.commitstrip.com/en/2016/04/13/quick-fix/&#34;&gt;CommitStrip - QuickFix&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #124</title>
@@ -746,23 +762,6 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/12/31/happy-new-year-
 &lt;p&gt;&lt;a href=&#34;http://arc.applause.com/2015/11/06/javascript-is-eating-the-world/&#34;&gt;JavaScript Is Eating The World&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://addyosmani.com/basket.js/&#34;&gt;basket.js&lt;/a&gt; - Addy Osmani&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #110 - Sunday fun</title>
-      <link>https://titi.github.io/links/Feed-110/</link>
-      <pubDate>Sun, 06 Dec 2015 18:00:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-110/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.theallium.com/engineering/torvalds-announces-plans-to-change-linux-line-endings-to-letter-z/&#34;&gt;Torvalds Announces Plans To Change Linux Line Endings To Letter Z&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/NARKOZ/hacker-scripts&#34;&gt;Hacker Scripts&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://xebialabs.com/periodic-table-of-devops-tools/&#34;&gt;Periodic Table of DevOps Tools&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/11/Strip-La-boucle-du-Framwork-english650-final.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/11/24/the-new-framework/?setLocale=1&#34;&gt;The New Framework&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
