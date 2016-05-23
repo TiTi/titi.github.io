@@ -7,8 +7,91 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 01 May 2016 22:45:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 May 2016 22:30:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #126</title>
+      <link>https://titi.github.io/links/Feed-126/</link>
+      <pubDate>Mon, 23 May 2016 22:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-126/</guid>
+      <description>
+
+&lt;h1 id=&#34;constructors&#34;&gt;Constructors&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/constructor-vs-getter-a-better-way&#34;&gt;Constructor vs. Getter: A Better Way&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/beautiful-constructors&#34;&gt;Beautiful Constructors Look Like This&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/stateful-or-stateless-classes&#34;&gt;Object-Oriented Design Decisions: Stateful or Stateless Classes?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;new-api&#34;&gt;New API&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2016/04/credential-management-api&#34;&gt;Streamlining the Sign-in Flow Using Credential Management API&lt;/a&gt; - Google Developers&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blogs.dropbox.com/tech/2016/05/enabling-http2-for-dropbox-web-services-experiences-and-observations/&#34;&gt;Enabling HTTP/2 for Dropbox web services: experiences and observations&lt;/a&gt; - Dropbox Tech Blog&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://v8project.blogspot.fr/2016/04/es6-es7-and-beyond.html&#34;&gt;ES6, ES7, and beyond&lt;/a&gt; - V8 JavaScript Engine&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript&#34;&gt;Anders Hejlsberg: Introducing TypeScript&lt;/a&gt; - Channel 9&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@basarat/typescript-won-a4e0dfde4b08#.wd1psgw5z&#34;&gt;TypeScript won&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://geekforbrains.com/post/after-a-year-of-nodejs-in-production&#34;&gt;After a year of using NodeJS in production&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dev.opera.com/blog/timing-attacks/&#34;&gt;Front-End Performance: The Dark Side&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;scrum&#34;&gt;Scrum&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/daily-matrix-revitalizing-standup-henrik-rosenquist&#34;&gt;Daily Matrix - Revitalizing Standup&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@MagnusDahlgren/5-things-ive-learned-about-scrum-the-hard-way-8f023833aefc#.mr5oheheh&#34;&gt;5 things I’ve learned about Scrum the hard way&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.eylean.com/blog/2016/04/the-safe-way-to-scale-agile/&#34;&gt;The SAFe Way To Scale Agile&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;improve&#34;&gt;Improve&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://spectrum.ieee.org/static/lessons-from-a-decade-of-it-failures&#34;&gt;Lessons From a Decade of IT Failures&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.fullstory.com/2016/04/code-reviews-arent-just-for-catching-bugs/&#34;&gt;What we learned from Google: code reviews aren’t just for catching bugs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jamesarcher.me/design-like-an-astronaut/&#34;&gt;Design like an Astronaut&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.gsb.stanford.edu/insights/effective-people-think-simply&#34;&gt;Effective People Think Simply&lt;/a&gt;&lt;br /&gt;
+&amp;gt; &amp;ldquo;the stopping rule is the hardest to learn&amp;rdquo;
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/TfPMHkYaYCo&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;h1 id=&#34;that-s-a-fail&#34;&gt;That&amp;rsquo;s a fail&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://news.softpedia.com/news/medical-equipment-crashes-during-heart-procedure-because-of-antivirus-scan-503642.shtml&#34;&gt;Medical Equipment Crashes During Heart Procedure Because of Antivirus Scan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/the-sleepy-user-agent/&#34;&gt;The Sleepy User Agent&lt;/a&gt; - CloudFlare blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.wired.com/2015/10/x-ray-scans-expose-an-ingenious-chip-and-pin-card-hack/&#34;&gt;X-Ray Scans Expose an Ingenious Chip-and-Pin Card Hack&lt;/a&gt; - WIRED&lt;/p&gt;
+
+&lt;h1 id=&#34;databases&#34;&gt;Databases&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://vladmihalcea.com/2014/01/05/a-beginners-guide-to-acid-and-database-transactions/&#34;&gt;A beginner’s guide to ACID and database transactions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://akorotkov.github.io/blog/2016/05/09/scalability-towards-millions-tps/&#34;&gt;PostgreSQL Scalability: Towards Millions TPS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://vladmihalcea.com/2014/09/14/a-beginners-guide-to-database-locking-and-the-lost-update-phenomena/&#34;&gt;A beginner’s guide to database locking and the lost update phenomena&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;design&#34;&gt;Design&lt;/h1&gt;
+
+&lt;p&gt;Great article about the hamburger menu. Basically, a lot of users simply miss it. Hidden menus = less traffic.&lt;br /&gt;
+&lt;a href=&#34;http://jamesarcher.me/the-hamburger-menu/&#34;&gt;The Hamburger Menu Doesn&amp;rsquo;t Work&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://scottjensen.design/2016/04/designing-an-alternative-to-the-hamburger-menu/&#34;&gt;Designing an Alternative to the Hamburger Menu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.prototypr.io/6-pillars-of-ui-design-80fe255f5091#.j8b1stmy6&#34;&gt;6 Pillars of UI Design&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #125 - Sunday fun</title>
@@ -704,64 +787,6 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/12/31/happy-new-year-
 
 &lt;p&gt;&lt;a href=&#34;https://starbnb.co/&#34;&gt;Explore New Horizons - StarBnB&lt;/a&gt;&lt;br /&gt;
 (Which is a pardoy of Airbnb in case you didn&amp;rsquo;t get that ; from &lt;a href=&#34;http://pointlesscorp.com/&#34;&gt;Pointless Corp&lt;/a&gt; - The Innovation Lab at Viget)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #111</title>
-      <link>https://titi.github.io/links/Feed-111/</link>
-      <pubDate>Tue, 15 Dec 2015 23:00:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-111/</guid>
-      <description>
-
-&lt;h1 id=&#34;culture&#34;&gt;Culture&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hbr.org/2013/05/what-is-organizational-culture/&#34;&gt;What Is Organizational Culture? And Why Should We Care?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.mikemcgarr.com/blog/understanding-culture.html&#34;&gt;Understanding culture&lt;/a&gt; -  Engineering Manager for the Netflix Build Tools team&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blablatech.com/blog/the-10-commandments-of-blablatech&#34;&gt;The 10 commandments of BlaBlaTech&lt;/a&gt; - BlaBlaCar&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://fr.slideshare.net/reed2001/culture-1798664&#34;&gt;Netflix Culture&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.hubspot.com/blog/tabid/6307/bid/34234/The-HubSpot-Culture-Code-Creating-A-Company-We-Love.aspx&#34;&gt;The HubSpot Culture Code: Creating a Company We Love&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/mono/mono/blob/master/code_of_conduct.md&#34;&gt;Contributor Code of Conduct&lt;/a&gt; - Mono&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/the-hugging-will-continue-until-morale-improves/&#34;&gt;The Hugging Will Continue Until Morale Improves&lt;/a&gt; - Jeff Atwood&lt;/p&gt;
-
-&lt;h1 id=&#34;browser&#34;&gt;Browser&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support&#34;&gt;Support for older versions of Internet Explorer ends on January 12, 2016&lt;/a&gt; - Microsoft&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/&#34;&gt;Microsoft Edge’s JavaScript engine to go open-source&lt;/a&gt; - Microsoft Edge Dev Blog&lt;/p&gt;
-
-&lt;h1 id=&#34;http-s&#34;&gt;HTTP(S)&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/sha-1-deprecation-no-browser-left-behind/&#34;&gt;SHA-1 Deprecation: No Browser Left Behind&lt;/a&gt; - CloudFlare Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://racksburg.com/choosing-an-http-status-code/&#34;&gt;Choosing an HTTP Status Code — Stop Making It Hard&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;troubleshooting&#34;&gt;Troubleshooting&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/12/debugging-nodejs-in-production.html&#34;&gt;Debugging Node.js in Production&lt;/a&gt; - The Netflix Tech Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html&#34;&gt;Linux Performance Analysis in 60,000 Milliseconds&lt;/a&gt; - The Netflix Tech Blog&lt;/p&gt;
-
-&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.theverge.com/2015/11/20/9768350/google-ads-search-results-ofcom&#34;&gt;Teens can&amp;rsquo;t tell the difference between Google ads and search results&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://haxe.org/&#34;&gt;Haxe - The Cross-platform Toolkit&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://hackaday.com/2015/12/10/3d-scanning-entire-rooms-with-a-kinect/&#34;&gt;3D Scanning Entire Rooms with a Kinect&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://arc.applause.com/2015/11/06/javascript-is-eating-the-world/&#34;&gt;JavaScript Is Eating The World&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://addyosmani.com/basket.js/&#34;&gt;basket.js&lt;/a&gt; - Addy Osmani&lt;/p&gt;
 </description>
     </item>
     
