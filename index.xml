@@ -7,8 +7,85 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Mon, 23 May 2016 22:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 May 2016 22:05:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #127</title>
+      <link>https://titi.github.io/links/Feed-127/</link>
+      <pubDate>Thu, 26 May 2016 22:05:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-127/</guid>
+      <description>
+
+&lt;h1 id=&#34;user-experience&#34;&gt;User experience&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jamesarcher.me/business-software-doesnt-have-to-hurt/&#34;&gt;Business Software Doesn&amp;rsquo;t Have to Hurt&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nickkolenda.com/user-experience/&#34;&gt;125 Easy Tweaks to Optimize Your Website’s Usability Today&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;long-term-quality&#34;&gt;Long term quality&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.agilealliance.org/iterating-toward-legacy-scrums-achilles-heel/&#34;&gt;Iterating Toward Legacy – Scrum’s Achilles Heel&lt;/a&gt; - Agile Alliance&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ouarzy.azurewebsites.net/2016/05/10/the-technical-debt-myth/&#34;&gt;The Technical Debt Myth&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/technical-debt-2&#34;&gt;Technical Debt Shouldn&amp;rsquo;t Be Handled Like Financial Debt&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;test-strategy&#34;&gt;Test strategy&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://kevinlondon.com/2016/05/11/writing-useful-tests.html&#34;&gt;Strategies for Writing Useful Tests&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://haacked.com/archive/2013/10/28/code-review-like-you-mean-it.aspx/&#34;&gt;Code Review Like You Mean It&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://vladmihalcea.com/2016/04/11/how-to-run-database-integration-tests-20-times-faster/&#34;&gt;How to run database integration tests 20 times faster&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;h2 id=&#34;browsers&#34;&gt;Browsers&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://googlechromereleases.blogspot.fr/2016/05/stable-channel-update_25.html&#34;&gt;Chrome Chrome 51.0.2704.63
+Stable Channel Update&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.mozilla.org/blog/2016/05/11/advanced-disclosure-needed-to-keep-users-secure/&#34;&gt;Advance Disclosure Needed to Keep Users Secure&lt;/a&gt; - The Mozilla Blog&lt;/p&gt;
+
+&lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/is-devops-bad-for-security&#34;&gt;Is DevOps Bad for Security? &lt;/a&gt; - DZone&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://jonarcher.info/2015/07/hardening-ssh-with-otp-for-2-factor-authentication/&#34;&gt;Hardening SSH with OTP for 2 factor authentication&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://news.slashdot.org/story/16/05/24/2116209/pastejacking-attack-appends-malicious-terminal-commands-to-your-clipboard&#34;&gt;Pastejacking Attack Appends Malicious Terminal Commands To Your Clipboard&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;full-text-search&#34;&gt;Full-text search&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/solr-6-solrcloud-and-sql-queries-1&#34;&gt;Solr 6, SolrCloud and SQL Queries&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/an-introduction-to-elasticsearch&#34;&gt;An Introduction to Elasticsearch &lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;culture&#34;&gt;Culture&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mikemcgarr.com/blog/understanding-culture.html&#34;&gt;Understanding culture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hbr.org/2013/05/what-is-organizational-culture&#34;&gt;What Is Organizational Culture? And Why Should We Care?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/the-xplane-collection/how-to-measure-culture-f509ebcb859f&#34;&gt;How to measure culture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Companies:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/reed2001/culture-1798664&#34;&gt;Netflix culture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://benbarry.com/project/facebooks-little-red-book&#34;&gt;Facebook&amp;rsquo;s Little Red Book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blablatech.com/blog/the-10-commandments-of-blablatech&#34;&gt;The 10 commandments of BlaBlaTech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[FR] La culture de Bla Bla Car
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PM8ZDO0QR_Q&#34;&gt;Présentation commentée&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fr.slideshare.net/_thefamily/bla-blacar-startupculturethefamilly&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #126</title>
@@ -759,34 +836,6 @@ This article is a goldmine about team work, software architecture, code ownershi
 
 &lt;p&gt;&amp;ldquo;We could finally afford having these people facing the extraction of modules from the monolith as a project in itself.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #112 - Sunday fun</title>
-      <link>https://titi.github.io/links/Feed-112/</link>
-      <pubDate>Sun, 10 Jan 2016 23:55:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-112/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://christmasinfairbanks.com/&#34;&gt;Ken &amp;amp; R-E&amp;rsquo;s Internet Controlled Christmas Lights&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ci4.googleusercontent.com/proxy/wYfEA08maHoPmBy0pYwXft8G1lXw3B07RUtOr3pkvigQJpDPvu7jX8v_r9cLYgIZY3cLZm3XSxV6Gabpu4nXvvAaJovVv0KdfNuz8IJIF7uzwZUe=s0-d-e1-ft#https://info.microsoft.com/rs/157-GQE-382/images/comic-dec.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-Source: &lt;a href=&#34;http://www.cloudtweaks.com&#34;&gt;www.cloudtweaks.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/12/Strip-Nouvel-an-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/12/31/happy-new-year-2016/?setLocale=1&#34;&gt;CommitStrip&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.dylanjpierce.com/raspberrypi/magicmirror/tutorial/2015/12/27/build-a-magic-mirror.html&#34;&gt;Building MirrorMirror:&lt;br /&gt;
-&lt;img src=&#34;http://i.imgur.com/lNB7QSt.jpg?1&#34; alt=&#34;MirrorMirror&#34; width=&#34;600&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/UBWAcNJf5pM?t=113&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;br /&gt;
-&lt;a href=&#34;https://www.ted.com/talks/a_robot_that_flies_like_a_bird?language=en&#34;&gt;Markus Fischer: A robot that flies like a bird&lt;/a&gt; - TED Talks&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://starbnb.co/&#34;&gt;Explore New Horizons - StarBnB&lt;/a&gt;&lt;br /&gt;
-(Which is a pardoy of Airbnb in case you didn&amp;rsquo;t get that ; from &lt;a href=&#34;http://pointlesscorp.com/&#34;&gt;Pointless Corp&lt;/a&gt; - The Innovation Lab at Viget)&lt;/p&gt;
 </description>
     </item>
     
