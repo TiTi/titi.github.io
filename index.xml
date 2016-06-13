@@ -7,8 +7,84 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Thu, 26 May 2016 22:05:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jun 2016 21:50:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #128</title>
+      <link>https://titi.github.io/links/Feed-128/</link>
+      <pubDate>Mon, 13 Jun 2016 21:50:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-128/</guid>
+      <description>
+
+&lt;h1 id=&#34;improve&#34;&gt;Improve&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://people.apache.org/~fhanik/kiss.html&#34;&gt;The Kiss Principle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://codeahoy.com/2016/06/03/write-less-code/&#34;&gt;Write Less Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.go.cd/2016/03/24/how-to-avoid-brittle-code/&#34;&gt;How to Avoid Brittle Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/technical-leadership-in-software-companies&#34;&gt;Technical Leadership in Software Companies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/coding-the-architecture-2&#34;&gt;Coding the Architecture&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/5-things-nobody-tells-you-about-devops&#34;&gt;5 Things Nobody Tells You About DevOps &lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.2ality.com/2016/05/six-nifty-es6-tricks.html&#34;&gt;Six nifty ES6 tricks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/AllThingsSmitty/must-watch-javascript&#34;&gt;Must-watch talks about JavaScript&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hashnode.com/post/whats-the-difference-between-polymers-shadow-dom-and-reacts-virtual-dom-cionyl7rs05lp2s53yb91y3x9/answer/cionzakgh033kc853rxd0v1ju&#34;&gt;What&amp;rsquo;s the difference between Polymer&amp;rsquo;s Shadow DOM and React&amp;rsquo;s Virtual DOM?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;error-tracking&#34;&gt;Error tracking&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hacks.mozilla.org/2016/06/helping-web-developers-with-javascript-errors/&#34;&gt;Helping web developers with JavaScript errors&lt;/a&gt; - Mozilla Hacks&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@jico/the-fine-art-of-javascript-error-tracking-bc031f24c659#.c6bsws6an&#34;&gt;The Fine Art of JavaScript Error Tracking&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://djcordhose.github.io/flow-vs-typescript/2016_hhjs.html#/&#34;&gt;Flow vs TypeScript&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.jquery.com/2016/06/09/jquery-3-0-final-released/&#34;&gt;jQuery 3.0 Final Released!&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://labsblog.f-secure.com/2016/05/16/bye-bye-flash-google-chrome-plans-to-go-html5-by-default/&#34;&gt;Bye Bye, Flash! Google Chrome Plans To Go HTML5 By Default&lt;/a&gt; - F-Secure Lab&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2016/06/07/technology/if-mark-zuckerberg-can-be-a-hacking-victim-so-can-you.html&#34;&gt;If Mark Zuckerberg Can Be Hacked on Twitter, So Can You&lt;/a&gt; - The New York Times&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://labsblog.f-secure.com/2016/05/26/cve-security-vulnerability-data-pr0n/&#34;&gt;CVE Security Vulnerability Data Pr0n&lt;/a&gt; - F-Secure Lab&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://googlechromereleases.blogspot.fr/2016/06/stable-channel-update.html&#34;&gt;Chrome 51.0.2704.79 Stable Channel Update&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://teletext.zaibatsutel.net/post/145370716258/deadupdate-or-how-i-learned-to-stop-worrying-and&#34;&gt;DeadUpdate; Or, How I learned to stop worrying and execute arbitrary executables from HTTP&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;css&#34;&gt;CSS&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hacks.mozilla.org/2016/05/css-coding-techniques/&#34;&gt;CSS coding techniques&lt;/a&gt; - Mozilla Hacks &amp;#8211; the Web developer blog&lt;/p&gt;
+
+&lt;h1 id=&#34;linux&#34;&gt;Linux&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://linuxjourney.com/&#34;&gt;Linux Journey - Learn the ways of Linux-fu, for free.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/commandline/2016/06/08/tmux-support-arrives-for-bash-on-ubuntu-on-windows/&#34;&gt;Tmux support arrives for Bash on Ubuntu on Windows&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/wsl/2016/06/08/wsl-system-calls/&#34;&gt;Windows Subsystem for Linux (WSL) System Calls&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/using-http-2-server-push-with-php/&#34;&gt;Using HTTP/2 Server Push with PHP&lt;/a&gt; - CloudFlare&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.theregister.co.uk/2016/05/19/mads_torgersen_and_dustin_campbell_on_the_future_of_c/&#34;&gt;Mads Torgersen and Dustin Campbell on the future of C#&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://arstechnica.com/cars/2016/05/four-hundred-miles-with-teslas-autopilot-forced-me-to-trust-the-machine/&#34;&gt;Four hundred miles with Tesla’s autopilot forced me to trust the machine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;genericon genericon-youtube&#34;&gt;&lt;/span&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=tUQQQUM1bvs&#34;&gt;Mapping Our Cultural Heritage in 3D&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #127</title>
@@ -756,86 +832,6 @@ Elon Musk comments are great: &lt;a href=&#34;http://fortune.com/2015/12/21/elon
 &lt;p&gt;&lt;a href=&#34;http://www.infoq.com/news/2016/01/VS-64-bit&#34;&gt;Rico Mariani on Why Visual Studio Isn’t 64-bit&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality&#34;&gt;Parkinson&amp;rsquo;s law of triviality&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #113</title>
-      <link>https://titi.github.io/links/Feed-113/</link>
-      <pubDate>Wed, 13 Jan 2016 00:20:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-113/</guid>
-      <description>
-
-&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blogs.adobe.com/agile/2014/10/10/agile-and-leadership-turn-the-ship-around/&#34;&gt;Agile and Leadership – Turn the Ship Around&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/articles/towards-agile-software-architecture&#34;&gt;Towards an Agile Software Architecture&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://hmarco.org/bugs/CVE-2015-8370-Grub2-authentication-bypass.html&#34;&gt;Back to 28: Grub2 Authentication 0-Day&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.theregister.co.uk/2015/12/22/ftc_oracle_java/&#34;&gt;Oracle ordered to admit on its website that it lost the plot on Java security&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2015/12/security-panel?hl=en&#34;&gt;Security Panel debuts in Chrome DevTools&lt;/a&gt; | Web Updates - Google Developers&lt;/p&gt;
-
-&lt;h1 id=&#34;web-dev&#34;&gt;Web dev&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2015/11/devtools-digest-cds-edition?hl=en&#34;&gt;DevTools Digest (CDS Edition): A glimpse into the future + RAIL Profiling&lt;/a&gt; | Web Updates - Google Developers&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://thedubiousdisc.wordpress.com/2015/12/19/how-to-write-unfancy-web-apps/&#34;&gt;How to Write Unfancy Web Apps&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2015/12/html5-video-is-now-supported-in-firefox.html&#34;&gt;HTML5 Video is now supported in Firefox&lt;/a&gt; - The Netflix Tech Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://idlewords.com/talks/website_obesity.htm&#34;&gt;The Website Obesity Crisis&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;code-style&#34;&gt;Code style&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://haacked.com/archive/2015/12/16/to-string-or-not/&#34;&gt;To String or to string&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://freedom-to-tinker.com/blog/aylin/when-coding-style-survives-compilation-de-anonymizing-programmers-from-executable-binaries/&#34;&gt;When coding style survives compilation: De-anonymizing programmers from executable binaries&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;culture&#34;&gt;Culture&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.wisdompills.com/2014/05/28/the-famous-social-experiment-5-monkeys-a-ladder/&#34;&gt;The Famous ‘Social Experiment’: 5 Monkeys and a Ladder&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.gatesnotes.com/Books/Mindset-The-New-Psychology-of-Success&#34;&gt;What You Believe Affects What You Achieve&lt;/a&gt; - Bill Gates&lt;/p&gt;
-
-&lt;h1 id=&#34;microservices&#34;&gt;Microservices&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://smartbear.com/learn/api-design/what-are-microservices/&#34;&gt;What is Microservices Architecture?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/news/2015/12/microservices-amazon&#34;&gt;Microservices and Teams at Amazon&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/7-sins-microservices&#34;&gt;The Seven Deadly Sins of Microservices&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html&#34;&gt;How we ended up with microservices&lt;/a&gt; - ex-SoundCloud dev&lt;br /&gt;
-This article is a goldmine about team work, software architecture, code ownership and culture:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;that very frequently your feature would be rolled back because of a problem in a completely unrelated part of the code.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Most people were happy with pairing, and those who weren’t happy were given the option to keep working by themselves, but only on tasks not related to the Next project.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Turns out that the monolithic code base we had was so massive and so broad no one knew all of it. People had developed their own areas of expertise and custodianship around submodules of the application.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;A meme around the company was “everything is fun and games until someone has to touch the monolith”.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;The irreducible complexity of the monolith&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;But even if everything went smoothly, we knew that the current code for the monolith had to be refactored anyway. The code had suffered a lot during the past few years, tech debt everywhere.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Anything new we were to build would become a greenfield project, and the delay introduced by Pull Requests wouldn’t be necessary.&amp;rdquo;&lt;br /&gt;
-&amp;ldquo;We decided to give it a try, and eventually built everything required for our first monetisation project as services, isolated from the monolith. The project introduced several big features and a complete revamp of our subscription model, and it was delivered ahead of deadlines by 2 teams of 2 engineers each.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;People would still either implement the change in the old code base or create some weird hybrid, where the changes would be implemented in a microservice that was so coupled to the monolith that it might as well be the same system.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;People would be jumping from one feature to another all the time, and we realised that we didn’t develop a sense of ownership or autonomy towards any part of the system. Nobody wanted to make the risky investment of extracting some ancient piece of code if they didn’t feel responsible for it. It’s an instance of the old adage: what’s everybody’s responsibility is nobody’s responsibility.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;We could finally afford having these people facing the extraction of modules from the monolith as a project in itself.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
