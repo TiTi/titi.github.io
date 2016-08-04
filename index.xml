@@ -7,8 +7,63 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Mon, 25 Jul 2016 23:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 04 Aug 2016 23:55:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #131</title>
+      <link>https://titi.github.io/links/Feed-131/</link>
+      <pubDate>Thu, 04 Aug 2016 23:55:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-131/</guid>
+      <description>
+
+&lt;h1 id=&#34;a-step-back-failure-unhappiness-surge-or-pivot&#34;&gt;A step back: failure, unhappiness, surge or pivot?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://allankelly.blogspot.fr/2016/07/surge-or-pivot-notes-on-failure.html&#34;&gt;Surge or pivot? - notes on failure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.daedtech.com/human-cost-tech-debt/&#34;&gt;The Human Cost of Tech Debt&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;culture&#34;&gt;Culture&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.strategyzer.com/posts/2016/7/10/dont-let-your-company-culture-just-happen&#34;&gt;Don’t Let Your Company Culture Just Happen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;What is culture?
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/ePIbhC2Md-o?t=3m15s&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;h1 id=&#34;business&#34;&gt;Business&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mindtheproduct.com/2016/07/building-happy-product-teams-like-heist-teams-laura-klein/&#34;&gt;Building Happy Product Teams like Heist Teams&lt;/a&gt;  by Laura Klein&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/everyone-is-not-a-software-company&#34;&gt;Everyone Is Not a Software Company&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/twelve-mistakes-in-agile-manifesto&#34;&gt;12 Mistakes in Agile Manifesto&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/role-of-architect-in-scrum-team&#34;&gt;The Role of an Architect on a Scrum Team&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;technical-improvment&#34;&gt;Technical improvment&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://eng.uber.com/mysql-migration/&#34;&gt;Why Uber Engineering Switched from Postgres to MySQL&lt;/a&gt; - Uber Engineering Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://githubengineering.com/gh-ost-github-s-online-migration-tool-for-mysql/&#34;&gt;gh-ost: GitHub&amp;rsquo;s online schema migration tool for MySQL&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/storage/assets/2635932-queueing-theory.pdf&#34;&gt;Queueing Theory&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://eng.uber.com/building-tincup/&#34;&gt;Rewriting Uber Engineering: The Opportunities Microservices Provide&lt;/a&gt; - Uber Engineering Blog&lt;/p&gt;
+
+&lt;h1 id=&#34;design-ux&#34;&gt;Design &amp;amp; UX&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.uxbooth.com/articles/how-to-check-out-the-competition/&#34;&gt;How to Check Out the Competition&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.troyhunt.com/the-cobra-effect-that-is-disabling/&#34;&gt;The “Cobra Effect” that is disabling paste on password fields&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jgthms.com/web-design-in-4-minutes/&#34;&gt;Web Design in 4 minutes&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #130 - Mondy fun</title>
@@ -745,53 +800,6 @@ No IE support yet&amp;hellip;&lt;/p&gt;
 &lt;h1 id=&#34;scrum-master&#34;&gt;Scrum Master&lt;/h1&gt;
 
 &lt;p&gt;[FR] &lt;a href=&#34;http://www.infoq.com/fr/articles/scrum-master-success&#34;&gt;Qu&amp;rsquo;est-ce que le Succès pour un Scrum Master ?&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #116</title>
-      <link>https://titi.github.io/links/Feed-116/</link>
-      <pubDate>Tue, 16 Feb 2016 19:52:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-116/</guid>
-      <description>
-
-&lt;h1 id=&#34;methods&#34;&gt;Methods&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/news/2016/01/technical-debt-team-morale&#34;&gt;Technical Debt and Team Morale when Maintaining a Large System&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/articles/devops-team-topologies&#34;&gt;How Different Team Topologies Influence DevOps Culture&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://githubengineering.com/scientist/&#34;&gt;Scientist: Measure Twice, Cut Over Once&lt;/a&gt; - GitHub Engineering&lt;br /&gt;
-&lt;a href=&#34;http://haacked.com/archive/2016/01/20/scientist/&#34;&gt;A .NET port of Scientist&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;ux&#34;&gt;UX&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://rafaltomal.com/visually-effective-cta/&#34;&gt;How to Create Visually Effective Calls-To-Action&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gathercontent.com/a-project-guide-to-ux-design-download-pdf&#34;&gt;UX Design And Content Strategy: The Project Guide&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;ai&#34;&gt;AI&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/&#34;&gt;In a Huge Breakthrough, Google’s AI Beats a Top Player at the Game of Go&lt;/a&gt; - Wired&lt;br /&gt;
-&lt;a href=&#34;http://googleresearch.blogspot.fr/2016/01/alphago-mastering-ancient-game-of-go.html&#34;&gt;AlphaGo: Mastering the ancient game of Go with Machine Learning&lt;/a&gt;&lt;br /&gt;
-I&amp;rsquo;m wondering if they coded thoses programs in Go :p&lt;/p&gt;
-
-&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/vanilla-javascript/choosing-vanilla-javascript-in-2016-6f38a8302ee5#.rbjjtw9or&#34;&gt;Choosing Vanilla JavaScript in 2016&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.allenpike.com/2015/javascript-framework-fatigue/&#34;&gt;A JS framework on every table&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@franciov/how-to-make-your-web-app-installable-8b71571605e#.82tz0tclr&#34;&gt;How to make your web app installable&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.scirra.com/blog/173/just-how-evergreen-is-microsoft-edge&#34;&gt;Just how evergreen is Microsoft Edge?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.chromium.org/2016/02/transitioning-from-spdy-to-http2.html&#34;&gt;Transitioning from SPDY to HTTP/2&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.chromium.org/2016/02/the-physical-web-expands-to-chrome-for_10.html&#34;&gt;The Physical Web expands to Chrome for Android&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
