@@ -7,8 +7,66 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Thu, 04 Aug 2016 23:55:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 12 Aug 2016 23:50:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #132</title>
+      <link>https://titi.github.io/links/Feed-132/</link>
+      <pubDate>Fri, 12 Aug 2016 23:50:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-132/</guid>
+      <description>
+
+&lt;h1 id=&#34;building&#34;&gt;Building&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.whitehouse.gov/blog/2016/08/08/peoples-code&#34;&gt;The People’s Code&lt;/a&gt; - whitehouse.gov&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/great-products-dont-happen-by-accident/great-products-dont-happen-by-accident-f46323d8ad94#.3e92ai5nh&#34;&gt;Great Products Don’t Happen By Accident&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/creating-your-code-review-checklist&#34;&gt;Creating Your Code Review Checklist&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/the-hidden-truths-in-es6-classes&#34;&gt;The Hidden Truths in ES6 Classes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A weird bug with V8:&lt;br /&gt;
+&lt;a href=&#34;https://swizec.com/blog/js-object-optimization-bug-in-chrome-52/swizec/6908&#34;&gt;JS object optimization bug in Chrome 52&lt;/a&gt;&lt;br /&gt;
+Got the same kind of behavior in the DevTools debugger with closures: variable seems undefined because of internal optimizations&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://chrome.googleblog.com/2016/08/flash-and-chrome.html&#34;&gt;Flash and Chrome&lt;/a&gt; - Chrome Blog&lt;/p&gt;
+
+&lt;h1 id=&#34;cars&#34;&gt;Cars&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://moralmachine.mit.edu/&#34;&gt;Moral Machine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.reuters.com/article/us-autos-cyber-volkswagen-idUSKCN10M1JN&#34;&gt;Keyless systems of many VW Group cars can be hacked: researchers&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://eng.uber.com/bug-bounty-update/&#34;&gt;100 Days Into Uber Engineering’s Public Bug Bounty Program&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://thehackernews.com/2016/08/http2-protocol-security.html&#34;&gt;4 Flaws hit HTTP/2 Protocol that could allow Hackers to Disrupt Servers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/this-is-strictly-a-violation-of-the-tcp-specification/&#34;&gt;This is strictly a violation of the TCP specification&lt;/a&gt; - CloudFlare blog&lt;/p&gt;
+
+&lt;h1 id=&#34;testing&#34;&gt;Testing&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/the-great-debate-code-coverage-on-legacy-apps&#34;&gt;The Great Debate: Code Coverage on Legacy Apps&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Agreed that progress on legacy systems slow down until you want to throw it away&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.smartbear.com/code-review/unit-testing-legacy-code/&#34;&gt;Unit Testing Legacy Code: 3 Reasons to Reconsider&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;But really, what should I do?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Take all that money you would have spent going back into the code and laboring away to get unit testing working and code coverage up, and spend that money on a new, replacement system, one that emulates and improves your current system.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #131</title>
@@ -755,52 +813,6 @@ and the &lt;a href=&#34;https://azure.microsoft.com/en-us/documentation/infograp
 &lt;p&gt;&lt;a href=&#34;https://www.nczonline.net/blog/2016/02/reflections-on-eslints-success/&#34;&gt;Reflections on ESLint&amp;rsquo;s success&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/constructor-or-setter&#34;&gt;Constructor or Setter?&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #117</title>
-      <link>https://titi.github.io/links/Feed-117/</link>
-      <pubDate>Wed, 24 Feb 2016 23:40:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-117/</guid>
-      <description>
-
-&lt;h1 id=&#34;communication&#34;&gt;Communication&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.theeffectiveengineer.com/blog/communication-first-casualty-of-teams-growth&#34;&gt;Communication: The First Casualty of a Team&amp;rsquo;s Growth&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/GitHubActivityGuiltAndTheCodersFitBit.aspx&#34;&gt;GitHub Activity Guilt and the Coder&amp;rsquo;s FitBit&lt;/a&gt; -
-Scott Hanselman&lt;/p&gt;
-
-&lt;h1 id=&#34;css&#34;&gt;CSS&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://thenewcode.com/368/Controlling-Elements-with-JavaScript-classList&#34;&gt;Controlling Elements with JavaScript classList&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care&#34;&gt;CSS Variables: Why Should You Care?&lt;/a&gt;&lt;br /&gt;
-No IE support yet&amp;hellip;&lt;/p&gt;
-
-&lt;h1 id=&#34;programming-language&#34;&gt;Programming language&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make&#34;&gt;Avoid the 10 Most Common Mistakes That Python Programmers Make&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms&#34;&gt;C++ idioms&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;sotfware-hardware-stack&#34;&gt;Sotfware &amp;amp; Hardware stack&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/&#34;&gt;Stack Overflow: The Architecture - 2016 Edition&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;smartphone-privacy&#34;&gt;Smartphone &amp;amp; Privacy&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.apple.com/customer-letter/&#34;&gt;A Message to Our Customers&lt;/a&gt; - Apple&lt;/p&gt;
-
-&lt;h1 id=&#34;microservices&#34;&gt;Microservices&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/&#34;&gt;Creating a Microservice? Answer these 10 Questions First&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;scrum-master&#34;&gt;Scrum Master&lt;/h1&gt;
-
-&lt;p&gt;[FR] &lt;a href=&#34;http://www.infoq.com/fr/articles/scrum-master-success&#34;&gt;Qu&amp;rsquo;est-ce que le Succès pour un Scrum Master ?&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
