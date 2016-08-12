@@ -47,7 +47,8 @@
 
 &lt;h1 id=&#34;technical-improvment&#34;&gt;Technical improvment&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://eng.uber.com/mysql-migration/&#34;&gt;Why Uber Engineering Switched from Postgres to MySQL&lt;/a&gt; - Uber Engineering Blog&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eng.uber.com/mysql-migration/&#34;&gt;Why Uber Engineering Switched from Postgres to MySQL&lt;/a&gt; - Uber Engineering Blog&lt;br /&gt;
+Interesting answer: &lt;a href=&#34;https://dzone.com/articles/on-ubers-choice-of-databases&#34;&gt;MySQL Might Be Right for Uber, but Not for You&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://githubengineering.com/gh-ost-github-s-online-migration-tool-for-mysql/&#34;&gt;gh-ost: GitHub&amp;rsquo;s online schema migration tool for MySQL&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
 
