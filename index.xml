@@ -7,8 +7,65 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Mon, 29 Aug 2016 14:48:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Aug 2016 23:40:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #135</title>
+      <link>https://titi.github.io/links/Feed-135/</link>
+      <pubDate>Tue, 30 Aug 2016 23:40:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-135/</guid>
+      <description>
+
+&lt;h1 id=&#34;bash-on-windows&#34;&gt;Bash on Windows&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/commandline/2016/06/02/learn-more-about-bash-on-ubuntu-on-windows-and-the-windows-subsystem-for-linux/&#34;&gt;Learn more about Bash on Ubuntu on Windows and the Windows Subsystem for Linux&lt;/a&gt; - Windows Command Line Tools For Developers&lt;/p&gt;
+
+&lt;h1 id=&#34;product-design-and-management&#34;&gt;Product design and management&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uxdesign.cc/human-centered-design-the-6-fundamental-principles-of-interaction-between-products-and-users-7343734b38a1#.cvb1p22pk&#34;&gt;Human Centered Design &amp;amp; The 6 Fundamental Principles of Interaction Between Products and Users&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.mixpanel.com/2016/08/11/steven-sinofsky-product-leadership/&#34;&gt;Steven Sinofsky on Building Your Product Team&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;framework-and-versioning&#34;&gt;Framework and versioning&lt;/h1&gt;
+
+&lt;p&gt;Also applies to other languages, the following article describe classic programming pitfalls:&lt;br /&gt;
+&lt;a href=&#34;http://www.phpthewrongway.com&#34;&gt;PHP - The Wrong Way&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/api-versioning-methods-a-brief-reference-1?edition=155255&#34;&gt;API Versioning Methods, a Brief Reference&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;country&#34;&gt;Country&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/us-government-goes-open-source?edition=154264&#34;&gt;The U.S. Government Goes Open Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/the-cuban-cdn/&#34;&gt;The Cuban CDN&lt;/a&gt; - CloudFlare blog&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/&#34;&gt;A Beginner’s Guide To Progressive Web Apps&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/common-promise-mistakes?edition=154268&#34;&gt;Common Promise Mistakes &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/es6-arrow-functions-innbspdepth?edition=201674&#34;&gt;ES6 Arrow Functions In-Depth&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://eng.uber.com/bug-bounty-update/&#34;&gt;100 Days Into Uber Engineering’s Public Bug Bounty Program&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/how-the-consumer-product-safety-commission-is-inadvertently-behind-the-internets-largest-ddos-attacks/&#34;&gt;How the Consumer Product Safety Commission is (Inadvertently) Behind the Internet’s Largest DDoS Attacks&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;legacy-code&#34;&gt;Legacy code&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.stridenyc.com/blog/how-to-decide-what-to-do-with-your-legacy-code/&#34;&gt;How To Decide What To Do With Your Legacy Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://engineeringblog.yelp.com/2016/08/undebt-how-we-refactored-3-million-lines-of-code.html&#34;&gt;Undebt: How We Refactored 3 Million Lines of Code&lt;/a&gt; - Yelp&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://legacycode.rocks&#34;&gt;Legacy Code Rocks!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.kevinlondon.com/2016/08/29/two-trains-talk.html&#34;&gt;Two Trains Talk&lt;/a&gt; - Kevin London&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #134 - Monday fun</title>
@@ -734,52 +791,6 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2016/03/23/the-latest-inno
 &lt;p&gt;&lt;a href=&#34;http://arstechnica.co.uk/information-technology/2016/04/microsoft-adds-qr-codes-to-bsods-in-new-windows-10-preview-build/&#34;&gt;Microsoft adds QR codes to BSODs in new Windows 10 preview build&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://githubengineering.com/introducing-dgit/&#34;&gt;Introducing DGit&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #120</title>
-      <link>https://titi.github.io/links/Feed-120/</link>
-      <pubDate>Tue, 05 Apr 2016 17:30:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-120/</guid>
-      <description>
-
-&lt;h1 id=&#34;safety&#34;&gt;Safety&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://themacro.com/articles/2016/03/agility-requires-safety/&#34;&gt;Agility Requires Safety&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/&#34;&gt;How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://engineering.linkedin.com/blog/2016/02/q-a-with-jim-brikman--splitting-up-a-codebase-into-microservices&#34;&gt;LinkedIn Engineering - Q&amp;amp;A with Jim Brikman: Splitting Up a Codebase into Microservices and Artifacts&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2016/03/how-we-build-code-at-netflix.html&#34;&gt;How We Build Code at Netflix&lt;/a&gt; - The Netflix Tech Blog&lt;/p&gt;
-
-&lt;h1 id=&#34;build-2016&#34;&gt;Build 2016&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techcrunch.com/2016/03/30/be-very-afraid-hell-has-frozen-over-bash-is-coming-to-windows-10/&#34;&gt;Microsoft is bringing the Bash shell to Windows 10&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.dustinkirkland.com/2016/03/ubuntu-on-windows.html&#34;&gt;Ubuntu on Windows &amp;ndash; The Ubuntu Userspace for Windows Developers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/&#34;&gt;Visual C++ for Linux Development&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.xdsd.org&#34;&gt;eXtremely Distributed Software Development&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://age-of-product.com/cargo-cult-agile-state-agile-checklist-organization/&#34;&gt;Cargo Cult Agile: The ‘State Of Agile’ Checklist For Your Organization&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;efficient&#34;&gt;Efficient&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.teamten.com/lawrence/writings/java-for-everything.html&#34;&gt;Java for Everything&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;“If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.” —Edsger Dijkstra, Turing Award Lecture (1972)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://chrismm.com/blog/how-to-reduce-the-cognitive-load-of-your-code/&#34;&gt;Writing good code: how to reduce the cognitive load of your code&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
