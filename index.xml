@@ -7,8 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Tue, 30 Aug 2016 23:40:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 13 Sep 2016 00:35:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #136</title>
+      <link>https://titi.github.io/links/Feed-136/</link>
+      <pubDate>Tue, 13 Sep 2016 00:35:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-136/</guid>
+      <description>
+
+&lt;h1 id=&#34;teams&#34;&gt;Teams&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hunterwalk.com/2016/09/03/google-finds-that-successful-teams-are-about-norms-not-just-smarts/&#34;&gt;Google Finds That Successful Teams Are About Norms Not Just Smarts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://firstround.com/review/the-rewards-of-creator-driven-cultures-and-the-engineers-that-can-deliver-them/&#34;&gt;The Rewards of Creator-Driven Cultures — And The Engineers That Can Deliver Them&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;algorithm&#34;&gt;Algorithm&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://code.facebook.com/posts/1658392934479273/smaller-and-faster-data-compression-with-zstandard/&#34;&gt;Smaller and faster data compression with Zstandard&lt;/a&gt; - Facebook Engineering Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://code.facebook.com/posts/697469023742261/360-video-stabilization-a-new-algorithm-for-smoother-360-video-viewing/&#34;&gt;360 video stabilization: A new algorithm for smoother 360 video viewing&lt;/a&gt; - Facebook Engineering Blog&lt;/p&gt;
+
+&lt;h1 id=&#34;google-cast&#34;&gt;Google Cast&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://chrome.googleblog.com/2016/08/google-cast-is-now-built-in-to-chrome.html&#34;&gt;Google Cast is now built-in to Chrome &lt;/a&gt; - Chrome Blog&lt;/p&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ryanmorr.com/true-hash-maps-in-javascript/&#34;&gt;True Hash Maps in JavaScript&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/5-javascript-bad-parts-that-are-fixed-in-es6-free?edition=203676&#34;&gt;5 JavaScript &amp;ldquo;Bad&amp;rdquo; Parts That Are Fixed in ES6&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/es6-destructuring-in-depth-2?edition=154268&#34;&gt;ES6 Destructuring In-Depth&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bouk.co/blog/hacking-developers/&#34;&gt;How to steal any developer&amp;rsquo;s local database&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.rafayhackingarticles.net/2016/08/google-chrome-firefox-address-bar.html&#34;&gt;Google Chrome, Firefox Address Bar Spoofing Vulnerability&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/oldnewthing/20160816-00/?p=94105&#34;&gt;There are really only two effectively distinct settings for the UAC slider&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;backlog&#34;&gt;Backlog&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.productplan.com/5-signs-product-backlog-black-hole/&#34;&gt;5 Signs Your Product Backlog is a Black Hole (and What to Do About it)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #135</title>
@@ -741,56 +787,6 @@ Source: &lt;a href=&#34;http:www.commitstrip.com/en/2016/03/17/too-full-stack/&#
 
 &lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2016/03/Strip-La-contre-attaque-Adblock-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 Source: &lt;a href=&#34;http://www.commitstrip.com/en/2016/03/23/the-latest-innovation-from-the-media/&#34;&gt;CommitStrip - The latest innovation from the media&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #121</title>
-      <link>https://titi.github.io/links/Feed-121/</link>
-      <pubDate>Wed, 13 Apr 2016 22:43:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-121/</guid>
-      <description>
-
-&lt;h1 id=&#34;improve&#34;&gt;Improve&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/5-skills-a-software-developer-should-have-to-be-a&#34;&gt;5 Skills a Software Developer Should Have to Be a Smart Developer&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/enterprise-requirements-for-managing-feature-flags&#34;&gt;Enterprise Requirements for Managing Feature Flags&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;web-security&#34;&gt;Web Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://feeding.cloud.geek.nz/posts/how-safe-browsing-works-in-firefox/&#34;&gt;How Safe Browsing works in Firefox&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/advanced-web-security-topics&#34;&gt;Advanced Web Security Topics &lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;email&#34;&gt;Email&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://elliot.land/validating-an-email-address&#34;&gt;It&amp;rsquo;s Impossible to Validate an Email Address&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/do-you-still-email-yourself-from-your-code-how-to&#34;&gt;Do You Still Email Yourself From Your Code? How to Stop the Madness&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://age-of-product.com/agile-failure-patterns-in-organizations/&#34;&gt;Agile Failure Patterns In Organizations&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://age-of-product.com/38-scrum-master-interview-questions-to-avoid-imposters-free-pdf/&#34;&gt;Hiring: 38 Scrum Master Interview Questions To Avoid Agile Imposters&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.learningjquery.com/2016/04/jquery-3-0-new-loop-syntax&#34;&gt;jQuery 3.0 New Loop Syntax&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/how-to-run-angular-2-in-production-today-1&#34;&gt;How to Run Angular 2 in Production Today&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;wow&#34;&gt;Wow&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.ted.com/talks/caleb_harper_this_computer_will_grow_your_food_in_the_future&#34;&gt;Caleb Harper: This computer will grow your food in the future&lt;/a&gt; | TED Talk&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.ted.com/talks/haley_van_dyck_how_a_start_up_in_the_white_house_is_changing_business_as_usual&#34;&gt;How a start-up in the White House is changing business as usual&lt;/a&gt; | TED Talk&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://arstechnica.co.uk/information-technology/2016/04/microsoft-adds-qr-codes-to-bsods-in-new-windows-10-preview-build/&#34;&gt;Microsoft adds QR codes to BSODs in new Windows 10 preview build&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://githubengineering.com/introducing-dgit/&#34;&gt;Introducing DGit&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
 </description>
     </item>
     
