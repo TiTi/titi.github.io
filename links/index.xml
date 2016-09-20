@@ -7,8 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Tue, 13 Sep 2016 00:35:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 21 Sep 2016 00:02:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #137</title>
+      <link>https://titi.github.io/links/Feed-137/</link>
+      <pubDate>Wed, 21 Sep 2016 00:02:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-137/</guid>
+      <description>
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.schneier.com/blog/archives/2016/09/someone_is_lear.html&#34;&gt;Someone Is Learning How to Take Down the Internet&lt;/a&gt; - Schneier&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/introducing-tls-1-3/&#34;&gt;Introducing TLS 1.3&lt;/a&gt; - Cloudflare blog&lt;/p&gt;
+
+&lt;h1 id=&#34;api-deprecations&#34;&gt;API Deprecations&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2016/09/chrome-54-deprecations&#34;&gt;API Deprecations and Removals in Chrome 54&lt;/a&gt; - Google Developers Web Updates&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2016/08/removing-document-write&#34;&gt;Intervening against document.write()&lt;/a&gt; - Google Developers Web Updates&lt;/p&gt;
+
+&lt;h1 id=&#34;mix&#34;&gt;Mix&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/5-obstacles-to-employee-engagement-and-how-to-over?edition=154263&#34;&gt;5 Obstacles to Employee Engagement and How to Overcome Them&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/9-tips-on-elasticsearch-configuration-for-high-per?edition=155252&#34;&gt;Tips on ElasticSearch Configuration for High Performance: Part I&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dev.microsoft.fr&#34;&gt;Développeurs, Microsoft parle votre langage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://marcelo-cure.blogspot.fr/2016/09/rest-anti-patterns.html&#34;&gt;REST anti-patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hacks.mozilla.org/2016/09/firefox-49-fixes-sites-designed-with-webkit-in-mind-and-more/&#34;&gt;Firefox 49 fixes sites designed with WebKit in mind, and more&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/commitstrip/commitstrip-rise-of-the-coders-a-book-about-the-fu?ref=thanks_tweet&#34;&gt;CommitStrip - Rise of the Coders: a Book about the Future&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;features&#34;&gt;Features&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.gosquared.com/blog/how-bad-features-are-born&#34;&gt;How bad features are born&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hackernoon.com/the-feature-fallacy-why-more-features-dont-make-a-better-product-9fd125e86440#.4wjtw6tla&#34;&gt;How to Build Better Products: The Feature Fallacy&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #136</title>
@@ -756,37 +798,6 @@ I disagree regarding the &amp;ldquo;path [that] leads to code of the same mainta
 &lt;p&gt;&lt;a href=&#34;http://blog.nullspace.io/batch.html&#34;&gt;How bad is the Windows command line really?&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://bitquabit.com/&#34;&gt;Separate, support, serve&lt;/a&gt; (about Microsoft choices)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #122 - Sunday fun</title>
-      <link>https://titi.github.io/links/Feed-122/</link>
-      <pubDate>Sun, 17 Apr 2016 23:50:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-122/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://whichcatisyourjavascriptframework.com&#34;&gt;Which cat is your JavaScript framework?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.fxguide.com/featured/so-just-how-was-that-chemical-brothers-video-made/&#34;&gt;So, just how was that Chemical Brothers video made?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.jitbit.com/alexblog/203-what-if-drivers-were-hired-like-programmers/&#34;&gt;What If Drivers Were Hired Like Programmers?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/boysnoize/status/715075699883638785&#34;&gt;Boys Noize on Twitter : &amp;ldquo;right @SoundCloud &amp;hellip;&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.telegraph.co.uk/technology/2016/03/24/microsofts-teen-girl-ai-turns-into-a-hitler-loving-sex-robot-wit/&#34;&gt;Microsoft deletes &amp;lsquo;teen girl&amp;rsquo; AI after it became a Hitler-loving sex robot within 24 hours&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://imgur.com/gallery/VhlAW&#34;&gt;More at imgur&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://imgur.com/gallery/LfDZSHA&#34;&gt;I need a clever WiFi Name for the new router&lt;/a&gt;&lt;/p&gt;
-
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/tGHcyKTIXIM&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-
-&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2016/03/Strip-La-maison-de-stacks-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-Source: &lt;a href=&#34;http:www.commitstrip.com/en/2016/03/17/too-full-stack/&#34;&gt;CommitStrip - Too Full Stack&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2016/03/Strip-La-contre-attaque-Adblock-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-Source: &lt;a href=&#34;http://www.commitstrip.com/en/2016/03/23/the-latest-innovation-from-the-media/&#34;&gt;CommitStrip - The latest innovation from the media&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
