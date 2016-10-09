@@ -7,8 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 09 Oct 2016 15:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Oct 2016 15:12:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #139</title>
+      <link>https://titi.github.io/links/Feed-139/</link>
+      <pubDate>Sun, 09 Oct 2016 15:12:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-139/</guid>
+      <description>
+
+&lt;h1 id=&#34;pair-programming&#34;&gt;Pair Programming&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/on-pair-programming-and-the-myth-of-the-10x-develo?edition=154263&#34;&gt;On Pair Programming and the Myth of the 10x Developer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/LonelyCoding.aspx&#34;&gt;Lonely coding&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;fun&#34;&gt;Fun&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/commandline/2016/09/22/24-bit-color-in-the-windows-console/&#34;&gt;24-bit Color in the Windows Console!&lt;/a&gt;&lt;br /&gt;
+2016 man&amp;hellip; !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@beweinreich/two-years-spamming-spammers-back-2e734ce9593c#.w8klxcok4&#34;&gt;Two years spamming spammers back&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.gdihgao7v&#34;&gt;How it feels to learn JavaScript in 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Maybe not so fun: &lt;a href=&#34;https://science.slashdot.org/story/16/10/08/0445208/muckrock-identifies-the-oldest-us-government-computer-still-in-use&#34;&gt;MuckRock Identifies The Oldest US Government Computer Still in Use&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;MuckRock article identified their oldest software still in use on earth &amp;ndash; &amp;ldquo;the computers inside the IRS that makes sure everybody is paying their taxes&amp;rdquo;. And it also identified their oldest hardware still in use &amp;ndash; &amp;ldquo;the machines running the nuclear defense system&amp;rdquo;. (The launch commands are still stored on 8-inch floppy disks.)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;improve&#34;&gt;Improve&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://css-tricks.com/words-avoid-educational-writing/&#34;&gt;Words To Avoid in Educational Writing&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2016/09/29/technology/yahoo-data-breach-hacking.html?_r=0&#34;&gt;Defending Against Hackers Took a Back Seat at Yahoo, Insiders Say&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[Technical] &lt;a href=&#34;https://blogs.dropbox.com/tech/2016/09/how-dropbox-securely-stores-your-passwords/&#34;&gt;How Dropbox securely stores your passwords&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;testing&#34;&gt;Testing&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://raygun.com/blog/2016/09/unit-testing-examples-and-anatomy/&#34;&gt;The anatomy of robust unit testing (with examples in C#)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://seleniumhq.wordpress.com/2016/10/04/selenium-3-is-coming/&#34;&gt;Selenium 3 is Coming&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #138 - Sunday fun</title>
@@ -672,91 +719,6 @@ Stable Channel Update&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2016/04/Strip-Bien-fixer-ou-bien-bien-fixer-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 Source: &lt;a href=&#34;http://www.commitstrip.com/en/2016/04/13/quick-fix/&#34;&gt;CommitStrip - QuickFix&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #124</title>
-      <link>https://titi.github.io/links/Feed-124/</link>
-      <pubDate>Wed, 27 Apr 2016 23:10:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-124/</guid>
-      <description>
-
-&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/achievers-tech/the-11-habits-of-highly-effective-agile-delivery-teams-125c703027#.f232vv6id&#34;&gt;The 11 habits of highly effective Agile delivery teams&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/refcardz/scrum&#34;&gt;The Ultimate Scrum Reference Card&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;css&#34;&gt;CSS&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://bitsofco.de/initial-inherit-unset-and-revert/&#34;&gt;Initial, Inherit, Unset, and Revert&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.flexboxpatterns.com&#34;&gt;Flexbox Patterns&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://econsultancy.com/blog/67466-why-do-chinese-websites-look-so-busy&#34;&gt;Why do Chinese websites look so busy?&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;engineering-culture&#34;&gt;Engineering culture&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://edmundkirwan.com/general/crack.html&#34;&gt;Bugs and cracks&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/what-starbucks-can-teach-us-about-software-scalabi&#34;&gt;What Starbucks Can Teach Us About Software Scalability&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://bravenewgeek.com/shit-rolls-downhill/&#34;&gt;Shit Rolls Downhill&lt;/a&gt; - Brave New Geek&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/minibooks/emag-designing-culture&#34;&gt;InfoQ eMag: Designing Your Culture&lt;/a&gt;&lt;br /&gt;
-Some interesting things:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Sahota&lt;/strong&gt;: &amp;ldquo;Bottom-up change is a myth.&lt;br /&gt;
-Top-down is where it’s at. In every single client I have worked with, the bottleneck is the leader.
-For real change, leaders must lead. It starts with their behaviour. This creates an upper bound on what is possible.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;1 - Awareness: A culture model creates a language for talking about culture and creates an awareness of where we are now.&lt;br /&gt;
-2 - Desire: Case studies help people understand what is possible so they dream of a better future culture.&lt;br /&gt;
-3 - Ability: We use techniques such as reverse-seniority reporting, leading through context, delegation poker, etc.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Why is it so difficult for organizations to change their command-and-control culture into a culture that supports agile?&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;PP, PG, and NN:&lt;/strong&gt; &amp;ldquo;This is a great question. The data shows that cultures of trust and ownership are highly productive (check out the work done by the Great Place to Work Institute).
-Most leaders don’t know how to create a culture of trust and ownership. All they know is command and control. It is the way we were raised and often the behavior that got us into senior positions.
-In some cases, it is how we were rewarded: by being the ones who knew everything and could tell everyone else exactly how to do their jobs.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PP, PG, and NN:&lt;/strong&gt; We believe and have found that great things happen when there is a culture of trust and ownership.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What happens when a leader trusts a team that is not capable yet of taking ownership?&lt;/strong&gt;&lt;br /&gt;
-(see answer in document)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How can leaders address situations where teams might fail?&lt;/strong&gt;&lt;br /&gt;
-(see answer in document)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.trustartist.com/2012/09/20/krismaporganisation-persona/&#34;&gt;KrisMap&lt;/a&gt; looks intersting.&lt;br /&gt;
-Also let&amp;rsquo;s take a look at &lt;a href=&#34;http://agileforall.com/laloux-cultural-model-and-agile-adoption/&#34;&gt;Laloux culture model&lt;/a&gt;, there is also &lt;a href=&#34;https://vimeo.com/121517508&#34;&gt;a video&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.ndepend.com/the-myth-of-the-software-rewrite/&#34;&gt;The Myth of the Software Rewrite&lt;/a&gt;&lt;br /&gt;
-Interesting but what&amp;rsquo;s the cost of &amp;ldquo;lots of automated tests and then work on refactoring&amp;rdquo;. Wouldn&amp;rsquo;t be cheaper/faster to just start from scratch ?&lt;br /&gt;
-Follow-up: &lt;a href=&#34;https://dzone.com/articles/software-rewrite-the-chase-2&#34;&gt;Software Rewrite: The Chase&lt;/a&gt;&lt;br /&gt;
-I agree, the &amp;ldquo;awful chase&amp;rdquo; is a good point. This is why it is critical, in case you chose a rewrite, to be very clear about what you&amp;rsquo;re trying to achieve, and what you won&amp;rsquo;t do straight away.
-I disagree regarding the &amp;ldquo;path [that] leads to code of the same maintainability&amp;rdquo;. Teams have learn new methodologies and practices since the original code base. It is likely code will be of better quality. But developers will have to be carreful about that too.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;software-engineering&#34;&gt;Software engineering&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2016/04/saving-13-million-computational-minutes.html&#34;&gt;Saving 13 Million Computational Minutes per Day with Flame Graphs&lt;/a&gt; - The Netflix Tech Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.dantup.com/2016/04/have-software-developers-given-up/&#34;&gt;Have Software Developers Given Up?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://edmundkirwan.com/general/80percent.html&#34;&gt;The 80% rule&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://codeascraft.com/2016/04/19/how-etsy-formats-currency/&#34;&gt;How Etsy Formats Currency&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/javascript-mvvm-youre-probably-doing-it-wrong&#34;&gt;JavaScript MVVM — You’re (Probably) Doing it Wrong&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2016/03/fragile-automation/&#34;&gt;Fragile Automation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
