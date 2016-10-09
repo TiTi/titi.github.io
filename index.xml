@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi! I&#39;m Thibault ROHMER</title>
-    <link>https://titi.github.io/</link>
+    <link>https://titi.github.io/index.xml</link>
     <description>Recent content on Hi! I&#39;m Thibault ROHMER</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
