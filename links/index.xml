@@ -7,8 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Wed, 21 Sep 2016 00:02:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Oct 2016 15:10:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #138 - Sunday fun</title>
+      <link>https://titi.github.io/links/Feed-138/</link>
+      <pubDate>Sun, 09 Oct 2016 15:10:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-138/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.gnu.org/fun/jokes/unix.errors.html&#34;&gt;Unix Error Messages&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.commitstrip.com/wp-content/uploads/2016/09/Strip-Sue-le-fil-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.commitstrip.com/en/2016/09/22/ctrl-control/&#34;&gt;Source: CommitStrip - CTRL control&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.smbc-comics.com/comics/1475937366-20161008.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.smbc-comics.com/comic/punishment&#34;&gt;Source: Saturday Morning Breakfast Cereal - Punishment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Japan Creates Amazing LED Basketball Court For Pro League:
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/lEAdLLmvP-A&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #137</title>
@@ -736,68 +757,6 @@ I disagree regarding the &amp;ldquo;path [that] leads to code of the same mainta
 &lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/javascript-mvvm-youre-probably-doing-it-wrong&#34;&gt;JavaScript MVVM — You’re (Probably) Doing it Wrong&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2016/03/fragile-automation/&#34;&gt;Fragile Automation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #123</title>
-      <link>https://titi.github.io/links/Feed-123/</link>
-      <pubDate>Sun, 24 Apr 2016 23:30:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-123/</guid>
-      <description>
-
-&lt;h1 id=&#34;scaling&#34;&gt;Scaling&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@producthunt/inside-the-mind-of-aaron-levie-founder-and-ceo-of-box-134ae1c369e1&#34;&gt;Inside the Mind of Aaron Levie: Founder and CEO of Box&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/linkedin-architecture-stack&#34;&gt;Lessons from Building and Scaling LinkedIn&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://allankelly.blogspot.fr/2015/10/software-has-diseconomies-of-scale-not.html&#34;&gt;Software has diseconomies of scale - not economies of scale&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;reliability&#34;&gt;Reliability&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.wired.com/2016/04/google-ensures-services-almost-never-go/&#34;&gt;Here’s How Google Makes Sure It (Almost) Never Goes Down&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bus_factor&#34;&gt;The Bus factor&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.baselinemag.com/careers/slideshows/confessions-of-a-database-administrator.html&#34;&gt;Confessions of a Database Administrator&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;code-reviews&#34;&gt;Code Reviews&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/code-reviews-can-make-or-break-your-team-a3cfdcc15de1#.s2xh7z1zd&#34;&gt;Code Reviews Can Make or Break Your Team&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction&#34;&gt;The Wrong Abstraction&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;give-up&#34;&gt;Give up&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techcrunch.com/2016/04/07/devops-is-dead-long-live-devops/&#34;&gt;Managed services killed DevOps&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/giving-up-on-tdd-1&#34;&gt;Giving Up On TDD&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;chrome&#34;&gt;Chrome&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://v8project.blogspot.fr/2016/04/jank-busters-part-two-orinoco.html&#34;&gt;Jank Busters Part Two: Orinoco&lt;/a&gt; - V8 JavaScript Engine&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://googlechromereleases.blogspot.fr/2016/04/stable-channel-update_13.html&#34;&gt;Chrome 50.0.2661.75 Stable Channel Update&lt;/a&gt; - Security Fixes and Rewards&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2016/04/scroll-anchoring&#34;&gt;Experiment Time: Scroll Anchoring&lt;/a&gt; - Google Developers&lt;/p&gt;
-
-&lt;h1 id=&#34;technical-debt&#34;&gt;Technical Debt&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.ontechnicaldebt.com/uncategorized/the-path-from-technical-debt-to-bad-code/&#34;&gt;The Path from Technical Debt to Bad Code&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://marketing.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring&#34;&gt;Paying Technical Debt - How To Rescue Legacy Code through Refactoring&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/avoid-remove-technical-debt&#34;&gt;Crushed by Technical Debt?&lt;/a&gt; - Talk by Scott W. Ambler&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/application-rebuilds&#34;&gt;The Challenge of Application Rebuilds&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;windows&#34;&gt;Windows&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.nullspace.io/batch.html&#34;&gt;How bad is the Windows command line really?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://bitquabit.com/&#34;&gt;Separate, support, serve&lt;/a&gt; (about Microsoft choices)&lt;/p&gt;
 </description>
     </item>
     
