@@ -7,8 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Mon, 31 Oct 2016 22:27:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 15 Nov 2016 23:58:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #141</title>
+      <link>https://titi.github.io/links/Feed-141/</link>
+      <pubDate>Tue, 15 Nov 2016 23:58:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-141/</guid>
+      <description>
+
+&lt;h1 id=&#34;hiring&#34;&gt;Hiring&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.codingame.com/blog/en/2016/11/10-characteristics-of-excellent.html&#34;&gt;10 characteristics of an excellent software developer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mattermark.com/the-one-method-ive-used-to-eliminate-bad-tech-hires/&#34;&gt;The One Method I’ve Used to Eliminate Bad Tech Hires&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;engineering-mistakes&#34;&gt;Engineering mistakes&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.fzd3tnpwn&#34;&gt;10 Modern Software Over-Engineering Mistakes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;http://www.geek-directeur-technique.com/2016/08/27/les-pompiers-pyromanes&#34;&gt;Les pompiers pyromanes&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;forms&#34;&gt;Forms&lt;/h1&gt;
+
+&lt;p&gt;[FR] Très bonne présentation de Stéphanie Walter sur les formulaires mobiles, pleins de bons conseils !&lt;br /&gt;
+&lt;a href=&#34;https://blog.stephaniewalter.fr/aidez-moi-a-remplir-vos-formulaires-mobile/&#34;&gt;Aidez-moi à remplir vos formulaires mobile ! – Blend Web Mix 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;keep-scrolling&#34;&gt;Keep scrolling&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.feistyduck.com/ssl-tls-and-pki-history/&#34;&gt;SSL/TLS and PKI History&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Really long article but quite awesome explanation!&lt;br /&gt;
+&lt;a href=&#34;http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/&#34;&gt;Paul Ford: What Is Code? | Bloomberg&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;docker-is-a-mess&#34;&gt;Docker is a mess&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://thehftguy.wordpress.com/2016/11/01/docker-in-production-an-history-of-failure/&#34;&gt;Docker in Production: A History of Failure&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;scary-maybe-not-so-scary&#34;&gt;Scary, maybe not so scary&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://motherboard.vice.com/read/after-20-minutes-of-listening-new-adobe-tool-can-make-you-say-anything&#34;&gt;After 20 Minutes of Listening, New Adobe Tool Can Make You Say Anything&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://arstechnica.co.uk/information-technology/2016/10/google-ai-neural-network-cryptography/&#34;&gt;Google AI invents its own cryptographic algorithm; no one knows how it works&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #140</title>
@@ -672,89 +716,6 @@ Stable Channel Update&lt;/a&gt;&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://fr.slideshare.net/_thefamily/bla-blacar-startupculturethefamilly&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #126</title>
-      <link>https://titi.github.io/links/Feed-126/</link>
-      <pubDate>Mon, 23 May 2016 22:30:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-126/</guid>
-      <description>
-
-&lt;h1 id=&#34;constructors&#34;&gt;Constructors&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/constructor-vs-getter-a-better-way&#34;&gt;Constructor vs. Getter: A Better Way&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/beautiful-constructors&#34;&gt;Beautiful Constructors Look Like This&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/stateful-or-stateless-classes&#34;&gt;Object-Oriented Design Decisions: Stateful or Stateless Classes?&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;new-api&#34;&gt;New API&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2016/04/credential-management-api&#34;&gt;Streamlining the Sign-in Flow Using Credential Management API&lt;/a&gt; - Google Developers&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blogs.dropbox.com/tech/2016/05/enabling-http2-for-dropbox-web-services-experiences-and-observations/&#34;&gt;Enabling HTTP/2 for Dropbox web services: experiences and observations&lt;/a&gt; - Dropbox Tech Blog&lt;/p&gt;
-
-&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://v8project.blogspot.fr/2016/04/es6-es7-and-beyond.html&#34;&gt;ES6, ES7, and beyond&lt;/a&gt; - V8 JavaScript Engine&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript&#34;&gt;Anders Hejlsberg: Introducing TypeScript&lt;/a&gt; - Channel 9&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@basarat/typescript-won-a4e0dfde4b08#.wd1psgw5z&#34;&gt;TypeScript won&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://geekforbrains.com/post/after-a-year-of-nodejs-in-production&#34;&gt;After a year of using NodeJS in production&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dev.opera.com/blog/timing-attacks/&#34;&gt;Front-End Performance: The Dark Side&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;scrum&#34;&gt;Scrum&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/daily-matrix-revitalizing-standup-henrik-rosenquist&#34;&gt;Daily Matrix - Revitalizing Standup&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@MagnusDahlgren/5-things-ive-learned-about-scrum-the-hard-way-8f023833aefc#.mr5oheheh&#34;&gt;5 things I’ve learned about Scrum the hard way&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.eylean.com/blog/2016/04/the-safe-way-to-scale-agile/&#34;&gt;The SAFe Way To Scale Agile&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;improve&#34;&gt;Improve&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://spectrum.ieee.org/static/lessons-from-a-decade-of-it-failures&#34;&gt;Lessons From a Decade of IT Failures&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.fullstory.com/2016/04/code-reviews-arent-just-for-catching-bugs/&#34;&gt;What we learned from Google: code reviews aren’t just for catching bugs&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jamesarcher.me/design-like-an-astronaut/&#34;&gt;Design like an Astronaut&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.gsb.stanford.edu/insights/effective-people-think-simply&#34;&gt;Effective People Think Simply&lt;/a&gt;&lt;br /&gt;
-&amp;gt; &amp;ldquo;the stopping rule is the hardest to learn&amp;rdquo;
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/TfPMHkYaYCo&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;h1 id=&#34;that-s-a-fail&#34;&gt;That&amp;rsquo;s a fail&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://news.softpedia.com/news/medical-equipment-crashes-during-heart-procedure-because-of-antivirus-scan-503642.shtml&#34;&gt;Medical Equipment Crashes During Heart Procedure Because of Antivirus Scan&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/the-sleepy-user-agent/&#34;&gt;The Sleepy User Agent&lt;/a&gt; - CloudFlare blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.wired.com/2015/10/x-ray-scans-expose-an-ingenious-chip-and-pin-card-hack/&#34;&gt;X-Ray Scans Expose an Ingenious Chip-and-Pin Card Hack&lt;/a&gt; - WIRED&lt;/p&gt;
-
-&lt;h1 id=&#34;databases&#34;&gt;Databases&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://vladmihalcea.com/2014/01/05/a-beginners-guide-to-acid-and-database-transactions/&#34;&gt;A beginner’s guide to ACID and database transactions&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://akorotkov.github.io/blog/2016/05/09/scalability-towards-millions-tps/&#34;&gt;PostgreSQL Scalability: Towards Millions TPS&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://vladmihalcea.com/2014/09/14/a-beginners-guide-to-database-locking-and-the-lost-update-phenomena/&#34;&gt;A beginner’s guide to database locking and the lost update phenomena&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;design&#34;&gt;Design&lt;/h1&gt;
-
-&lt;p&gt;Great article about the hamburger menu. Basically, a lot of users simply miss it. Hidden menus = less traffic.&lt;br /&gt;
-&lt;a href=&#34;http://jamesarcher.me/the-hamburger-menu/&#34;&gt;The Hamburger Menu Doesn&amp;rsquo;t Work&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://scottjensen.design/2016/04/designing-an-alternative-to-the-hamburger-menu/&#34;&gt;Designing an Alternative to the Hamburger Menu&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.prototypr.io/6-pillars-of-ui-design-80fe255f5091#.j8b1stmy6&#34;&gt;6 Pillars of UI Design&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
