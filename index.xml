@@ -7,8 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 27 Nov 2016 23:45:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 23:55:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #143 - Sunday fun</title>
+      <link>https://titi.github.io/links/Feed-143/</link>
+      <pubDate>Sun, 01 Jan 2017 23:55:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-143/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.commitstrip.com/wp-content/uploads/2016/10/Strip-S%C3%A9curit%C3%A9-Admin-password-finalenglish-2.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.commitstrip.com/en/2016/10/14/good-old-adminpassword/&#34;&gt;Source: CommitStrip - Good old admin/password&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.freecodecamp.com/apple-to-developers-there-is-no-escape-298b63c2a1d8#.byp3pw4yw&#34;&gt;Apple to developers: There is no escape.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition&#34;&gt;FizzBuzz Enterprise Edition&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Basic Human Needs:&lt;br /&gt;
+&lt;img src=&#34;https://ih0.redbubble.net/image.23056565.0513/sticker,375x360.u4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/things-programmers-say?edition=154263&#34;&gt;Things Programmers Say&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #142</title>
@@ -597,82 +617,6 @@ Interesting answer: &lt;a href=&#34;https://dzone.com/articles/on-ubers-choice-o
 &lt;p&gt;&lt;a href=&#34;http://codeahoy.com/2016/05/28/why-do-developers-love-music-so-much/&#34;&gt;Why Do Developers Love Music so Much?&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/&#34;&gt;My condolences, you’re now the maintainer of a popular open source project&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #128</title>
-      <link>https://titi.github.io/links/Feed-128/</link>
-      <pubDate>Mon, 13 Jun 2016 21:50:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-128/</guid>
-      <description>
-
-&lt;h1 id=&#34;improve&#34;&gt;Improve&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://people.apache.org/~fhanik/kiss.html&#34;&gt;The Kiss Principle&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://codeahoy.com/2016/06/03/write-less-code/&#34;&gt;Write Less Code&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.go.cd/2016/03/24/how-to-avoid-brittle-code/&#34;&gt;How to Avoid Brittle Code&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/technical-leadership-in-software-companies&#34;&gt;Technical Leadership in Software Companies&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/coding-the-architecture-2&#34;&gt;Coding the Architecture&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/5-things-nobody-tells-you-about-devops&#34;&gt;5 Things Nobody Tells You About DevOps &lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.2ality.com/2016/05/six-nifty-es6-tricks.html&#34;&gt;Six nifty ES6 tricks&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/AllThingsSmitty/must-watch-javascript&#34;&gt;Must-watch talks about JavaScript&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hashnode.com/post/whats-the-difference-between-polymers-shadow-dom-and-reacts-virtual-dom-cionyl7rs05lp2s53yb91y3x9/answer/cionzakgh033kc853rxd0v1ju&#34;&gt;What&amp;rsquo;s the difference between Polymer&amp;rsquo;s Shadow DOM and React&amp;rsquo;s Virtual DOM?&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;error-tracking&#34;&gt;Error tracking&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hacks.mozilla.org/2016/06/helping-web-developers-with-javascript-errors/&#34;&gt;Helping web developers with JavaScript errors&lt;/a&gt; - Mozilla Hacks&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@jico/the-fine-art-of-javascript-error-tracking-bc031f24c659#.c6bsws6an&#34;&gt;The Fine Art of JavaScript Error Tracking&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://djcordhose.github.io/flow-vs-typescript/2016_hhjs.html#/&#34;&gt;Flow vs TypeScript&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.jquery.com/2016/06/09/jquery-3-0-final-released/&#34;&gt;jQuery 3.0 Final Released!&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://labsblog.f-secure.com/2016/05/16/bye-bye-flash-google-chrome-plans-to-go-html5-by-default/&#34;&gt;Bye Bye, Flash! Google Chrome Plans To Go HTML5 By Default&lt;/a&gt; - F-Secure Lab&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2016/06/07/technology/if-mark-zuckerberg-can-be-a-hacking-victim-so-can-you.html&#34;&gt;If Mark Zuckerberg Can Be Hacked on Twitter, So Can You&lt;/a&gt; - The New York Times&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://labsblog.f-secure.com/2016/05/26/cve-security-vulnerability-data-pr0n/&#34;&gt;CVE Security Vulnerability Data Pr0n&lt;/a&gt; - F-Secure Lab&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://googlechromereleases.blogspot.fr/2016/06/stable-channel-update.html&#34;&gt;Chrome 51.0.2704.79 Stable Channel Update&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://teletext.zaibatsutel.net/post/145370716258/deadupdate-or-how-i-learned-to-stop-worrying-and&#34;&gt;DeadUpdate; Or, How I learned to stop worrying and execute arbitrary executables from HTTP&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;css&#34;&gt;CSS&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hacks.mozilla.org/2016/05/css-coding-techniques/&#34;&gt;CSS coding techniques&lt;/a&gt; - Mozilla Hacks &amp;#8211; the Web developer blog&lt;/p&gt;
-
-&lt;h1 id=&#34;linux&#34;&gt;Linux&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://linuxjourney.com/&#34;&gt;Linux Journey - Learn the ways of Linux-fu, for free.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/commandline/2016/06/08/tmux-support-arrives-for-bash-on-ubuntu-on-windows/&#34;&gt;Tmux support arrives for Bash on Ubuntu on Windows&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/wsl/2016/06/08/wsl-system-calls/&#34;&gt;Windows Subsystem for Linux (WSL) System Calls&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/using-http-2-server-push-with-php/&#34;&gt;Using HTTP/2 Server Push with PHP&lt;/a&gt; - CloudFlare&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.theregister.co.uk/2016/05/19/mads_torgersen_and_dustin_campbell_on_the_future_of_c/&#34;&gt;Mads Torgersen and Dustin Campbell on the future of C#&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://arstechnica.com/cars/2016/05/four-hundred-miles-with-teslas-autopilot-forced-me-to-trust-the-machine/&#34;&gt;Four hundred miles with Tesla’s autopilot forced me to trust the machine&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&#34;genericon genericon-youtube&#34;&gt;&lt;/span&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=tUQQQUM1bvs&#34;&gt;Mapping Our Cultural Heritage in 3D&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
