@@ -7,8 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 01 Jan 2017 23:55:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jan 2017 00:20:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #144</title>
+      <link>https://titi.github.io/links/Feed-144/</link>
+      <pubDate>Mon, 02 Jan 2017 00:20:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-144/</guid>
+      <description>
+
+&lt;h1 id=&#34;new-features&#34;&gt;New features&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blogs.dropbox.com/tech/2016/11/annotations-on-document-previews/&#34;&gt;Annotations on Document Previews&lt;/a&gt; - Dropbox Tech Blog&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ascii.textfiles.com/archives/5089&#34;&gt;A Simple Explanation: VLC.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;relationships&#34;&gt;Relationships&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/lifeandstyle/2016/nov/25/how-to-be-a-good-listener-the-experts-guide&#34;&gt;How to be a good listener: the experts&amp;rsquo; guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.scrum.org/development-team-evolution/&#34;&gt;Evolution of the Development Team&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;performance&#34;&gt;Performance&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/black-friday-and-cyber-monday-performance-report-2?edition=155252&#34;&gt;Black Friday and Cyber Monday Performance Report 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://v8project.blogspot.fr/2016/12/how-v8-measures-real-world-performance.html&#34;&gt;How V8 measures real-world performance&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;future&#34;&gt;Future&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.microsoft.com/cognitive-services/&#34;&gt;Microsoft Cognitive Services&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.luis.ai/&#34;&gt;Language Understanding Intelligent Service (LUIS)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://raygun.com/blog/2016/12/visual-studio-2017-rc-review/&#34;&gt;Visual Studio 2017 RC review: a look at what’s new and improved&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;rest&#34;&gt;REST&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/top-5-rest-api-security-guidelines?edition=245486&#34;&gt;Top 5 REST API Security Guidelines&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/refcardz/rest-foundations-restful&#34;&gt;Foundations of RESTful Architecture&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://it.slashdot.org/story/16/12/08/0011230/adobe-flash-responsible-for-six-of-the-top-10-bugs-used-by-exploit-kits-in-2016&#34;&gt;Adobe Flash Responsible For Six of the Top 10 Bugs Used By Exploit Kits In 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://diracdeltas.github.io/blog/surveillance/&#34;&gt;surveillance, whistleblowing, and security engineering&lt;/a&gt; (about Yahoo backdoor)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.zdnet.com/article/stop-saying-things-were-hacked-when-they-werent/#ftag=RSSbaffb68&#34;&gt;Stop calling everything a &amp;ldquo;hack&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.zdnet.com/article/israeli-firm-cellebrite-grab-phone-data-seconds/&#34;&gt;Leaked files show what a Cellebrite phone extraction report looks like&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.zdnet.com/article/us-government-subcontractor-leaks-confidential-military-personnel-data/&#34;&gt;US government subcontractor leaks confidential military personnel data&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sklivvz.com/posts/two-scary-signs-that-a-site-is-unsafe&#34;&gt;Two scary signs that a site is unsafe&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #143 - Sunday fun</title>
@@ -565,58 +621,6 @@ Interesting answer: &lt;a href=&#34;https://dzone.com/articles/on-ubers-choice-o
 
 &lt;p&gt;&lt;a href=&#34;http://imgur.com/ESDRFJR&#34;&gt;WTF Yahoo!&lt;/a&gt;&lt;br /&gt;
 &lt;img src=&#34;http://i.imgur.com/ESDRFJR.jpg&#34; alt=&#34;WTF Yahoo!&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #129</title>
-      <link>https://titi.github.io/links/Feed-129/</link>
-      <pubDate>Thu, 21 Jul 2016 22:55:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-129/</guid>
-      <description>
-
-&lt;h1 id=&#34;work&#34;&gt;Work&lt;/h1&gt;
-
-&lt;p&gt;&lt;span class=&#34;genericon genericon-youtube&#34;&gt;&lt;/span&gt; &lt;a href=&#34;https://www.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify&#34;&gt;As work gets more complex, 6 rules to simplify&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/the-mission/multitasking-is-killing-your-brain-79104e62e930#.kq7hhe9ha&#34;&gt;Multitasking is Killing Your Brain&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hbr.org/2016/06/the-secrets-of-great-teamwork&#34;&gt;The Secrets of Great Teamwork&lt;/a&gt; - Harvard Business Review&lt;/p&gt;
-
-&lt;h1 id=&#34;scrum&#34;&gt;Scrum&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://lmsgoncalves.com/2015/01/04/scrum-antipatterns-scrummaster/&#34;&gt;8 ScrumMasters Antipatterns in Scrum&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.mountaingoatsoftware.com/blog/incentives-and-deterrents-for-starting-daily-scrums-on-time&#34;&gt;Incentives and Deterrents for Starting Daily Scrums On Time&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.spikesandstories.com/tips-to-be-a-successful-scrum-master/&#34;&gt;Tips To Be a Successful Scrum Master&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://plans-for-retrospectives.com&#34;&gt;Retromat&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;tls-http2&#34;&gt;TLS / HTTP2&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/optimizing-tls-over-tcp-to-reduce-latency/&#34;&gt;Optimizing TLS over TCP to reduce latency&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://jaxenter.com/http2-will-make-the-internet-faster-so-why-the-slow-adoption-127081.html&#34;&gt;HTTP/2 will make the Internet faster. So why the slow adoption?&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;failure&#34;&gt;Failure&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/a-post-mortem-on-this-mornings-incident/&#34;&gt;A post-mortem on this morning&amp;rsquo;s incident&lt;/a&gt; - CloudFlare blog&lt;br /&gt;
-&lt;a href=&#34;http://www.theregister.co.uk/2016/06/20/telia_engineer_blamed_massive_net_outage/&#34;&gt;Telia engineer error to blame for massive net outage&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A propos du projet d’antivirus « souverain » :
-[FR] &lt;a href=&#34;http://news0ft.blogspot.fr/2016/06/le-gachis.html&#34;&gt;Le gâchis&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
-
-&lt;p&gt;&lt;span class=&#34;genericon genericon-youtube&#34;&gt;&lt;/span&gt; &lt;a href=&#34;http://www.hanselman.com/blog/VIDEOHowToRunLinuxAndBashOnWindows10AnniversaryUpdate.aspx&#34;&gt;VIDEO: How to run Linux and Bash on &amp;ldquo;Windows 10 Anniversary Update&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@housecor/i-dont-do-q-a-at-the-end-of-conference-talks-here-s-why-ce06188008e#.v12d5qt9w&#34;&gt;I Don’t Do Q&amp;amp;A at the End of Conference Talks. Here’s Why.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://codeahoy.com/2016/05/28/why-do-developers-love-music-so-much/&#34;&gt;Why Do Developers Love Music so Much?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/&#34;&gt;My condolences, you’re now the maintainer of a popular open source project&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
