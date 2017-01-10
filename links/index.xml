@@ -7,8 +7,48 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Mon, 02 Jan 2017 00:20:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jan 2017 23:30:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #145</title>
+      <link>https://titi.github.io/links/Feed-145/</link>
+      <pubDate>Tue, 10 Jan 2017 23:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-145/</guid>
+      <description>
+
+&lt;h1 id=&#34;profiles&#34;&gt;Profiles&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/are-you-a-modern-software-engineer&#34;&gt;Are You a Modern Software Engineer?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.scrum.org/team-ownership-done/&#34;&gt;Getting to Done: Encouraging Team Ownership&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;time&#34;&gt;Time&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://m.signalvnoise.com/whats-an-hour-d5966ee5ad7d#.rsae2smbj&#34;&gt;What’s an hour?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.inc.com/yoram-solomon/why-do-you-get-your-most-creative-ideas-in-the-shower.html&#34;&gt;Why Do You Get Your Most Creative Ideas in The Shower?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;updates&#34;&gt;Updates&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html&#34;&gt;Chrome 55&lt;/a&gt; - Once again lots of Security Fixes and Rewards&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/commandline/2017/01/04/rumors-of-cmds-death-have-been-greatly-exaggerated/&#34;&gt;Rumors of Cmd’s death have been greatly exaggerated&lt;/a&gt; - Windows Command Line Tools For Developers&lt;/p&gt;
+
+&lt;h1 id=&#34;product-psychology&#34;&gt;Product psychology&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/startup-grind/cognitive-bias-ad5f9fe7f59b#.fy8kaqup8&#34;&gt;The Irrational User&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;reliable-systems&#34;&gt;Reliable systems&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/considerations-for-building-reliable-systems-brave?edition=261711&#34;&gt;Considerations for Building Reliable Systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/clean-code-principles?edition=261715&#34;&gt;Clean Code Principles&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;http://gb-prod.fr/2016/06/12/artisan-developpeur.html&#34;&gt;Artisan développeur&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #144</title>
@@ -597,30 +637,6 @@ Interesting answer: &lt;a href=&#34;https://dzone.com/articles/on-ubers-choice-o
 &lt;p&gt;&lt;a href=&#34;https://www.troyhunt.com/the-cobra-effect-that-is-disabling/&#34;&gt;The “Cobra Effect” that is disabling paste on password fields&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://jgthms.com/web-design-in-4-minutes/&#34;&gt;Web Design in 4 minutes&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #130 - Monday fun</title>
-      <link>https://titi.github.io/links/Feed-130/</link>
-      <pubDate>Mon, 25 Jul 2016 23:30:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-130/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://girlswhocode.com/girlsdocode/&#34;&gt;Why can’t girls code?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://megaprocessor.com/&#34;&gt;The Megaprocessor &amp;hellip;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://unicodepowersymbol.com/we-did-it-how-a-comment-on-hackernews-lead-to-4-½-new-unicode-characters/&#34;&gt;We did it! How a comment on HackerNews lead to 4 ½ new Unicode characters&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.numerama.com/sciences/179439-lillusion-de-lannee-2016-transforme-carres-cercles.html&#34;&gt;Illusion of the year: Ambiguous Cylinder&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://qz.com/726338/the-code-that-took-america-to-the-moon-was-just-published-to-github-and-its-like-a-1960s-time-capsule/&#34;&gt;The code that took America to the moon was just published to GitHub, and it’s like a 1960s time capsule&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Copy and paste this into google:&lt;br /&gt;
-&lt;a href=&#34;http://imgur.com/r/pics/R9eJUtg&#34;&gt;5 + (-sqrt(1-x^2-(y-abs(x))^2))&lt;em&gt;cos(30&lt;/em&gt;((1-x^2-(y-abs(x))^2))), x is from -1 to 1, y is from -1 to 1.5, z is from 1 to 6&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://imgur.com/ESDRFJR&#34;&gt;WTF Yahoo!&lt;/a&gt;&lt;br /&gt;
-&lt;img src=&#34;http://i.imgur.com/ESDRFJR.jpg&#34; alt=&#34;WTF Yahoo!&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
