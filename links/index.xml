@@ -7,8 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Tue, 10 Jan 2017 23:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jan 2017 22:10:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #146</title>
+      <link>https://titi.github.io/links/Feed-146/</link>
+      <pubDate>Sun, 29 Jan 2017 22:10:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-146/</guid>
+      <description>
+
+&lt;h1 id=&#34;product-ethics&#34;&gt;Product &amp;amp; Ethics&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uxstudioteam.com/ux-blog/product-failure/&#34;&gt;The Single Biggest Reason Most Products Fail&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hbr.org/2017/01/true-leaders-believe-dissent-is-an-obligation&#34;&gt;True Leaders Believe Dissent Is an Obligation&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.zdnet.com/article/st-jude-releases-security-patches-for-vulnerable-cardiac-devices/#ftag=RSSbaffb68&#34;&gt;St. Jude Medical releases security patches for vulnerable cardiac devices&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/the-switch/wp/2013/08/18/heres-what-you-find-when-you-scan-the-entire-internet-in-an-hour/&#34;&gt;Here’s what you find when you scan the entire Internet in an hour&lt;/a&gt; - The Washington Post&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/cloudflares-transparency-report-for-second-half-2016-and-an-additional-disclosure-for-2013-2/&#34;&gt;Cloudflare’s Transparency Report for Second Half 2016 and an Additional Disclosure for 2013&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;chrome&#34;&gt;Chrome&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://v8project.blogspot.fr/2017/01/speeding-up-v8-regular-expressions.html&#34;&gt;Speeding up V8 Regular Expressions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html&#34;&gt;Chrome 56&lt;/a&gt; - 51 security fixes&lt;/p&gt;
+
+&lt;h1 id=&#34;storage&#34;&gt;Storage&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://code.flickr.net/2017/01/05/a-year-without-a-byte/&#34;&gt;A Year Without a Byte&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://githubengineering.com/moving-persistent-data-out-of-redis/&#34;&gt;Moving persistent data out of Redis&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
+
+&lt;h1 id=&#34;code&#34;&gt;Code&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/design-patterns-the-builder-pattern&#34;&gt;Design Patterns: The Builder Pattern&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://javarevisited.blogspot.fr/2017/01/Top-10-excuses-programmers-gives-to-avoid-unit-testing.html&#34;&gt;Top 10 Excuses Programmers Gives to Avoid Unit Testing&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;the-2016-git-retrospective&#34;&gt;The 2016 Git Retrospective&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/a-2016-git-retrospective-worktrees&#34;&gt;The 2016 Git Retrospective: Worktrees&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/the-2016-git-retrospective-diffs&#34;&gt;The 2016 Git Retrospective: Diffs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/the-2016-git-retrospective-git-lfs&#34;&gt;The 2016 Git Retrospective: Git LFS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/the-2016-git-retrospective-rebase&#34;&gt;The 2016 Git Retrospective: Rebase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/the-2016-git-retrospective-submodules&#34;&gt;The 2016 Git Retrospective: Submodules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/the-2016-git-retrospective-stash&#34;&gt;The 2016 Git Retrospective: Stash&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #145</title>
@@ -581,62 +634,6 @@ Got the same kind of behavior in the DevTools debugger with closures: variable s
 
 &lt;p&gt;&amp;ldquo;Take all that money you would have spent going back into the code and laboring away to get unit testing working and code coverage up, and spend that money on a new, replacement system, one that emulates and improves your current system.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #131</title>
-      <link>https://titi.github.io/links/Feed-131/</link>
-      <pubDate>Thu, 04 Aug 2016 23:55:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-131/</guid>
-      <description>
-
-&lt;h1 id=&#34;a-step-back-failure-unhappiness-surge-or-pivot&#34;&gt;A step back: failure, unhappiness, surge or pivot?&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://allankelly.blogspot.fr/2016/07/surge-or-pivot-notes-on-failure.html&#34;&gt;Surge or pivot? - notes on failure&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.daedtech.com/human-cost-tech-debt/&#34;&gt;The Human Cost of Tech Debt&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;culture&#34;&gt;Culture&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.strategyzer.com/posts/2016/7/10/dont-let-your-company-culture-just-happen&#34;&gt;Don’t Let Your Company Culture Just Happen&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;What is culture?
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/ePIbhC2Md-o?t=3m15s&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;h1 id=&#34;business&#34;&gt;Business&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.mindtheproduct.com/2016/07/building-happy-product-teams-like-heist-teams-laura-klein/&#34;&gt;Building Happy Product Teams like Heist Teams&lt;/a&gt;  by Laura Klein&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/everyone-is-not-a-software-company&#34;&gt;Everyone Is Not a Software Company&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/twelve-mistakes-in-agile-manifesto&#34;&gt;12 Mistakes in Agile Manifesto&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/role-of-architect-in-scrum-team&#34;&gt;The Role of an Architect on a Scrum Team&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;technical-improvment&#34;&gt;Technical improvment&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://eng.uber.com/mysql-migration/&#34;&gt;Why Uber Engineering Switched from Postgres to MySQL&lt;/a&gt; - Uber Engineering Blog&lt;br /&gt;
-Interesting answer: &lt;a href=&#34;https://dzone.com/articles/on-ubers-choice-of-databases&#34;&gt;MySQL Might Be Right for Uber, but Not for You&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://githubengineering.com/gh-ost-github-s-online-migration-tool-for-mysql/&#34;&gt;gh-ost: GitHub&amp;rsquo;s online schema migration tool for MySQL&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/storage/assets/2635932-queueing-theory.pdf&#34;&gt;Queueing Theory&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://eng.uber.com/building-tincup/&#34;&gt;Rewriting Uber Engineering: The Opportunities Microservices Provide&lt;/a&gt; - Uber Engineering Blog&lt;/p&gt;
-
-&lt;h1 id=&#34;design-ux&#34;&gt;Design &amp;amp; UX&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.uxbooth.com/articles/how-to-check-out-the-competition/&#34;&gt;How to Check Out the Competition&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.troyhunt.com/the-cobra-effect-that-is-disabling/&#34;&gt;The “Cobra Effect” that is disabling paste on password fields&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jgthms.com/web-design-in-4-minutes/&#34;&gt;Web Design in 4 minutes&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
