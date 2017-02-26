@@ -7,8 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Fri, 24 Feb 2017 00:15:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Feb 2017 22:25:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #148</title>
+      <link>https://titi.github.io/links/Feed-148/</link>
+      <pubDate>Sun, 26 Feb 2017 22:25:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-148/</guid>
+      <description>
+
+&lt;h1 id=&#34;tips&#34;&gt;Tips&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/Microsoft/vscode-tips-and-tricks&#34;&gt;VS Code Tips and Tricks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=154264&#34;&gt;Most Useful Linux Command Line Tricks&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;listen-focus-skills&#34;&gt;Listen, Focus &amp;amp; Skills&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mindtheproduct.com/2016/12/importance-listening-customers-david-cancel/&#34;&gt;The Importance of Listening to Your Customers by David Cancel&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://svpg.com/beyond-lean-and-agile/&#34;&gt;Beyond Lean and Agile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.xehhw5bjc&#34;&gt;Let’s stop calling them ‘soft skills’&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;product-development&#34;&gt;Product Development&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.fastcompany.com/3054023/hit-the-ground-running/why-hackathons-are-bad-for-innovation&#34;&gt;Why Hackathons Are Bad For Innovation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mindtheproduct.com/2017/01/10-ways-use-feature-flags/&#34;&gt;10 Ways to Use Feature Flags&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;brilliant-jerks&#34;&gt;Brilliant Jerks&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://retrospective.co/brilliant-jerks-cost-more-than-they-are-worth/&#34;&gt;Brilliant Jerks Cost More Than They Are Worth&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.andycleff.com/2017/01/dealing-w-dysfunctional-behavior-styles/&#34;&gt;Dealing w Dysfunctional Styles of Behavior&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;crisis&#34;&gt;Crisis&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber&#34;&gt;Reflecting on one very, very strange year at Uber&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/a-perfect-storm-mission-critical-application-human?edition=154265&#34;&gt;The Perfect Storm: Gitlab Data Loss&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #147</title>
@@ -569,42 +611,6 @@ Love the picture in picture!&lt;/p&gt;
 A quick and simple service for getting pictures of Star Wars characters for use as placeholders in your designs or code&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.minionsipsum.com&#34;&gt;Minions Ipsum!!&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #133</title>
-      <link>https://titi.github.io/links/Feed-133/</link>
-      <pubDate>Thu, 18 Aug 2016 22:45:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-133/</guid>
-      <description>
-
-&lt;h1 id=&#34;studies&#34;&gt;Studies&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/introduction-to-nosql-in-2016&#34;&gt;Introduction to NoSQL in 2016&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://smartbear.com/lp/ebook/state-of-code-quality-2016/&#34;&gt;The State of Code quality 2016&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;agile&#34;&gt;Agile&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.extremeuncertainty.com/agile-all-about-being-able-change/&#34;&gt;Is agile really all about being able to change?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://okigiveup.net/not-big-fan-of-scrum/&#34;&gt;Why I&amp;rsquo;m not a big fan of Scrum&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;legacy-code&#34;&gt;Legacy code&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/ye-olde-monolith&#34;&gt;Ye Olde Monolith&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/&#34;&gt;Forget Technical Debt — Here&amp;rsquo;s How to Build Technical Wealth&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;teams&#34;&gt;Teams&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@davidjbland/designing-modern-teams-d53516b1e7d8#.4bic6ygnx&#34;&gt;Designing Modern Teams&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;monitoring&#34;&gt;Monitoring&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/lessons-learned-from-one-year-of-monitoring-single&#34;&gt;Lessons Learned From One Year of Monitoring Single Page Applications&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
