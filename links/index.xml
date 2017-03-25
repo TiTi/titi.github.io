@@ -7,8 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 26 Feb 2017 22:25:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2017 20:30:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #149</title>
+      <link>https://titi.github.io/links/Feed-149/</link>
+      <pubDate>Sat, 25 Mar 2017 20:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-149/</guid>
+      <description>
+
+&lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/layered-architecture-is-good&#34;&gt;Layered Architecture Is Good&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/clean-architecture-is-screaming&#34;&gt;Clean Architecture Is Screaming&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://labsblog.f-secure.com/2017/03/09/apple-google-and-the-cia/&#34;&gt;Apple, Google, And The CIA&lt;/a&gt; - F-Secure Lab&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.zdnet.com/article/fda-one-of-many-toothless-dragons-in-medical-device-security-realm/#ftag=RSSbaffb68&#34;&gt;FDA one of many &amp;lsquo;toothless dragons&amp;rsquo; with no will to tackle medical device security&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/security-testing-tools-you-need-to-know-about?edition=245486&#34;&gt;Security Testing Tools You Need To Know About&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://arstechnica.co.uk/security/2017/03/firefox-gets-complaint-for-labeling-unencrypted-login-page-insecure/&#34;&gt;HTTPS laggard complains when Firefox warns of insecure login page&lt;/a&gt; (Hilarity Ensues)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.troyhunt.com/heres-how-i-verify-data-breaches/&#34;&gt;Here&amp;rsquo;s how I verify data breaches&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://haveibeenpwned.com/&#34;&gt;have i been pwned?&lt;/a&gt; &amp;lt;- must see!&lt;/p&gt;
+
+&lt;h1 id=&#34;product-life-cycle&#34;&gt;Product life cycle&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/why-you-should-kill-your-cash-cow-3025fa422711#.um1vrxbcc&#34;&gt;Why you should kill your cash cow&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The only path then, to build a lasting tech company, lies in successfully making the jump from one S-curve to another.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;If you don’t follow the curve, you’re doomed.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Great follow-up: &lt;a href=&#34;https://hackernoon.com/how-to-get-buy-in-for-doing-user-research-9dae432a8ec6#.8z3k9s3y1&#34;&gt;How to Get Stakeholders to Buy Into User Research&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;maintenability&#34;&gt;Maintenability&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/you-get-out-what-put-role-qa-agile-teams-adrian-kerry&#34;&gt;QA in Agile teams: It&amp;rsquo;s something you do, not something you have done&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/secrets-of-maintainable-codebases?edition=276881&#34;&gt;Secrets of Maintainable Codebases&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/how-to-avoid-messy-code?edition=155254&#34;&gt;How to Avoid Messy Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/the-one-thing-every-company-can-do-to-reduce-techn?edition=154263&#34;&gt;The One Thing Every Company Can Do to Reduce Technical Debt&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/so-youve-inherited-a-legacy-codebase?edition=286885&#34;&gt;So, You&amp;rsquo;ve Inherited a Legacy Codebase&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://qz.com/852253/bill-gatess-2016-favorite-books-list-spans-science-management-and-anthropology/&#34;&gt;These are the best books Bill Gates read in 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://istacee.wordpress.com/2013/09/18/kent-beck-i-get-paid-for-code-that-works-not-for-tests/&#34;&gt;Kent Beck : “I get paid for code that works, not for tests”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://theoutline.com/post/1192/google-s-featured-snippets-are-worse-than-fake-news&#34;&gt;Google’s featured snippets are worse than fake news&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #148</title>
@@ -590,27 +652,6 @@ Love the picture in picture!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://legacycode.rocks&#34;&gt;Legacy Code Rocks!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.kevinlondon.com/2016/08/29/two-trains-talk.html&#34;&gt;Two Trains Talk&lt;/a&gt; - Kevin London&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #134 - Monday fun</title>
-      <link>https://titi.github.io/links/Feed-134/</link>
-      <pubDate>Mon, 29 Aug 2016 14:48:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-134/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://www.secretgeek.net/MessageBox_Improvements&#34;&gt;Improvements to the Way MessageBox works, in latest Service Pack for Windows 7, 8 and 8.1&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://thedailywtf.com/articles/the-inner-json-effect&#34;&gt;The Inner JSON Effect&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;filler-text&#34;&gt;Filler text&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://facetheforce.today&#34;&gt;Face the Force Today&lt;/a&gt;&lt;br /&gt;
-A quick and simple service for getting pictures of Star Wars characters for use as placeholders in your designs or code&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.minionsipsum.com&#34;&gt;Minions Ipsum!!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

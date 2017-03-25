@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://titi.github.io/links/Feed-149/</loc>
+    <lastmod>2017-03-25T20:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://titi.github.io/links/Feed-148/</loc>
     <lastmod>2017-02-26T22:25:00+01:00</lastmod>
   </url>
@@ -799,13 +804,13 @@
   
   <url>
     <loc>https://titi.github.io/</loc>
-    <lastmod>2017-02-26T22:25:00+01:00</lastmod>
+    <lastmod>2017-03-25T20:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://titi.github.io/links/</loc>
-    <lastmod>2017-02-26T22:25:00+01:00</lastmod>
+    <lastmod>2017-03-25T20:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
