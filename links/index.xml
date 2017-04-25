@@ -7,8 +7,78 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sat, 25 Mar 2017 20:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 23:20:00 +0100</lastBuildDate>
     <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feed #150</title>
+      <link>https://titi.github.io/links/Feed-150/</link>
+      <pubDate>Tue, 25 Apr 2017 23:20:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/Feed-150/</guid>
+      <description>
+
+&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/glossary-of-modern-javascript-concepts-part-1?edition=154268&#34;&gt;Glossary of Modern JavaScript Concepts: Part 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/&#34;&gt;Announcing TypeScript 2.1&lt;/a&gt; (and since then &lt;a href=&#34;https://blogs.msdn.microsoft.com/typescript/2017/02/22/announcing-typescript-2-2/&#34;&gt;TypeScript 2.2&lt;/a&gt;) (and pretty soon &lt;a href=&#34;https://blogs.msdn.microsoft.com/typescript/2017/04/10/announcing-typescript-2-3-rc/&#34;&gt;TypeScript 2.3&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.theodo.fr/blog/2016/11/how-to-generate-pixel-perfect-pdfs/&#34;&gt;How to Generate Pixel Perfect Pdfs&lt;/a&gt; (of a web page)&lt;/p&gt;
+
+&lt;h1 id=&#34;code-review&#34;&gt;Code review&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/how-to-be-a-better-code-reviewee?edition=276881&#34;&gt;How to Be a Better Code Reviewee&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cracking the Code Review:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lucidchart.com/techblog/2017/02/08/cracking-the-code-review-part-1-preparing-your-code-review/&#34;&gt;Part 1: Preparing Your Code Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lucidchart.com/techblog/2017/03/02/cracking-code-review-part-2-tips-reviewers/&#34;&gt;Part 2: Tips for Reviewers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;OWASP Code review:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.owasp.org/images/2/29/Code_review_Guide_08.pdf&#34;&gt;OWASP Code review guide 3.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.owasp.org/index.php/OWASP_Code_Review_Guide_Table_of_Contents&#34;&gt;OWASP Code Review Guide Table of Contents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;scrum-master&#34;&gt;Scrum Master&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/truth-full-time-scrum-masters-you-wont-like-katy-sherman&#34;&gt;The Truth About Full-Time Scrum Masters That You Won&amp;rsquo;t Like&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.adventureswithagile.com/2017/03/14/16-essential-hacks-every-scrum-master-know/&#34;&gt;17 Essential Hacks Every Scrum Master Should Know&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;(Very quick) &lt;a href=&#34;http://www.growingagile.co.za/2017/03/assess-your-kanban-knowledge/&#34;&gt;Assess Your Kanban Knowledge&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/user-story-smells-ryan-thomas-hewitt-csm-cspo-itil&#34;&gt;User Story Smells&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.tomshardware.com/news/pwn2own-2017-microsoft-edge-hacked,33940.html&#34;&gt;Microsoft Edge: Most Hacked Browser At Pwn2Own 2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html&#34;&gt;Chrome 57&lt;/a&gt; - Once again lots of Security Fixes and Rewards&lt;/p&gt;
+
+&lt;h1 id=&#34;mix&#34;&gt;Mix&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://stackoverflow.com/insights/survey/2017&#34;&gt;Stack Overflow Developer Survey Results 2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.extremeuncertainty.com/the-myth-of-culture-change/&#34;&gt;The myth of culture change&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://raygun.com/blog/2017/02/how-to-be-an-exceptional-software-developer/&#34;&gt;Be an exceptional software developer: learn faster and stay motivated!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.icontact-archive.com/jd3Rj9vytJC7-Vj78yXty2XNfNEm4v-e?w=4&#34;&gt;Creating a compelling product vision&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/linux-iptables-firewall-simplified-examples&#34;&gt;Linux Iptables Firewall Simplified Examples&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.samuelpath.com/fcc/&#34;&gt;But what exactly is Free Code Camp?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/teamblog/announcing-unified-dotnet-experience-on-docs&#34;&gt;Announcing a unified .NET reference experience on &lt;a href=&#34;http://docs.microsoft.com&#34;&gt;docs.microsoft.com&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/many-sql-performance-problems-stem-from-unnecessar?edition=284881&#34;&gt;Many SQL Performance Problems Stem From Unnecessary Mandatory Work&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #149</title>
@@ -595,63 +665,6 @@ Love the picture in picture!&lt;/p&gt;
 &lt;h1 id=&#34;backlog&#34;&gt;Backlog&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.productplan.com/5-signs-product-backlog-black-hole/&#34;&gt;5 Signs Your Product Backlog is a Black Hole (and What to Do About it)&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feed #135</title>
-      <link>https://titi.github.io/links/Feed-135/</link>
-      <pubDate>Tue, 30 Aug 2016 23:40:00 +0100</pubDate>
-      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-135/</guid>
-      <description>
-
-&lt;h1 id=&#34;bash-on-windows&#34;&gt;Bash on Windows&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/commandline/2016/06/02/learn-more-about-bash-on-ubuntu-on-windows-and-the-windows-subsystem-for-linux/&#34;&gt;Learn more about Bash on Ubuntu on Windows and the Windows Subsystem for Linux&lt;/a&gt; - Windows Command Line Tools For Developers&lt;/p&gt;
-
-&lt;h1 id=&#34;product-design-and-management&#34;&gt;Product design and management&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uxdesign.cc/human-centered-design-the-6-fundamental-principles-of-interaction-between-products-and-users-7343734b38a1#.cvb1p22pk&#34;&gt;Human Centered Design &amp;amp; The 6 Fundamental Principles of Interaction Between Products and Users&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.mixpanel.com/2016/08/11/steven-sinofsky-product-leadership/&#34;&gt;Steven Sinofsky on Building Your Product Team&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;framework-and-versioning&#34;&gt;Framework and versioning&lt;/h1&gt;
-
-&lt;p&gt;Also applies to other languages, the following article describe classic programming pitfalls:&lt;br /&gt;
-&lt;a href=&#34;http://www.phpthewrongway.com&#34;&gt;PHP - The Wrong Way&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/api-versioning-methods-a-brief-reference-1?edition=155255&#34;&gt;API Versioning Methods, a Brief Reference&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;country&#34;&gt;Country&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/us-government-goes-open-source?edition=154264&#34;&gt;The U.S. Government Goes Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/the-cuban-cdn/&#34;&gt;The Cuban CDN&lt;/a&gt; - CloudFlare blog&lt;/p&gt;
-
-&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/&#34;&gt;A Beginner’s Guide To Progressive Web Apps&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/common-promise-mistakes?edition=154268&#34;&gt;Common Promise Mistakes &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/es6-arrow-functions-innbspdepth?edition=201674&#34;&gt;ES6 Arrow Functions In-Depth&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://eng.uber.com/bug-bounty-update/&#34;&gt;100 Days Into Uber Engineering’s Public Bug Bounty Program&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/how-the-consumer-product-safety-commission-is-inadvertently-behind-the-internets-largest-ddos-attacks/&#34;&gt;How the Consumer Product Safety Commission is (Inadvertently) Behind the Internet’s Largest DDoS Attacks&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;legacy-code&#34;&gt;Legacy code&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.stridenyc.com/blog/how-to-decide-what-to-do-with-your-legacy-code/&#34;&gt;How To Decide What To Do With Your Legacy Code&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://engineeringblog.yelp.com/2016/08/undebt-how-we-refactored-3-million-lines-of-code.html&#34;&gt;Undebt: How We Refactored 3 Million Lines of Code&lt;/a&gt; - Yelp&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://legacycode.rocks&#34;&gt;Legacy Code Rocks!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.kevinlondon.com/2016/08/29/two-trains-talk.html&#34;&gt;Two Trains Talk&lt;/a&gt; - Kevin London&lt;/p&gt;
 </description>
     </item>
     
