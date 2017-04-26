@@ -2,670 +2,2211 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Links on Hi! I&#39;m Thibault ROHMER</title>
-    <link>https://titi.github.io/links/index.xml</link>
+    <link>https://titi.github.io/links/</link>
     <description>Recent content in Links on Hi! I&#39;m Thibault ROHMER</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
     <lastBuildDate>Tue, 25 Apr 2017 23:20:00 +0100</lastBuildDate>
-    <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Feed #150</title>
-      <link>https://titi.github.io/links/Feed-150/</link>
+      <link>https://titi.github.io/links/feed-150/</link>
       <pubDate>Tue, 25 Apr 2017 23:20:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-150/</guid>
-      <description>
-
-&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/glossary-of-modern-javascript-concepts-part-1?edition=154268&#34;&gt;Glossary of Modern JavaScript Concepts: Part 1&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/&#34;&gt;Announcing TypeScript 2.1&lt;/a&gt; (and since then &lt;a href=&#34;https://blogs.msdn.microsoft.com/typescript/2017/02/22/announcing-typescript-2-2/&#34;&gt;TypeScript 2.2&lt;/a&gt;) (and pretty soon &lt;a href=&#34;https://blogs.msdn.microsoft.com/typescript/2017/04/10/announcing-typescript-2-3-rc/&#34;&gt;TypeScript 2.3&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.theodo.fr/blog/2016/11/how-to-generate-pixel-perfect-pdfs/&#34;&gt;How to Generate Pixel Perfect Pdfs&lt;/a&gt; (of a web page)&lt;/p&gt;
-
-&lt;h1 id=&#34;code-review&#34;&gt;Code review&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/how-to-be-a-better-code-reviewee?edition=276881&#34;&gt;How to Be a Better Code Reviewee&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Cracking the Code Review:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.lucidchart.com/techblog/2017/02/08/cracking-the-code-review-part-1-preparing-your-code-review/&#34;&gt;Part 1: Preparing Your Code Review&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.lucidchart.com/techblog/2017/03/02/cracking-code-review-part-2-tips-reviewers/&#34;&gt;Part 2: Tips for Reviewers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;OWASP Code review:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.owasp.org/images/2/29/Code_review_Guide_08.pdf&#34;&gt;OWASP Code review guide 3.0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.owasp.org/index.php/OWASP_Code_Review_Guide_Table_of_Contents&#34;&gt;OWASP Code Review Guide Table of Contents&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;scrum-master&#34;&gt;Scrum Master&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/truth-full-time-scrum-masters-you-wont-like-katy-sherman&#34;&gt;The Truth About Full-Time Scrum Masters That You Won&amp;rsquo;t Like&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.adventureswithagile.com/2017/03/14/16-essential-hacks-every-scrum-master-know/&#34;&gt;17 Essential Hacks Every Scrum Master Should Know&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;(Very quick) &lt;a href=&#34;http://www.growingagile.co.za/2017/03/assess-your-kanban-knowledge/&#34;&gt;Assess Your Kanban Knowledge&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/user-story-smells-ryan-thomas-hewitt-csm-cspo-itil&#34;&gt;User Story Smells&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.tomshardware.com/news/pwn2own-2017-microsoft-edge-hacked,33940.html&#34;&gt;Microsoft Edge: Most Hacked Browser At Pwn2Own 2017&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html&#34;&gt;Chrome 57&lt;/a&gt; - Once again lots of Security Fixes and Rewards&lt;/p&gt;
-
-&lt;h1 id=&#34;mix&#34;&gt;Mix&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://stackoverflow.com/insights/survey/2017&#34;&gt;Stack Overflow Developer Survey Results 2017&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.extremeuncertainty.com/the-myth-of-culture-change/&#34;&gt;The myth of culture change&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://raygun.com/blog/2017/02/how-to-be-an-exceptional-software-developer/&#34;&gt;Be an exceptional software developer: learn faster and stay motivated!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.icontact-archive.com/jd3Rj9vytJC7-Vj78yXty2XNfNEm4v-e?w=4&#34;&gt;Creating a compelling product vision&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/linux-iptables-firewall-simplified-examples&#34;&gt;Linux Iptables Firewall Simplified Examples&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.samuelpath.com/fcc/&#34;&gt;But what exactly is Free Code Camp?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/teamblog/announcing-unified-dotnet-experience-on-docs&#34;&gt;Announcing a unified .NET reference experience on &lt;a href=&#34;http://docs.microsoft.com&#34;&gt;docs.microsoft.com&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/many-sql-performance-problems-stem-from-unnecessar?edition=284881&#34;&gt;Many SQL Performance Problems Stem From Unnecessary Mandatory Work&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://titi.github.io/links/feed-150/</guid>
+      <description>Javascript Glossary of Modern JavaScript Concepts: Part 1
+Announcing TypeScript 2.1 (and since then TypeScript 2.2) (and pretty soon TypeScript 2.3)
+How to Generate Pixel Perfect Pdfs (of a web page)
+Code review How to Be a Better Code Reviewee
+Cracking the Code Review:
+ Part 1: Preparing Your Code Review Part 2: Tips for Reviewers  OWASP Code review:
+ OWASP Code review guide 3.0 OWASP Code Review Guide Table of Contents  Scrum Master The Truth About Full-Time Scrum Masters That You Won&amp;rsquo;t Like</description>
     </item>
     
     <item>
       <title>Feed #149</title>
-      <link>https://titi.github.io/links/Feed-149/</link>
+      <link>https://titi.github.io/links/feed-149/</link>
       <pubDate>Sat, 25 Mar 2017 20:30:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-149/</guid>
-      <description>
-
-&lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/layered-architecture-is-good&#34;&gt;Layered Architecture Is Good&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/clean-architecture-is-screaming&#34;&gt;Clean Architecture Is Screaming&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://labsblog.f-secure.com/2017/03/09/apple-google-and-the-cia/&#34;&gt;Apple, Google, And The CIA&lt;/a&gt; - F-Secure Lab&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.zdnet.com/article/fda-one-of-many-toothless-dragons-in-medical-device-security-realm/#ftag=RSSbaffb68&#34;&gt;FDA one of many &amp;lsquo;toothless dragons&amp;rsquo; with no will to tackle medical device security&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/security-testing-tools-you-need-to-know-about?edition=245486&#34;&gt;Security Testing Tools You Need To Know About&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://arstechnica.co.uk/security/2017/03/firefox-gets-complaint-for-labeling-unencrypted-login-page-insecure/&#34;&gt;HTTPS laggard complains when Firefox warns of insecure login page&lt;/a&gt; (Hilarity Ensues)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.troyhunt.com/heres-how-i-verify-data-breaches/&#34;&gt;Here&amp;rsquo;s how I verify data breaches&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://haveibeenpwned.com/&#34;&gt;have i been pwned?&lt;/a&gt; &amp;lt;- must see!&lt;/p&gt;
-
-&lt;h1 id=&#34;product-life-cycle&#34;&gt;Product life cycle&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/why-you-should-kill-your-cash-cow-3025fa422711#.um1vrxbcc&#34;&gt;Why you should kill your cash cow&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;The only path then, to build a lasting tech company, lies in successfully making the jump from one S-curve to another.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;If you don’t follow the curve, you’re doomed.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Great follow-up: &lt;a href=&#34;https://hackernoon.com/how-to-get-buy-in-for-doing-user-research-9dae432a8ec6#.8z3k9s3y1&#34;&gt;How to Get Stakeholders to Buy Into User Research&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;maintenability&#34;&gt;Maintenability&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/you-get-out-what-put-role-qa-agile-teams-adrian-kerry&#34;&gt;QA in Agile teams: It&amp;rsquo;s something you do, not something you have done&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/secrets-of-maintainable-codebases?edition=276881&#34;&gt;Secrets of Maintainable Codebases&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/how-to-avoid-messy-code?edition=155254&#34;&gt;How to Avoid Messy Code&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/the-one-thing-every-company-can-do-to-reduce-techn?edition=154263&#34;&gt;The One Thing Every Company Can Do to Reduce Technical Debt&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/so-youve-inherited-a-legacy-codebase?edition=286885&#34;&gt;So, You&amp;rsquo;ve Inherited a Legacy Codebase&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;other&#34;&gt;Other&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://qz.com/852253/bill-gatess-2016-favorite-books-list-spans-science-management-and-anthropology/&#34;&gt;These are the best books Bill Gates read in 2016&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://istacee.wordpress.com/2013/09/18/kent-beck-i-get-paid-for-code-that-works-not-for-tests/&#34;&gt;Kent Beck : “I get paid for code that works, not for tests”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://theoutline.com/post/1192/google-s-featured-snippets-are-worse-than-fake-news&#34;&gt;Google’s featured snippets are worse than fake news&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://titi.github.io/links/feed-149/</guid>
+      <description>Architecture Layered Architecture Is Good
+Clean Architecture Is Screaming
+Security Apple, Google, And The CIA - F-Secure Lab
+FDA one of many &amp;lsquo;toothless dragons&amp;rsquo; with no will to tackle medical device security
+Security Testing Tools You Need To Know About
+HTTPS laggard complains when Firefox warns of insecure login page (Hilarity Ensues)
+Here&amp;rsquo;s how I verify data breaches
+have i been pwned? &amp;lt;- must see!
+Product life cycle Why you should kill your cash cow</description>
     </item>
     
     <item>
       <title>Feed #148</title>
-      <link>https://titi.github.io/links/Feed-148/</link>
+      <link>https://titi.github.io/links/feed-148/</link>
       <pubDate>Sun, 26 Feb 2017 22:25:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-148/</guid>
-      <description>
-
-&lt;h1 id=&#34;tips&#34;&gt;Tips&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/Microsoft/vscode-tips-and-tricks&#34;&gt;VS Code Tips and Tricks&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=154264&#34;&gt;Most Useful Linux Command Line Tricks&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;listen-focus-skills&#34;&gt;Listen, Focus &amp;amp; Skills&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.mindtheproduct.com/2016/12/importance-listening-customers-david-cancel/&#34;&gt;The Importance of Listening to Your Customers by David Cancel&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://svpg.com/beyond-lean-and-agile/&#34;&gt;Beyond Lean and Agile&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.xehhw5bjc&#34;&gt;Let’s stop calling them ‘soft skills’&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;product-development&#34;&gt;Product Development&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.fastcompany.com/3054023/hit-the-ground-running/why-hackathons-are-bad-for-innovation&#34;&gt;Why Hackathons Are Bad For Innovation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.mindtheproduct.com/2017/01/10-ways-use-feature-flags/&#34;&gt;10 Ways to Use Feature Flags&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;brilliant-jerks&#34;&gt;Brilliant Jerks&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://retrospective.co/brilliant-jerks-cost-more-than-they-are-worth/&#34;&gt;Brilliant Jerks Cost More Than They Are Worth&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.andycleff.com/2017/01/dealing-w-dysfunctional-behavior-styles/&#34;&gt;Dealing w Dysfunctional Styles of Behavior&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;crisis&#34;&gt;Crisis&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber&#34;&gt;Reflecting on one very, very strange year at Uber&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/a-perfect-storm-mission-critical-application-human?edition=154265&#34;&gt;The Perfect Storm: Gitlab Data Loss&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://titi.github.io/links/feed-148/</guid>
+      <description>Tips VS Code Tips and Tricks
+Most Useful Linux Command Line Tricks
+Listen, Focus &amp;amp; Skills The Importance of Listening to Your Customers by David Cancel
+Beyond Lean and Agile
+Let’s stop calling them ‘soft skills’
+Product Development Why Hackathons Are Bad For Innovation
+10 Ways to Use Feature Flags
+Brilliant Jerks Brilliant Jerks Cost More Than They Are Worth
+Dealing w Dysfunctional Styles of Behavior
+Crisis Reflecting on one very, very strange year at Uber</description>
     </item>
     
     <item>
       <title>Feed #147</title>
-      <link>https://titi.github.io/links/Feed-147/</link>
+      <link>https://titi.github.io/links/feed-147/</link>
       <pubDate>Fri, 24 Feb 2017 00:15:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-147/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2017/01/netflix-hack-day-winter-2017.html&#34;&gt;Netflix Hack Day - Winter 2017 &lt;/a&gt;&lt;br /&gt;
-Love the picture in picture!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://raygun.com/blog/2017/01/software-team-kpis/&#34;&gt;Software team KPIs for competitor beating software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/10-tips-to-handle-null-effectively?edition=155254&#34;&gt;10 Tips to Handle Null Effectively&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/forget-iso-8859-1?edition=268883&#34;&gt;Forget ISO-8859-1&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/posteverything/wp/2014/12/30/google-got-it-wrong-the-open-office-trend-is-destroying-the-workplace/?tid=ss_tw&#34;&gt;Google got it wrong. The open-office trend is destroying the workplace.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hbr.org/2017/02/how-spotify-balances-employee-autonomy-and-accountability&#34;&gt;How Spotify Balances Employee Autonomy and Accountability&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.mojotech.com/why-products-built-by-large-teams-fail-so-often/&#34;&gt;Why products built by large teams fail so often&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/kdeldycke/awesome-falsehood&#34;&gt;awesome-falsehood - Curated list of falsehoods programmers believe in&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/kamranahmedse/design-patterns-for-humans/&#34;&gt;Design Patterns for Humans™ - An ultra-simplified explanation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[FR] &lt;a href=&#34;http://www.arolla.fr/blog/2017/02/principes-solid-vie-de-jours/&#34;&gt;Les principes SOLID dans la vie de tous les jours&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://titi.github.io/links/feed-147/</guid>
+      <description>Netflix Hack Day - Winter 2017 
+Love the picture in picture!
+Software team KPIs for competitor beating software
+10 Tips to Handle Null Effectively
+Forget ISO-8859-1
+Google got it wrong. The open-office trend is destroying the workplace.
+How Spotify Balances Employee Autonomy and Accountability
+Why products built by large teams fail so often
+awesome-falsehood - Curated list of falsehoods programmers believe in
+Design Patterns for Humans™ - An ultra-simplified explanation</description>
     </item>
     
     <item>
       <title>Feed #146</title>
-      <link>https://titi.github.io/links/Feed-146/</link>
+      <link>https://titi.github.io/links/feed-146/</link>
       <pubDate>Sun, 29 Jan 2017 22:10:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-146/</guid>
-      <description>
-
-&lt;h1 id=&#34;product-ethics&#34;&gt;Product &amp;amp; Ethics&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uxstudioteam.com/ux-blog/product-failure/&#34;&gt;The Single Biggest Reason Most Products Fail&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hbr.org/2017/01/true-leaders-believe-dissent-is-an-obligation&#34;&gt;True Leaders Believe Dissent Is an Obligation&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.zdnet.com/article/st-jude-releases-security-patches-for-vulnerable-cardiac-devices/#ftag=RSSbaffb68&#34;&gt;St. Jude Medical releases security patches for vulnerable cardiac devices&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/the-switch/wp/2013/08/18/heres-what-you-find-when-you-scan-the-entire-internet-in-an-hour/&#34;&gt;Here’s what you find when you scan the entire Internet in an hour&lt;/a&gt; - The Washington Post&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/cloudflares-transparency-report-for-second-half-2016-and-an-additional-disclosure-for-2013-2/&#34;&gt;Cloudflare’s Transparency Report for Second Half 2016 and an Additional Disclosure for 2013&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;chrome&#34;&gt;Chrome&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://v8project.blogspot.fr/2017/01/speeding-up-v8-regular-expressions.html&#34;&gt;Speeding up V8 Regular Expressions&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html&#34;&gt;Chrome 56&lt;/a&gt; - 51 security fixes&lt;/p&gt;
-
-&lt;h1 id=&#34;storage&#34;&gt;Storage&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://code.flickr.net/2017/01/05/a-year-without-a-byte/&#34;&gt;A Year Without a Byte&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://githubengineering.com/moving-persistent-data-out-of-redis/&#34;&gt;Moving persistent data out of Redis&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
-
-&lt;h1 id=&#34;code&#34;&gt;Code&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/design-patterns-the-builder-pattern&#34;&gt;Design Patterns: The Builder Pattern&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://javarevisited.blogspot.fr/2017/01/Top-10-excuses-programmers-gives-to-avoid-unit-testing.html&#34;&gt;Top 10 Excuses Programmers Gives to Avoid Unit Testing&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;the-2016-git-retrospective&#34;&gt;The 2016 Git Retrospective&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/a-2016-git-retrospective-worktrees&#34;&gt;The 2016 Git Retrospective: Worktrees&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/the-2016-git-retrospective-diffs&#34;&gt;The 2016 Git Retrospective: Diffs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/the-2016-git-retrospective-git-lfs&#34;&gt;The 2016 Git Retrospective: Git LFS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/the-2016-git-retrospective-rebase&#34;&gt;The 2016 Git Retrospective: Rebase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/the-2016-git-retrospective-submodules&#34;&gt;The 2016 Git Retrospective: Submodules&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/the-2016-git-retrospective-stash&#34;&gt;The 2016 Git Retrospective: Stash&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://titi.github.io/links/feed-146/</guid>
+      <description>Product &amp;amp; Ethics The Single Biggest Reason Most Products Fail
+True Leaders Believe Dissent Is an Obligation
+Security St. Jude Medical releases security patches for vulnerable cardiac devices
+Here’s what you find when you scan the entire Internet in an hour - The Washington Post
+Cloudflare’s Transparency Report for Second Half 2016 and an Additional Disclosure for 2013
+Chrome Speeding up V8 Regular Expressions
+Chrome 56 - 51 security fixes</description>
     </item>
     
     <item>
       <title>Feed #145</title>
-      <link>https://titi.github.io/links/Feed-145/</link>
+      <link>https://titi.github.io/links/feed-145/</link>
       <pubDate>Tue, 10 Jan 2017 23:30:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-145/</guid>
-      <description>
-
-&lt;h1 id=&#34;profiles&#34;&gt;Profiles&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/are-you-a-modern-software-engineer&#34;&gt;Are You a Modern Software Engineer?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.scrum.org/team-ownership-done/&#34;&gt;Getting to Done: Encouraging Team Ownership&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;time&#34;&gt;Time&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://m.signalvnoise.com/whats-an-hour-d5966ee5ad7d#.rsae2smbj&#34;&gt;What’s an hour?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.inc.com/yoram-solomon/why-do-you-get-your-most-creative-ideas-in-the-shower.html&#34;&gt;Why Do You Get Your Most Creative Ideas in The Shower?&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;updates&#34;&gt;Updates&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html&#34;&gt;Chrome 55&lt;/a&gt; - Once again lots of Security Fixes and Rewards&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/commandline/2017/01/04/rumors-of-cmds-death-have-been-greatly-exaggerated/&#34;&gt;Rumors of Cmd’s death have been greatly exaggerated&lt;/a&gt; - Windows Command Line Tools For Developers&lt;/p&gt;
-
-&lt;h1 id=&#34;product-psychology&#34;&gt;Product psychology&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/startup-grind/cognitive-bias-ad5f9fe7f59b#.fy8kaqup8&#34;&gt;The Irrational User&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;reliable-systems&#34;&gt;Reliable systems&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/considerations-for-building-reliable-systems-brave?edition=261711&#34;&gt;Considerations for Building Reliable Systems&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/clean-code-principles?edition=261715&#34;&gt;Clean Code Principles&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[FR] &lt;a href=&#34;http://gb-prod.fr/2016/06/12/artisan-developpeur.html&#34;&gt;Artisan développeur&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://titi.github.io/links/feed-145/</guid>
+      <description>Profiles Are You a Modern Software Engineer?
+Getting to Done: Encouraging Team Ownership
+Time What’s an hour?
+Why Do You Get Your Most Creative Ideas in The Shower?
+Updates Chrome 55 - Once again lots of Security Fixes and Rewards
+Rumors of Cmd’s death have been greatly exaggerated - Windows Command Line Tools For Developers
+Product psychology The Irrational User
+Reliable systems Considerations for Building Reliable Systems
+Clean Code Principles</description>
     </item>
     
     <item>
       <title>Feed #144</title>
-      <link>https://titi.github.io/links/Feed-144/</link>
+      <link>https://titi.github.io/links/feed-144/</link>
       <pubDate>Mon, 02 Jan 2017 00:20:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-144/</guid>
-      <description>
-
-&lt;h1 id=&#34;new-features&#34;&gt;New features&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blogs.dropbox.com/tech/2016/11/annotations-on-document-previews/&#34;&gt;Annotations on Document Previews&lt;/a&gt; - Dropbox Tech Blog&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ascii.textfiles.com/archives/5089&#34;&gt;A Simple Explanation: VLC.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;relationships&#34;&gt;Relationships&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/lifeandstyle/2016/nov/25/how-to-be-a-good-listener-the-experts-guide&#34;&gt;How to be a good listener: the experts&amp;rsquo; guide&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.scrum.org/development-team-evolution/&#34;&gt;Evolution of the Development Team&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;performance&#34;&gt;Performance&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/black-friday-and-cyber-monday-performance-report-2?edition=155252&#34;&gt;Black Friday and Cyber Monday Performance Report 2016&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://v8project.blogspot.fr/2016/12/how-v8-measures-real-world-performance.html&#34;&gt;How V8 measures real-world performance&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;future&#34;&gt;Future&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.microsoft.com/cognitive-services/&#34;&gt;Microsoft Cognitive Services&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.luis.ai/&#34;&gt;Language Understanding Intelligent Service (LUIS)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://raygun.com/blog/2016/12/visual-studio-2017-rc-review/&#34;&gt;Visual Studio 2017 RC review: a look at what’s new and improved&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;rest&#34;&gt;REST&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/top-5-rest-api-security-guidelines?edition=245486&#34;&gt;Top 5 REST API Security Guidelines&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/refcardz/rest-foundations-restful&#34;&gt;Foundations of RESTful Architecture&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://it.slashdot.org/story/16/12/08/0011230/adobe-flash-responsible-for-six-of-the-top-10-bugs-used-by-exploit-kits-in-2016&#34;&gt;Adobe Flash Responsible For Six of the Top 10 Bugs Used By Exploit Kits In 2016&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://diracdeltas.github.io/blog/surveillance/&#34;&gt;surveillance, whistleblowing, and security engineering&lt;/a&gt; (about Yahoo backdoor)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.zdnet.com/article/stop-saying-things-were-hacked-when-they-werent/#ftag=RSSbaffb68&#34;&gt;Stop calling everything a &amp;ldquo;hack&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.zdnet.com/article/israeli-firm-cellebrite-grab-phone-data-seconds/&#34;&gt;Leaked files show what a Cellebrite phone extraction report looks like&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.zdnet.com/article/us-government-subcontractor-leaks-confidential-military-personnel-data/&#34;&gt;US government subcontractor leaks confidential military personnel data&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.sklivvz.com/posts/two-scary-signs-that-a-site-is-unsafe&#34;&gt;Two scary signs that a site is unsafe&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://titi.github.io/links/feed-144/</guid>
+      <description>New features Annotations on Document Previews - Dropbox Tech Blog
+A Simple Explanation: VLC.js
+Relationships How to be a good listener: the experts&amp;rsquo; guide
+Evolution of the Development Team
+Performance Black Friday and Cyber Monday Performance Report 2016
+How V8 measures real-world performance
+Future Microsoft Cognitive Services
+Language Understanding Intelligent Service (LUIS)
+Visual Studio 2017 RC review: a look at what’s new and improved
+REST Top 5 REST API Security Guidelines</description>
     </item>
     
     <item>
       <title>Feed #143 - Sunday fun</title>
-      <link>https://titi.github.io/links/Feed-143/</link>
+      <link>https://titi.github.io/links/feed-143/</link>
       <pubDate>Sun, 01 Jan 2017 23:55:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-143/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.commitstrip.com/wp-content/uploads/2016/10/Strip-S%C3%A9curit%C3%A9-Admin-password-finalenglish-2.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.commitstrip.com/en/2016/10/14/good-old-adminpassword/&#34;&gt;Source: CommitStrip - Good old admin/password&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.freecodecamp.com/apple-to-developers-there-is-no-escape-298b63c2a1d8#.byp3pw4yw&#34;&gt;Apple to developers: There is no escape.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition&#34;&gt;FizzBuzz Enterprise Edition&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Basic Human Needs:&lt;br /&gt;
-&lt;img src=&#34;https://ih0.redbubble.net/image.23056565.0513/sticker,375x360.u4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/things-programmers-say?edition=154263&#34;&gt;Things Programmers Say&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://titi.github.io/links/feed-143/</guid>
+      <description>Source: CommitStrip - Good old admin/password
+Apple to developers: There is no escape.
+FizzBuzz Enterprise Edition
+Basic Human Needs:
+Things Programmers Say</description>
     </item>
     
     <item>
       <title>Feed #142</title>
-      <link>https://titi.github.io/links/Feed-142/</link>
+      <link>https://titi.github.io/links/feed-142/</link>
       <pubDate>Sun, 27 Nov 2016 23:45:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-142/</guid>
-      <description>
-
-&lt;h1 id=&#34;team-work&#34;&gt;Team work&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@sskorc/7-cardinal-sins-of-retrospectives-419364a258c3#.ehm7hhk3v&#34;&gt;7 cardinal sins of retrospectives&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/code-review-essentials?edition=154263&#34;&gt;Code Review Essentials&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://rgalen.com/agile-training-news/2016/11/9/scrummasters-protecting-the-team-fromthemselves&#34;&gt;ScrumMasters – Protecting the team from…“themselves”&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;software-development&#34;&gt;Software Development&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@johnpcutler/success-theater-b60a1666fe67#.i7sek5wuj&#34;&gt;Success Theater …&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@johnpcutler/50-questions-i-ask-pms-about-data-and-their-teams-cda49e5d56f7#.39nj1g6o8&#34;&gt;50 Questions I Ask PMs About Data and Their Teams&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.fastcompany.com/3064921/this-team-built-and-sold-a-new-product-in-nine-weeks-then-shelved-it&#34;&gt;This Team Built And Sold A New Product In Nine Weeks—Then Shelved It&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;coding&#34;&gt;Coding&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mrale.ph/blog/2016/11/23/making-less-dart-faster.html&#34;&gt;Adventures in the land of substrings and RegExps&lt;/a&gt; - Vyacheslav Egorov&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/use-inheritance-properly?edition=155254&#34;&gt;Yet Another Article About Inheritance&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/generating-documentation-for-typescript-projects/&#34;&gt;Generating Documentation for TypeScript Projects&lt;/a&gt; - Cloudflare blog&lt;/p&gt;
-</description>
+      <guid>https://titi.github.io/links/feed-142/</guid>
+      <description>Team work 7 cardinal sins of retrospectives
+Code Review Essentials
+ScrumMasters – Protecting the team from…“themselves”
+Software Development Success Theater …
+50 Questions I Ask PMs About Data and Their Teams
+This Team Built And Sold A New Product In Nine Weeks—Then Shelved It
+Coding Adventures in the land of substrings and RegExps - Vyacheslav Egorov
+Yet Another Article About Inheritance
+Generating Documentation for TypeScript Projects - Cloudflare blog</description>
     </item>
     
     <item>
       <title>Feed #141</title>
-      <link>https://titi.github.io/links/Feed-141/</link>
+      <link>https://titi.github.io/links/feed-141/</link>
       <pubDate>Tue, 15 Nov 2016 23:58:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-141/</guid>
-      <description>
-
-&lt;h1 id=&#34;hiring&#34;&gt;Hiring&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.codingame.com/blog/en/2016/11/10-characteristics-of-excellent.html&#34;&gt;10 characteristics of an excellent software developer&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://mattermark.com/the-one-method-ive-used-to-eliminate-bad-tech-hires/&#34;&gt;The One Method I’ve Used to Eliminate Bad Tech Hires&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;engineering-mistakes&#34;&gt;Engineering mistakes&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.fzd3tnpwn&#34;&gt;10 Modern Software Over-Engineering Mistakes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[FR] &lt;a href=&#34;http://www.geek-directeur-technique.com/2016/08/27/les-pompiers-pyromanes&#34;&gt;Les pompiers pyromanes&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;forms&#34;&gt;Forms&lt;/h1&gt;
-
-&lt;p&gt;[FR] Très bonne présentation de Stéphanie Walter sur les formulaires mobiles, pleins de bons conseils !&lt;br /&gt;
-&lt;a href=&#34;https://blog.stephaniewalter.fr/aidez-moi-a-remplir-vos-formulaires-mobile/&#34;&gt;Aidez-moi à remplir vos formulaires mobile ! – Blend Web Mix 2016&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;keep-scrolling&#34;&gt;Keep scrolling&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.feistyduck.com/ssl-tls-and-pki-history/&#34;&gt;SSL/TLS and PKI History&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Really long article but quite awesome explanation!&lt;br /&gt;
-&lt;a href=&#34;http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/&#34;&gt;Paul Ford: What Is Code? | Bloomberg&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;docker-is-a-mess&#34;&gt;Docker is a mess&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://thehftguy.wordpress.com/2016/11/01/docker-in-production-an-history-of-failure/&#34;&gt;Docker in Production: A History of Failure&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;scary-maybe-not-so-scary&#34;&gt;Scary, maybe not so scary&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://motherboard.vice.com/read/after-20-minutes-of-listening-new-adobe-tool-can-make-you-say-anything&#34;&gt;After 20 Minutes of Listening, New Adobe Tool Can Make You Say Anything&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://arstechnica.co.uk/information-technology/2016/10/google-ai-neural-network-cryptography/&#34;&gt;Google AI invents its own cryptographic algorithm; no one knows how it works&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://titi.github.io/links/feed-141/</guid>
+      <description>Hiring 10 characteristics of an excellent software developer
+The One Method I’ve Used to Eliminate Bad Tech Hires
+Engineering mistakes 10 Modern Software Over-Engineering Mistakes
+[FR] Les pompiers pyromanes
+Forms [FR] Très bonne présentation de Stéphanie Walter sur les formulaires mobiles, pleins de bons conseils !
+Aidez-moi à remplir vos formulaires mobile ! – Blend Web Mix 2016
+Keep scrolling SSL/TLS and PKI History
+Really long article but quite awesome explanation!</description>
     </item>
     
     <item>
       <title>Feed #140</title>
-      <link>https://titi.github.io/links/Feed-140/</link>
+      <link>https://titi.github.io/links/feed-140/</link>
       <pubDate>Mon, 31 Oct 2016 22:27:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-140/</guid>
-      <description>
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/say-cheese-a-snapshot-of-the-massive-ddos-attacks-coming-from-iot-cameras/&#34;&gt;Say Cheese: a snapshot of the massive DDoS attacks coming from IoT cameras&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/how-the-dyn-outage-affected-cloudflare/&#34;&gt;How the Dyn outage affected Cloudflare&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://blog.cloudflare.com/how-cloudflares-architecture-allows-us-to-scale-to-stop-the-largest-attacks/&#34;&gt;How Cloudflare&amp;rsquo;s Architecture Allows Us to Scale to Stop the Largest Attacks&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://googlechromereleases.blogspot.fr/2016/10/stable-channel-update-for-desktop.html&#34;&gt;Chrome 54&lt;/a&gt; - Lots of Security Fixes and Rewards&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://labsblog.f-secure.com/2016/10/31/how-to-vet-url-shorteners-2016campaignedition/&#34;&gt;How To Vet URL Shorteners #2016CampaignEdition&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.mozilla.org/security/2016/10/24/distrusting-new-wosign-and-startcom-certificates/&#34;&gt;Distrusting New WoSign and StartCom Certificates&lt;/a&gt; - Mozilla Security Blog&lt;/p&gt;
-
-&lt;h1 id=&#34;high-scalability&#34;&gt;High Scalability&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html&#34;&gt;Lessons Learned From Scaling Uber To 2000 Engineers, 1000 Services, And 8000 Git Repositories&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;unit-tests&#34;&gt;Unit Tests&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://8thlight.com/blog/uncle-bob/2014/05/14/TheLittleMocker.html&#34;&gt;The Little Mocker&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/what-do-do-when-your-colleague?edition=155254&#34;&gt;What to Do When Your Colleague Creates Spaghetti Code&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;design-customer-feedback&#34;&gt;Design &amp;amp; customer feedback&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://contrastrebellion.com/&#34;&gt;Contrast Rebellion - to hell with unreadable, low-contrast texts!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/feature-request-management-in-saas/never-prioritize-your-roadmap-based-on-customer-feedback-30a8a5021f97#.woz0faeq0&#34;&gt;Never prioritize your roadmap based on customer feedback&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;innovation&#34;&gt;Innovation&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.strategyzer.com/posts/2016/10/10/11-corporate-habits-that-kill-your-companys-innovation-engine&#34;&gt;11 Corporate Habits That Kill Your Company’s Innovation Engine&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/alexjc/neural-enhance&#34;&gt;Neural Enhance&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://steveblank.com/2016/10/24/why-tim-cook-is-steve-ballmer-and-why-he-still-has-his-job-at-apple/&#34;&gt;Why Tim Cook is Steve Ballmer and Why He Still Has His Job at Apple&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;yarn&#34;&gt;Yarn&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://code.facebook.com/posts/1840075619545360/yarn-a-new-package-manager-for-javascript/&#34;&gt;Yarn: A new package manager for JavaScript&lt;/a&gt; - Facebook Code&lt;br /&gt;
-&lt;a href=&#34;http://yehudakatz.com/2016/10/11/im-excited-to-work-on-yarn-the-new-js-package-manager-2/&#34;&gt;Why I&amp;rsquo;m Working on Yarn&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://titi.github.io/links/feed-140/</guid>
+      <description>Security Say Cheese: a snapshot of the massive DDoS attacks coming from IoT cameras
+How the Dyn outage affected Cloudflare
+How Cloudflare&amp;rsquo;s Architecture Allows Us to Scale to Stop the Largest Attacks
+Chrome 54 - Lots of Security Fixes and Rewards
+How To Vet URL Shorteners #2016CampaignEdition
+Distrusting New WoSign and StartCom Certificates - Mozilla Security Blog
+High Scalability Lessons Learned From Scaling Uber To 2000 Engineers, 1000 Services, And 8000 Git Repositories</description>
     </item>
     
     <item>
       <title>Feed #139</title>
-      <link>https://titi.github.io/links/Feed-139/</link>
+      <link>https://titi.github.io/links/feed-139/</link>
       <pubDate>Sun, 09 Oct 2016 15:12:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-139/</guid>
-      <description>
-
-&lt;h1 id=&#34;pair-programming&#34;&gt;Pair Programming&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/on-pair-programming-and-the-myth-of-the-10x-develo?edition=154263&#34;&gt;On Pair Programming and the Myth of the 10x Developer&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/LonelyCoding.aspx&#34;&gt;Lonely coding&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;fun&#34;&gt;Fun&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/commandline/2016/09/22/24-bit-color-in-the-windows-console/&#34;&gt;24-bit Color in the Windows Console!&lt;/a&gt;&lt;br /&gt;
-2016 man&amp;hellip; !&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@beweinreich/two-years-spamming-spammers-back-2e734ce9593c#.w8klxcok4&#34;&gt;Two years spamming spammers back&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.gdihgao7v&#34;&gt;How it feels to learn JavaScript in 2016&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Maybe not so fun: &lt;a href=&#34;https://science.slashdot.org/story/16/10/08/0445208/muckrock-identifies-the-oldest-us-government-computer-still-in-use&#34;&gt;MuckRock Identifies The Oldest US Government Computer Still in Use&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;MuckRock article identified their oldest software still in use on earth &amp;ndash; &amp;ldquo;the computers inside the IRS that makes sure everybody is paying their taxes&amp;rdquo;. And it also identified their oldest hardware still in use &amp;ndash; &amp;ldquo;the machines running the nuclear defense system&amp;rdquo;. (The launch commands are still stored on 8-inch floppy disks.)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&#34;improve&#34;&gt;Improve&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://css-tricks.com/words-avoid-educational-writing/&#34;&gt;Words To Avoid in Educational Writing&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2016/09/29/technology/yahoo-data-breach-hacking.html?_r=0&#34;&gt;Defending Against Hackers Took a Back Seat at Yahoo, Insiders Say&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[Technical] &lt;a href=&#34;https://blogs.dropbox.com/tech/2016/09/how-dropbox-securely-stores-your-passwords/&#34;&gt;How Dropbox securely stores your passwords&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;testing&#34;&gt;Testing&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://raygun.com/blog/2016/09/unit-testing-examples-and-anatomy/&#34;&gt;The anatomy of robust unit testing (with examples in C#)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://seleniumhq.wordpress.com/2016/10/04/selenium-3-is-coming/&#34;&gt;Selenium 3 is Coming&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://titi.github.io/links/feed-139/</guid>
+      <description>Pair Programming On Pair Programming and the Myth of the 10x Developer
+Lonely coding
+Fun 24-bit Color in the Windows Console!
+2016 man&amp;hellip; !
+Two years spamming spammers back
+How it feels to learn JavaScript in 2016
+Maybe not so fun: MuckRock Identifies The Oldest US Government Computer Still in Use
+ MuckRock article identified their oldest software still in use on earth &amp;ndash; &amp;ldquo;the computers inside the IRS that makes sure everybody is paying their taxes&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Feed #138 - Sunday fun</title>
-      <link>https://titi.github.io/links/Feed-138/</link>
+      <link>https://titi.github.io/links/feed-138/</link>
       <pubDate>Sun, 09 Oct 2016 15:10:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-138/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.gnu.org/fun/jokes/unix.errors.html&#34;&gt;Unix Error Messages&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.commitstrip.com/wp-content/uploads/2016/09/Strip-Sue-le-fil-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.commitstrip.com/en/2016/09/22/ctrl-control/&#34;&gt;Source: CommitStrip - CTRL control&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.smbc-comics.com/comics/1475937366-20161008.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.smbc-comics.com/comic/punishment&#34;&gt;Source: Saturday Morning Breakfast Cereal - Punishment&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Japan Creates Amazing LED Basketball Court For Pro League:
-&lt;br /&gt;
-&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/lEAdLLmvP-A&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-</description>
+      <guid>https://titi.github.io/links/feed-138/</guid>
+      <description>Unix Error Messages
+Source: CommitStrip - CTRL control
+Source: Saturday Morning Breakfast Cereal - Punishment
+Japan Creates Amazing LED Basketball Court For Pro League: </description>
     </item>
     
     <item>
       <title>Feed #137</title>
-      <link>https://titi.github.io/links/Feed-137/</link>
+      <link>https://titi.github.io/links/feed-137/</link>
       <pubDate>Wed, 21 Sep 2016 00:02:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-137/</guid>
-      <description>
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.schneier.com/blog/archives/2016/09/someone_is_lear.html&#34;&gt;Someone Is Learning How to Take Down the Internet&lt;/a&gt; - Schneier&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.cloudflare.com/introducing-tls-1-3/&#34;&gt;Introducing TLS 1.3&lt;/a&gt; - Cloudflare blog&lt;/p&gt;
-
-&lt;h1 id=&#34;api-deprecations&#34;&gt;API Deprecations&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2016/09/chrome-54-deprecations&#34;&gt;API Deprecations and Removals in Chrome 54&lt;/a&gt; - Google Developers Web Updates&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2016/08/removing-document-write&#34;&gt;Intervening against document.write()&lt;/a&gt; - Google Developers Web Updates&lt;/p&gt;
-
-&lt;h1 id=&#34;mix&#34;&gt;Mix&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/5-obstacles-to-employee-engagement-and-how-to-over?edition=154263&#34;&gt;5 Obstacles to Employee Engagement and How to Overcome Them&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/9-tips-on-elasticsearch-configuration-for-high-per?edition=155252&#34;&gt;Tips on ElasticSearch Configuration for High Performance: Part I&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://dev.microsoft.fr&#34;&gt;Développeurs, Microsoft parle votre langage&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://marcelo-cure.blogspot.fr/2016/09/rest-anti-patterns.html&#34;&gt;REST anti-patterns&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hacks.mozilla.org/2016/09/firefox-49-fixes-sites-designed-with-webkit-in-mind-and-more/&#34;&gt;Firefox 49 fixes sites designed with WebKit in mind, and more&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/commitstrip/commitstrip-rise-of-the-coders-a-book-about-the-fu?ref=thanks_tweet&#34;&gt;CommitStrip - Rise of the Coders: a Book about the Future&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;features&#34;&gt;Features&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.gosquared.com/blog/how-bad-features-are-born&#34;&gt;How bad features are born&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hackernoon.com/the-feature-fallacy-why-more-features-dont-make-a-better-product-9fd125e86440#.4wjtw6tla&#34;&gt;How to Build Better Products: The Feature Fallacy&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://titi.github.io/links/feed-137/</guid>
+      <description>Security Someone Is Learning How to Take Down the Internet - Schneier
+Introducing TLS 1.3 - Cloudflare blog
+API Deprecations API Deprecations and Removals in Chrome 54 - Google Developers Web Updates
+Intervening against document.write() - Google Developers Web Updates
+Mix 5 Obstacles to Employee Engagement and How to Overcome Them
+Tips on ElasticSearch Configuration for High Performance: Part I
+Développeurs, Microsoft parle votre langage
+REST anti-patterns
+Firefox 49 fixes sites designed with WebKit in mind, and more</description>
     </item>
     
     <item>
       <title>Feed #136</title>
-      <link>https://titi.github.io/links/Feed-136/</link>
+      <link>https://titi.github.io/links/feed-136/</link>
       <pubDate>Tue, 13 Sep 2016 00:35:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
-      <guid>https://titi.github.io/links/Feed-136/</guid>
-      <description>
+      <guid>https://titi.github.io/links/feed-136/</guid>
+      <description>Teams Google Finds That Successful Teams Are About Norms Not Just Smarts
+The Rewards of Creator-Driven Cultures — And The Engineers That Can Deliver Them
+Algorithm Smaller and faster data compression with Zstandard - Facebook Engineering Blog
+360 video stabilization: A new algorithm for smoother 360 video viewing - Facebook Engineering Blog
+Google Cast Google Cast is now built-in to Chrome  - Chrome Blog
+Javascript True Hash Maps in JavaScript</description>
+    </item>
+    
+    <item>
+      <title>Feed #135</title>
+      <link>https://titi.github.io/links/feed-135/</link>
+      <pubDate>Tue, 30 Aug 2016 23:40:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-135/</guid>
+      <description>Bash on Windows Learn more about Bash on Ubuntu on Windows and the Windows Subsystem for Linux - Windows Command Line Tools For Developers
+Product design and management Human Centered Design &amp;amp; The 6 Fundamental Principles of Interaction Between Products and Users
+Steven Sinofsky on Building Your Product Team
+Framework and versioning Also applies to other languages, the following article describe classic programming pitfalls:
+PHP - The Wrong Way</description>
+    </item>
+    
+    <item>
+      <title>Feed #134 - Monday fun</title>
+      <link>https://titi.github.io/links/feed-134/</link>
+      <pubDate>Mon, 29 Aug 2016 14:48:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-134/</guid>
+      <description>Improvements to the Way MessageBox works, in latest Service Pack for Windows 7, 8 and 8.1
+The Inner JSON Effect
+Filler text Face the Force Today
+A quick and simple service for getting pictures of Star Wars characters for use as placeholders in your designs or code
+Minions Ipsum!!</description>
+    </item>
+    
+    <item>
+      <title>Feed #133</title>
+      <link>https://titi.github.io/links/feed-133/</link>
+      <pubDate>Thu, 18 Aug 2016 22:45:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-133/</guid>
+      <description>Studies Introduction to NoSQL in 2016
+The State of Code quality 2016
+Agile Is agile really all about being able to change?
+Why I&amp;rsquo;m not a big fan of Scrum
+Legacy code Ye Olde Monolith
+Forget Technical Debt — Here&amp;rsquo;s How to Build Technical Wealth
+Teams Designing Modern Teams
+Monitoring Lessons Learned From One Year of Monitoring Single Page Applications</description>
+    </item>
+    
+    <item>
+      <title>Feed #132</title>
+      <link>https://titi.github.io/links/feed-132/</link>
+      <pubDate>Fri, 12 Aug 2016 23:50:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-132/</guid>
+      <description>Building The People’s Code - whitehouse.gov
+Great Products Don’t Happen By Accident
+Creating Your Code Review Checklist
+Javascript The Hidden Truths in ES6 Classes
+A weird bug with V8:
+JS object optimization bug in Chrome 52
+Got the same kind of behavior in the DevTools debugger with closures: variable seems undefined because of internal optimizations&amp;hellip;
+Flash and Chrome - Chrome Blog
+Cars Moral Machine
+Keyless systems of many VW Group cars can be hacked: researchers</description>
+    </item>
+    
+    <item>
+      <title>Feed #131</title>
+      <link>https://titi.github.io/links/feed-131/</link>
+      <pubDate>Thu, 04 Aug 2016 23:55:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-131/</guid>
+      <description>A step back: failure, unhappiness, surge or pivot? Surge or pivot? - notes on failure
+The Human Cost of Tech Debt
+Culture Don’t Let Your Company Culture Just Happen
+What is culture? Business Building Happy Product Teams like Heist Teams by Laura Klein
+Everyone Is Not a Software Company
+Agile 12 Mistakes in Agile Manifesto
+The Role of an Architect on a Scrum Team
+Technical improvment Why Uber Engineering Switched from Postgres to MySQL - Uber Engineering Blog</description>
+    </item>
+    
+    <item>
+      <title>Feed #130 - Monday fun</title>
+      <link>https://titi.github.io/links/feed-130/</link>
+      <pubDate>Mon, 25 Jul 2016 23:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-130/</guid>
+      <description>Why can’t girls code?
+The Megaprocessor &amp;hellip;
+We did it! How a comment on HackerNews lead to 4 ½ new Unicode characters
+Illusion of the year: Ambiguous Cylinder
+The code that took America to the moon was just published to GitHub, and it’s like a 1960s time capsule
+Copy and paste this into google:
+5 + (-sqrt(1-x^2-(y-abs(x))^2))cos(30((1-x^2-(y-abs(x))^2))), x is from -1 to 1, y is from -1 to 1.5, z is from 1 to 6</description>
+    </item>
+    
+    <item>
+      <title>Feed #129</title>
+      <link>https://titi.github.io/links/feed-129/</link>
+      <pubDate>Thu, 21 Jul 2016 22:55:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-129/</guid>
+      <description>Work  As work gets more complex, 6 rules to simplify
+Multitasking is Killing Your Brain
+The Secrets of Great Teamwork - Harvard Business Review
+Scrum 8 ScrumMasters Antipatterns in Scrum
+Incentives and Deterrents for Starting Daily Scrums On Time
+Tips To Be a Successful Scrum Master
+Retromat
+TLS / HTTP2 Optimizing TLS over TCP to reduce latency
+HTTP/2 will make the Internet faster. So why the slow adoption?</description>
+    </item>
+    
+    <item>
+      <title>Feed #128</title>
+      <link>https://titi.github.io/links/feed-128/</link>
+      <pubDate>Mon, 13 Jun 2016 21:50:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-128/</guid>
+      <description>Improve The Kiss Principle
+Write Less Code
+How to Avoid Brittle Code
+Technical Leadership in Software Companies
+Coding the Architecture
+5 Things Nobody Tells You About DevOps 
+Javascript Six nifty ES6 tricks
+Must-watch talks about JavaScript
+What&amp;rsquo;s the difference between Polymer&amp;rsquo;s Shadow DOM and React&amp;rsquo;s Virtual DOM?
+Error tracking Helping web developers with JavaScript errors - Mozilla Hacks
+The Fine Art of JavaScript Error Tracking
+Flow vs TypeScript</description>
+    </item>
+    
+    <item>
+      <title>Feed #127</title>
+      <link>https://titi.github.io/links/feed-127/</link>
+      <pubDate>Thu, 26 May 2016 22:05:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-127/</guid>
+      <description>User experience Business Software Doesn&amp;rsquo;t Have to Hurt
+125 Easy Tweaks to Optimize Your Website’s Usability Today
+Long term quality Iterating Toward Legacy – Scrum’s Achilles Heel - Agile Alliance
+The Technical Debt Myth
+Technical Debt Shouldn&amp;rsquo;t Be Handled Like Financial Debt
+Test strategy Strategies for Writing Useful Tests
+Code Review Like You Mean It
+How to run database integration tests 20 times faster
+Security Browsers Chrome Chrome 51.0.2704.63 Stable Channel Update</description>
+    </item>
+    
+    <item>
+      <title>Feed #126</title>
+      <link>https://titi.github.io/links/feed-126/</link>
+      <pubDate>Mon, 23 May 2016 22:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-126/</guid>
+      <description>Constructors Constructor vs. Getter: A Better Way
+Beautiful Constructors Look Like This
+Object-Oriented Design Decisions: Stateful or Stateless Classes?
+New API Streamlining the Sign-in Flow Using Credential Management API - Google Developers
+Enabling HTTP/2 for Dropbox web services: experiences and observations - Dropbox Tech Blog
+Javascript ES6, ES7, and beyond - V8 JavaScript Engine
+Anders Hejlsberg: Introducing TypeScript - Channel 9
+TypeScript won
+After a year of using NodeJS in production</description>
+    </item>
+    
+    <item>
+      <title>Feed #125 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-125/</link>
+      <pubDate>Sun, 01 May 2016 22:45:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-125/</guid>
+      <description>Virtual Art Sessions - Chrome Experiment using Tilt Brush
+Original resume:
+David Prati — Digital art director
+Source: CommitStrip - QuickFix</description>
+    </item>
+    
+    <item>
+      <title>Feed #124</title>
+      <link>https://titi.github.io/links/feed-124/</link>
+      <pubDate>Wed, 27 Apr 2016 23:10:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-124/</guid>
+      <description>Agile The 11 habits of highly effective Agile delivery teams
+The Ultimate Scrum Reference Card
+CSS Initial, Inherit, Unset, and Revert
+Flexbox Patterns
+Why do Chinese websites look so busy?
+Engineering culture Bugs and cracks
+What Starbucks Can Teach Us About Software Scalability
+Shit Rolls Downhill - Brave New Geek
+InfoQ eMag: Designing Your Culture
+Some interesting things:
+ Sahota: &amp;ldquo;Bottom-up change is a myth.
+Top-down is where it’s at.</description>
+    </item>
+    
+    <item>
+      <title>Feed #123</title>
+      <link>https://titi.github.io/links/feed-123/</link>
+      <pubDate>Sun, 24 Apr 2016 23:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-123/</guid>
+      <description>Scaling Inside the Mind of Aaron Levie: Founder and CEO of Box
+Lessons from Building and Scaling LinkedIn
+Software has diseconomies of scale - not economies of scale
+Reliability Here’s How Google Makes Sure It (Almost) Never Goes Down
+The Bus factor
+Confessions of a Database Administrator
+Code Reviews Code Reviews Can Make or Break Your Team
+The Wrong Abstraction
+Give up Managed services killed DevOps
+Giving Up On TDD</description>
+    </item>
+    
+    <item>
+      <title>Feed #122 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-122/</link>
+      <pubDate>Sun, 17 Apr 2016 23:50:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-122/</guid>
+      <description>Which cat is your JavaScript framework?
+So, just how was that Chemical Brothers video made?
+What If Drivers Were Hired Like Programmers?
+Boys Noize on Twitter : &amp;ldquo;right @SoundCloud &amp;hellip;&amp;rdquo;
+Microsoft deletes &amp;lsquo;teen girl&amp;rsquo; AI after it became a Hitler-loving sex robot within 24 hours
+More at imgur
+I need a clever WiFi Name for the new router
+Source: CommitStrip - Too Full Stack
+Source: CommitStrip - The latest innovation from the media</description>
+    </item>
+    
+    <item>
+      <title>Feed #121</title>
+      <link>https://titi.github.io/links/feed-121/</link>
+      <pubDate>Wed, 13 Apr 2016 22:43:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-121/</guid>
+      <description>Improve 5 Skills a Software Developer Should Have to Be a Smart Developer
+Enterprise Requirements for Managing Feature Flags
+Web Security How Safe Browsing works in Firefox
+Advanced Web Security Topics 
+Email It&amp;rsquo;s Impossible to Validate an Email Address
+Do You Still Email Yourself From Your Code? How to Stop the Madness
+Agile Agile Failure Patterns In Organizations
+Hiring: 38 Scrum Master Interview Questions To Avoid Agile Imposters</description>
+    </item>
+    
+    <item>
+      <title>Feed #120</title>
+      <link>https://titi.github.io/links/feed-120/</link>
+      <pubDate>Tue, 05 Apr 2016 17:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-120/</guid>
+      <description>Safety Agility Requires Safety
+How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript
+Architecture LinkedIn Engineering - Q&amp;amp;A with Jim Brikman: Splitting Up a Codebase into Microservices and Artifacts
+How We Build Code at Netflix - The Netflix Tech Blog
+Build 2016 Microsoft is bringing the Bash shell to Windows 10
+Ubuntu on Windows &amp;ndash; The Ubuntu Userspace for Windows Developers
+Visual C++ for Linux Development</description>
+    </item>
+    
+    <item>
+      <title>Feed #119</title>
+      <link>https://titi.github.io/links/feed-119/</link>
+      <pubDate>Mon, 04 Apr 2016 17:20:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-119/</guid>
+      <description>Learning Learn X in Y minutes
+Today I Learned
+Craft Software Artisans: Craftsmanship as a Competitive Advantage - Director of Software Engineering at LinkedIn
+The Craft of Software Development
+Developers Stack Overflow Developer Survey 2016 Results
+We Hire the Best, Just Like Everyone Else - Jeff Atwood
+Browsers Chrome Releases - Stable Channel Update (Thursday, March 24, 2016)
+What’s new in Chromium 49 and Opera 36
+[FR] Comment créer un vaccin contre le ransomware Locky</description>
+    </item>
+    
+    <item>
+      <title>Feed #118</title>
+      <link>https://titi.github.io/links/feed-118/</link>
+      <pubDate>Fri, 11 Mar 2016 00:15:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-118/</guid>
+      <description>UX Users always choose the path of least resistance
+Performance is a feature - Peter Chamberlin (BBC News)
+Improve 8 Ways to Become a Better Coder
+What Happens To Older Programmers and Developers?
+The Biggest Challenge for Older Developers Is…
+The 13 Developer Skills That Will Get You Hired
+Security eBay Platform Exposed to Severe Vulnerability
+Why your phone’s security is unlike any other
+The NSA&amp;rsquo;s back door has given every US secret to our enemies - John McAfee</description>
+    </item>
+    
+    <item>
+      <title>Feed #117</title>
+      <link>https://titi.github.io/links/feed-117/</link>
+      <pubDate>Wed, 24 Feb 2016 23:40:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-117/</guid>
+      <description>Communication Communication: The First Casualty of a Team&amp;rsquo;s Growth
+GitHub Activity Guilt and the Coder&amp;rsquo;s FitBit - Scott Hanselman
+CSS Controlling Elements with JavaScript classList
+CSS Variables: Why Should You Care?
+No IE support yet&amp;hellip;
+Programming language Avoid the 10 Most Common Mistakes That Python Programmers Make
+C++ idioms
+Sotfware &amp;amp; Hardware stack Stack Overflow: The Architecture - 2016 Edition
+Smartphone &amp;amp; Privacy A Message to Our Customers - Apple</description>
+    </item>
+    
+    <item>
+      <title>Feed #116</title>
+      <link>https://titi.github.io/links/feed-116/</link>
+      <pubDate>Tue, 16 Feb 2016 19:52:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-116/</guid>
+      <description>Methods Technical Debt and Team Morale when Maintaining a Large System
+How Different Team Topologies Influence DevOps Culture
+Scientist: Measure Twice, Cut Over Once - GitHub Engineering
+A .NET port of Scientist
+UX How to Create Visually Effective Calls-To-Action
+UX Design And Content Strategy: The Project Guide
+AI In a Huge Breakthrough, Google’s AI Beats a Top Player at the Game of Go - Wired
+AlphaGo: Mastering the ancient game of Go with Machine Learning</description>
+    </item>
+    
+    <item>
+      <title>Feed #115</title>
+      <link>https://titi.github.io/links/feed-115/</link>
+      <pubDate>Wed, 27 Jan 2016 23:40:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-115/</guid>
+      <description>Guides DZone&amp;rsquo;s 2015 guide to Continuous Delivery
+InfoQ eMag: Patterns of DevOps Culture
+DZone&amp;rsquo;S 2015 guide to Application Security
+.NET To .NET or not to .NET, That is the Question
+ASP.NET 5 is dead - Introducing ASP.NET Core 1.0 and .NET Core 1.0 - Scott Hanselman
+Javascript ES6 Katas - Learn ECMAScript6 by doing it
+Building Offline Sites with ServiceWorkers and UpUp
+Membranes in JavaScript
+Browsers &amp;amp; Web development V8 Release 4.</description>
+    </item>
+    
+    <item>
+      <title>Feed #114</title>
+      <link>https://titi.github.io/links/feed-114/</link>
+      <pubDate>Mon, 18 Jan 2016 21:55:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-114/</guid>
+      <description>Improvment Move Fast and Fix Things - GitHub Engineering
+Normalization of Deviance in Software: How Completely Messed Up Practices Become Normal
+I am done with bad meetings
+Leveling Up Your Organization With System Reviews - Etsy
+Autonomy and Leadership at Spotify
+Open source Why I&amp;rsquo;m not using your open source project - Nicholas C. Zakas
+Cloud Nobody Knew How Big a Deal the Cloud Would Be—They Do Now - Wired</description>
+    </item>
+    
+    <item>
+      <title>Feed #113</title>
+      <link>https://titi.github.io/links/feed-113/</link>
+      <pubDate>Wed, 13 Jan 2016 00:20:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-113/</guid>
+      <description>Agile Agile and Leadership – Turn the Ship Around
+Towards an Agile Software Architecture
+Security Back to 28: Grub2 Authentication 0-Day
+Oracle ordered to admit on its website that it lost the plot on Java security
+Security Panel debuts in Chrome DevTools | Web Updates - Google Developers
+Web dev DevTools Digest (CDS Edition): A glimpse into the future + RAIL Profiling | Web Updates - Google Developers
+How to Write Unfancy Web Apps</description>
+    </item>
+    
+    <item>
+      <title>Feed #112 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-112/</link>
+      <pubDate>Sun, 10 Jan 2016 23:55:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-112/</guid>
+      <description>Ken &amp;amp; R-E&amp;rsquo;s Internet Controlled Christmas Lights
+Source: www.cloudtweaks.com
+Source: CommitStrip
+Building MirrorMirror:
 
-&lt;h1 id=&#34;teams&#34;&gt;Teams&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://hunterwalk.com/2016/09/03/google-finds-that-successful-teams-are-about-norms-not-just-smarts/&#34;&gt;Google Finds That Successful Teams Are About Norms Not Just Smarts&lt;/a&gt;&lt;/p&gt;
+Markus Fischer: A robot that flies like a bird - TED Talks
+Explore New Horizons - StarBnB
+(Which is a pardoy of Airbnb in case you didn&amp;rsquo;t get that ; from Pointless Corp - The Innovation Lab at Viget)</description>
+    </item>
+    
+    <item>
+      <title>Feed #111</title>
+      <link>https://titi.github.io/links/feed-111/</link>
+      <pubDate>Tue, 15 Dec 2015 23:00:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-111/</guid>
+      <description>Culture What Is Organizational Culture? And Why Should We Care?
+Understanding culture - Engineering Manager for the Netflix Build Tools team
+The 10 commandments of BlaBlaTech - BlaBlaCar
+Netflix Culture
+The HubSpot Culture Code: Creating a Company We Love
+Contributor Code of Conduct - Mono
+The Hugging Will Continue Until Morale Improves - Jeff Atwood
+Browser Support for older versions of Internet Explorer ends on January 12, 2016 - Microsoft</description>
+    </item>
+    
+    <item>
+      <title>Feed #110 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-110/</link>
+      <pubDate>Sun, 06 Dec 2015 18:00:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-110/</guid>
+      <description>Torvalds Announces Plans To Change Linux Line Endings To Letter Z
+Hacker Scripts
+Periodic Table of DevOps Tools
+Source: The New Framework</description>
+    </item>
+    
+    <item>
+      <title>Feed #109</title>
+      <link>https://titi.github.io/links/feed-109/</link>
+      <pubDate>Wed, 02 Dec 2015 23:50:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-109/</guid>
+      <description>Google+ goes completely responsive
+Instant Loading Web Apps With An Application Shell Architecture
+Chrome DevTools Deep-dive - Addy Osmani
+Introduction to RAIL (Chrome Dev Summit 2015): Dell has installed a rogue root CA on customer PC
+How to Prepare for Talks
+Really cool debugging:
+The story of one latency spike - Cloudflare
+Chrome 47.0.2526.73 Stable Channel Update
+A new way to save data with Chrome on Android</description>
+    </item>
+    
+    <item>
+      <title>Feed #108</title>
+      <link>https://titi.github.io/links/feed-108/</link>
+      <pubDate>Wed, 25 Nov 2015 22:50:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-108/</guid>
+      <description>Readability Refactoring Code For Readability
+Simple, Easy, Risk and Change - Anthony Ferrara
+Browsers Introducing EdgeHTML 13, our first platform update for Microsoft Edge - Microsoft Edge Dev Blog
+DevTools Challenger (with Firefox)
+User Experience 10 of the Best Slide Decks for Usability Optimization
+The Standardized User Experience Percentile Rank Questionnaire
+Etsy Q3 2015 Site Performance Report
+Job Ben Fathi: Why I Joined CloudFlare
+Don’t Sign That Contract! Developer Job Deal Breakers</description>
+    </item>
+    
+    <item>
+      <title>Feed #107 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-107/</link>
+      <pubDate>Sun, 22 Nov 2015 15:32:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-107/</guid>
+      <description>Zombie code: When maintainability goes out the window
+Coder epitaphs:
+Source: CommitStrip
+ngerakines/commitment
+ http://whatthecommit.com/ http://whatthecommit.com/index.txt  WebAgencyFail
+The Infinite Jukebox
+Watch People in Other Industries React Hilariously to Being Asked for Free Spec Work. Advertising, we have a problem By Tim Nudd
+The Codeless Code - Fables and Köans for the Software Engineer
+Pong + Pacman + Space Invaders!</description>
+    </item>
+    
+    <item>
+      <title>Feed #106</title>
+      <link>https://titi.github.io/links/feed-106/</link>
+      <pubDate>Sun, 22 Nov 2015 15:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-106/</guid>
+      <description>DNS An Introduction to Learning and Using DNS Records - Envato Tuts+ Code Tutorial
+Javascript Of Classes and Arrow Functions (a cautionary tale)
+Javascript quiz. ES6 edition. - Perfection Kills
+&amp;gt; Detailled solutions
+There’s a “bug” in ES6 modules - Swizec Teller
+Agile Microsoft&amp;rsquo;s 16 Keys To Being Agile At Scale - Forbes
+ &amp;ldquo;The authorities could make the freeway much safer by putting speed bumps every hundred yards, and a stop light every mile.</description>
+    </item>
+    
+    <item>
+      <title>Feed #105</title>
+      <link>https://titi.github.io/links/feed-105/</link>
+      <pubDate>Mon, 16 Nov 2015 23:02:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-105/</guid>
+      <description>Safe Browsing protection from even more deceptive attacks
+Flutter
+Linda Rising on Continuous Retrospectives
+Code Review Best Practices
+Développer sans faire d’estimation, le mouvement #NoEstimates
+Why do we need estimates?
+The Crowdsourcing of Software Quality - Scott Hanselman
+Set up a smoking Git shell on Windows
+10 Ad Blocking Extensions Tested for Best Performance
+Fail at Scale - Ben Maurer, Facebook
+TDD Anti-Patterns
+Create more than you consume - Medium</description>
+    </item>
+    
+    <item>
+      <title>Feed #104 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-104/</link>
+      <pubDate>Sun, 15 Nov 2015 12:44:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-104/</guid>
+      <description>Atari 2600 CPU plans
+HTML5 version of StarCraft game
+The Most Hackable Cars on the Road
+Real Life First Person Shooter (Chatroulette version): Source: How to choose the right JavaScript framework | CommitStrip
+Maybe not so funny after all:
+Source: Meanwhile, in a parallel universe | CommitStrip</description>
+    </item>
+    
+    <item>
+      <title>Feed #103</title>
+      <link>https://titi.github.io/links/feed-103/</link>
+      <pubDate>Thu, 12 Nov 2015 21:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-103/</guid>
+      <description>Why Performance Matters: The Perception Of Time
+Shared challenge, unique skills and a leader
+Elasticsearch at HipChat: 10x faster queries
+RAID: Obsolete? New Tech BTRFS/ZFS and &amp;ldquo;traditional&amp;rdquo; RAID: 12 Rules for Professional JavaScript in 2015
+The Boy With The Incredible Brain (Brain Man): Agile is just throwing stuff together as quickly as possible?
+The Story of Sharding at Box
+Zero-copy texture uploads in Chrome OS
+That (not so) awesome time the police raided my home</description>
+    </item>
+    
+    <item>
+      <title>Feed #102</title>
+      <link>https://titi.github.io/links/feed-102/</link>
+      <pubDate>Sat, 10 Oct 2015 23:17:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-102/</guid>
+      <description>ScyllaDB: Cassandra Rewritten In C++ (claims to be up to 10x faster)
+Adobe Security Bulletin - 23 exploits, 18 critical
+Principles of Chaos Engineering
+Chaos Engineering Upgraded - The Netflix Tech Blog
+Mobile Ad Networks as DDoS Vectors: A Case Study - CloudFlare Blog
+Can the “Speakularity” Be Secured? - F-Secure Labs
+ANT+ / Bluetooth Smart comparison
+Counting Objects (a git improvment) - GitHub Engineering
+Bitcode Demystified
+How the Enterprise Adopts the New Stack, or “I Said No, Dammit”</description>
+    </item>
+    
+    <item>
+      <title>Feed #101</title>
+      <link>https://titi.github.io/links/feed-101/</link>
+      <pubDate>Tue, 22 Sep 2015 23:49:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-101/</guid>
+      <description>React’s JSX: The Other Side of the Coin
+Improving Security for Bugzilla - Mozilla Security Blog
+Why Your Managers Think Your Software Quality is Great—or Not - Johanna Rothman
+C#: Program Entirely With Static Methods
+What makes a good Microsoft Defense Bounty submission? - Microsoft Security Research &amp;amp; Defense Blog
+Cloud … You’re Doing it Wrong!
+Deprecating the RC4 Cipher - Mozilla Security Blog
+Subresource Integrity - GitHub Engineering
+The underline at the intersection of UX design and usability</description>
+    </item>
+    
+    <item>
+      <title>Feed #100</title>
+      <link>https://titi.github.io/links/feed-100/</link>
+      <pubDate>Fri, 04 Sep 2015 22:26:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-100/</guid>
+      <description>64 bits How to Port a 9 Million Code Line Project to 64 bits?
+A Collection of Examples of 64-bit Errors in Real Programs
+Wow! Awesome article!
+And I keep this one for later
+Quality Are developers decreasing in quality?
+Creating a Maintainable Software Ecosystem
+How to write a great error message
+Lint Like It’s 2015
+5 Questions Every Unit Test Must Answer
+Improvement Chrome 46 Beta: Flexible animations and improved loading performance</description>
+    </item>
+    
+    <item>
+      <title>Feed #99</title>
+      <link>https://titi.github.io/links/feed-99/</link>
+      <pubDate>Wed, 02 Sep 2015 23:11:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-99/</guid>
+      <description>Agile Doc Norton - Agile Metrics - Velocity is NOT the Goal:
+I’m Not a Servant - I’m a Host! A New Metaphor for Leadership in Agile?
+Browsers Trackers Are Out Of Control - F-Secure labs
+How Microsoft built, and is still building, Windows 10
+Ending support for the RC4 cipher in Microsoft Edge and Internet Explorer 11
+Creating your own browser with HTML and JavaScript
+It is easier to understand on the MicrosoftEdge/JSBrowser GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Feed #98</title>
+      <link>https://titi.github.io/links/feed-98/</link>
+      <pubDate>Wed, 26 Aug 2015 23:37:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-98/</guid>
+      <description>Working software 12 things professional software developers do
+How to actually ship software that actually works
+Building Applications for Quality
+How to Prevent Catastrophic Failures in Complex Distributed Systems
+Tech lead The “tech” of a tech lead
+Why expert developers make the worst tech leads
+You don&amp;rsquo;t need Agile, just let the developers do what they think is right?
+Talking with Tech Leads now available in print
+Code C# Maintainability Guidelines</description>
+    </item>
+    
+    <item>
+      <title>Feed #97</title>
+      <link>https://titi.github.io/links/feed-97/</link>
+      <pubDate>Thu, 20 Aug 2015 23:22:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-97/</guid>
+      <description>Software Quality Software Quality at Top Speed
+ « Some project managers try to shorten their schedules by reducing the time spent on quality-assurance practices such as design and code reviews. Some shortchange the upstream activities of requirements analysis and design. Others&amp;ndash;running late&amp;ndash;try to make up time by compressing the testing schedule, which is vulnerable to reduction since it’s the critical-path item at the end of the schedule.
+These are some of the worst decisions a person who wants to maximize development speed can make.</description>
+    </item>
+    
+    <item>
+      <title>Feed #96 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-96/</link>
+      <pubDate>Sun, 16 Aug 2015 21:46:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-96/</guid>
+      <description>Source: Geek&amp;amp;Poke
+5 megabyte hard drive being shipped out, IBM 1956:
+Source: Geek&amp;amp;Poke
+First-Person Tetris
+Wurstify Your Web Experience</description>
+    </item>
+    
+    <item>
+      <title>Feed #95</title>
+      <link>https://titi.github.io/links/feed-95/</link>
+      <pubDate>Tue, 11 Aug 2015 23:33:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-95/</guid>
+      <description>Doing Terrible Things To Your Code - Jeff Atwood
+A deep look at CVE-2015-5477 and how CloudFlare Virtual DNS customers are protected - CloudFlare Blog
+Let’s Build A Web Server. Part 1.
+Let’s Build A Web Server. Part 2.
+Let’s Build A Web Server. Part 3.
+Cowboy coding
+Getting Started with Windows 10 - Scott Hanselman
+To Validate or Verify? - Sauce Labs Blog
+An Open Letter to Microsoft’s CEO: Don’t Roll Back the Clock on Choice and Control - The Mozilla Blog</description>
+    </item>
+    
+    <item>
+      <title>Feed #94</title>
+      <link>https://titi.github.io/links/feed-94/</link>
+      <pubDate>Tue, 28 Jul 2015 20:36:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-94/</guid>
+      <description>Awesome Java in Flames - Netflix
+How to receive a million packets per second - CloudFlare
+How does Shazam work
+CSS Checkbox Trickery with CSS
+Controlling The Box Model
+Understanding Block Formatting Contexts in CSS
+Software craftsmanship On Waiting to Write &amp;ldquo;Serious Code&amp;rdquo;
+Software engineers are lazy bastards (pt. 1)
+Software engineers are lazy bastards (pt. 2)
+Software engineers are lazy bastards (pt. 3)
+Upgrade jQuery 3.0 and jQuery Compat 3.</description>
+    </item>
+    
+    <item>
+      <title>Feed #93</title>
+      <link>https://titi.github.io/links/feed-93/</link>
+      <pubDate>Sun, 26 Jul 2015 23:55:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-93/</guid>
+      <description>Browsers Firefox 41 will use less memory when running AdBlock Plus
+Adobe Flash exploit that was leaked by Hacking Team goes wild; patch now!
+Revving up JavaScript performance with TurboFan
+Google Chrome Stable Channel Update - July 2015
+URI Cool URIs don&amp;rsquo;t change
+Which Uri Encoding method should i use in C#/.net?
+Improve Why offices are where work goes to die
+The Getting Better Moment
+Don’t Blame Bad Software on Developers – Blame it on their Managers</description>
+    </item>
+    
+    <item>
+      <title>Feed #92 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-92/</link>
+      <pubDate>Sun, 14 Jun 2015 18:29:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-92/</guid>
+      <description>Paris Metro lines on a Git graph
+Color Extraction Effect
+The Martian | Official Trailer Source
+Source</description>
+    </item>
+    
+    <item>
+      <title>Feed #91</title>
+      <link>https://titi.github.io/links/feed-91/</link>
+      <pubDate>Fri, 12 Jun 2015 00:14:18 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-91/</guid>
+      <description>Are You a Hacker or a Designer?
+People You Don&amp;rsquo;t Want On Your Team
+How to Write a Git Commit Message
+Software and Saving Babies
+Love your Architecture
+Service-Disoriented Architecture
+Emergency Security Band-Aids with Systemtap
+PCRE Heap Overflow in Regex Processing Lets Users Execute Arbitrary Code
+Inside NGINX: How We Designed for Performance &amp;amp; Scale
+Using Protobuf instead of JSON to communicate with a frontend
+An overview of Javascript reactive frameworks</description>
+    </item>
+    
+    <item>
+      <title>Feed #90</title>
+      <link>https://titi.github.io/links/feed-90/</link>
+      <pubDate>Tue, 09 Jun 2015 23:39:45 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-90/</guid>
+      <description>Quick answers to quick questions - Google Chrome Blog
+How to enable HTTP Strict Transport Security (HSTS) in IIS7+ - Scott Hanselman
+When designing your user interface, be mindful of the selection-readers
+We have a problem with promises
+How I learned to stop worrying and love React
+Ruby on Windows Guides
+Software Architecture in DevOps
+the responsibility we have as software engineers
+Zero-downtime Postgres migrations - the hard parts
+Over 30% of Official Images in Docker Hub Contain High Priority Security Vulnerabilities</description>
+    </item>
+    
+    <item>
+      <title>Feed #89 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-89/</link>
+      <pubDate>Sun, 07 Jun 2015 11:54:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-89/</guid>
+      <description>[FR] 30 phrases totalement insolites prononcées par des clients à des agences web
+http://www.in2white.com/
+https://twitter.com/glitchr_
+KUNG FURY Official Movie
+Kung fu, Nazis, kung führer!, hackerman, E=mc3, portal, dinausors, ninjas, vikings, thor,&amp;hellip; A.W.E.S.O.M.E. mashup and graphics The Dangers of Selfie Sticks PSA Elders Play Grand Theft Auto V #2 Elders Play The Last of Us Kids react to VCR/VHS Farthest flight by hoverboard - Guinness World Records Spammers just aren&amp;rsquo;t trying anymore</description>
+    </item>
+    
+    <item>
+      <title>Feed #88</title>
+      <link>https://titi.github.io/links/feed-88/</link>
+      <pubDate>Sat, 06 Jun 2015 23:31:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-88/</guid>
+      <description>Cloud Why You Should Use Cloud Services
+Code 7 Villains You Have To Crush When Learning to Code
+The Carrying-Cost of Code: Taking Lean Seriously
+Boldly refactoring complex code
+Merge Headache — Don’t Re-Purposes a class, create a new one - Excellent tip from CodeBetter.com!
+Battery Batteriser is a $2.50 gadget that extends disposable battery life by 800 percent
+Better battery life for your laptop - Google Chrome Blog</description>
+    </item>
+    
+    <item>
+      <title>Feed #87</title>
+      <link>https://titi.github.io/links/feed-87/</link>
+      <pubDate>Thu, 28 May 2015 00:47:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-87/</guid>
+      <description>Hacking Hacking Starbucks for unlimited coffee
+Stalking Your Friends with Facebook Messenger
+Clipboard Hijacking with HTML5
+Software Development 101 Five programming problems every Software Engineer should be able to solve in less than 1 hour
+Solution to Problem 5 and some other thoughts about this type of questions
+Carnac the Magnificent (other solutions and thoughts on the very same question)
+7 Mistakes You’re Making In Your Programming Career
+Back to basics: Visual Studio tips</description>
+    </item>
+    
+    <item>
+      <title>Feed #86</title>
+      <link>https://titi.github.io/links/feed-86/</link>
+      <pubDate>Sun, 24 May 2015 22:22:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-86/</guid>
+      <description>Trust Product Development is a Trust Fall
+Is Predictability Really What We Want?
+Architecture &amp;amp; Performance Under the hood: Facebook’s cold storage system
+How to load test &amp;amp; tune performance on your API (Part I)
+Application Design: Going Stateless on Azure
+Elements of Scale: Composing and Scaling Data Platforms
+Deployment Stay Competitive: Keep Your Team Fast and Focused
+Webinar: Ship Faster without Breaking Everything
+Product managment A bug, an error, or fault, and the irrelevance of classification</description>
+    </item>
+    
+    <item>
+      <title>Feed #85 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-85/</link>
+      <pubDate>Sun, 24 May 2015 22:14:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-85/</guid>
+      <description>Luke (11y.o) solving the MoYu 13x13 Cube in 5h30m:
 
-&lt;p&gt;&lt;a href=&#34;http://firstround.com/review/the-rewards-of-creator-driven-cultures-and-the-engineers-that-can-deliver-them/&#34;&gt;The Rewards of Creator-Driven Cultures — And The Engineers That Can Deliver Them&lt;/a&gt;&lt;/p&gt;
+Cute video blends playful child with Super Mario Bros. effects The US Navy&amp;rsquo;s X-47B performs the first ever autonomous midair refueling:
+Thalmic Labs - Makers of Myo gesture control armband</description>
+    </item>
+    
+    <item>
+      <title>Feed #84</title>
+      <link>https://titi.github.io/links/feed-84/</link>
+      <pubDate>Thu, 21 May 2015 23:36:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-84/</guid>
+      <description>Practices The bunny theory of code - Nicholas C. Zakas
+The subtleties of developer commitment
+Effective learning through code workshops - Box Blog
+Moving from Infrastructure Automation to True DevOps
+Scrum and Kanban Scrum-ban
+The Kanban paradox
+Cloud AWS “Noisiness”
+Developing Software for the Cloud: The DHARMA Principles
+Short version in ~60 slides
+Microsoft Edge Using Chakra for Scripting Applications across Windows 10
+Delivering fast JavaScript performance in Microsoft Edge</description>
+    </item>
+    
+    <item>
+      <title>Feed #83 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-83/</link>
+      <pubDate>Sun, 17 May 2015 16:17:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-83/</guid>
+      <description>SWAPI - The Star Wars API
+WordPress 4.3 will be rewritten in Node.js
+These are the messages hidden in Belfiore&amp;rsquo;s Windows binary shirt
+Arduboy a $40 credit-card-sized game system for playing and coding
+Source
+Source
+Kids hack their Dad&amp;rsquo;s computer on her Raspberry Pi: (this kid is going places!) Jetman Dubai : Young Feathers 4K Is it Better to Walk or Run in the Rain? The MOVA Rotating Globe: Bohemian Rhapsody Played by 100+ year old fairground organ: Jamiroquai - Virtual Insanity - The Game: avoid sofas!</description>
+    </item>
+    
+    <item>
+      <title>Feed #82</title>
+      <link>https://titi.github.io/links/feed-82/</link>
+      <pubDate>Fri, 15 May 2015 19:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-82/</guid>
+      <description>Methodologies and Culture The Failure of Agile - Andy Hunt (One of the 17 founders/authors of the The Agile Manifesto)
+The GROWS Method™
+Intent based leadership
+From David Marquet, a former captain of multiple nuclear powered attack submarines. Stephen R. Covey (The 7 Habits of Highly Effective People) met him on the U.S.S. Santa Fe submarine.
+At Imgur, Everything is an Iteration
+Development Microsoft Demonstrates Docker in Build 2015 Keynote Address</description>
+    </item>
+    
+    <item>
+      <title>Feed #81</title>
+      <link>https://titi.github.io/links/feed-81/</link>
+      <pubDate>Wed, 13 May 2015 00:31:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-81/</guid>
+      <description>Process and DevOps &amp;ldquo;Command and Control&amp;rdquo;? I don&amp;rsquo;t think that means what you think it means
+Documentation creates contract, which is why you need to be very careful what you document
+Not Just Faster Releases; Better Understanding
+A scalable software development organization? This is how you do it!
+Evolving your agile architecture without loosing any people
+DevOps is Killing Maintenance. Let’s Celebrate. - Building Real Software
+The sad state of sysadmin in the age of containers</description>
+    </item>
+    
+    <item>
+      <title>Feed #80</title>
+      <link>https://titi.github.io/links/feed-80/</link>
+      <pubDate>Thu, 07 May 2015 08:21:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-80/</guid>
+      <description>Browsers Cleaning up misleading advertisements - Microsoft Malware Protection Center
+Great to see Microsoft finally work on this! Maybe just a way to keep up with Google initiatives:
+ Out with unwanted ad injectors Even more unwanted software protection via the Safe Browsing API More Protection from Unwanted Software  &amp;hellip; and Google just release &amp;ldquo;the results of a study performed with the University of California, Berkeley and Santa Barbara that examines the ad injector ecosystem, in-depth, for the first time&amp;rdquo;: New Research: The Ad Injection Economy - Google Online Security Blog</description>
+    </item>
+    
+    <item>
+      <title>Feed #79</title>
+      <link>https://titi.github.io/links/feed-79/</link>
+      <pubDate>Wed, 06 May 2015 00:22:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-79/</guid>
+      <description>Goodbye Patch Tuesday
+Creating a Culture of Performance
+&amp;ldquo;Reproducible&amp;rdquo;
+Pony - High Performance Actor Programming
+Introducing FIDO: Automated Security Incident Response - The Netflix Tech Blog
+Dropping support for binary components in extensions - Mozilla Add-ons Blog
+Try Zsh.
+Redis RAM Ramifications – Part I
+There’s a lot to explore with Google Play services 7.3 - Android Developers Blog
+3 Questions of Effective Daily Meetings
+Zero-Overhead Metaprogramming
+MVC: misunderstood for 37 years</description>
+    </item>
+    
+    <item>
+      <title>Feed #78</title>
+      <link>https://titi.github.io/links/feed-78/</link>
+      <pubDate>Mon, 04 May 2015 23:57:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-78/</guid>
+      <description>Security London Railway System Passwords Exposed During TV Documentary
+A Javascript-based DDoS Attack as seen by Safe Browsing - Google Online Security Blog
+Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.
+Quality Assurance Code Reviews: Follow the Data
+The case of the “Page can’t be displayed” intermittent selenium test
+SQL Performance Increasing slow query performance with the parallel query execution
+Illustrating Primary Key models in InnoDB and their impact on disk usage</description>
+    </item>
+    
+    <item>
+      <title>Feed #77 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-77/</link>
+      <pubDate>Sun, 03 May 2015 00:11:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-77/</guid>
+      <description>Hacking an epic NHL goal celebration with a hue light show and real-time machine learning
+The Lighter Side Of The Cloud - Transformation
+Source: David Fletcher
+Source: Geek&amp;amp;Poke
+That&amp;rsquo;s not how you start a boat
+(also, first comment is quite a story too)</description>
+    </item>
+    
+    <item>
+      <title>Feed #76</title>
+      <link>https://titi.github.io/links/feed-76/</link>
+      <pubDate>Sun, 03 May 2015 00:08:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-76/</guid>
+      <description>Software Security An introduction to JavaScript-based DDoS - CloudFlare
+Let&amp;rsquo;s Play a Game - find bugs in popular open-source projects - Intel® Developer Zone
+Can DevOps(Sec) make Software more Secure?
+Agile Lessons from Scrum
+Agile Metrics to the People!
+Visual Studio GitHub Inside Your Visual Studio
+Introducing Visual Studio Code for Windows, Mac, and Linux - Scott Hanselman / Microsoft
+Browsers Microsoft Edge Will Support Firefox And Chrome Extensions</description>
+    </item>
+    
+    <item>
+      <title>Feed #75</title>
+      <link>https://titi.github.io/links/feed-75/</link>
+      <pubDate>Thu, 30 Apr 2015 20:46:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-75/</guid>
+      <description>Development The Next Most Important Thing
+How To Become A UX Leader - Smashing Magazine
+The origins of Trunk Based Development
+Estimates or #noestimates… It’s All a Matter of Context
+C++ Quiz
+Lessons Learned in Software Development
+What Makes a Good Programmer?
+Four Days of Go
+Book Review: Software Architecture for Developers
+Security How to Detect Sneaky NSA ‘Quantum Insert’ Attacks - wired.com
+Privilege Escalation via Docker
+Browsers Microsoft Edge is the browser for Windows 10</description>
+    </item>
+    
+    <item>
+      <title>Feed #74</title>
+      <link>https://titi.github.io/links/feed-74/</link>
+      <pubDate>Tue, 28 Apr 2015 08:52:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-74/</guid>
+      <description>Recovering data AMAZING story of data recovery from a laptop with full-disk TrueCrypt encryption:
+A back-to-front TrueCrypt recovery story: The plaintext is the ciphertext
+Methodologies Modern Extreme Programming
+How Do Your Estimates Provide Value? (2 pages) - Johanna Rothman
+Demand higher standards
+The Zero, One, Infinity Disease
+Dumbing Things Down
+A Dreyfus model for Agile adoption
+Why “No Source Control” Is Not A Problem
+GitHub and Jenkins integration
+GitHub and Jenkins pull request checking</description>
+    </item>
+    
+    <item>
+      <title>Feed #73 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-73/</link>
+      <pubDate>Sun, 26 Apr 2015 21:10:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-73/</guid>
+      <description>CRS-6 First Stage Landing - SpaceX 
+When is Cheryl&amp;rsquo;s birthday?&amp;rsquo; The tricky maths problem that has everyone stumped
+CGA in 1024 Colors - a New Mode: the Illustrated Guide
+Code Kingdoms - A game that teaches kids how to code
 
-&lt;h1 id=&#34;algorithm&#34;&gt;Algorithm&lt;/h1&gt;
+Last Week Tonight with John Oliver: Patents 
+Star Wars A Son&amp;rsquo;s reaction to &amp;lsquo;Empire Strikes Back&amp;rsquo; reveal!!!! BB-8 is real! But how did they do it?</description>
+    </item>
+    
+    <item>
+      <title>Feed #72</title>
+      <link>https://titi.github.io/links/feed-72/</link>
+      <pubDate>Sun, 26 Apr 2015 21:08:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-72/</guid>
+      <description>Bad UX and User Self-Blame - &amp;ldquo;I&amp;rsquo;m sorry, I&amp;rsquo;m not a computer person.&amp;rdquo; - Scott Hanselman
+U.S. Digital Services Playbook
+Your Password is Too Damn Short - Jeff Atwood
+Go&amp;rsquo;s error handling: good and bad
+A beginner’s guide to Cache synchronization strategies
+RFIDs, Encryption, and Stop Rules&amp;hellip; Oh My!
+Free personality test
+Developer Personalities: Audience Brief
+Jsonnet: a more elegant language for composing JSON - Google Open Source Blog
+Nobody cares about your code</description>
+    </item>
+    
+    <item>
+      <title>Feed #71</title>
+      <link>https://titi.github.io/links/feed-71/</link>
+      <pubDate>Sat, 25 Apr 2015 11:50:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-71/</guid>
+      <description>Performance Web Performance is not an IT thing only!
+Opera’s work to reduce Chromium’s memory use
+Isolating Linux High System Load
+Managing big enough data in postgres
+Improvment My Most Frequent Code Review Comment
+A Million Lines of Bad Code
+Shades of Grey
+Oblique Strategies: Prompts for Programmers
+KISS With Essential Complexity
+Announces Microsoft Adopts Google’s Bounty Strategy
+Announcing Globalize 1.0 - jQuery blog
+Security Statistics Will Crack Your Password</description>
+    </item>
+    
+    <item>
+      <title>Feed #70</title>
+      <link>https://titi.github.io/links/feed-70/</link>
+      <pubDate>Wed, 22 Apr 2015 22:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-70/</guid>
+      <description>Network layer Let&amp;rsquo;s not use HTTP over TCP for mobile apps anymore
+A QUIC update on Google’s experimental transport
+China’s Great Cannon
+Communication What good listeners do
+Consensus-Driven Development - Nicholas C. Zakas
+New and exciting stuff Linux Kernel 4.0 Features Live Kernel Patching
+Docker Client for Windows is Now Available
+Process Changing the Tires
+Operationalizing Strategy with a Systems Perspective
+Google Chrome Google Chrome 42 Stable Disables Java / Silverlight By Default</description>
+    </item>
+    
+    <item>
+      <title>Feed #69</title>
+      <link>https://titi.github.io/links/feed-69/</link>
+      <pubDate>Fri, 17 Apr 2015 01:01:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-69/</guid>
+      <description>The Hiring Post
+Ever wanted to mix a web page with NodeJS? Here you go: NW.js
+Protection against critical Windows vulnerability (CVE-2015-1635)
+Remote Code Execution Via HTTP Request In IIS On Windows
+By the way checkout this extension for Google Chrome: Project Naptha
+The oldest trick in the ASCII book
+(or how to do a fast case-insensitive comparison)
+How to peel off Post-its
+JavaScript coercion rules
+TortoiseHg 3.3.3
+&amp;gt; Evolve extension is now bundled.</description>
+    </item>
+    
+    <item>
+      <title>Feed #68 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-68/</link>
+      <pubDate>Sun, 12 Apr 2015 10:43:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-68/</guid>
+      <description>True story &amp;ldquo;We can&amp;rsquo;t send mail farther than 500 miles from here&amp;rdquo;
+Scrum How to Create Products that Customers Hate
+A tall graphic to show Mt. Everest scale
+Bad faith [FR] Petit recueil de 18 moisissures argumentatives pour concours de mauvaise foi
+Tickets Source: This rare moment of richness</description>
+    </item>
+    
+    <item>
+      <title>Feed #67</title>
+      <link>https://titi.github.io/links/feed-67/</link>
+      <pubDate>Sat, 11 Apr 2015 10:40:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-67/</guid>
+      <description>Announcing Git Large File Storage (LFS) - GitHub
+The cost of not properly managing your databases
+Rethinking Application Performance When Migrating to the Cloud
+Scaling Lessons From The Fastest Growing SaaS Company Ever
+Who moved my 99th percentile latency? - LinkedIn Engineering
+I Quit: What Really Goes on at Apple
+Material design
+Building a lower-latency GC
+What is Agile’s Biggest Shortcoming?
+[FR] Le gouvernement veut-il contraindre les hébergeurs Internet à l&amp;rsquo;exil ?</description>
+    </item>
+    
+    <item>
+      <title>Feed #66</title>
+      <link>https://titi.github.io/links/feed-66/</link>
+      <pubDate>Thu, 09 Apr 2015 22:52:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-66/</guid>
+      <description>Microsoft Unveils New Container Technologies for the Next Generation Cloud
+Microsoft Announces Nano Server for Modern Apps and Cloud
+Scaling out PostgreSQL for CloudFlare Analytics using CitusDB - CloudFlare
+Introducing Vector: Netflix&amp;rsquo;s On-Host Performance Monitoring Tool - Netflix
+Guest Post: What Automated Testing Really Provides
+Responsive Tables in Pure CSS
+Impressive and elegant! (When on CodePen, resize your browser)
+Angular 2: Built on TypeScript
+The Rise of TypeScript?
+VP9: Faster, better, buffer-free YouTube videos</description>
+    </item>
+    
+    <item>
+      <title>Feed #65</title>
+      <link>https://titi.github.io/links/feed-65/</link>
+      <pubDate>Wed, 08 Apr 2015 23:40:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-65/</guid>
+      <description>How I could delete any video on YouTube
+Annotated Version of the Original jQuery Release - John Resig
+Web Fundamentals - Google Developers
+The Daily Stand-up is an Antipattern
+Writing Good Code
+Practical Tips + Tricks for Selenium Test Automation
+Unit Testing Points of View, Probably
+Clean Up Your Mess - A Guide to Visual Design for Everyone
+The data
+Monitoring Check Smells</description>
+    </item>
+    
+    <item>
+      <title>Feed #64</title>
+      <link>https://titi.github.io/links/feed-64/</link>
+      <pubDate>Tue, 07 Apr 2015 22:21:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-64/</guid>
+      <description>Stats Stack Overflow Developer Survey 2015: The Results
+How We Spend Our Money, a Breakdown
+Continuous Delivery 5 Things You Should Know About Continuous Deployment…by the Man Who Coined the Term
+Is Continuous Delivery Riskier?
+Surveillance and security Last Week Tonight with John Oliver: Government Surveillance (HBO):
+&amp;ldquo;John Oliver sits down with Edward Snowden to discuss the NSA, the balance between privacy and security, and dick-pics.&amp;rdquo;
+(you can jump to ~16:00 for the Snowden interview) New LinkedIn Security Site: Helping Members and Businesses Better Understand our Security Practices</description>
+    </item>
+    
+    <item>
+      <title>Feed #63 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-63/</link>
+      <pubDate>Sun, 05 Apr 2015 00:28:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-63/</guid>
+      <description>Special April Fools&amp;rsquo; Day - April 1, 2015 elgooG - https://com.google/
+Re-rethinking computing
+Introducing a Massage API
+Microsoft launches MS-DOS Mobile
+CERN researchers confirm existence of the Force
+These CGI Images Are So Realistic That They Look Like Actual Photographs
+Google Fiber - Introducing Dial-Up mode: The Hovering Mouse - Project McFly | Razer: April Fools Video Prank in Math Class: (This teacher did other similar videos on previous years, check out his channel!</description>
+    </item>
+    
+    <item>
+      <title>Feed #62</title>
+      <link>https://titi.github.io/links/feed-62/</link>
+      <pubDate>Sat, 04 Apr 2015 19:43:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-62/</guid>
+      <description>Browsers On the importance of OpenSearch
+Chrome DevTools: State Of The Union 2015 - Addy Osmani
+Improvments in the the network panel are great (new waterfall bars, search filters, expand timeline).
+Performance case study is definitively worth a read for jQuery .hide()/.show().
+I&amp;rsquo;m a big fan of the FlameChart and script Blackboxing tools. Comin soon features such as Animations and Promises inspectors seem really powerfull.
+Process Given Enough Money, All Bugs Are Shallow - Jeff Atwood</description>
+    </item>
+    
+    <item>
+      <title>Feed #61</title>
+      <link>https://titi.github.io/links/feed-61/</link>
+      <pubDate>Fri, 03 Apr 2015 00:23:48 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-61/</guid>
+      <description>Security China&amp;rsquo;s Man-on-the-Side Attack on GitHub
+Remote Code Execution Possible Via Dell System Detect - F-Secure Weblog
+This is really bad&amp;hellip;
+Maintaining digital certificate security - Google Online Security
+Distrusting New CNNIC Certificates - Mozilla Security Blog
+Truecrypt report
+Nothing bad found on the technical side. What about the human one?
+Scrum The One Immutable Law of Adopting Agile
+The Product Roadmap and the Product Backlog
+Every Great Product Owner Needs a Great ScrumMaster</description>
+    </item>
+    
+    <item>
+      <title>Feed #60</title>
+      <link>https://titi.github.io/links/feed-60/</link>
+      <pubDate>Tue, 31 Mar 2015 19:30:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-60/</guid>
+      <description>Process The Reactive Manifesto
+Who Builds a House without Drawing Blueprints?
+ &amp;ldquo;Architects draw detailed plans before a brick is laid or a nail is hammered. But few programmers write even a rough sketch of what their programs will do before they start coding. We can learn from architects.&amp;rdquo;
+ How Amazon Web Services Uses Formal Methods
+Javascript The poor, misunderstood innerText
+How to wait for DOM elements to show up in modern browsers</description>
+    </item>
+    
+    <item>
+      <title>Feed #59</title>
+      <link>https://titi.github.io/links/feed-59/</link>
+      <pubDate>Tue, 31 Mar 2015 00:09:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-59/</guid>
+      <description>User Experience (UX): Controlling Your Environment Makes You Happy - Joel Spolsky
+A Googler’s Critique of Google Performance Reviews
+Why Managers Ask for Estimates and What They Need to Know - Johanna Rothman
+A Software Craftsman Is
+Scaled Agile Framework
+What I’ve Learned from Fred Wilson
+Complexity theory isn’t required to be a programmer
+Multiple projects in Visual Studio solutions considered harmful
+Highly Strung
+Several examples about string pitfalls (complexity, security, coupling, type system, &amp;hellip;) and how to fix them.</description>
+    </item>
+    
+    <item>
+      <title>Feed #58 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-58/</link>
+      <pubDate>Sun, 29 Mar 2015 19:36:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-58/</guid>
+      <description>The User is Drunk
+Source
+How best to sabotage your product (Agile Methodologies)
+We needed to send in pictures of our server rooms for an audit. This is what our Melbourne office sent in&amp;hellip;
 
-&lt;p&gt;&lt;a href=&#34;https://code.facebook.com/posts/1658392934479273/smaller-and-faster-data-compression-with-zstandard/&#34;&gt;Smaller and faster data compression with Zstandard&lt;/a&gt; - Facebook Engineering Blog&lt;/p&gt;
+You know he&amp;rsquo;s that teacher that all the students want for their science class
+Way too much time: Let&amp;rsquo;s play Half-Life&amp;hellip; UPSIDE DOWN
+Video Game Console Wars | Battle Damage :
+Fraudster escapes from one of Britain&amp;rsquo;s most secure prisons by forging letter granting him bail - Social engineering</description>
+    </item>
+    
+    <item>
+      <title>Feed #57</title>
+      <link>https://titi.github.io/links/feed-57/</link>
+      <pubDate>Sun, 29 Mar 2015 18:45:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-57/</guid>
+      <description>Code Avoid Perpetuating These Things In Your Code
+ Indeed, &amp;ldquo;There are only two hard things in Computer Science: cache invalidation and naming things.&amp;ldquo;
+ Agile Agile Team Member Anti-Patterns
+Technical Debt Is Inevitable
+Programming languages Node.js Meets .NET – Edge.js
+5 things you need to know about PHP 7
+First time I&amp;rsquo;ve heard of the Spaceship Operator
+Dart for the Entire Web 
+DevTools Advanced Performance Audits With DevTools - Paul Irish (Google Chrome)</description>
+    </item>
+    
+    <item>
+      <title>Feed #56</title>
+      <link>https://titi.github.io/links/feed-56/</link>
+      <pubDate>Wed, 25 Mar 2015 21:37:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-56/</guid>
+      <description>Programming languages The JavaScript World Domination
+Classp: a “classier” way to parse 
+Conception &amp;amp; Team work The Idiot Line
+Valuing the clarity of code Code As Documentation - Martin Fowler
+ &amp;ldquo;it&amp;rsquo;s important that programmers put in the effort to make sure that this code is clear and readable&amp;rdquo;
+ YES! And that is important because It’s harder to read code than to write it.
+Also worth the read:</description>
+    </item>
+    
+    <item>
+      <title>Feed #55</title>
+      <link>https://titi.github.io/links/feed-55/</link>
+      <pubDate>Tue, 24 Mar 2015 23:12:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-55/</guid>
+      <description>Browsers All Major Browsers Fall at Pwn2Own Day 2
+Getting Under The Hood (Debug Deezer with Google Chrome &amp;amp; Fiddler)
+HTML / CSS Primer - The CSS toolkit and guidelines that power GitHub
+HTML5 Please
+Javascript wallaby.js
+regular expression and slash
+A Baseline for Front-End [JS] Developers: 2015 - Rebecca Murphey
+Severe bug After the linux steam bug, another rm -rf /* story:
+Bug 1202858 – restarting squid results in deleting all files in hard-drive (rm -rf /*)</description>
+    </item>
+    
+    <item>
+      <title>Feed #54</title>
+      <link>https://titi.github.io/links/feed-54/</link>
+      <pubDate>Fri, 20 Mar 2015 10:27:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-54/</guid>
+      <description>Engineering management This Is What Impactful Engineering Leadership Looks Like - Dropbox
+Long but very interesting article about engineering management, software conception and guardrails.
+Testing Excuses For Not Testing 
+ &amp;ldquo;We complain that our managers don’t want us to write unit test. But the problem is that you asked for permission in the first place. And, by asking for permission, you’ve basically told your manager that unit testing is optional.</description>
+    </item>
+    
+    <item>
+      <title>Feed #53</title>
+      <link>https://titi.github.io/links/feed-53/</link>
+      <pubDate>Wed, 18 Mar 2015 17:04:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-53/</guid>
+      <description>Microsoft will let you upgrade to Windows 10 for free, even if you&amp;rsquo;re running a pirated version
+Later the same day&amp;hellip; The Windows 10 free upgrade for pirates: More confusing than it seems
+Open Source Libraries
+There will be failures – On systems that live through difficulties instead of turning them into a catastrophy
 
-&lt;p&gt;&lt;a href=&#34;https://code.facebook.com/posts/697469023742261/360-video-stabilization-a-new-algorithm-for-smoother-360-video-viewing/&#34;&gt;360 video stabilization: A new algorithm for smoother 360 video viewing&lt;/a&gt; - Facebook Engineering Blog&lt;/p&gt;
-
-&lt;h1 id=&#34;google-cast&#34;&gt;Google Cast&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://chrome.googleblog.com/2016/08/google-cast-is-now-built-in-to-chrome.html&#34;&gt;Google Cast is now built-in to Chrome &lt;/a&gt; - Chrome Blog&lt;/p&gt;
-
-&lt;h1 id=&#34;javascript&#34;&gt;Javascript&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ryanmorr.com/true-hash-maps-in-javascript/&#34;&gt;True Hash Maps in JavaScript&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/5-javascript-bad-parts-that-are-fixed-in-es6-free?edition=203676&#34;&gt;5 JavaScript &amp;ldquo;Bad&amp;rdquo; Parts That Are Fixed in ES6&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/es6-destructuring-in-depth-2?edition=154268&#34;&gt;ES6 Destructuring In-Depth&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://bouk.co/blog/hacking-developers/&#34;&gt;How to steal any developer&amp;rsquo;s local database&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.rafayhackingarticles.net/2016/08/google-chrome-firefox-address-bar.html&#34;&gt;Google Chrome, Firefox Address Bar Spoofing Vulnerability&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/oldnewthing/20160816-00/?p=94105&#34;&gt;There are really only two effectively distinct settings for the UAC slider&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;backlog&#34;&gt;Backlog&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.productplan.com/5-signs-product-backlog-black-hole/&#34;&gt;5 Signs Your Product Backlog is a Black Hole (and What to Do About it)&lt;/a&gt;&lt;/p&gt;
-</description>
+Well, software is eating the world&amp;hellip;
+ How is it even possible for code to be this bad?</description>
+    </item>
+    
+    <item>
+      <title>Feed #52</title>
+      <link>https://titi.github.io/links/feed-52/</link>
+      <pubDate>Tue, 17 Mar 2015 19:50:40 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-52/</guid>
+      <description>Psychology Not invented here (NIH)
+Tracking Joy at Work
+The Wrong way to do Agile The Wrong way to do Agile: Retrospectives
+The Wrong way to do Agile: Planning
+The Wrong way to do Agile: Stand-ups
+Quality at Speed
+Future and security A Richter scale for outages
+Also see Recovery time objective &amp;amp; similar
+Samsung SmartTV privacy policy vs 1984
+Ford, GM, Toyota Slammed With Suit Over Hacking Risks</description>
+    </item>
+    
+    <item>
+      <title>Feed #51 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-51/</link>
+      <pubDate>Sun, 15 Mar 2015 10:28:57 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-51/</guid>
+      <description>Things IT People Never Say: [Science Video] Does Alcohol Really Keep You Warm?
+YES! Someone Built an Actual Star Wars Speeder Bike Quadcopter!
+Eavesdropping Barbie is &amp;ldquo;downright creepy,&amp;rdquo; privacy advocates say
+Deus Ex: Human Revolution - Graphics Study
+Coffee table upgrade!
+Source
+In case you missed it: The dress (viral phenomenon)
+Source: http://www.commitstrip.com/en/2015/03/13/coding-with-a-hangover/
+Source: http://www.commitstrip.com/en/2015/03/06/welcome-to-the-house-of-code/
+FR:
+Piratage du Connected Drive de BMW et Mini Austin
+Bitoduc.fr : termes informatiques en français</description>
+    </item>
+    
+    <item>
+      <title>Feed #50</title>
+      <link>https://titi.github.io/links/feed-50/</link>
+      <pubDate>Fri, 13 Mar 2015 21:08:51 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-50/</guid>
+      <description>What is good code? A scientific definition
+Introducing Google Cloud Storage Nearline: (near)online data at an offline price
+Security Issue: Combining Bcrypt With Other Hash Functions</description>
+    </item>
+    
+    <item>
+      <title>Feed #49</title>
+      <link>https://titi.github.io/links/feed-49/</link>
+      <pubDate>Tue, 10 Mar 2015 23:47:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-49/</guid>
+      <description>Exploiting the DRAM rowhammer bug to gain kernel privileges  - Crazy scary stuff!
+The Shallow Dive into Chaos</description>
+    </item>
+    
+    <item>
+      <title>Feed #48</title>
+      <link>https://titi.github.io/links/feed-48/</link>
+      <pubDate>Mon, 09 Mar 2015 10:12:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-48/</guid>
+      <description>Is Babar a Bunny?
+Two Minute Drill: Introduction to XPerf
+Source: http://www.commitstrip.com/en/2015/03/06/welcome-to-the-house-of-code/</description>
+    </item>
+    
+    <item>
+      <title>Feed #47</title>
+      <link>https://titi.github.io/links/feed-47/</link>
+      <pubDate>Thu, 05 Mar 2015 09:25:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-47/</guid>
+      <description>Putting Security into Sprints
+Agile Development Using Microsoft Security Development Lifecycle
+No Time to Learn</description>
+    </item>
+    
+    <item>
+      <title>Feed #46</title>
+      <link>https://titi.github.io/links/feed-46/</link>
+      <pubDate>Wed, 04 Mar 2015 09:03:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-46/</guid>
+      <description>Balanced Abstraction Principle
+http://martinfowler.com/bliki/BeckDesignRules.html</description>
+    </item>
+    
+    <item>
+      <title>Feed #45</title>
+      <link>https://titi.github.io/links/feed-45/</link>
+      <pubDate>Tue, 24 Feb 2015 09:19:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-45/</guid>
+      <description>Experience Report: Weak Code Ownership
+Heisenberg Developers
+Coconut Headphones: Why Agile Has Failed</description>
+    </item>
+    
+    <item>
+      <title>Feed #44</title>
+      <link>https://titi.github.io/links/feed-44/</link>
+      <pubDate>Tue, 17 Feb 2015 09:36:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-44/</guid>
+      <description>Don’t waste time tracking technical debt
+Nobody Ever Gets Credit for Fixing Problems that Never Happened
+ Consequently, most organizations reward last- minute problem solving over the learning, training, and improvement activities that prevent such crises in the first place. As an engineer at an auto company told us, “Nobody ever gets credit for fixing problems that never happened.” Over time, senior management will increasingly consist of these war heroes, who are likely to groom and favor other can-do people like themselves.</description>
+    </item>
+    
+    <item>
+      <title>Feed #43</title>
+      <link>https://titi.github.io/links/feed-43/</link>
+      <pubDate>Tue, 10 Feb 2015 09:31:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-43/</guid>
+      <description>Automated Testing Shows a Respect for Employees
+Technical Debt Metaphors Get It so Wrong
+Book Review: The Lean Enterprise</description>
+    </item>
+    
+    <item>
+      <title>Feed #42</title>
+      <link>https://titi.github.io/links/feed-42/</link>
+      <pubDate>Mon, 09 Feb 2015 09:19:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-42/</guid>
+      <description>This is what’s keeping some enterprises from adopting devops
+Rebuilding the Foundation of Etsy’s Seller Tools</description>
+    </item>
+    
+    <item>
+      <title>Feed #41</title>
+      <link>https://titi.github.io/links/feed-41/</link>
+      <pubDate>Fri, 06 Feb 2015 11:31:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-41/</guid>
+      <description>Strategies for minimizing regression defects
+Flexibility, but at what cost?
+Matt Cutts: 10 Lessons Learned From The Early Days Of Google</description>
+    </item>
+    
+    <item>
+      <title>Feed #40</title>
+      <link>https://titi.github.io/links/feed-40/</link>
+      <pubDate>Thu, 05 Feb 2015 13:31:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-40/</guid>
+      <description>Agility:
+The Geek&amp;rsquo;s Guide to Leading Teams
+Last Responsible Moment
+Performance:
+Stop Misquoting Donald Knuth!
+ &amp;ldquo;Waste creeps in, little by little, because we let it.&amp;rdquo;
+ Different Angles of Web Performance
+The Power of Perceived Performance
+Progress bar like the youtube one: http://ricostacruz.com/nprogress/
+When 80&amp;frasl;20 Becomes 20&amp;frasl;80</description>
+    </item>
+    
+    <item>
+      <title>Feed #39</title>
+      <link>https://titi.github.io/links/feed-39/</link>
+      <pubDate>Tue, 03 Feb 2015 09:27:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-39/</guid>
+      <description>You Don&amp;rsquo;t Know What You Don&amp;rsquo;t Know
+How to define performance requirements?
+The Four Horsemen of the Performance Apocalypse
+In another theme, some guy with way too much free time: Using common table expressions to solve the “eight queens” problem in SQL</description>
+    </item>
+    
+    <item>
+      <title>Feed #38</title>
+      <link>https://titi.github.io/links/feed-38/</link>
+      <pubDate>Wed, 28 Jan 2015 09:40:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-38/</guid>
+      <description>Code Ownership – Who Should Own the Code?
+What does Code Ownership do to Code?
+Which UX Skills should Product Owners and Product Managers have?
+If you got bugs, you’ll get pwned
+ &amp;ldquo;Just standard, accepted good development practices.&amp;rdquo;
+ Netflix&amp;rsquo;s Viewing Data: How We Know Where You Are in House of Cards</description>
+    </item>
+    
+    <item>
+      <title>Feed #37</title>
+      <link>https://titi.github.io/links/feed-37/</link>
+      <pubDate>Tue, 27 Jan 2015 09:20:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-37/</guid>
+      <description>Trail of Tears Architecture Anti-pattern</description>
+    </item>
+    
+    <item>
+      <title>Feed #36</title>
+      <link>https://titi.github.io/links/feed-36/</link>
+      <pubDate>Mon, 26 Jan 2015 09:51:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-36/</guid>
+      <description>The Lava Layer Anti-Pattern
+We Are Gonna Need It
+Letters to junior developers
+A better pull request</description>
+    </item>
+    
+    <item>
+      <title>Feed #35</title>
+      <link>https://titi.github.io/links/feed-35/</link>
+      <pubDate>Tue, 20 Jan 2015 09:13:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-35/</guid>
+      <description>Why I write horrible code. (And so can you!)
+Quality Built In @ Spotify
+ “Technically, anyone is allowed to edit any system. Since the squads [scrum team] are effectively feature teams, they normally need to update multiple systems to get a new feature into production. The risk with this model is that the architecture of a system gets messed up if nobody focuses on the integrity of the system as a whole.</description>
+    </item>
+    
+    <item>
+      <title>Feed #34</title>
+      <link>https://titi.github.io/links/feed-34/</link>
+      <pubDate>Mon, 19 Jan 2015 09:15:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-34/</guid>
+      <description>Change the Indispensable Employee Mindset
+LTR Org Chart (responsibility)
+Diagnose Service Performance Bottlenecks with Google Cloud Trace Beta &amp;ldquo;25% of users abandon a web page if its load time is more than four seconds&amp;rdquo;
+Make Services Fault Tolerant &amp;amp; Supportable for Production Use
+Lessons learned from the big rewrite
+How to Focus with Work-in-Progress Limits
+Stop More Bugs with our Code Review Checklist</description>
+    </item>
+    
+    <item>
+      <title>Feed #33</title>
+      <link>https://titi.github.io/links/feed-33/</link>
+      <pubDate>Fri, 09 Jan 2015 16:18:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-33/</guid>
+      <description>Regression Dandelions Be Gone&amp;hellip;
+How Do You Serve Your Organization?
+Why developers hate being interrupted (the poster is cool)
+Cathedrals, Bazaars, and In Between
+What most young programmers need to learn
+Another Theory to Explain 10X Programmers</description>
+    </item>
+    
+    <item>
+      <title>Feed #32</title>
+      <link>https://titi.github.io/links/feed-32/</link>
+      <pubDate>Tue, 06 Jan 2015 11:26:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-32/</guid>
+      <description>The QA Department Mindset
+Unprepared - Seth Godin
+Generation Javascript
+Quality happens only when someone is responsible for it.</description>
+    </item>
+    
+    <item>
+      <title>Feed #31</title>
+      <link>https://titi.github.io/links/feed-31/</link>
+      <pubDate>Wed, 31 Dec 2014 09:27:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-31/</guid>
+      <description>Being A Responsible Developer</description>
+    </item>
+    
+    <item>
+      <title>Feed #30</title>
+      <link>https://titi.github.io/links/feed-30/</link>
+      <pubDate>Thu, 18 Dec 2014 09:20:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-30/</guid>
+      <description>Bad Process
+Out of the Crisis
+Working Effectively with Unit Tests
+Multithreaded Programming Has Really Gone To The Dogs
+Best Practices for Cloud Logging, Security, &amp;amp; Data Protection</description>
+    </item>
+    
+    <item>
+      <title>Feed #29</title>
+      <link>https://titi.github.io/links/feed-29/</link>
+      <pubDate>Tue, 16 Dec 2014 09:09:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-29/</guid>
+      <description>Discovering the Computer Science Behind Postgres Indexes
+Pretty much basic in the end, insert/delete operations from BTree aren&amp;rsquo;t detailed. But references and source code fragments are a good idea.
+Developers want to be heard</description>
+    </item>
+    
+    <item>
+      <title>Feed #28</title>
+      <link>https://titi.github.io/links/feed-28/</link>
+      <pubDate>Mon, 15 Dec 2014 09:18:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-28/</guid>
+      <description>Building a culture of code review
+ &amp;ldquo;it’s only through collaboration that we produce our best work&amp;rdquo;
+ Code Reviews: Just Do It
+Using checklists for code review
+Don’t waste time on Code Reviews
+Practicing effective self-review
+ &amp;ldquo;developers are often distracted by the tiny problems (style issues, typos) and ignore the larger problems (algorithmic issues, design flaws, bigger picture tasks) when reviewing.&amp;rdquo;
+ Getting Things Done When You&amp;rsquo;re Only a Grunt (Strategy 4 is awesome)</description>
+    </item>
+    
+    <item>
+      <title>Feed #27</title>
+      <link>https://titi.github.io/links/feed-27/</link>
+      <pubDate>Fri, 12 Dec 2014 09:26:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-27/</guid>
+      <description>If you could only do one thing to make better software, what would it be?
+Architecture vs. Implementation Reviews
+Coding for review
+ Hidden Costs of Memory Allocation Slow Symbol Loading in Microsoft’s Profiler, Take Two (Google Chrome .pdb: 775Mo!!!) Self Inflicted Denial of Service in Visual Studio Search  Airbus crypto challenge write-up</description>
+    </item>
+    
+    <item>
+      <title>Feed #26</title>
+      <link>https://titi.github.io/links/feed-26/</link>
+      <pubDate>Mon, 08 Dec 2014 09:43:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-26/</guid>
+      <description>[FR] L’ÉQUIPE EST AUTO-ORGANISÉE… EST-CE SI SIMPLE ?
+http://coderetreat.org/
+ Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away from the pressures of &amp;lsquo;getting things done&amp;rsquo;, the coderetreat format has proven itself to be a highly effective means of skill improvement. Practicing the basic principles of modular and object-oriented design, developers can improve their ability to write code that minimizes the cost of change over time.</description>
+    </item>
+    
+    <item>
+      <title>Feed #25</title>
+      <link>https://titi.github.io/links/feed-25/</link>
+      <pubDate>Fri, 05 Dec 2014 10:28:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-25/</guid>
+      <description>Who Removes Your Obstacles? - Johanna Rothman</description>
+    </item>
+    
+    <item>
+      <title>Feed #24</title>
+      <link>https://titi.github.io/links/feed-24/</link>
+      <pubDate>Mon, 01 Dec 2014 09:48:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-24/</guid>
+      <description>http://programming-motherfucker.com/
+http://www.daedtech.com/people-deserve-the-what (video!!)
+http://blog.spoon.net/introducing-containers-for-windows/
+https://spoon.net/</description>
+    </item>
+    
+    <item>
+      <title>Feed #23</title>
+      <link>https://titi.github.io/links/feed-23/</link>
+      <pubDate>Mon, 24 Nov 2014 11:16:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-23/</guid>
+      <description>Implementing the SaaS Maturity Model
+Does an Insecure Website Compromise the Security of a Payment System in an Iframe?
+Can Your Company Be PCI-Compliant and Still Get Hacked?
+This is why you shouldn&amp;rsquo;t interrupt a developer
+Your developers aren’t slow
+Retrospectives at Atlassian: How we do it</description>
+    </item>
+    
+    <item>
+      <title>Feed #22</title>
+      <link>https://titi.github.io/links/feed-22/</link>
+      <pubDate>Fri, 21 Nov 2014 09:15:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-22/</guid>
+      <description>Precise design: Use of Formal Methods at Amazon Web Services
+Annihilating Complexity
+Queues Don&amp;rsquo;t Fix Overload</description>
+    </item>
+    
+    <item>
+      <title>Feed #21</title>
+      <link>https://titi.github.io/links/feed-21/</link>
+      <pubDate>Mon, 10 Nov 2014 09:14:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-21/</guid>
+      <description>Managing crises effectively in software development projects.
+Does Agile require cultural change?
+Performance is a Feature
+Top 7 programmers bad habits</description>
+    </item>
+    
+    <item>
+      <title>Feed #20</title>
+      <link>https://titi.github.io/links/feed-20/</link>
+      <pubDate>Wed, 05 Nov 2014 08:58:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-20/</guid>
+      <description>Dangers of Survival Mode
+Signs you might be in survival mode</description>
+    </item>
+    
+    <item>
+      <title>Feed #19</title>
+      <link>https://titi.github.io/links/feed-19/</link>
+      <pubDate>Tue, 04 Nov 2014 09:09:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-19/</guid>
+      <description>Internal Customer Service and What I’m Doing to Be Agile</description>
+    </item>
+    
+    <item>
+      <title>Feed #18</title>
+      <link>https://titi.github.io/links/feed-18/</link>
+      <pubDate>Thu, 30 Oct 2014 09:15:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-18/</guid>
+      <description>Architecture of Morrisons OrderPad - Martin Fowler</description>
+    </item>
+    
+    <item>
+      <title>Feed #17</title>
+      <link>https://titi.github.io/links/feed-17/</link>
+      <pubDate>Thu, 23 Oct 2014 09:11:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-17/</guid>
+      <description>Agile: False Hope and Real Promise</description>
+    </item>
+    
+    <item>
+      <title>Feed #16</title>
+      <link>https://titi.github.io/links/feed-16/</link>
+      <pubDate>Tue, 21 Oct 2014 14:15:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-16/</guid>
+      <description>Key Principles for Reducing Continuous Integration Build Time
+BuildMaster
+DevTools Tips [Google Chrome]
+Papa Parse (CSV-&amp;gt; JSON &amp;amp; reverse)
+Numeral.js
+.NET -&amp;gt; .JS with JSIL
+Using Pull Requests as Code Reviews</description>
+    </item>
+    
+    <item>
+      <title>Feed #15</title>
+      <link>https://titi.github.io/links/feed-15/</link>
+      <pubDate>Tue, 21 Oct 2014 09:29:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-15/</guid>
+      <description>17th Century Shipbuilding and Your Failed Software Project: Accountability Is Everything
+The Necessity of Consistency
+SacrificialArchitecture</description>
+    </item>
+    
+    <item>
+      <title>Feed #14</title>
+      <link>https://titi.github.io/links/feed-14/</link>
+      <pubDate>Mon, 13 Oct 2014 09:10:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-14/</guid>
+      <description>Six Critical SaaS Engineering Mistakes to Avoid
+10 Things Creative People and Data-Driven People Have in Common
+Continuous Integration is Dead
+The Origins of the Daily Standup - Jeff Sutherland
+ “Do you really want to suck forever? Is that what your motivation is in life? Because it’s a choice, you know—you don’t have to be that way.” A team has to demand greatness from itself.
+ </description>
+    </item>
+    
+    <item>
+      <title>Feed #13</title>
+      <link>https://titi.github.io/links/feed-13/</link>
+      <pubDate>Mon, 06 Oct 2014 15:40:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-13/</guid>
+      <description>Johanna Rothman:
+Management Myth 33: We Need a Quick Fix or a Silver Bullet
+Change is Learning: No Silver Bullets or Quick Fixes</description>
+    </item>
+    
+    <item>
+      <title>Feed #12</title>
+      <link>https://titi.github.io/links/feed-12/</link>
+      <pubDate>Wed, 24 Sep 2014 10:16:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-12/</guid>
+      <description>Product Owners can DESTROY your Agile teams</description>
+    </item>
+    
+    <item>
+      <title>Feed #11</title>
+      <link>https://titi.github.io/links/feed-11/</link>
+      <pubDate>Fri, 19 Sep 2014 09:29:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-11/</guid>
+      <description>The Art of Designing Automated Testing Tools
+Treat your automated tests like code: </description>
+    </item>
+    
+    <item>
+      <title>Feed #10</title>
+      <link>https://titi.github.io/links/feed-10/</link>
+      <pubDate>Thu, 18 Sep 2014 09:08:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-10/</guid>
+      <description>Can Static Analysis replace Code Reviews?</description>
+    </item>
+    
+    <item>
+      <title>Feed #9</title>
+      <link>https://titi.github.io/links/feed-9/</link>
+      <pubDate>Wed, 17 Sep 2014 09:11:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-9/</guid>
+      <description>Source: http://www.commitstrip.com/en/2014/09/16/le-commitstrip-test/</description>
+    </item>
+    
+    <item>
+      <title>Feed #8</title>
+      <link>https://titi.github.io/links/feed-8/</link>
+      <pubDate>Tue, 16 Sep 2014 09:31:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-8/</guid>
+      <description>The launch meeting - Seth Godin
+How I Built the Ultimate SaaS PPC Dashboard, and How You Can Too</description>
+    </item>
+    
+    <item>
+      <title>Feed #7</title>
+      <link>https://titi.github.io/links/feed-7/</link>
+      <pubDate>Fri, 29 Aug 2014 15:47:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-7/</guid>
+      <description>Five Key Numbers to Gauge your Agile Engineering Efforts</description>
+    </item>
+    
+    <item>
+      <title>Feed #6</title>
+      <link>https://titi.github.io/links/feed-6/</link>
+      <pubDate>Mon, 25 Aug 2014 09:10:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-6/</guid>
+      <description>Flaccid Scrum - Martin Fowler
+http://fr.wikipedia.org/wiki/Scrum_%28m%C3%A9thode%29#.C2.AB_Flaccid_Scrum_.C2.BB</description>
+    </item>
+    
+    <item>
+      <title>Feed #5</title>
+      <link>https://titi.github.io/links/feed-5/</link>
+      <pubDate>Thu, 21 Aug 2014 17:00:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-5/</guid>
+      <description>10 Usability Crimes You Really Shouldn’t Commit
+[FR] La liste des 10 crimes sur l’ergonomie des sites web que vous ne devriez plus commettre</description>
+    </item>
+    
+    <item>
+      <title>Feed #4</title>
+      <link>https://titi.github.io/links/feed-4/</link>
+      <pubDate>Fri, 08 Aug 2014 09:21:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-4/</guid>
+      <description>Feature Toggles are one of the worst kinds of Technical Debt
+ &amp;ldquo;You can’t do decentralized versioning unless you also decentralize your testing and integration&amp;rdquo;
+ Help me, because I think Martin Fowler has a Merge Paranoia
+FeatureBranch - Martin Fowler</description>
+    </item>
+    
+    <item>
+      <title>Feed #3</title>
+      <link>https://titi.github.io/links/feed-3/</link>
+      <pubDate>Tue, 05 Aug 2014 09:43:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-3/</guid>
+      <description>General lessons from scaling large systems at Microsoft
+Nightmare on Agile Street
+ &amp;ldquo;The backlog isn’t so much a backlog as a mortgage, and the team are under water! The payments they make against the mortgage aren’t even covering the growth in stories. The backlog growth is an interest rate they can’t pay.&amp;rdquo;
+ Just Let Me Code!
+How We Measure Customer Happiness
+Visualization Mnemonics for Software Principles
+XP Radar Chart</description>
+    </item>
+    
+    <item>
+      <title>Feed #2</title>
+      <link>https://titi.github.io/links/feed-2/</link>
+      <pubDate>Wed, 30 Jul 2014 14:21:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-2/</guid>
+      <description>Complexity is the Excuse
+ “When I speak to people about how it is possible to continuously deliver customer value with near zero issues, I usually get laughed at.”
+“Complexity exists when we are not able to prioritise the value to deliver (we don’t know what we really want).”
+“Complexity exist when we are not able to understand and describe the system we are building.”
+“TL;DR: stop blaming complexity when you don’t understand what you are building.</description>
+    </item>
+    
+    <item>
+      <title>Feed #1</title>
+      <link>https://titi.github.io/links/feed-1/</link>
+      <pubDate>Tue, 15 Jul 2014 11:40:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-1/</guid>
+      <description>Creating a Culture of Quality
+Quality Is Fractal
+The Bystander Effect (Why Companies Fail to Change)
+Courage to change things
+Agile Transformation and Executive Engagement
+Heisenberg Developers
+Programming Sucks
+Agile VS Real Life
+Are You Practicing Agile Accountability Responsibly?
+Goals vs. Capabilities
+The Joel Test: 12 Steps to Better Code
+A Pragmatic Approach to Ensuring Software Quality
+Visualization Mnemonics for Software Principles
+3 Reasons to stop solving other people&amp;rsquo;s problems for them</description>
     </item>
     
   </channel>
