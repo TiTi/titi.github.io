@@ -1,0 +1,1456 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>prototype</title>
+<link rel="stylesheet" href="CodeMirror/codemirror.css" />
+<style type="text/css">
+body{
+background-color: #F1F1F1;
+}
+#codeP{
+margin: 20px 0;
+}
+#themeSelector{
+position: absolute;
+top: 0px;
+right: 0px;
+}
+section[class=slide]{
+display: none;
+}
+
+/* Auto height */
+.CodeMirror{
+border: 1px solid #eee;
+height: auto;
+}
+.CodeMirror-scroll{
+overflow-y: hidden;
+overflow-x: auto;
+}
+</style>
+</head>
+<body>
+
+<h1 id="title"></h1>
+<div id="content"></div>
+
+<div id="codeP">
+	<textarea id="code"></textarea>
+</div>
+
+<span id="position"></span> <input type="button" id="previous" value="previous" /> <input type="button" id="next" value="next" /> (or use arrows)
+
+<select id="themeSelector">
+	<option>3024-day</option>
+	<option>3024-night</option>
+	<option>ambiance</option>
+	<option>base16-dark</option>
+	<option>base16-light</option>
+	<option>blackboard</option>
+	<option>cobalt</option>
+	<option>eclipse</option>
+	<option>elegant</option>
+	<option>erlang-dark</option>
+	<option>lesser-dark</option>
+	<option>mbo</option>
+	<option>midnight</option>
+	<option selected="selected">monokai</option>
+	<option>neat</option>
+	<option>night</option>
+	<option>paraiso-dark</option>
+	<option>paraiso-light</option>
+	<option>rubyblue</option>
+	<option>solarized dark</option>
+	<option>solarized light</option>
+	<option>the-matrix</option>
+	<option>tomorrow-night-eighties</option>
+	<option>twilight</option>
+	<option>vibrant-ink</option>
+	<option>xq-dark</option>
+	<option>xq-light</option>
+</select>
+
+<!-- SLIDES -->
+
+<section class="slide">
+<div class="title">Prototypes</div>
+<div class="content">Hello!<br />
+Want to discover javascript prototypes?<br />
+First slides will talk about functions &amp; objects, then we'll go down the rabbit hole...<br />
+
+<br />
+You can change the code theme at any moment in the upper right corner.<br />
+<br />
+If you have any questions, don't hesitate to contact me: <a href="mailto:thibault.rohmer@gmail.com">thibault.rohmer@gmail.com</a></div>
+<pre>
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">How to define a function?</div>
+<div class="content"></div>
+<pre>
+function isScrumMaster(){ return true; }
+var isPo = function(){ return true; };
+this.isDev = function(){ return true; };
+
+isScrumMaster(); // true
+isPO(); // true
+isDev(); // true
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Function declaration VS function expression</div>
+<div class="content">(or plain function VS assignment)<br />
+<br />
+Be carreful when you declare the function and when you use it!</div>
+<pre>
+isScrumMaster(); // true
+isPo(); // TypeError: undefined is not a function
+isDev(); // TypeError: undefined is not a function
+
+function isScrumMaster(){ return true; }
+var isPo = function(){ return true; };
+this.isDev = function(){ return true; };
+
+isScrumMaster(); // true
+isPo(); // true
+isDev(); // true
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Named function expression</div>
+<div class="content">Syntax is valid but only used in rare cases</div>
+<pre>
+var woman = function human()
+{
+	typeof woman; // "function"
+	typeof human; // "function"
+	return "Hello";
+};
+
+typeof woman; // "function"
+typeof human; // "undefined"
+
+woman(); // "Hello"
+human(); // ReferenceError: human is not defined
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Function inside an object</div>
+<div class="content"></div>
+<pre>
+var car =
+{
+	model: "Bugatti",
+	describe: function()
+	{
+		return "I'm a " + this.model;
+	}
+};
+
+// describe is a property declaration in an object literal (car) that uses a function expression for the value
+
+car.describe(); // "I'm a Bugatti"
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Object and function properties</div>
+<div class="content"></div>
+<pre>
+var obj = {}; 
+obj.prop = "objProp";
+
+var fn = function(){};
+fn.prop = "fnProp";
+
+console.log(obj.prop, fn.prop); // Both have a property
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">new operator</div>
+<div class="content">This diapo talks about the value of `this` when a function is called with and without new.<br />
+<br />
+Let's use the "constructor" function User:</div>
+<pre>
+function User()
+{
+	this.name = "John";
+}
+
+var A = User(); // Without new
+typeof A; // "undefined"
+A.name; // TypeError: Cannot read property 'name' of undefined
+name; // "John" ; global scope pollution!
+
+// `this` equals `window` (or the current environment global object) when new isn't specified
+
+
+name = undefined; // reset for B sample
+
+var B = new User(); // With new
+console.log(B); // User object
+console.log(B.name); // "John"
+console.log(name); // undefined
+
+
+// Extra:
+
+function User()
+{
+	name = "John"; // `this.` removed and `var` keyword omitted
+
+	// => global scope pollution
+	// Result is similar as A example 
+}
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Ensure new</div>
+<div class="content">Silent auto-correction.<br />
+This is only useful if you intent to use Person as a constructor (if you want to have 'Person' entities).</div>
+<pre>
+function Person()
+{
+	if(!(this instanceof arguments.callee))
+	{
+			// If user accidentally omits the new keyword, this will silently correct the problem...
+			// See: http://stackoverflow.com/questions/383402/is-javascript-s-new-keyword-considered-harmful
+			return new Person();
+	}
+	
+	//...
+}
+
+var p1 = new Person(); // OK
+var p2 = Person(); // still OK
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">typeof &amp; instanceof</div>
+<div class="content">(and constructor)</div>
+<pre>
+function Person(name)
+{
+	this.name = name;
+}
+
+var bob = new Person('Bob');
+
+typeof bob; // "object"
+bob instanceof Person; // true
+bob instanceof Date; // false
+
+
+bob.constructor; // the Person function!
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Similar objects</div>
+<div class="content">Let's say I'm coding an application to manage programmers<br />
+I wan't everybody to have a <b>drinkCoffee</b> method.<br />
+<br />
+Thus, the following code might break if I'm not carreful for each instance creation.<br />
+Note that I'm using object notation rather than a constructor function.</div>
+<pre>
+var programmerA =
+{
+	name: "john",
+	drinkCoffee: function(){return true;}
+};
+
+var programmerB =
+{
+	name: "elodie",
+	drinkCoffee: function(){return true;}
+};
+
+var programmerC =
+{
+	name: "nicolas",
+	code: function(){return true;}
+};
+
+programmerA.drinkCoffee();
+programmerB.drinkCoffee();
+programmerC.drinkCoffee(); // TypeError: Object #&lt;Object&gt; has no method 'drinkCoffee'
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Per instance</div>
+<div class="content">Now let's use a constructor function.<br />
+Also verify that every instance has its own values: after execution, A has danced, not B.</div>
+<pre>
+function User()
+{
+	this.name = "John";
+	this.hasDanced = false;
+	this.dance = function()
+	{
+		console.log(this.name + " is dancing");
+		this.hasDanced = true;
+	};
+}
+
+var A = new User();
+A.dance();
+A.hasDanced; // true
+
+var B = new User();
+B.hasDanced; // false
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Exercice</div>
+<div class="content">Add a method changeName to the previous slide code</div>
+<pre>/* Solution on next slide */</pre>
+</section>
+
+<section class="slide">
+<div class="title">Solution</div>
+<div class="content"></div>
+<pre>
+function User()
+{
+	this.name = "John";
+	this.hasDanced = false;
+	this.dance = function()
+	{
+		console.log(this.name + " is dancing");
+		this.hasDanced = true;
+	};
+
+	this.changeName = function(newName)
+	{
+		this.name = newName;
+	};
+}
+
+var A = new User();
+A.name; // "John"
+A.changeName("Brendan");
+A.name; // "Brendan"
+
+// Also note that name is also directly accessible (it's a public property)
+A.name = "Nicolas";
+A.name; // "Nicolas"
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">How ensure every programmer has a drinkCoffee method?</div>
+<div class="content">Instanciate programmers with a constructor function</div>
+<pre>
+function Programmer(name)
+{
+	this.name = name;
+	this.drinkCoffee = function()
+	{
+		return true;
+	};
+}
+
+var programmerA = new Programmer("john");
+var programmerB = new Programmer("elodie");
+var programmerC = new Programmer("nicolas");
+
+programmerA.drinkCoffee();
+programmerB.drinkCoffee();
+programmerC.drinkCoffee(); // ok!
+
+// We can even add a custom method to programmerC:
+programmerC.code = function(){return true;};
+
+
+// but...
+programmerA.drinkCoffee === programmerB.drinkCoffee; // false ; it's not the same method! Why?
+
+/*
+	Because a new `drinkCoffee` function is generated on each call to the constructor!
+	This can become problematic in some cases.
+*/
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Adding a prototyped method</div>
+<div class="content"></div>
+<pre>
+function Programmer()
+{
+}
+
+Programmer.prototype.drinkCoffee = function()
+{
+	return true;
+};
+
+var dev = new Programmer(); 
+if(dev.drinkCoffee())
+{
+	alert("Coffee cup is now empty");
+}
+
+var dev2 = new Programmer(); 
+dev.drinkCoffee === dev2.drinkCoffee; // true
+
+// Now we are confident that all programmers have a drinkCoffee method! And there is only one!
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Memory footprint</div>
+<div class="content">Let's have a look at memory consumption.
+This was done with a WebKit javascript engine.
+</div>
+<pre>
+var MAX = 50000;
+
+function Programmer(name)
+{
+	this.name = name;
+	this.getBlock = function()
+	{
+		var block = "azertyuiop";
+		return block + " " + name;
+	};
+}
+var programmers = [];
+for(var i = 0; i &lt; MAX; ++i)
+{
+	programmers.push(new Programmer("john"+i));
+}
+
+/*
+Execution time: 0.063 seconds
+Memory footprint: 27.809 Mo
+*/
+
+//-----------------------------------------
+
+function Programmer(name)
+{
+	this.name = name;
+}
+Programmer.prototype.getBlock = function()
+{
+	var block = "azertyuiop";
+	return block + " " + this.name;
+};
+var programmers = [];
+for(var i = 0; i &lt; MAX; ++i)
+{
+	programmers.push(new Programmer("john"+i));
+}
+
+/*
+Execution time: 0.047 seconds
+Memory footprint: 13.785 Mo
+
+
+Wow, much better!
+It is because we define a getBlock function each time a Programmer is instanciated in the first example.
+However, when using a prototype method, there is only 1 function in memory.
+*/
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Same implementation?</div>
+<div class="content">This example demonstrates another way to do this with the constructor function (by storing the drinkCoffee function outside).<br />
+However, as demonstrated, it can also lead to issues (that we don't have with the prototype implementation):</div>
+<pre>
+var drink = function(){return true;};
+
+function Programmer(name)
+{
+	this.name = name;
+	this.drinkCoffee = drink;
+}
+
+var programmerA = new Programmer("john");
+var programmerB = new Programmer("elodie");
+
+programmerA.drinkCoffee === programmerB.drinkCoffee; // true
+
+// let's change drink !
+drink = function(){return false;};
+
+var programmerC = new Programmer("nicolas");
+
+programmerA.drinkCoffee(); // true
+programmerB.drinkCoffee(); // true
+programmerC.drinkCoffee(); // false ; damn!
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Add a method to all objects, even if they already exist</div>
+<div class="content">When a method or property is added to the prototype, it is immediately accessible to all instances, even thoses already existing.</div>
+<pre>
+function User(param1)
+{
+	this.name = param1;
+	this.age = Math.floor(Math.random() * 100) + 1; // 1-100
+}
+
+var userA = new User("john");
+typeof userA.getAge; // "undefined"
+
+// Add getAge the the User prototype (userA not mentionned):
+User.prototype.getAge = function()
+{
+	return this.age;
+};
+
+typeof userA.getAge; // "function" ; wow, getAge available!
+
+userA.getAge();
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">.hasOwnProperty() &amp; in</div>
+<div class="content">.hasOwnProperty() is a method available to all objects.<br />
+It determine whether an object has the specified property as a direct property of that object.<br />
+Unlike the in operator, this method does not check the object's prototype chain.
+</div>
+<pre>
+function User(param1)
+{
+	this.name = param1;
+	this.age = Math.floor(Math.random() * 100) + 1; // 1-100
+}
+
+User.prototype.getAge = function()
+{
+	return this.age;
+};
+
+
+var userA = new User("john");
+if("getAge" in userA) // true
+{
+	console.log("getAge in userA");
+}
+if("name" in userA) // true
+{
+	console.log("name in userA");
+}
+
+if(userA.hasOwnProperty("getAge")) // false
+{
+	console.log("userA hasOwnProperty getAge");
+}
+if(userA.hasOwnProperty("name")) // true
+{
+	console.log("userA hasOwnProperty name");
+}
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Remember: affectation!</div>
+<div class="content">Be carreful, prototyped method is only available after affectation!</div>
+<pre>
+var car = new Car("Ford Mustang");
+car.getInfo(); // TypeError: Object #&lt;Car&gt; has no method 'getInfo'
+
+function Car(model)
+{
+	this.model = model;
+	this.color = "red";
+}
+ 
+Car.prototype.getInfo = function() // Affectation needs to occurs before!
+{
+	return 'A ' + this.color + ' ' + this.model + '.';
+};
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Prototype or priviledged?</div>
+<div class="content">
+Prototypical methods can be applied to all objects derived from the same constructor even after their creation, with incredibly low performance impact.<br />
+On the other hand, priviledged methods (such as dance) are hidden from manipulations from outside of the scope and their addressing is a wee bit faster than their prototypical counterparts.<br />
+<br />
+Therefore, you need to see both as tools you'll have to find fit depending on every situation you encounter. If security or call speed are important, use a discrete method, if you want flexibility and go easy on the RAM for a multitude of objects, use the prototype.<br />
+<br />
+<a href="http://www.reddit.com/r/javascript/comments/1m3yyl/javascript_best_practice_function_or/">Source</a></div>
+<pre>
+function User(param1)
+{
+	this.name = param1;
+	this.age = Math.floor(Math.random() * 100) + 1; // 1-100
+
+	var move = "jump";
+	this.dance = function() // priviledged method
+	{
+		return move;
+	};
+}
+
+Programmer.prototype.drinkCoffee = function()
+{
+	// `move` is out of scope here
+	return true;
+};
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Similar properties added in constructor VS in prototype</div>
+<div class="content">When the engine looks for the dance method, it first look on the instance, then on the prototype.<br />
+This is why the instance method "override" the prototype method.</div>
+<pre>
+function Human()
+{
+	this.dance = function() // Privileged
+	{
+		return true; 
+	};
+}
+
+// Should return false, but will be overridden 
+Human.prototype.dance = function() // Public
+{
+	return false; 
+};
+
+var john = new Human(); 
+john.dance(); // true (Calling the instance method, not the prototype method)
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Extends VS override prototype</div>
+<div class="content"></div>
+<pre>
+function Car(model)
+{
+	this.model = model;
+	this.color = "red";
+}
+
+// Extend
+Car.prototype.getModel = function()
+{
+	return this.model;
+};
+Car.prototype.getColor = function()
+{
+	return this.color;
+};
+
+// VS
+
+// Override (erasing any previous method)
+Car.prototype.
+{
+	getModel: function()
+	{
+		return this.model;
+	},
+	getColor: function()
+	{
+		return this.color;
+	}
+};
+
+/*
+	Be carreful not to remove any method that was there before!
+	Extends is more secure, but painful to write and debug (as many affectations as methods).
+	You can use a helper such as jQuery.extend or write your own:
+
+	function myExtends(func, methods)
+	{
+		for(var method in methods)
+		{
+			if(func.prototype[method])
+			{
+				console.warn(method + " already defined, overwriting");
+			}
+
+			func.prototype[method] = methods[method];
+		}
+	}
+
+	// Extends Car.prototype with methods
+	var methods =
+	{
+		method1: function(){},
+		method2: function(){},
+		method3: function(){}
+		//...
+	};
+	myExtends(Car, methods);
+}
+*/
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">instance variable VS prototype variable VS static variable</div>
+<div class="content"></div>
+<pre>
+function User(param1)
+{
+	this.name = param1;
+}
+
+var userA = new User("john");
+var userB = new User("caroline");
+
+userA.adult; // undefined
+
+User.prototype.adult = true;
+userA.adult; // true
+userB.adult; // true
+
+//---
+
+userA.age = 30;
+userA.age; // 30
+userB.age; // undefined
+
+User.prototype.age = 25;
+
+userA.age; // 30 ; instance value first!
+userB.age; // 25
+
+//---
+
+User.maxAge = 100; // Only accessible through `User.`
+userA.maxAge; // undefined
+userA.constructor.maxAge; // 100
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">js class</div>
+<div class="content"></div>
+<pre>
+function User()
+{
+	// [Public] Variables
+	this.pub = "beer";
+	
+	// [Private] Variables
+	var priv = "secret" + Math.random();
+
+	// [Privileged] Functions
+	this.getPriv = function()
+	{
+		return priv;
+	};
+	
+	// [Private] Functions
+	function doStuff()
+	{
+		return priv;
+	}
+}
+
+// [Prototype] Variables
+User.prototype.color = "red";
+
+// [Prototype] Functions
+User.prototype.getDate = function()
+{
+	return new Date();
+};
+
+
+// [Static] Properties
+User.city = 'lyon';
+
+// [Static] Functions
+User.getCity = function()
+{
+	return User.city;
+};
+
+
+
+
+// Examples:
+
+var t = new User();
+//console.log(t);
+
+t.pub; // "beer"
+t.priv; // undefined
+t.getPriv(); // "secret"
+t.doStuff(); // error: t.doStuff is not a function
+
+t.city; // undefined
+User.city; // "lyon"
+
+t.getCity(); // error: t.getCity is not a function
+User.getCity(); // "lyon"
+
+t.color; // "red"
+t.getDate(); // Fri Oct 08 2010 18:13:43 GMT+0200...
+
+// Notice
+t.getPriv = "owned"; // let's replace the method!
+
+
+// http://www.crockford.com/javascript/private.html
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Prototype is an object!</div>
+<div class="content">Prototypes are just objects. We can give them methods, properties !</div>
+<pre>
+function Car(model)
+{
+	this.model = model;
+	this.color = "red";
+}
+Car.prototype.getModel = function()
+{
+	return this.model;
+};
+Car.prototype.getColor = function()
+{
+	return this.color;
+};
+
+Car.prototype.tires = 4;
+
+typeof Car; // "function"
+typeof Car.prototype; // "object"
+
+// Use watch in your debugger
+Car;
+Car.prototype; // an object with 2 methods (getModel &amp; getColor) and another attribute (tires)
+
+// And what about instances ?
+var c = new Car();
+typeof c; // "object"
+typeof c.prototype; // "undefined" ; Hmm ok. So .prototype only applies to constructor function.
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Get the prototype of an object/instance</div>
+<div class="content"><img src="img/car.png" alt="Car prototype" /></div>
+<pre>
+function Car(model)
+{
+	this.model = model;
+	this.color = "red";
+}
+Car.prototype.getModel = function()
+{
+	return this.model;
+};
+Car.prototype.getColor = function()
+{
+	return this.color;
+};
+
+var c = new Car("BMW M3");
+c.prototype; // undefined
+Object.getPrototypeOf(c); // Same as Car.prototype
+
+// In some environment, you can use .__proto__ for debug purposes.
+// Object.getPrototypeOf is recent but more than recommended over .__proto__
+
+c.__proto__ === Object.getPrototypeOf(c) &amp;&amp; Object.getPrototypeOf(c) === Car.prototype; // true
+
+// I see `__proto__` as "ascending", and `.prototype` as descending.
+
+
+//----------
+// Now let's have a look to a simple object:
+
+var point =
+{
+	x: 5,
+	y: 15,
+	add: function(otherPoint)
+	{
+		this.x += otherPoint.x;
+		this.y += otherPoint.y;
+	}
+};
+
+point;
+point.prototype; // undefined
+Object.getPrototypeOf(point);
+
+Object.getPrototypeOf(point) === Object.prototype; // true
+// The prototype of point is the object stored under Object.prototype.
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Default API</div>
+<div class="content">Multiple objects can maintain references to the same prototype object:<br />
+<a href="http://msdn.microsoft.com/en-us/magazine/ff852808.aspx"><img src="img/arraysProto.png" alt="Array prototype" /></a><br />
+<br />
+Have a look at thoses:</div>
+<pre>
+Array.prototype
+Number.prototype
+String.prototype
+Date.prototype
+/*
+Date also has static methods :
+	Date.parse( )
+	Date.UTC( )
+*/
+
+Math // no prototype!
+// Unlike the other global objects, Math is not a constructor. All properties and methods of Math are static.
+// What would you do with a Math instance?
+
+// Same for JSON
+JSON
+
+var myArray = [1, 2];
+myArray.push(3);
+myArray.reverse();
+myArray.pop();
+myArray.length; // Object property, only for myArray instance
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">__proto__</div>
+<div class="content">prototype is a property of a Function object. It is the prototype of objects constructed by that function.<br />
+__proto__ is internal property of an object, pointing to its prototype.</div>
+<pre>
+function Point(x, y)
+{
+	this.x = x;
+	this.y = y;
+}
+
+var myPoint = new Point();
+
+// The following are all true
+myPoint.__proto__ == Point.prototype;
+myPoint.__proto__.__proto__ == Object.prototype; // Prototype chain goes up to Object!
+myPoint instanceof Point;
+myPoint instanceof Object;
+
+myPoint.prototype === undefined; // instance object as no prototype
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Resolution</div>
+<div class="content">
+At execution, the engine looks for the method on the object, then on its prototype, and up to the chain.<br />
+It runs through the prototype chain until it finds the method/property according to its name or stops at top level if not found.<br />
+<br />
+<a href="http://en.wikipedia.org/wiki/Prototype-based_programming">http://en.wikipedia.org/wiki/Prototype-based_programming</a></div>
+<pre>
+var foo = {name: "foo", one: 1, two: 2};
+var bar = {two: "two", three: 3};
+
+bar.__proto__ = foo; // foo is now the prototype of bar.
+
+// If we try to access foo's properties from bar 
+// from now on, we'll succeed. 
+bar.one // Resolves to 1.
+
+// The child object's properties are also accessible.
+bar.three // Resolves to 3.
+ 
+// Own properties shadow prototype properties
+bar.two; // Resolves to "two"
+foo.name; // unaffected, resolves to "foo"
+bar.name; // Resolves to "foo"
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Function object prototype</div>
+<div class="content"></div>
+<pre>
+var PointA =
+{
+	x : 10,
+	y : 5
+};
+
+var PointB = function (x, y)
+{
+	this.x = x;
+	this.y = y;
+}
+
+PointA.__proto__ == Object.prototype;
+PointB.__proto__ == Function.prototype;
+
+
+"JavaScript is fundamentally about objects."
+"Objects can be produced by constructors, which are functions which initialize objects."
+
+
+Function.__proto__ == Object.prototype; // true
+
+var pB = new PointB();
+pB.__proto__ === PointB.prototype -> PointB.__proto__ === Function.prototype -> Function.__proto__ === Object.prototype -> Object
+
+/*
+	When you are using pB, all methods define on thoses objects are available:
+		- PointB.prototype
+		- Function.prototype
+		- Object.prototype
+
+	At execution, the engine looks for the method on pB, then on PointB.prototype, then on Function.prototype and then Object.prototype.
+	It runs through the prototype chain until it finds it or stops at top level if not found.
+	For instance, toString is only found under Object.prototype:
+*/
+Object.prototype.toString; // function toString() { [native code] }
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Built-in prototype</div>
+<div class="content">How about adding a forEach method to all arrays?</div>
+<pre>
+if(!Array.prototype.forEach)
+{
+	// Dummy implementation
+	Array.prototype.forEach = function(fn)
+	{
+		for(var i = 0; i &lt; this.length; i++)
+		{
+			fn(this[i], i, this); 
+		}
+	};
+}
+
+["a", "b", "c"].forEach(function(value, index, array)
+{
+	console.log(value + " at position " + index + "/" + (array.length - 1));
+};
+
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Exercice</div>
+<div class="content">Add a capitalize method to every String object (first letter in uppercase and downcases all the others)</div>
+<pre>/* TODO */
+
+var text = "hello world!";
+text.capitalize(); // "Hello world!</pre>
+</section>
+
+
+<section class="slide">
+<div class="title">Solution</div>
+<div class="content"></div>
+<pre>
+String.prototype.capitalize = function()
+{
+	// charAt better than this[0] in case this.length == 0
+	return this.charAt(0).toUpperCase() + this.substr(1).toLowerCase();
+};
+
+var text = "hello world!";
+text.capitalize(); // "Hello world!
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Warning: it is dangerous</div>
+<div class="content">
+Some librairies are making use of this concept to enhance the DOM, such as prototypejs:
+<ul>
+	<li><a href="http://prototypejs.org/">http://prototypejs.org/</a></li>
+	<li><a href="http://api.prototypejs.org/">http://api.prototypejs.org/</a></li>
+</ul>
+<br />
+They are pretty helpful, but in the end it is not a good idea:<br />
+"This technique is called monkey patching and breaks encapsulation. While used by popular frameworks such as Prototype.js, there is still no good reason for cluttering built-in types with additional non-standard functionality.<br />
+The only good reason for extending a built-in prototype is to backport the features of newer JavaScript engines; for example Array.forEach, etc."
+<br />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain</a><br />
+<br />
+Other links:<br />
+<ul>
+	<li><a href="http://javascriptweblog.wordpress.com/2011/12/05/extending-javascript-natives/">http://javascriptweblog.wordpress.com/2011/12/05/extending-javascript-natives/</a></li>
+	<li><a href="http://perfectionkills.com/whats-wrong-with-extending-the-dom/">http://perfectionkills.com/whats-wrong-with-extending-the-dom/</a></li>
+	<li><a href="http://programmers.stackexchange.com/questions/104320/why-is-extending-the-dom-built-in-object-prototypes-a-bad-idea">http://programmers.stackexchange.com/questions/104320/why-is-extending-the-dom-built-in-object-prototypes-a-bad-idea</a></li>
+</ul></div>
+<pre>
+Object.prototype.toString = function(){return "test";}
+
+function User(){}
+
+(new User).toString(); // "test"
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Transform an object into an array</div>
+<div class="content">Remember: don't use __proto__ in your code! This is for demo purposes. Use Object.create.</div>
+<pre>
+var o = {};
+ 
+// inherit from the same prototype as an array object
+o.__proto__ = Array.prototype;
+
+// now we can invoke any of the array methods ...
+o.push(3);
+
+
+// Use Object.create() rather than __proto__ (environment dependant)
+var o2 = Object.create(Array.prototype);
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">What does new?</div>
+<div class="content">
+This is what happens:
+<ul>
+	<li>Create a new empty Object</li>
+	<li>Define its prototype</li>
+	<li>Call the constructor</li>
+</ul>
+<a href="http://mdn.beonex.com/en/JavaScript/Guide/Inheritance_Revisited.html#prototype_and_Object.getPrototypeOf">http://mdn.beonex.com/en/JavaScript/Guide/Inheritance_Revisited.html#prototype_and_Object.getPrototypeOf</a><br />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new</a>
+</div>
+<pre>
+// When you do
+var o = new Foo();  
+
+
+// JavaScript actually just does
+var o = new Object(); // or if you prefer: var o = {};
+o.[[Prototype]] = Foo.prototype; // Define the prototype of o
+o.Foo(); // Calls the constructor with `o` as this
+</pre>
+</section>
+
+<section class="slide">
+<div class="title"></div>
+<div class="content">
+Javascript is an object oriented programming language.<br />
+<br />
+<br />
+Prototype-based programming -> a form of object-oriented programming (think "code reuse").<br />
+	<u>Classical inheritance:</u><br />
+		Explicit classes: Class and instance are distinct entities.<br />
+		Classes can be organized into a hierarchy<br />
+<br />
+	<u>Prototypal inheritance:</u><br />
+		No explicit classes: All objects are instances<br />
+		Objects are allowed to be linked together in a hierarchy<br />
+<br />
+Inheritance is performed via a process of cloning existing objects that serve as prototypes.<br />
+Adding a property to the prototype of an object will make it available to that object, as well as to all of the objects which inherit from it.<br />
+<br />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model</a>
+</div>
+<pre>
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Object.create</div>
+<div class="content">
+There is 2 ways to create objects:<br />
+<ul>
+	<li>"ex nihilo" object creation (from nothing): {} or with attributes {name: "foo", one: 1, two: 2}</li>
+	<li>Cloning: Object.create(...) or new<br />
+A new object is constructed by copying the behavior of an existing object (its prototype).</li>
+</ul>
+<a href="http://en.wikipedia.org/wiki/Prototype-based_programming#Object_construction">http://en.wikipedia.org/wiki/Prototype-based_programming#Object_construction</a></div>
+<pre>
+function Car(model)
+{
+	this.model = model;
+	this.color = "red";
+}
+ 
+Car.prototype =
+{
+	getInfo: function()
+	{
+		return 'A ' + this.color + ' ' + this.model + '.';
+	}
+};
+
+var car = new Car("Mustang");
+
+var car2 = Object.create(Car.prototype,
+{
+	model:
+	{
+		value: "Mustang",
+		writable: true
+	},
+	color:
+	{
+		value: "red",
+		writable: true
+	}
+});
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Prototypal inheritance</div>
+<div class="content">
+Worth reading: <a href="http://mdn.beonex.com/en/JavaScript/Guide/Details_of_the_Object_Model.html">http://mdn.beonex.com/en/JavaScript/Guide/Details_of_the_Object_Model.html</a><br />
+<br />
+Most common pattern:</div>
+<pre>
+function Person(){} 
+Person.prototype.eat = function(){}; 
+
+function Programmer(){}
+Programmer.prototype = new Person(); 
+
+var dev = new Programmer();
+dev instanceof Programmer; // true
+dev instanceof Person; // true
+dev instanceof Object; // true
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Bad example</div>
+<div class="content">This one works too, but...<br />
+Programmer.protoype is the same as Person.prototype: impossible to add specific methods to Programmer!</div>
+<pre>
+function Person(){} 
+Person.prototype.eat = function(){}; 
+
+function Programmer(){}
+Programmer.prototype = Person.prototype;
+
+var dev = new Programmer();
+dev instanceof Programmer; // true
+dev instanceof Person; // true
+dev instanceof Object; // true
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Exercice</div>
+<div class="content"></div>
+<pre>
+function Person(firstName, lastName)
+{
+	this.firstName = firstName;
+	this.lastName = lastName;
+} 
+Person.prototype.getName = function()
+{
+	return this.firstName + " " + this.lastName;
+};
+
+// Write the programmer function that inherits from Person 
+
+
+var dev = new Programmer("John", "Carmack");
+dev.getName(); // "John Carmack"
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Inheritance through the prototype chain</div>
+<div class="content"></div>
+<pre>
+function Person(name)
+{
+	this.name = name;
+}
+
+Person.prototype.drinkCoffee = function(){return true;};
+
+function Programmer(name)
+{
+	this.base = Person;
+	this.base(name);
+
+	this.level = 8;
+}
+
+Programmer.prototype = new Person();
+
+// Add a method
+Programmer.prototype.code = function(){return true;};
+
+//---
+
+var bob = new Programmer('Bob');
+bob instanceof Programmer; // true
+bob instanceof Person; // true
+
+bob.name; // "Bob"
+bob.hasOwnProperty('name'); // true
+bob.level; // 8
+bob.hasOwnProperty('level'); // true
+bob.code(); // true
+bob.hasOwnProperty('code'); // false
+bob.drinkCoffee(); // true
+bob.hasOwnProperty('drinkCoffee'); // false
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Inheritance helper</div>
+<div class="content"></div>
+<pre>
+// Credits: http://www.kevlindev.com/tutorials/javascript/inheritance/index.htm
+function inherits(subClass, baseClass)
+{
+	function inheritance() {};
+	inheritance.prototype = baseClass.prototype;
+
+	subClass.prototype = new inheritance();
+	subClass.prototype.constructor = subClass;
+	subClass.baseConstructor = baseClass;
+	subClass.superClass = baseClass.prototype;
+};
+
+function Person(name)
+{
+	this.name = name;
+}
+function Programmer(name)
+{
+	this.coder = true;
+}
+
+inherits(Programmer, Person); // Inheritance
+
+
+//-----
+
+// Copy references for all properties of the prototype
+function inherits2(subConstructor, baseConstructor)
+{
+	var subPrototype = {};
+	var basePrototype = baseConstructor.prototype;
+	for(var key in basePrototype)
+	{
+		subPrototype[key] = basePrototype[key]; 
+	}
+	subConstructor.prototype = subPrototype;
+};
+
+//-----
+
+// See also: http://phrogz.net/JS/classes/OOPinJS2.html
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Inheritance with Object.create</div>
+<div class="content">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create">Object.create</a><br />
+<br />
+<a href="http://markdalgleish.com/2012/10/a-touch-of-class-inheritance-in-javascript/">Example Source</a></div>
+<pre>
+// Our 'actor' object has some properties...
+var actor = {
+  canAct: true,
+  canSpeak: true
+};
+
+// 'silentActor' inherits from 'actor'
+var silentActor = Object.create(actor);
+silentActor.canSpeak = false;
+
+// 'busterKeaton' inherits from 'silentActor'
+var busterKeaton = Object.create(silentActor);
+
+Object.getPrototypeOf(busterKeaton); // silentActor
+Object.getPrototypeOf(silentActor); // actor
+Object.getPrototypeOf(actor); // Object
+
+busterKeaton.canAct; // Walking the chain
+</pre>
+</section>
+
+<section class="slide">
+<div class="title"></div>
+<div class="content">
+String() VS new String()<br />
+"toto".<br />
+<br />
+<a href="http://jslinterrors.com/do-not-use-a-as-a-constructor/">http://jslinterrors.com/do-not-use-a-as-a-constructor/</a><br />
+<br />
+With new :
+<ul>
+<li>produce unnecessary object wrapper</li>
+<li>typeof returns "object"</li>
+<li>It breaks ===</li>
+<li>breaks == (test for identity, not equality)</li>
+</ul>
+</div>
+<pre>
+</pre>
+</section>
+
+<section class="slide">
+<div class="title">Links</div>
+<div class="content">
+<ul>
+<li><a href="http://msdn.microsoft.com/en-us/magazine/ff852808.aspx">http://msdn.microsoft.com/en-us/magazine/ff852808.aspx</a></li>
+<li><a href="http://mdn.beonex.com/en/JavaScript/Guide/Details_of_the_Object_Model.html">http://mdn.beonex.com/en/JavaScript/Guide/Details_of_the_Object_Model.html</a></li>
+<li><a href="http://tobyho.com/2010/11/22/javascript-constructors-and/">http://tobyho.com/2010/11/22/javascript-constructors-and/</a></li>
+<li><a href="http://javascript.crockford.com/prototypal.html">http://javascript.crockford.com/prototypal.html</a></li>
+<li><a href="http://www.crockford.com/javascript/private.html">http://www.crockford.com/javascript/private.html</a></li>
+<li><a href="http://net.tutsplus.com/tutorials/javascript-ajax/whats-new-in-javascript-1-8-5/">http://net.tutsplus.com/tutorials/javascript-ajax/whats-new-in-javascript-1-8-5/</a></li>
+<li><a href="http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/">http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/</a></li>
+<li><a href="http://ejohn.org/apps/learn/">http://ejohn.org/apps/learn/</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Prototype-based_programming">http://en.wikipedia.org/wiki/Prototype-based_programming</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain</a></li>
+<li><a href="http://mdn.beonex.com/en/JavaScript/Guide/Inheritance_Revisited.html">http://mdn.beonex.com/en/JavaScript/Guide/Inheritance_Revisited.html</a></li>
+<li><a href="http://stackoverflow.com/questions/383402/is-javascript-s-new-keyword-considered-harmful">http://stackoverflow.com/questions/383402/is-javascript-s-new-keyword-considered-harmful</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create</a></li>
+<li><a href="http://markdalgleish.com/2012/10/a-touch-of-class-inheritance-in-javascript/">http://markdalgleish.com/2012/10/a-touch-of-class-inheritance-in-javascript/</a></li>
+</ul>
+</div>
+<pre>
+</pre>
+</section>
+
+
+<!--
+<section class="slide">
+<div class="title"></div>
+<div class="content"></div>
+<pre>
+</pre>
+</section>
+-->
+
+<script src="jquery-1.10.2.min.js"></script>
+<script src="CodeMirror/codemirror.js"></script>
+<script src="CodeMirror/mode/javascript/javascript.js"></script>
+<script src="CodeMirror/addon/selection/active-line.js"></script>
+<script src="CodeMirror/addon/edit/matchbrackets.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

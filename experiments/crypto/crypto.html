@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Web Cryptography</title>
+	<style type="text/css">
+#prefs tr > td:first-child{
+text-align: right;
+}
+#uploadBox{
+padding: 10px;
+border: 1px solid #CCC;
+width: 500px;
+}
+#drop_zone{
+border: 2px dashed #BBB;
+border-radius: 5px;
+width: 100%; /* stupid IE */
+line-height: 10em;
+text-align: center;
+color: #BBB;
+}
+#uploader{
+display: none;
+}
+.progress_bar {
+margin: 10px 0;
+padding: 3px;
+border: 1px solid #000;
+font-size: 14px;
+clear: both;
+opacity: 0;
+}
+.progress_bar.loading {
+opacity: 1.0;
+}
+.progress_bar .percent {
+background-color: #99ccff;
+height: auto;
+width: 0;
+}
+	</style>
+</head>
+<body>
+	<h1>Web Cryptography</h1>
+
+	<form>
+		<table id="prefs">
+		<tbody>
+			<tr><td><input type="checkbox" id="pref_autoload" /></td><td>Immediately load dropped files</td></tr>
+			<tr><td>Key</td><td><input type="text" id="pref_key" /> <span id="keyAlgo"></span></td></tr>
+			<tr><td>ChunkSize</td><td><input type="text" id="pref_chunkSize" /></td></tr>
+		</tbody>
+		</table>
+	</form>
+
+<!-- http://www.html5rocks.com/en/tutorials/file/dndfiles/ -->
+<div id="uploadBox">
+	<div id="drop_zone">Drop file(s) here</div>
+	<input type="file" id="uploader" />
+	<ul id="list"></ul>
+</div>
+
+<!-- FileManager -->
+<script>
+"use strict";
+
+// Check for the various File API support
+if (window.File && window.FileReader && window.FileList && window.Blob)
+{
+	var dropZone = document.getElementById('drop_zone');
+	dropZone.addEventListener('dragover', HandleDragOver, false);
+	dropZone.addEventListener('drop', HandleFileSelect, false);
+
+	document.getElementById('uploader').addEventListener('change', HandleFileSelect, false);
+}
+else
+{
+	document.body.innerHTML = "<h2>The File APIs are not fully supported in this browser :(</h2>";
+}
+
+var list = document.getElementById('list');
+var managers = [];
+
+function FileManager (f)
+{
+	this.fileObj = f;
+
+	this.container = document.createElement('li');
+	this.container.innerHTML = '<strong>' + SanitizeHTML(f.name) + '</strong> (' + (f.type || 'n/a') + ') - ' + GetSize(f.size) + '<br />';
+
+	if (FileManager.autoload)
+	{
+		this.load();
+	}
+	else
+	{
+		this.createLoadButton();
+	}
+
+	list.appendChild(this.container);
+}
+FileManager.autoload = true;
+FileManager.autodl = false;
+FileManager.chunkSize = 1024;
+
+var AES128_key = "02ec619e9aefb0a12af0066816d61240";
+var AES256_key = "9227443805543a70ca7a1742b06006f243f1a67680c92b317fe6609e3baf2397";
+
+//FileManager.key = new Uint8Array([8, 6, 7, 5, 3, 0, 9]);
+FileManager.key = new Uint8Array(HexToBytes(AES128_key));
+
+var pref_autoload = document.getElementById('pref_autoload');
+var pref_key = document.getElementById('pref_key');
+var pref_chunkSize = document.getElementById('pref_chunkSize');
+
+LoadPrefs();
+
+
+window.saveAs = window.saveAs || window.navigator.msSaveBlob || window.webkitSaveAs || window.mozSaveAs || window.msSaveAs;
+window.BlobBuilder = window.BlobBuilder || window.MSBlobBuilder || window.MozBlobBuilder || window.WebKitBlobBuilder;
+
+if (!window.saveAs)
+{
+	document.body.innerHTML = "<h2>window.saveAs not supported on this browser :(</h2>";
+}
+
+// msSaveBlob: http://msdn.microsoft.com/en-us/library/ie/hh779016%28v=vs.85%29.aspx
+FileManager.SaveFileToDisk = function(blobObject, type, fileName)
+{
+	// Can't use window.saveAs shortcut: "Invalid calling object"
+	window.navigator.msSaveBlob(blobObject, fileName); // The user only has the option of clicking the Save button
+};
+
+
+FileManager.prototype.createLoadButton = function()
+{
+	var load = document.createElement('button');
+	load.innerText = 'Load';
+	this.container.appendChild(load);
+	load.addEventListener('click', this.load.bind(this), false);
+	this.loadBtn = load;
+};
+
+FileManager.createProgressBar = function ()
+{
+	var div = document.createElement('div');
+	div.setAttribute('class', 'progress_bar');
+	div.innerHTML = '<div class="percent"></div>';
+
+	var percent = div.firstChild;
+
+	// Reset progress indicator on new file selection
+	percent.style.width = '0%';
+	percent.textContent = '0%';
+
+	return {bar: div, progress: percent};
+};
+
+FileManager.prototype.startLoad = function ()
+{
+	if (this.loadBtn)
+	{
+		this.container.removeChild(this.loadBtn);
+		this.loadBtn = null;
+	}
+
+	var progressObj = FileManager.createProgressBar();
+	this.progressBar = progressObj.bar;
+	this.progress = progressObj.progress;
+
+	this.loadContainer = document.createElement('div');
+	this.loadContainer.appendChild(document.createTextNode('Loading...'));
+	this.loadContainer.appendChild(this.progressBar);
+	this.progressBar.className += ' loading';
+
+	var btn = document.createElement('button');
+	btn.innerText = 'Cancel read';
+	btn.addEventListener('click', this.abortRead.bind(this), false);
+	this.progressBar.appendChild(btn);
+
+	this.container.appendChild(this.loadContainer);
+};
+FileManager.prototype.endLoad = function ()
+{
+	// Ensure that the progress bar displays 100% at the end
+	this.progress.style.width = '100%';
+	this.progress.textContent = '100%';
+	setTimeout(this.removeLoadProgressBar.bind(this), 100);
+};
+
+FileManager.prototype.removeLoadProgressBar = function ()
+{
+	this.container.removeChild(this.loadContainer);
+	this.progress = this.progressBar = this.loadContainer = null;
+};
+
+FileManager.prototype.abortRead = function ()
+{
+	if (this.reader)
+	{
+		this.reader.abort();
+		this.reader = null;
+		this.removeLoadProgressBar();
+		this.createLoadButton();
+	}
+};
+
+FileManager.prototype.createEncryptDecryptButtons = function()
+{
+	this.actionContainer = document.createElement('div');
+
+	var encrypt = document.createElement('button');
+	encrypt.innerText = 'Encrypt';
+	this.actionContainer.appendChild(encrypt);
+	this.encryptBtn = encrypt;
+
+	var decrypt = document.createElement('button');
+	decrypt.innerText = 'Decrypt';
+	this.actionContainer.appendChild(decrypt);
+	this.decryptBtn = decrypt;
+
+	this.container.appendChild(this.actionContainer);
+
+	encrypt.addEventListener('click', this.encrypt.bind(this), false);
+	decrypt.addEventListener('click', this.decrypt.bind(this), false);
+};
+
+FileManager.prototype.removeEncryptDecryptButtons = function()
+{
+	this.container.removeChild(this.actionContainer);
+	this.actionContainer = null;
+};
+
+FileManager.prototype.transform = function (method, actionLabel, suffix)
+{
+	this.removeEncryptDecryptButtons();
+
+	var span = document.createElement('span');
+	span.innerText = actionLabel + ' ' + SanitizeHTML(this.fileObj.name) + '... ';
+	this.container.appendChild(span);
+
+	/*var progressObj = FileManager.createProgressBar();
+	this.container.appendChild(progressObj.bar);*/
+
+	var bb = new BlobBuilder(),
+		chunkSize = FileManager.chunkSize || this.fileObj.size,
+		that = this,
+		finished = false,
+		blocks = [],
+		count = 0,
+		index = 0;
+
+	while (!finished)
+	{
+		var block = this.fileData.slice(index, index + chunkSize + 1);
+		ProcessBlock(block, index);
+		index += chunkSize;
+		finished = index >= that.fileObj.size;
+	}
+
+	function ProcessBlock(block, index)
+	{
+		count++;
+		EncryptDecrypt(method, FileManager.key, block, function(data)
+		{
+			blocks.push({index: index, data: data});
+			count--;
+			if (count === 0) // All finished
+			{
+				AllChunksTransformed();
+			}
+		}, ErrorFunc);
+	}
+
+	var showErrorOnlyOnce = true;
+	function ErrorFunc(errorMsg)
+	{
+		if (showErrorOnlyOnce)
+		{
+			showErrorOnlyOnce = false;
+			span.innerHTML += 'ERROR!<br/>' + errorMsg;
+			finished = true; // no need to process remaining blocks
+		}
+	}
+
+	function AllChunksTransformed()
+	{
+		span.innerText += 'done! ';
+
+		blocks.sort(function(a, b)
+		{
+			return a.index - b.index;
+		});
+
+		var dl = document.createElement('button');
+		dl.innerText = 'Download';
+		that.container.appendChild(dl);
+		dl.addEventListener('click', function ()
+		{
+			//var blobObject = new Blob([data]);
+
+			var bb = new BlobBuilder();
+			for (var i = 0; i < blocks.length; ++i)
+			{
+				bb.append(blocks[i].data);
+			}
+			var blobObject = bb.getBlob(that.fileObj.type);
+			FileManager.SaveFileToDisk(blobObject, that.fileObj.type, that.fileObj.name + suffix);
+		}, false);
+		if (FileManager.autodl)
+		{
+			EmitClick(dl);
+		}
+	}
+};
+
+FileManager.prototype.encrypt = function ()
+{
+	this.transform('encrypt', 'Encrypting', '.crypted');
+};
+
+FileManager.prototype.decrypt = function ()
+{
+	this.transform('decrypt', 'Decrypting', '.decrypted');
+};
+
+FileManager.prototype.updateLoadProgress = function (evt) // evt is an ProgressEvent
+{
+	if (evt.lengthComputable)
+	{
+		var percentLoaded = Math.round((evt.loaded / evt.total) * 100);
+		if (percentLoaded < 100)
+		{
+			this.progress.style.width = percentLoaded + '%';
+			this.progress.textContent = percentLoaded + '%';
+		}
+	}
+};
+
+FileManager.prototype.loadErrorHandler = function(evt)
+{
+	switch(evt.target.error.code)
+	{
+		case evt.target.error.NOT_FOUND_ERR:
+			this.percent.innerText = 'File Not Found!';
+			break;
+		case evt.target.error.NOT_READABLE_ERR:
+			this.percent.innerText = 'File is not readable';
+			break;
+		case evt.target.error.ABORT_ERR:
+			break; // noop
+		default:
+			this.percent.innerText = 'An error occurred reading this file.';
+	};
+};
+
+FileManager.prototype.load = function ()
+{
+	var reader = this.reader = new FileReader();
+	reader.onerror = this.loadErrorHandler.bind(this);
+	reader.onprogress = this.updateLoadProgress.bind(this);
+	var that = this;
+	reader.onabort = function(e)
+	{
+		console.log('File read cancelled for ' + that.fileObj.name);
+	};
+	reader.onloadstart = this.startLoad.bind(this);
+	reader.onload = function(e)
+	{
+		console.log(that.fileObj.name + ' loaded!');
+		that.fileData = e.target.result;
+		that.endLoad();
+		that.createEncryptDecryptButtons();
+	};
+	reader.readAsArrayBuffer(this.fileObj);
+};
+
+function HexToBytes(str)
+{
+	var keyBytes = [];
+	for (var i = 0; i < str.length; i+=2)
+	{
+		var hexStr = str.substr(i, 2),
+			byteValue = parseInt(hexStr, 16);
+		keyBytes.push(byteValue);
+	}
+	return keyBytes;
+}
+
+function BytesToHex(bytes)
+{
+	var str = '';
+	for (var i = 0; i < bytes.length; ++i)
+	{
+		str += bytes[i].toString(16);
+	}
+	return str;
+}
+
+function LoadPrefs()
+{
+	/*var prefs = localStorage["WebCryptographyPrefs"]; // localStorage not working for file:///
+	if (prefs)
+	{
+		prefs = JSON.parse(prefs);
+		FileManager.autoload = prefs.autoload;
+		FileManager.key = prefs.key; // TODO
+		FileManager.chunkSize = prefs.chunkSize;
+	}*/
+
+	pref_autoload.checked = FileManager.autoload;
+	pref_key.value = BytesToHex(FileManager.key);
+	pref_chunkSize.value = FileManager.chunkSize;
+
+	pref_autoload.addEventListener("change", SavePrefs, false);
+	pref_key.addEventListener("change", SavePrefs, false);
+	pref_chunkSize.addEventListener("change", SavePrefs, false);
+}
+
+function SavePrefs()
+{
+	FileManager.autoload = pref_autoload.checked;
+	FileManager.key = new Uint8Array(HexToBytes(pref_key.value));
+	FileManager.chunkSize = parseInt(pref_chunkSize.value, 10);
+
+	/*var prefs =
+	{
+		"autoload": FileManager.autoload,
+		"key": Array.prototype.join.call(FileManager.key, ''),
+		"chunkSize": FileManager.chunkSize
+	};
+	localStorage["WebCryptographyPrefs"] = JSON.stringify(prefs);*/
+}
+
+function SanitizeHTML(htmlString)
+{
+	var tmp = document.createElement('div');
+	tmp.appendChild(document.createTextNode(htmlString));
+	return tmp.innerHTML;
+}
+
+function GetSize(bytes)
+{
+	var metrics = ['b', 'Kb', 'Mb', 'Gb'],
+		metricIndex = -1,
+		prev,
+		div = bytes;
+	do
+	{
+		metricIndex++;
+		prev = div;
+		div /= 1024;
+	}
+	while (div >= 1 && metricIndex < metrics.length)
+
+	if (metricIndex == metrics.length)
+	{
+		metricIndex--;
+	}
+
+	var text = Math.round(prev * 10) / 10;
+	return text + metrics[metricIndex];
+}
+
+function EmitClick(elem)
+{
+	var clickEvent = document.createEvent("MouseEvent");
+	clickEvent.initMouseEvent("click", true, true, window, 0, 
+	null, null, null, null,
+	false, false, false, false,
+	0, null);
+	elem.dispatchEvent(clickEvent);
+}
+
+//====================
+
+function AbortAllRead()
+{
+	for (var i = 0, reader; i < managers.length; ++i)
+	{
+		managers[i].abortRead();
+	}
+}
+
+// FileReader: http://www.html5rocks.com/en/tutorials/file/dndfiles/
+function HandleFileSelect(evt)
+{
+	evt.stopPropagation();
+	evt.preventDefault();
+
+	//var files = evt.target.files; // FileList object for <input type="file"/>
+	var files = evt.dataTransfer.files; // FileList object
+
+	if (!files)
+	{
+		alert("At least one selected file is invalid - do not select any folders.</p><p>Please reselect and try again.");
+		return;
+	}
+
+	for (var i = 0, f; i < files.length; i++)
+	{
+		try
+		{
+			f = files[i];
+			managers.push(new FileManager(f));
+		}
+		catch(fileError)
+		{
+			alert("An unspecified file error occurred.</p><p>Selecting one or more folders will cause a file error.");
+			console.log("The following error occurred at i = " + i + ": ", fileError);
+			return;
+		}
+	}
+}
+
+function HandleDragOver(evt)
+{
+	evt.stopPropagation();
+	evt.preventDefault();
+	evt.dataTransfer.dropEffect = 'copy'; // Explicitly show this is a copy
+}
+</script>
+
+<!-- Crypto -->
+<script>
+"use strict";
+
+// http://msdn.microsoft.com/en-us/library/ie/dn302338%28v=vs.85%29.aspx
+// https://developer.mozilla.org/en-US/docs/Web/API/Window.crypto
+// https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto
+
+var crypto = window.crypto || window.msCrypto;
+if (!crypto.subtle)
+{
+	document.body.innerHTML = "<h2>Web Cryptography API not supported - please update your browser</h2>";
+}
+
+function EncryptDecrypt(method, password, data, successCallback, errorCallback)
+{
+	//console.log("Initial data: " + Array.prototype.join.call(data, " "));
+	var digestOp = crypto.subtle.digest({name: "SHA-256"}, password);
+
+	digestOp.oncomplete = function (evt1)
+	{
+		var digestHash = evt1.target.result;
+		//console.log("Digest hash created");
+
+		var algorithm = "AES-CBC";
+		var importKeyOp = crypto.subtle.importKey("raw", digestHash, {name: algorithm}, true, [method]);
+
+		importKeyOp.oncomplete = function (evt2)
+		{
+			//console.log("Digest key created");
+
+			var digestKey = evt2.target.result;
+			//var salt = crypto.getRandomValues(new Uint8Array(16));
+			var salt = new Uint8Array([0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]); // new Uint8Array(16)
+			var aesAlgorithmEncrypt =
+			{
+				name: algorithm,
+				iv: salt
+			};
+
+			var encryptOp = crypto.subtle[method](aesAlgorithmEncrypt, digestKey, data);
+
+			encryptOp.oncomplete = function (evt3)
+			{
+				try
+				{
+					var ciphertextArrayBuffer = evt3.target.result; // In the cryptographic world, there's plaintext and ciphertext.
+					//console.log("Encrypted text: " + (new DataView(ciphertextArrayBuffer)).getUint8(0));
+					successCallback(ciphertextArrayBuffer);
+				}
+				catch(ex)
+				{
+					alert(ex.message);
+				}
+			};
+
+			encryptOp.onprogress = function (evt4)
+			{
+				if (evt4.lengthComputable)
+				{
+					var percentLoaded = Math.round((evt4.loaded / evt4.total) * 100);
+					console.log(percentLoaded);
+				}
+			};
+
+			encryptOp.onerror = function ()
+			{
+				errorCallback("Transformation failed");
+			};
+		};
+
+		importKeyOp.onerror = function ()
+		{
+			errorCallback("Digest key failed");
+		};
+	};
+
+	digestOp.onerror = function ()
+	{
+		errorCallback("Digest hash failed");
+	};
+}
+</script>
+</body>
+</html>

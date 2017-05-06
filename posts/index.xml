@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hi! I&#39;m Thibault ROHMER</title>
+    <link>https://titi.github.io/posts/</link>
+    <description>Recent content in Posts on Hi! I&#39;m Thibault ROHMER</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
+    <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
+    <lastBuildDate>Mon, 18 May 2015 20:42:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://titi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Windows shortcuts you should know</title>
+      <link>https://titi.github.io/2015/05/windows-shortcuts/</link>
+      <pubDate>Mon, 18 May 2015 20:42:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/2015/05/windows-shortcuts/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve skipped the famous ones and focused on some useful shortcuts.
+Try them out if you don&amp;rsquo;t know them!
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Code Review &amp; Phabricator</title>
+      <link>https://titi.github.io/2015/01/phabricator/</link>
+      <pubDate>Mon, 19 Jan 2015 22:13:06 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/2015/01/phabricator/</guid>
+      <description>&lt;h1 id=&#34;why-code-reviews&#34;&gt;Why Code Reviews?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/code-reviews-just-do-it/&#34;&gt;Code Reviews: Just Do It&lt;/a&gt; - Coding Horror&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.arguingwithalgorithms.com/posts/13-03-14-code-reviews&#34;&gt;Coding for review&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2014/12/if-you-could-only-do-one-thing-to-make.html&#34;&gt;If you could only do one thing to make better software, what would it be?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.beanbaginc.com/2013/05/31/building-a-culture-of-code-review/&#34;&gt;Building a culture of code review&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;it’s only through collaboration that we produce our best work&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Code Review for Teams Too Busy to Review Code (start ~16min):&lt;br /&gt;
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/1m3eRFeCInY?start=980&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;hugomore42&#34;&gt;&lt;/h2&gt;
+
+&lt;h1 id=&#34;effective-code-review&#34;&gt;Effective Code Review&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.beanbaginc.com/2014/12/01/practicing-effective-self-review/&#34;&gt;Practicing effective self-review&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Redis</title>
+      <link>https://titi.github.io/2014/11/redis/</link>
+      <pubDate>Wed, 26 Nov 2014 10:38:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/2014/11/redis/</guid>
+      <description>&lt;h1 id=&#34;discover&#34;&gt;Discover&lt;/h1&gt;
+
+&lt;p&gt;Collection of &lt;a href=&#34;http://redis.io/&#34;&gt;Redis&lt;/a&gt; tutorials&lt;/p&gt;
+
+&lt;p&gt;Note: In 30min-1H reading, you should have a good idea of what is Redis and how data is manipulated.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://matt.sh/thinking-in-redis-part-one&#34;&gt;Thinking In Redis (part one)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://openmymind.net/2011/11/8/Redis-Zero-To-Master-In-30-Minutes-Part-1/&#34;&gt;Redis: Zero to Master in 30 minutes - Part 1&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://openmymind.net/2011/11/8/Redis-Zero-To-Master-In-30-Minutes-Part-2/&#34;&gt;Redis: Zero to Master in 30 minutes - Part 2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://openmymind.net/redis.pdf&#34;&gt;The Little Redis Book&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Videos :&lt;br /&gt;
+&lt;span class=&#34;genericon genericon-youtube&#34;&gt;&lt;/span&gt; &lt;a href=&#34;https://www.youtube.com/watch?feature=player_detailpage&amp;amp;v=CoQcNgfPYPc#t=265&#34;&gt;Why and When You Should Use Redis&lt;/a&gt;&lt;br /&gt;
+&lt;span class=&#34;genericon genericon-youtube&#34;&gt;&lt;/span&gt; &lt;a href=&#34;https://www.youtube.com/watch?feature=player_detailpage&amp;amp;v=CoQcNgfPYPc#t=1080&#34;&gt;Production problem example&lt;/a&gt;&lt;br /&gt;
+&lt;span class=&#34;genericon genericon-youtube&#34;&gt;&lt;/span&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=RNLJsjzRa4Y&#34;&gt;Using PostgreSQL with Redis&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;specifics&#34;&gt;Specifics&lt;/h1&gt;
+
+&lt;p&gt;Recommendations :&lt;br /&gt;
+&lt;a href=&#34;https://redislabs.com/blog/5-key-takeaways-for-developing-with-redis&#34;&gt;5 Key Takeaways for Developing with Redis&lt;/a&gt;
+&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Mozilla/Redis_Tips&#34;&gt;Redis Tips&lt;/a&gt; (Mozilla)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/vCoreDump/getting-startedwithredis&#34;&gt;Getting Started with Redis&lt;/a&gt; (by vmware, which was sponsor)&lt;/p&gt;
+
+&lt;h2 id=&#34;hugomore42&#34;&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.mjrusso.com/2010/10/17/redis-from-the-ground-up.html&#34;&gt;Redis, from the Ground Up&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Selenium tests in code only and the page object model</title>
+      <link>https://titi.github.io/2014/10/selenium-page-object-model/</link>
+      <pubDate>Thu, 23 Oct 2014 09:06:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/2014/10/selenium-page-object-model/</guid>
+      <description>&lt;h1 id=&#34;selenium-at-salesforce-scale&#34;&gt;Selenium at Salesforce Scale&lt;/h1&gt;
+
+&lt;p&gt;Webinar &lt;a href=&#34;http://sauceio.com/index.php/2014/04/webinar-selenium-at-salesforce-scale-register-today/&#34;&gt;organised&lt;/a&gt; by &lt;strong&gt;Sauce Labs&lt;/strong&gt; (Selenium in the cloud) Wednesday, April 16th, 2014 at 10:00am PDT.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://saucelabs.com/selenium&#34;&gt;Sauce Labs&lt;/a&gt; hosted webinar with Lead Engineers from Salesforce.com, David Louvton and Sagar Wanaselja, who spoke about Selenium at Salesforce Scale.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developer.salesforce.com/&#34;&gt;&lt;img src=&#34;http://sauceio.com/wp-content/uploads/2014/04/sfdc-logo-300x213.jpg&#34; alt=&#34;Salesforce&#34; /&gt;&lt;/a&gt; + &lt;a href=&#34;https://saucelabs.com/&#34;&gt;&lt;img src=&#34;https://saucelabs.com/images/sauce-labs-logo.png&#34; alt=&#34;SauceLabs&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sauceio.com/index.php/2014/04/selenium-at-saleforce-scale-webinar-slides-and-recording/&#34;&gt;Webinar Recording&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/saucelabs/salesforce-seleniumsaucelabswebinarapril2014&#34;&gt;Webinar Slides&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>No defect</title>
+      <link>https://titi.github.io/2014/10/no-defect/</link>
+      <pubDate>Fri, 17 Oct 2014 15:15:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/2014/10/no-defect/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.fastcompany.com/28121/they-write-right-stuff&#34;&gt;They Write the Right Stuff&lt;/a&gt; - NASA / Software for Grown-Ups&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.klocwork.com/resources/research/research-improving-software-by-reducing-defects/download&#34;&gt;Improving software by reducing coding defects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.tenberry.com/errfree/steps.htm&#34;&gt;Nine Steps to Delivering Defect-Free Software&lt;/a&gt;&lt;br /&gt;
+(first 3 steps = gold)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Scalability</title>
+      <link>https://titi.github.io/2014/10/scalability/</link>
+      <pubDate>Sun, 12 Oct 2014 18:44:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/2014/10/scalability/</guid>
+      <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+
+&lt;p&gt;Here are a few links related to scalability, including some from &lt;a href=&#34;http://highscalability.com/&#34;&gt;http://highscalability.com/&lt;/a&gt;, in particular thoses from the &lt;a href=&#34;http://en.wikipedia.org/wiki/Shard_%28database_architecture%29&#34;&gt;Real Life Architectures&lt;/a&gt; section.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Shared_nothing_architecture&#34;&gt;Salesforce Architecture - How They Handle 1.3 Billion Transactions A Day&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codefutures.com/database-sharding/&#34;&gt;The Easy Way Of Building A Growing Startup Architecture Using HAProxy, PHP, Redis And MySQL To Handle 1 Billion Requests A Week&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ayende.com/blog/134145/sharding-vs-having-multiple-databases&#34;&gt;The Real News Is Not That Facebook Serves Up 1 Trillion Pages A Month…&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://labs.octivi.com/database-design-in-saas-platforms/&#34;&gt;Facebook&amp;rsquo;s New Real-Time Messaging System: HBase To Store 135+ Billion Messages A Month&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2013/4/23/facebook-secrets-of-web-performance.html&#34;&gt;Facebook Secrets Of Web Performance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2013/11/25/how-to-make-an-infinitely-scalable-relational-database-manag.html&#34;&gt;How To Make An Infinitely Scalable Relational Database Management System (RDBMS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2014/7/21/stackoverflow-update-560m-pageviews-a-month-25-servers-and-i.html&#34;&gt;StackOverflow Update: 560M Pageviews A Month, 25 Servers, And It&amp;rsquo;s All About Performance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Writing efficient CSS</title>
+      <link>https://titi.github.io/2014/09/writing-efficient-css/</link>
+      <pubDate>Wed, 17 Sep 2014 10:58:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/2014/09/writing-efficient-css/</guid>
+      <description>&lt;p&gt;September 17, 2014 10:58am&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741&#34;&gt;30 CSS Best Practices for Beginners&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml&#34;&gt;Google HTML/CSS Style Guide&lt;/a&gt;&lt;br /&gt;
+Great collection of short tips&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS&#34;&gt;Writing efficient CSS&lt;/a&gt; - Mozilla Developer Network [MDN]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.creativebloq.com/how-structure-your-css-12114258&#34;&gt;How to structure your CSS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sitepoint.com/css-architectures-new-best-practices/&#34;&gt;CSS Architectures: New Best Practices&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;hugomore42&#34;&gt;&lt;/h2&gt;
+
+&lt;p&gt;September 25, 2014 9:09am&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Software Testing Ice-cream Cone</title>
+      <link>https://titi.github.io/2014/08/software-testing-ice-cream-cone/</link>
+      <pubDate>Sun, 03 Aug 2014 10:17:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/2014/08/software-testing-ice-cream-cone/</guid>
+      <description>&lt;p&gt;What not to do:&lt;br /&gt;
+&lt;img src=&#34;cone/ice-cream_cone.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Unit Testing</title>
+      <link>https://titi.github.io/2014/07/unit-testing/</link>
+      <pubDate>Tue, 15 Jul 2014 10:58:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/2014/07/unit-testing/</guid>
+      <description>&lt;p&gt;July 15, 2014 10:58am&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/nashjain/inverting-the-testing-pyramid&#34;&gt;Inverting The Testing Pyramid&lt;/a&gt; [SlideShare]
+&amp;gt; &lt;a href=&#34;http://blogs.agilefaqs.com/2011/02/01/inverting-the-testing-pyramid/&#34;&gt;http://blogs.agilefaqs.com/2011/02/01/inverting-the-testing-pyramid/&lt;/a&gt; [Article]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.javacodegeeks.com/2014/07/how-to-test-your-tests.html&#34;&gt;How To Test Your Tests&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://stephenwalther.com/archive/2009/04/11/tdd-tests-are-not-unit-tests&#34;&gt;TDD Tests are not Unit Tests&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developer.salesforce.com/page/How_to_Write_Good_Unit_Tests&#34;&gt;How to Write Good Unit Tests&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Single Responsibility Principle:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html&#34;&gt;http://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.javacodegeeks.com/2014/02/the-single-responsibility-principle.html&#34;&gt;http://www.javacodegeeks.com/2014/02/the-single-responsibility-principle.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sklivvz.com/posts/i-dont-love-the-single-responsibility-principle&#34;&gt;I don&amp;rsquo;t love the single responsibility principle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;hugomore42&#34;&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://martinfowler.com/articles/testing-culture.html&#34;&gt;Goto Fail, Heartbleed, and Unit Testing Culture&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The javascript .prototype guide I would have wanted</title>
+      <link>https://titi.github.io/2013/12/prototype/</link>
+      <pubDate>Tue, 17 Dec 2013 00:19:38 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/2013/12/prototype/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>
