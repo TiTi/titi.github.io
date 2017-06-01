@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Mon, 15 May 2017 23:50:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 22:40:00 +0100</lastBuildDate>
     
 	<atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Feed #152</title>
+      <link>https://titi.github.io/links/feed-152/</link>
+      <pubDate>Thu, 01 Jun 2017 22:40:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-152/</guid>
+      <description>HTTPS TLS/SSL Explained: TLS/SSL Terminology and Basics
+HTTPS on Stack Overflow: The End of a Long Road
+Repositories Towards true continuous integration: distributed repositories and dependencies - The Netflix Tech Blog
+Windows switch to Git almost complete: 8,500 commits and 1,760 builds each day - arstechnica
+Programming languages Flexibility Equates to Lower Quality
+MVC vs. OOP
+Javascript V8, Advanced JavaScript, &amp;amp; the Next Performance Frontier (Google I/O &amp;lsquo;17): Matt Johnson: The Past, Present, and Future of JavaScript Date and Time APIs | JSConf EU 2017: Reports The State of Code Review 2017: Trends &amp;amp; Insights into Dev Collaboration | SmartBear</description>
+    </item>
     
     <item>
       <title>Feed #151</title>
