@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Thu, 01 Jun 2017 22:40:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jul 2017 22:45:00 +0100</lastBuildDate>
     
 	<atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Feed #153 - Sunday fun</title>
+      <link>https://titi.github.io/links/feed-153/</link>
+      <pubDate>Sun, 02 Jul 2017 22:45:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-153/</guid>
+      <description>Somebody actually built a digital clock in a Conway&amp;rsquo;s Game of Life, amazing!
+Color illusion: blue or yellow?
+Don’t install that - Fredo and Pidjin. The Webcomic.
+Redditors design worst volume sliders possible 
+infobyte/spoilerwall
+Spoilerwall introduces a brand new concept in the field of network hardening. Avoid being scanned by spoiling movies on all your ports!
+When Pixels Collide - Reddit Place
+Source: Programming languages as humans
+A closer look at the art behind the new Ghost in the Shell movie: Source: Code Review Stages</description>
+    </item>
     
     <item>
       <title>Feed #152</title>
