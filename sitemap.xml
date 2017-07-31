@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://titi.github.io/links/feed-154/</loc>
+    <lastmod>2017-07-31T22:55:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://titi.github.io/links/feed-153/</loc>
     <lastmod>2017-07-02T22:45:00+01:00</lastmod>
   </url>
@@ -830,13 +835,13 @@
   
   <url>
     <loc>https://titi.github.io/</loc>
-    <lastmod>2017-07-02T22:45:00+01:00</lastmod>
+    <lastmod>2017-07-31T22:55:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://titi.github.io/links/</loc>
-    <lastmod>2017-07-02T22:45:00+01:00</lastmod>
+    <lastmod>2017-07-31T22:55:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
