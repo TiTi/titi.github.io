@@ -19,8 +19,7 @@
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/2015/05/windows-shortcuts/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve skipped the famous ones and focused on some useful shortcuts.
-Try them out if you don&amp;rsquo;t know them!
-&lt;/p&gt;</description>
+Try them out if you don&amp;rsquo;t know them!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -46,13 +45,7 @@ Try them out if you don&amp;rsquo;t know them!
 &lt;p&gt;Code Review for Teams Too Busy to Review Code (start ~16min):&lt;br /&gt;
 &lt;br /&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/1m3eRFeCInY?start=980&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;hugomore42&#34;&gt;&lt;/h2&gt;
-
-&lt;h1 id=&#34;effective-code-review&#34;&gt;Effective Code Review&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.beanbaginc.com/2014/12/01/practicing-effective-self-review/&#34;&gt;Practicing effective self-review&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -87,11 +80,7 @@ Try them out if you don&amp;rsquo;t know them!
 &lt;a href=&#34;https://redislabs.com/blog/5-key-takeaways-for-developing-with-redis&#34;&gt;5 Key Takeaways for Developing with Redis&lt;/a&gt;
 &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Mozilla/Redis_Tips&#34;&gt;Redis Tips&lt;/a&gt; (Mozilla)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/vCoreDump/getting-startedwithredis&#34;&gt;Getting Started with Redis&lt;/a&gt; (by vmware, which was sponsor)&lt;/p&gt;
-
-&lt;h2 id=&#34;hugomore42&#34;&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.mjrusso.com/2010/10/17/redis-from-the-ground-up.html&#34;&gt;Redis, from the Ground Up&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/vCoreDump/getting-startedwithredis&#34;&gt;Getting Started with Redis&lt;/a&gt; (by vmware, which was sponsor)&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -146,9 +135,7 @@ Try them out if you don&amp;rsquo;t know them!
 &lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2013/11/25/how-to-make-an-infinitely-scalable-relational-database-manag.html&#34;&gt;How To Make An Infinitely Scalable Relational Database Management System (RDBMS)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2014/7/21/stackoverflow-update-560m-pageviews-a-month-25-servers-and-i.html&#34;&gt;StackOverflow Update: 560M Pageviews A Month, 25 Servers, And It&amp;rsquo;s All About Performance&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -168,11 +155,7 @@ Great collection of short tips&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.creativebloq.com/how-structure-your-css-12114258&#34;&gt;How to structure your CSS&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.sitepoint.com/css-architectures-new-best-practices/&#34;&gt;CSS Architectures: New Best Practices&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;hugomore42&#34;&gt;&lt;/h2&gt;
-
-&lt;p&gt;September 25, 2014 9:09am&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://www.sitepoint.com/css-architectures-new-best-practices/&#34;&gt;CSS Architectures: New Best Practices&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -182,7 +165,10 @@ Great collection of short tips&lt;/p&gt;
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/2014/08/software-testing-ice-cream-cone/</guid>
       <description>&lt;p&gt;What not to do:&lt;br /&gt;
-&lt;img src=&#34;cone/ice-cream_cone.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+&lt;img src=&#34;cone/ice-cream_cone.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What we should do:&lt;br /&gt;
+&lt;img src=&#34;cone/cone1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -208,11 +194,7 @@ Great collection of short tips&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html&#34;&gt;http://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.javacodegeeks.com/2014/02/the-single-responsibility-principle.html&#34;&gt;http://www.javacodegeeks.com/2014/02/the-single-responsibility-principle.html&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://sklivvz.com/posts/i-dont-love-the-single-responsibility-principle&#34;&gt;I don&amp;rsquo;t love the single responsibility principle&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;hugomore42&#34;&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://martinfowler.com/articles/testing-culture.html&#34;&gt;Goto Fail, Heartbleed, and Unit Testing Culture&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
