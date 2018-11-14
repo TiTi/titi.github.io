@@ -9,7 +9,7 @@
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
     <lastBuildDate>Sun, 06 Aug 2017 22:40:00 +0100</lastBuildDate>
     
-	<atom:link href="https://titi.github.io/tags/fun/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://titi.github.io/tags/fun/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,9 +18,15 @@
       <pubDate>Sun, 06 Aug 2017 22:40:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-155/</guid>
-      <description>Source: Bottom of the backlog
-Source: It&amp;rsquo;s an improvement | CommitStrip
-Source: Refactor Man</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.monkeyuser.com/assets/images/2017/54-bottom-of-backlog.png&#34; alt=&#34;Bottom of the backlog&#34; width=&#34;600&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.monkeyuser.com/2017/bottom-of-the-backlog/&#34;&gt;Bottom of the backlog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.commitstrip.com/wp-content/uploads/2017/08/Strip-Le-codeur-arros%C3%A9-english.jpg&#34; alt=&#34;It&#39;s an improvement&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.commitstrip.com/en/2017/08/03/its-an-improvement/&#34;&gt;It&amp;rsquo;s an improvement | CommitStrip&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.monkeyuser.com/assets/images/2017/56-refactor-man.png&#34; alt=&#34;Refactor Man&#34; width=&#34;600&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.monkeyuser.com/2017/refactor-man/&#34;&gt;Refactor Man&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -29,15 +35,33 @@ Source: Refactor Man</description>
       <pubDate>Sun, 02 Jul 2017 22:45:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-153/</guid>
-      <description>Somebody actually built a digital clock in a Conway&amp;rsquo;s Game of Life, amazing!
-Color illusion: blue or yellow?
-Don’t install that - Fredo and Pidjin. The Webcomic.
-Redditors design worst volume sliders possible 
-infobyte/spoilerwall
-Spoilerwall introduces a brand new concept in the field of network hardening. Avoid being scanned by spoiling movies on all your ports!
-When Pixels Collide - Reddit Place
-Source: Programming languages as humans
-A closer look at the art behind the new Ghost in the Shell movie: Source: Code Review Stages</description>
+      <description>&lt;p&gt;Somebody actually built a &lt;a href=&#34;https://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life/&#34;&gt;digital clock in a Conway&amp;rsquo;s Game of Life&lt;/a&gt;, amazing!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mastodon.cloud/users/login/updates/720471&#34;&gt;Color illusion: blue or yellow?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.pidjin.net/2017/01/12/dont-install-that/&#34;&gt;Don’t install that&lt;/a&gt; - Fredo and Pidjin. The Webcomic.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.designernews.co/stories/84443-redditors-design-worst-volume-sliders-possible&#34;&gt;Redditors design worst volume sliders possible &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/infobyte/spoilerwall&#34;&gt;infobyte/spoilerwall&lt;/a&gt;&lt;br /&gt;
+Spoilerwall introduces a brand new concept in the field of network hardening. Avoid being scanned by spoiling movies on all your ports!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sudoscript.com/reddit-place/&#34;&gt;When Pixels Collide&lt;/a&gt; - Reddit Place&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.monkeyuser.com/assets/images/2017/28-programming-languages-as-humans.png&#34; alt=&#34;Programming languages as humans&#34; width=&#34;600&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.monkeyuser.com/2017/programming-languages-as-humans/&#34;&gt;Programming languages as humans&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.theverge.com/2017/4/4/15180374/ghost-in-the-shell-art-design-ash-thorp&#34;&gt;A closer look at the art behind the new Ghost in the Shell movie&lt;/a&gt;:
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe src=&#34;//player.vimeo.com/video/211519393&#34; width=&#34;640&#34; height=&#34;385&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.monkeyuser.com/assets/images/2017/46-code-review-stages.png&#34; alt=&#34;Code Review Stages&#34; width=&#34;600&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.monkeyuser.com/2017/code-review-stages/&#34;&gt;Code Review Stages&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -46,11 +70,18 @@ A closer look at the art behind the new Ghost in the Shell movie: Source: Code
       <pubDate>Sun, 01 Jan 2017 23:55:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-143/</guid>
-      <description>Source: CommitStrip - Good old admin/password
-Apple to developers: There is no escape.
-FizzBuzz Enterprise Edition
-Basic Human Needs:
-Things Programmers Say</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.commitstrip.com/wp-content/uploads/2016/10/Strip-S%C3%A9curit%C3%A9-Admin-password-finalenglish-2.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.commitstrip.com/en/2016/10/14/good-old-adminpassword/&#34;&gt;Source: CommitStrip - Good old admin/password&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.freecodecamp.com/apple-to-developers-there-is-no-escape-298b63c2a1d8#.byp3pw4yw&#34;&gt;Apple to developers: There is no escape.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition&#34;&gt;FizzBuzz Enterprise Edition&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Basic Human Needs:&lt;br /&gt;
+&lt;img src=&#34;https://ih0.redbubble.net/image.23056565.0513/sticker,375x360.u4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/things-programmers-say?edition=154263&#34;&gt;Things Programmers Say&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -59,10 +90,19 @@ Things Programmers Say</description>
       <pubDate>Sun, 09 Oct 2016 15:10:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-138/</guid>
-      <description>Unix Error Messages
-Source: CommitStrip - CTRL control
-Source: Saturday Morning Breakfast Cereal - Punishment
-Japan Creates Amazing LED Basketball Court For Pro League: </description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.gnu.org/fun/jokes/unix.errors.html&#34;&gt;Unix Error Messages&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.commitstrip.com/wp-content/uploads/2016/09/Strip-Sue-le-fil-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.commitstrip.com/en/2016/09/22/ctrl-control/&#34;&gt;Source: CommitStrip - CTRL control&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.smbc-comics.com/comics/1475937366-20161008.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.smbc-comics.com/comic/punishment&#34;&gt;Source: Saturday Morning Breakfast Cereal - Punishment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Japan Creates Amazing LED Basketball Court For Pro League:
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/lEAdLLmvP-A&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -71,11 +111,19 @@ Japan Creates Amazing LED Basketball Court For Pro League: </description>
       <pubDate>Mon, 29 Aug 2016 14:48:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-134/</guid>
-      <description>Improvements to the Way MessageBox works, in latest Service Pack for Windows 7, 8 and 8.1
-The Inner JSON Effect
-Filler text Face the Force Today
-A quick and simple service for getting pictures of Star Wars characters for use as placeholders in your designs or code
-Minions Ipsum!!</description>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://www.secretgeek.net/MessageBox_Improvements&#34;&gt;Improvements to the Way MessageBox works, in latest Service Pack for Windows 7, 8 and 8.1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://thedailywtf.com/articles/the-inner-json-effect&#34;&gt;The Inner JSON Effect&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;filler-text&#34;&gt;Filler text&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://facetheforce.today&#34;&gt;Face the Force Today&lt;/a&gt;&lt;br /&gt;
+A quick and simple service for getting pictures of Star Wars characters for use as placeholders in your designs or code&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.minionsipsum.com&#34;&gt;Minions Ipsum!!&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -84,13 +132,22 @@ Minions Ipsum!!</description>
       <pubDate>Mon, 25 Jul 2016 23:30:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-130/</guid>
-      <description>Why can’t girls code?
-The Megaprocessor &amp;hellip;
-We did it! How a comment on HackerNews lead to 4 ½ new Unicode characters
-Illusion of the year: Ambiguous Cylinder
-The code that took America to the moon was just published to GitHub, and it’s like a 1960s time capsule
-Copy and paste this into google:
-5 + (-sqrt(1-x^2-(y-abs(x))^2))cos(30((1-x^2-(y-abs(x))^2))), x is from -1 to 1, y is from -1 to 1.5, z is from 1 to 6</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://girlswhocode.com/girlsdocode/&#34;&gt;Why can’t girls code?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://megaprocessor.com/&#34;&gt;The Megaprocessor &amp;hellip;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://unicodepowersymbol.com/we-did-it-how-a-comment-on-hackernews-lead-to-4-½-new-unicode-characters/&#34;&gt;We did it! How a comment on HackerNews lead to 4 ½ new Unicode characters&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.numerama.com/sciences/179439-lillusion-de-lannee-2016-transforme-carres-cercles.html&#34;&gt;Illusion of the year: Ambiguous Cylinder&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://qz.com/726338/the-code-that-took-america-to-the-moon-was-just-published-to-github-and-its-like-a-1960s-time-capsule/&#34;&gt;The code that took America to the moon was just published to GitHub, and it’s like a 1960s time capsule&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Copy and paste this into google:&lt;br /&gt;
+&lt;a href=&#34;http://imgur.com/r/pics/R9eJUtg&#34;&gt;5 + (-sqrt(1-x^2-(y-abs(x))^2))&lt;em&gt;cos(30&lt;/em&gt;((1-x^2-(y-abs(x))^2))), x is from -1 to 1, y is from -1 to 1.5, z is from 1 to 6&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://imgur.com/ESDRFJR&#34;&gt;WTF Yahoo!&lt;/a&gt;&lt;br /&gt;
+&lt;img src=&#34;http://i.imgur.com/ESDRFJR.jpg&#34; alt=&#34;WTF Yahoo!&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -99,10 +156,14 @@ Copy and paste this into google:
       <pubDate>Sun, 01 May 2016 22:45:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-125/</guid>
-      <description>Virtual Art Sessions - Chrome Experiment using Tilt Brush
-Original resume:
-David Prati — Digital art director
-Source: CommitStrip - QuickFix</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://virtualart.chromeexperiments.com/&#34;&gt;Virtual Art Sessions - Chrome Experiment using Tilt Brush&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Original resume:&lt;br /&gt;
+&lt;a href=&#34;http://portfolio.davidprati.fr/&#34;&gt;David Prati — Digital art director&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2016/04/Strip-Bien-fixer-ou-bien-bien-fixer-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.commitstrip.com/en/2016/04/13/quick-fix/&#34;&gt;CommitStrip - QuickFix&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -111,15 +172,29 @@ Source: CommitStrip - QuickFix</description>
       <pubDate>Sun, 17 Apr 2016 23:50:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-122/</guid>
-      <description>Which cat is your JavaScript framework?
-So, just how was that Chemical Brothers video made?
-What If Drivers Were Hired Like Programmers?
-Boys Noize on Twitter : &amp;ldquo;right @SoundCloud &amp;hellip;&amp;rdquo;
-Microsoft deletes &amp;lsquo;teen girl&amp;rsquo; AI after it became a Hitler-loving sex robot within 24 hours
-More at imgur
-I need a clever WiFi Name for the new router
-Source: CommitStrip - Too Full Stack
-Source: CommitStrip - The latest innovation from the media</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://whichcatisyourjavascriptframework.com&#34;&gt;Which cat is your JavaScript framework?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.fxguide.com/featured/so-just-how-was-that-chemical-brothers-video-made/&#34;&gt;So, just how was that Chemical Brothers video made?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.jitbit.com/alexblog/203-what-if-drivers-were-hired-like-programmers/&#34;&gt;What If Drivers Were Hired Like Programmers?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/boysnoize/status/715075699883638785&#34;&gt;Boys Noize on Twitter : &amp;ldquo;right @SoundCloud &amp;hellip;&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.telegraph.co.uk/technology/2016/03/24/microsofts-teen-girl-ai-turns-into-a-hitler-loving-sex-robot-wit/&#34;&gt;Microsoft deletes &amp;lsquo;teen girl&amp;rsquo; AI after it became a Hitler-loving sex robot within 24 hours&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://imgur.com/gallery/VhlAW&#34;&gt;More at imgur&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://imgur.com/gallery/LfDZSHA&#34;&gt;I need a clever WiFi Name for the new router&lt;/a&gt;&lt;/p&gt;
+
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/tGHcyKTIXIM&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2016/03/Strip-La-maison-de-stacks-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http:www.commitstrip.com/en/2016/03/17/too-full-stack/&#34;&gt;CommitStrip - Too Full Stack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2016/03/Strip-La-contre-attaque-Adblock-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.commitstrip.com/en/2016/03/23/the-latest-innovation-from-the-media/&#34;&gt;CommitStrip - The latest innovation from the media&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -128,15 +203,26 @@ Source: CommitStrip - The latest innovation from the media</description>
       <pubDate>Sun, 10 Jan 2016 23:55:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-112/</guid>
-      <description>Ken &amp;amp; R-E&amp;rsquo;s Internet Controlled Christmas Lights
-Source: www.cloudtweaks.com
-Source: CommitStrip
-Building MirrorMirror:
+      <description>&lt;p&gt;&lt;a href=&#34;http://christmasinfairbanks.com/&#34;&gt;Ken &amp;amp; R-E&amp;rsquo;s Internet Controlled Christmas Lights&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&#34;https://ci4.googleusercontent.com/proxy/wYfEA08maHoPmBy0pYwXft8G1lXw3B07RUtOr3pkvigQJpDPvu7jX8v_r9cLYgIZY3cLZm3XSxV6Gabpu4nXvvAaJovVv0KdfNuz8IJIF7uzwZUe=s0-d-e1-ft#https://info.microsoft.com/rs/157-GQE-382/images/comic-dec.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.cloudtweaks.com&#34;&gt;www.cloudtweaks.com&lt;/a&gt;&lt;/p&gt;
 
-Markus Fischer: A robot that flies like a bird - TED Talks
-Explore New Horizons - StarBnB
-(Which is a pardoy of Airbnb in case you didn&amp;rsquo;t get that ; from Pointless Corp - The Innovation Lab at Viget)</description>
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/12/Strip-Nouvel-an-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/12/31/happy-new-year-2016/?setLocale=1&#34;&gt;CommitStrip&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.dylanjpierce.com/raspberrypi/magicmirror/tutorial/2015/12/27/build-a-magic-mirror.html&#34;&gt;Building MirrorMirror:&lt;br /&gt;
+&lt;img src=&#34;http://i.imgur.com/lNB7QSt.jpg?1&#34; alt=&#34;MirrorMirror&#34; width=&#34;600&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/UBWAcNJf5pM?t=113&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+&lt;a href=&#34;https://www.ted.com/talks/a_robot_that_flies_like_a_bird?language=en&#34;&gt;Markus Fischer: A robot that flies like a bird&lt;/a&gt; - TED Talks&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://starbnb.co/&#34;&gt;Explore New Horizons - StarBnB&lt;/a&gt;&lt;br /&gt;
+(Which is a pardoy of Airbnb in case you didn&amp;rsquo;t get that ; from &lt;a href=&#34;http://pointlesscorp.com/&#34;&gt;Pointless Corp&lt;/a&gt; - The Innovation Lab at Viget)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -145,10 +231,15 @@ Explore New Horizons - StarBnB
       <pubDate>Sun, 06 Dec 2015 18:00:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-110/</guid>
-      <description>Torvalds Announces Plans To Change Linux Line Endings To Letter Z
-Hacker Scripts
-Periodic Table of DevOps Tools
-Source: The New Framework</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.theallium.com/engineering/torvalds-announces-plans-to-change-linux-line-endings-to-letter-z/&#34;&gt;Torvalds Announces Plans To Change Linux Line Endings To Letter Z&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/NARKOZ/hacker-scripts&#34;&gt;Hacker Scripts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://xebialabs.com/periodic-table-of-devops-tools/&#34;&gt;Periodic Table of DevOps Tools&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/11/Strip-La-boucle-du-Framwork-english650-final.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/11/24/the-new-framework/?setLocale=1&#34;&gt;The New Framework&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -157,15 +248,29 @@ Source: The New Framework</description>
       <pubDate>Sun, 22 Nov 2015 15:32:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-107/</guid>
-      <description>Zombie code: When maintainability goes out the window
-Coder epitaphs:
-Source: CommitStrip
-ngerakines/commitment
- http://whatthecommit.com/ http://whatthecommit.com/index.txt  WebAgencyFail
-The Infinite Jukebox
-Watch People in Other Industries React Hilariously to Being Asked for Free Spec Work. Advertising, we have a problem By Tim Nudd
-The Codeless Code - Fables and Köans for the Software Engineer
-Pong + Pacman + Space Invaders!</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://techbeacon.com/zombie-code-when-maintainability-goes-out-window&#34;&gt;Zombie code: When maintainability goes out the window&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Coder epitaphs:&lt;br /&gt;
+&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/11/Strip-Epitaphe-de-codeur-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/11/10/coder-epitaphs/&#34;&gt;CommitStrip&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/ngerakines/commitment&#34;&gt;ngerakines/commitment&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://whatthecommit.com/&#34;&gt;http://whatthecommit.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://whatthecommit.com/index.txt&#34;&gt;http://whatthecommit.com/index.txt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.webagencyfail.com&#34;&gt;WebAgencyFail&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://labs.echonest.com/Uploader/index.html&#34;&gt;The Infinite Jukebox&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.adweek.com/adfreak/watch-people-other-industries-react-hilariously-being-asked-free-spec-work-167945&#34;&gt;Watch People in Other Industries React Hilariously to Being Asked for Free Spec Work. Advertising, we have a problem&lt;/a&gt; By Tim Nudd&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://thecodelesscode.com&#34;&gt;The Codeless Code&lt;/a&gt; - Fables and Köans for the Software Engineer&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://kingpenguin.itch.io/pacapong&#34;&gt;Pong + Pacman + Space Invaders!&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -174,12 +279,24 @@ Pong + Pacman + Space Invaders!</description>
       <pubDate>Sun, 15 Nov 2015 12:44:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-104/</guid>
-      <description>Atari 2600 CPU plans
-HTML5 version of StarCraft game
-The Most Hackable Cars on the Road
-Real Life First Person Shooter (Chatroulette version): Source: How to choose the right JavaScript framework | CommitStrip
-Maybe not so funny after all:
-Source: Meanwhile, in a parallel universe | CommitStrip</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://visual6502.org/JSSim/expert.html&#34;&gt;Atari 2600 CPU plans&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gloomyson/StarCraft&#34;&gt;HTML5 version of StarCraft game&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ptclwg.com/news/the-most-hackable-cars-on-the-road-1&#34;&gt;The Most Hackable Cars on the Road&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Real Life First Person Shooter (Chatroulette version):
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/p747PrxmZJ4&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/09/Strip-Prendre-le-train-en-marche-650-finalenglish1.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/09/16/how-to-choose-the-right-javascript-framework/&#34;&gt;How to choose the right JavaScript framework&lt;/a&gt; | CommitStrip&lt;/p&gt;
+
+&lt;p&gt;Maybe not so funny after all:&lt;br /&gt;
+&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/09/Strip-le-machisme-invers%C3%A9-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/09/17/meanwhile-in-a-parallel-universe-2/&#34;&gt;Meanwhile, in a parallel universe&lt;/a&gt; | CommitStrip&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -188,11 +305,21 @@ Source: Meanwhile, in a parallel universe | CommitStrip</description>
       <pubDate>Sun, 16 Aug 2015 21:46:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-96/</guid>
-      <description>Source: Geek&amp;amp;Poke
-5 megabyte hard drive being shipped out, IBM 1956:
-Source: Geek&amp;amp;Poke
-First-Person Tetris
-Wurstify Your Web Experience</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://static1.squarespace.com/static/518f5d62e4b075248d6a3f90/t/5598f728e4b0c805c284eafc/1436088111038&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://geek-and-poke.com/geekandpoke/2015/7/5/the-new-waterfall&#34;&gt;Geek&amp;amp;Poke&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://imgur.com/r/pics/PPDgkfO&#34;&gt;5 megabyte hard drive being shipped out, IBM 1956&lt;/a&gt;:&lt;br /&gt;
+&lt;img src=&#34;http://i.imgur.com/PPDgkfO.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://static1.squarespace.com/static/518f5d62e4b075248d6a3f90/t/55b62963e4b0d3dd13b2c272/1438001512487&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://geek-and-poke.com/geekandpoke/2015/7/27/the-last-todo&#34;&gt;Geek&amp;amp;Poke&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.firstpersontetris.com/&#34;&gt;First-Person Tetris&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://wurstify.me/&#34;&gt;Wurstify Your Web Experience&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -201,10 +328,21 @@ Wurstify Your Web Experience</description>
       <pubDate>Sun, 14 Jun 2015 18:29:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-92/</guid>
-      <description>Paris Metro lines on a Git graph
-Color Extraction Effect
-The Martian | Official Trailer Source
-Source</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/vbarbaresi/MetroGit&#34;&gt;Paris Metro lines on a Git graph&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://tympanus.net/Development/ColorExtraction/&#34;&gt;Color Extraction Effect&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Martian | Official Trailer
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/Ue4PCI0NamI&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://imgs.xkcd.com/comics/the_martian.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;a href=&#34;http://xkcd.com/1536/&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://imgs.xkcd.com/comics/types.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;a href=&#34;http://xkcd.com/1537/&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -213,11 +351,53 @@ Source</description>
       <pubDate>Sun, 07 Jun 2015 11:54:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-89/</guid>
-      <description>[FR] 30 phrases totalement insolites prononcées par des clients à des agences web
-http://www.in2white.com/
-https://twitter.com/glitchr_
-KUNG FURY Official Movie
-Kung fu, Nazis, kung führer!, hackerman, E=mc3, portal, dinausors, ninjas, vikings, thor,&amp;hellip; A.W.E.S.O.M.E. mashup and graphics The Dangers of Selfie Sticks PSA Elders Play Grand Theft Auto V #2 Elders Play The Last of Us Kids react to VCR/VHS Farthest flight by hoverboard - Guinness World Records Spammers just aren&amp;rsquo;t trying anymore</description>
+      <description>&lt;p&gt;[FR] &lt;a href=&#34;http://piwee.net/1-phrases-insolites-proncees-client-agences-web-260515/&#34;&gt;30 phrases totalement insolites prononcées par des clients à des agences web&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.in2white.com/&#34;&gt;http://www.in2white.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/glitchr_&#34;&gt;https://twitter.com/glitchr_&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;KUNG FURY Official Movie&lt;br /&gt;
+Kung fu, Nazis, kung führer!, hackerman, E=mc3, portal, dinausors, ninjas, vikings, thor,&amp;hellip;  A.W.E.S.O.M.E. mashup and graphics
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/bS5P_LAqiVg&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The Dangers of Selfie Sticks PSA
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/1fmQs37YqXg&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Elders Play Grand Theft Auto V #2
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/MDnEbmdj9h4&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Elders Play The Last of Us
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/2Ep8f-ChSbE&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Kids react to VCR/VHS
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/kesMOzzNBiQ&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Farthest flight by hoverboard - Guinness World Records
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/Bfa9HrieUyQ&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.reddit.com/r/funny/comments/38740n/spammers_just_arent_trying_anymore/&#34;&gt;Spammers just aren&amp;rsquo;t trying anymore&lt;/a&gt;&lt;br /&gt;
+&lt;img src=&#34;http://i.imgur.com/M4tXKNc.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Drone - Trailer #1 (2015)
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/O1Hhvdpvp5o&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -226,10 +406,20 @@ Kung fu, Nazis, kung führer!, hackerman, E=mc3, portal, dinausors, ninjas, viki
       <pubDate>Sun, 24 May 2015 22:14:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-85/</guid>
-      <description>Luke (11y.o) solving the MoYu 13x13 Cube in 5h30m:
+      <description>&lt;p&gt;Luke (11y.o) solving the MoYu 13x13 Cube in 5h30m:&lt;br /&gt;
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/dJ6301NOl-s&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
 
-Cute video blends playful child with Super Mario Bros. effects The US Navy&amp;rsquo;s X-47B performs the first ever autonomous midair refueling:
-Thalmic Labs - Makers of Myo gesture control armband</description>
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&#34;http://boingboing.net/2015/05/19/watch-cute-video-blends-playf.html&#34;&gt;Cute video blends playful child with Super Mario Bros. effects&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The US Navy&amp;rsquo;s X-47B performs the first ever autonomous midair refueling:&lt;br /&gt;
+&lt;img src=&#34;http://i.imgur.com/LopfDkh.jpg&#34; alt=&#34;X-47B midair refueling&#34; width=&#34;1000&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.thalmic.com/en/myo/&#34;&gt;Thalmic Labs - Makers of Myo gesture control armband&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -238,13 +428,50 @@ Thalmic Labs - Makers of Myo gesture control armband</description>
       <pubDate>Sun, 17 May 2015 16:17:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-83/</guid>
-      <description>SWAPI - The Star Wars API
-WordPress 4.3 will be rewritten in Node.js
-These are the messages hidden in Belfiore&amp;rsquo;s Windows binary shirt
-Arduboy a $40 credit-card-sized game system for playing and coding
-Source
-Source
-Kids hack their Dad&amp;rsquo;s computer on her Raspberry Pi: (this kid is going places!) Jetman Dubai : Young Feathers 4K Is it Better to Walk or Run in the Rain? The MOVA Rotating Globe: Bohemian Rhapsody Played by 100+ year old fairground organ: Jamiroquai - Virtual Insanity - The Game: avoid sofas!</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://swapi.co/&#34;&gt;SWAPI - The Star Wars API&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://webuilddesign.com/wordpress-4-3-will-be-rewritten-in-node-js/&#34;&gt;WordPress 4.3 will be rewritten in Node.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.windowscentral.com/joe-belfiores-windows-10-binary-shirt-build-decoded&#34;&gt;These are the messages hidden in Belfiore&amp;rsquo;s Windows binary shirt&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://boingboing.net/2015/05/13/arduboy-a-40-credit-card-size.html&#34;&gt;Arduboy a $40 credit-card-sized game system for playing and coding&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/05/Strip-La-tron%C3%A7onneuse-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.commitstrip.com/en/2015/05/04/when-there-was-a-library-for-it/&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/05/Strip-Le-pied-dans-la-porte-de-Skype-650-finalenglish1.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;a href=&#34;www.commitstrip.com/en/2015/05/12/why-dont-you-come-alone/&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kids hack their Dad&amp;rsquo;s computer on her Raspberry Pi: (this kid is going places!)
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/W76o_iG7Y7g?start=11&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Jetman Dubai : Young Feathers 4K
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/Czy0pXRRZcs?start=365&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Is it Better to Walk or Run in the Rain?
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/3MqYE2UuN24&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The MOVA Rotating Globe:
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/yhsgqcq3mJU&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Bohemian Rhapsody Played by 100+ year old fairground organ:
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/JTnGI6Knw5Q&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Jamiroquai - Virtual Insanity - The Game: avoid sofas!
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/2WBdAsE2Lnc&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -253,12 +480,18 @@ Kids hack their Dad&amp;rsquo;s computer on her Raspberry Pi: (this kid is going
       <pubDate>Sun, 03 May 2015 00:11:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-77/</guid>
-      <description>Hacking an epic NHL goal celebration with a hue light show and real-time machine learning
-The Lighter Side Of The Cloud - Transformation
-Source: David Fletcher
-Source: Geek&amp;amp;Poke
-That&amp;rsquo;s not how you start a boat
-(also, first comment is quite a story too)</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.francoismaillet.com/epic-celebration/&#34;&gt;Hacking an epic NHL goal celebration with a hue light show and real-time machine learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Lighter Side Of The Cloud - Transformation&lt;br /&gt;
+&lt;img src=&#34;http://cloudtweaks.com/wp-content/uploads/2012/02/cloud_84-1024x950.jpg&#34; alt=&#34;The Lighter Side Of The Cloud - Transformation&#34; width=&#34;500&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://cloudtweaks.com/2012/02/the-lighter-side-of-the-cloud-transformation/&#34;&gt;David Fletcher&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://s3.media.squarespace.com/production/2129687/19317774/.a/6a00d8341d3df553ef0147e0e1aec2970b-800wi&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://geek-and-poke.com/geekandpoke/2010/12/21/the-free-model.html&#34;&gt;Geek&amp;amp;Poke&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/oldnewthing/archive/2015/05/01/10611358.aspx&#34;&gt;That&amp;rsquo;s not how you start a boat&lt;/a&gt;&lt;br /&gt;
+(also, first comment is quite a story too)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -267,13 +500,54 @@ That&amp;rsquo;s not how you start a boat
       <pubDate>Sun, 26 Apr 2015 21:10:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-73/</guid>
-      <description>CRS-6 First Stage Landing - SpaceX 
-When is Cheryl&amp;rsquo;s birthday?&amp;rsquo; The tricky maths problem that has everyone stumped
-CGA in 1024 Colors - a New Mode: the Illustrated Guide
-Code Kingdoms - A game that teaches kids how to code
+      <description>
 
-Last Week Tonight with John Oliver: Patents 
-Star Wars A Son&amp;rsquo;s reaction to &amp;lsquo;Empire Strikes Back&amp;rsquo; reveal!!!! BB-8 is real! But how did they do it?</description>
+&lt;p&gt;CRS-6 First Stage Landing - SpaceX
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/BhMSzC1crr0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.telegraph.co.uk/news/worldnews/asia/singapore/11534378/When-is-Cheryls-birthday-The-tricky-math-problem-that-has-everyone-stumped.html&#34;&gt;When is Cheryl&amp;rsquo;s birthday?&amp;rsquo; The tricky maths problem that has everyone stumped&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://8088mph.blogspot.fr/2015/04/cga-in-1024-colors-new-mode-illustrated.html&#34;&gt;CGA in 1024 Colors - a New Mode: the Illustrated Guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://codekingdoms.com/&#34;&gt;Code Kingdoms - A game that teaches kids how to code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Last Week Tonight with John Oliver: Patents
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/3bxcc3SM_KA&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;star-wars&#34;&gt;Star Wars&lt;/h1&gt;
+
+&lt;p&gt;A Son&amp;rsquo;s reaction to &amp;lsquo;Empire Strikes Back&amp;rsquo; reveal!!!!
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/ZbV5hn_ET0U&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://hackaday.com/2015/04/19/bb-8-is-real-but-how-did-they-do-it/&#34;&gt;BB-8 is real! But how did they do it?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nomachetejuggling.com/2011/11/11/the-star-wars-saga-suggested-viewing-order/&#34;&gt;The Star Wars Saga: Introducing Machete Order&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Phantom_Edit&#34;&gt;The Phantom Edit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Star Wars Battlefront Reveal Trailer (video game planned for November 17th):
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/ZwWLns7-xN8&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Star Wars Teaser - David Hasselhoff Edit
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe src=&#34;//player.vimeo.com/video/125372219&#34; width=&#34;640&#34; height=&#34;385&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -282,11 +556,27 @@ Star Wars A Son&amp;rsquo;s reaction to &amp;lsquo;Empire Strikes Back&amp;rsquo
       <pubDate>Sun, 12 Apr 2015 10:43:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-68/</guid>
-      <description>True story &amp;ldquo;We can&amp;rsquo;t send mail farther than 500 miles from here&amp;rdquo;
-Scrum How to Create Products that Customers Hate
-A tall graphic to show Mt. Everest scale
-Bad faith [FR] Petit recueil de 18 moisissures argumentatives pour concours de mauvaise foi
-Tickets Source: This rare moment of richness</description>
+      <description>
+
+&lt;h1 id=&#34;true-story&#34;&gt;True story&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://web.mit.edu/jemorris/humor/500-miles&#34;&gt;&amp;ldquo;We can&amp;rsquo;t send mail farther than 500 miles from here&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;scrum&#34;&gt;Scrum&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.romanpichler.com/blog/how-to-create-products-that-customers-hate/&#34;&gt;How to Create Products that Customers Hate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://flowingdata.com/2015/04/09/a-tall-graphic-to-show-mt-everest-scale/&#34;&gt;A tall graphic to show Mt. Everest scale&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;bad-faith&#34;&gt;Bad faith&lt;/h1&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;http://cortecs.org/effets-sophismes-biais-techniques/moisissures-argumentatives/&#34;&gt;Petit recueil de 18 moisissures argumentatives pour concours de mauvaise foi&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;tickets&#34;&gt;Tickets&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/04/Strip-Vendredi-18h-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;www.commitstrip.com/en/2015/04/10/this-rare-moment-of-richness/&#34;&gt;This rare moment of richness&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -295,13 +585,40 @@ Tickets Source: This rare moment of richness</description>
       <pubDate>Sun, 05 Apr 2015 00:28:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-63/</guid>
-      <description>Special April Fools&amp;rsquo; Day - April 1, 2015 elgooG - https://com.google/
-Re-rethinking computing
-Introducing a Massage API
-Microsoft launches MS-DOS Mobile
-CERN researchers confirm existence of the Force
-These CGI Images Are So Realistic That They Look Like Actual Photographs
-Google Fiber - Introducing Dial-Up mode: The Hovering Mouse - Project McFly | Razer: April Fools Video Prank in Math Class: (This teacher did other similar videos on previous years, check out his channel!</description>
+      <description>
+
+&lt;h1 id=&#34;special-april-fools-day-april-1-2015&#34;&gt;Special April Fools&amp;rsquo; Day - April 1, 2015&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://com.google/&#34;&gt;elgooG - https://com.google/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://chrome.blogspot.fr/2015/04/re-rethinking-computing.html&#34;&gt;Re-rethinking computing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dev.opera.com/blog/introducing-massage-api/&#34;&gt;Introducing a Massage API&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lumiaconversations.microsoft.com/2015/04/01/microsoft-launches-ms-dos-mobile/&#34;&gt;Microsoft launches MS-DOS Mobile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://home.web.cern.ch/about/updates/2015/04/cern-researchers-confirm-existence-force&#34;&gt;CERN researchers confirm existence of the Force&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://petapixel.com/2015/04/01/these-cgi-images-are-so-realistic-that-they-look-like-actual-photographs/&#34;&gt;These CGI Images Are So Realistic That They Look Like Actual Photographs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Google Fiber - Introducing Dial-Up mode:
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/XTTtkisylQw&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The Hovering Mouse - Project McFly | Razer:
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/IlCx5gjAmqI&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;April Fools Video Prank in Math Class:
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/P2SsIYEbCio&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+(This teacher did other similar videos on previous years, check out his channel!)&lt;/p&gt;
+
+&lt;p&gt;[FR] &lt;a href=&#34;http://www.lesnumeriques.com/telephone-portable/reception-3g-4g-couleur-telephone-jouerait-sur-qualite-n40979.html&#34;&gt;Débits 3G/4G : la couleur du smartphone jouerait sur la qualité&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -310,15 +627,29 @@ Google Fiber - Introducing Dial-Up mode: The Hovering Mouse - Project McFly | R
       <pubDate>Sun, 29 Mar 2015 19:36:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-58/</guid>
-      <description>The User is Drunk
-Source
-How best to sabotage your product (Agile Methodologies)
-We needed to send in pictures of our server rooms for an audit. This is what our Melbourne office sent in&amp;hellip;
+      <description>&lt;p&gt;&lt;a href=&#34;http://theuserisdrunk.com/&#34;&gt;The User is Drunk&lt;/a&gt;&lt;/p&gt;
 
-You know he&amp;rsquo;s that teacher that all the students want for their science class
-Way too much time: Let&amp;rsquo;s play Half-Life&amp;hellip; UPSIDE DOWN
-Video Game Console Wars | Battle Damage :
-Fraudster escapes from one of Britain&amp;rsquo;s most secure prisons by forging letter granting him bail - Social engineering</description>
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2012/12/Strips-Duplicateur-de-code-550-finalenglish1.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.commitstrip.com/en/2012/12/07/ce-quon-reserve-aux-duplicateurs-de-code/&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://gojko.net/2013/10/12/how-best-to-sabotage-your-product/&#34;&gt;How best to sabotage your product&lt;/a&gt; (Agile Methodologies)&lt;/p&gt;
+
+&lt;p&gt;We needed to send in pictures of our server rooms for an audit. This is what our Melbourne office sent in&amp;hellip;&lt;br /&gt;
+&lt;a href=&#34;http://imgur.com/r/pics/KASVOQT&#34;&gt;&lt;img src=&#34;http://i.imgur.com/KASVOQT.jpg&#34; alt=&#34;Melbourne server room&#34; width=&#34;800&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://imgur.com/gallery/0UvSuS5&#34;&gt;You know he&amp;rsquo;s that teacher that all the students want for their science class&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Way too much time: &lt;a href=&#34;https://www.youtube.com/watch?v=s5VTWEQdVhA&#34;&gt;Let&amp;rsquo;s play Half-Life&amp;hellip; UPSIDE DOWN&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Video Game Console Wars | Battle Damage :&lt;br /&gt;
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/FA_uS4nMvtA&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.telegraph.co.uk/news/uknews/crime/11500973/Fraudster-escapes-from-one-of-Britains-most-secure-prisons-by-forging-letter-granting-him-bail.html&#34;&gt;Fraudster escapes from one of Britain&amp;rsquo;s most secure prisons by forging letter granting him bail&lt;/a&gt; - Social engineering&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://imgur.com/1kZf0Yv&#34;&gt;The great toilet paper debate&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -327,18 +658,50 @@ Video Game Console Wars | Battle Damage :
       <pubDate>Sun, 15 Mar 2015 10:28:57 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-51/</guid>
-      <description>Things IT People Never Say: [Science Video] Does Alcohol Really Keep You Warm?
-YES! Someone Built an Actual Star Wars Speeder Bike Quadcopter!
-Eavesdropping Barbie is &amp;ldquo;downright creepy,&amp;rdquo; privacy advocates say
-Deus Ex: Human Revolution - Graphics Study
-Coffee table upgrade!
-Source
-In case you missed it: The dress (viral phenomenon)
-Source: http://www.commitstrip.com/en/2015/03/13/coding-with-a-hangover/
-Source: http://www.commitstrip.com/en/2015/03/06/welcome-to-the-house-of-code/
-FR:
-Piratage du Connected Drive de BMW et Mini Austin
-Bitoduc.fr : termes informatiques en français</description>
+      <description>&lt;p&gt;Things IT People Never Say:
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/4m7YjAuDMY0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;[Science Video] Does Alcohol Really Keep You Warm?&lt;br /&gt;
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/qBlERzJGdrs&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.geeksaresexy.net/2015/03/13/yes-someone-built-an-actual-star-wars-speeder-bike-quadcopter-video/&#34;&gt;YES! Someone Built an Actual Star Wars Speeder Bike Quadcopter!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mashable.com/2015/03/13/eavesdropping-barbie-is-creepy/&#34;&gt;Eavesdropping Barbie is &amp;ldquo;downright creepy,&amp;rdquo; privacy advocates say&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/&#34;&gt;Deus Ex: Human Revolution - Graphics Study&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.instructables.com/id/Coffee-table-upgrade/?ALLSTEPS&#34;&gt;Coffee table upgrade!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/mRGeInh.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;a href=&#34;http://reddit.com/r/funny/comments/2xcr2c/what_do_you_guys_see/&#34;&gt;Source&lt;/a&gt;&lt;br /&gt;
+In case you missed it: &lt;a href=&#34;http://en.wikipedia.org/wiki/The_dress_%28viral_phenomenon%29&#34;&gt;The dress (viral phenomenon)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/03/Strip-Lendemain-de-soir%C3%A9e-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/03/13/coding-with-a-hangover/&#34;&gt;http://www.commitstrip.com/en/2015/03/13/coding-with-a-hangover/&lt;/a&gt;&lt;/p&gt;
+
+&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/PcO5JSfhEcc&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/03/Strip-Confession-650-finalenglish.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-house-of-code/&#34;&gt;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-house-of-code/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;FR:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.zataz.com/piratage-du-connected-drive-de-bmw-et-mini-austin&#34;&gt;Piratage du Connected Drive de BMW et Mini Austin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bitoduc.fr/&#34;&gt;Bitoduc.fr : termes informatiques en français&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.frenchtech.co&#34;&gt;PITCH FRENCH TECH&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://services-data.mpsa.com/opendoc.action&#34;&gt;Les #API des voitures #Peugeot&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
