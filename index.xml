@@ -7,10 +7,112 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 06 Aug 2017 22:40:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 03 Dec 2018 00:05:00 +0100</lastBuildDate>
     
         <atom:link href="https://titi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Feed #156</title>
+      <link>https://titi.github.io/links/feed-156/</link>
+      <pubDate>Mon, 03 Dec 2018 00:05:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-156/</guid>
+      <description>
+
+&lt;p&gt;Hello dear reader,&lt;br /&gt;
+It&amp;rsquo;s been a while! Anyhow, here is a list of interesting links I came across in 2017.&lt;br /&gt;
+Most of them are from a year ago, but still worth reading.&lt;/p&gt;
+
+&lt;h1 id=&#34;worldwide&#34;&gt;Worldwide&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2017/07/16/business/china-cash-smartphone-payments.html&#34;&gt;In Urban China, Cash Is Rapidly Becoming Obsolete&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.justinobeirne.com/google-maps-moat&#34;&gt;How far ahead of Apple Maps is Google Maps?&lt;/a&gt; [2017]&lt;/p&gt;
+
+&lt;h1 id=&#34;how-to-do-a-rewrite&#34;&gt;How to do a rewrite&lt;/h1&gt;
+
+&lt;p&gt;A great serie by a Lead Software Engineer at New Relic on how they rewrote a legacy software system and deploy it. Great insights regarding technical challenges at scale even thought they performed stress test. It&amp;rsquo;s not done until 100% of the traffic is handled by the new system!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/designing-for-scale-part-1when-the-rewrite-is-the?edition=311428&#34;&gt;Designing for Scale, Part 1: When the Rewrite Is the Right Thing to Do&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/designing-for-scale-part-2building-what-you-need&#34;&gt;Designing for Scale, Part 2: Building What You Need&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/designing-for-scale-part-3-scaling-under-stress&#34;&gt;Designing for Scale, Part 3: Scaling Under Stress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/designing-for-scale-deployment-surprises&#34;&gt;Designing for Scale: Deployment Surprises&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;strategy&#34;&gt;Strategy&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad&#34;&gt;How we build our Product Roadmap at Asana&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hackernoon.com/wtf-is-a-strategy-bcaa3fda9a31&#34;&gt;WTF is Strategy?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;browers&#34;&gt;Browers&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e&#34;&gt;How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/&#34;&gt;Building the DOM faster: speculative parsing, async, defer and preload&lt;/a&gt;&lt;br /&gt;
+Since then we got this great article by Addy Osmani: &lt;a href=&#34;https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf&#34;&gt;Preload, Prefetch And Priorities in Chrome&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.mozfr.org/post/2017/12/Firefox-comment-WebRender-va-rendre-affichage-plus-fluide&#34;&gt;Firefox : comment WebRender va rendre l&amp;rsquo;affichage plus fluide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Amazing tool: &lt;a href=&#34;https://beta.httparchive.org/reports/chrome-ux-report&#34;&gt;Chrome User Experience Report&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;code-review&#34;&gt;Code Review&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://labs.criteo.com/2016/06/taking-care-culture-one-toilet-time/&#34;&gt;Code Review at Criteo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/manual-code-review-anti-patterns?edition=314399&#34;&gt;Manual Code Review Anti-Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://engineeringblog.yelp.com/2017/11/code-review-guidelines.html&#34;&gt;Yelp Code Review Guidelines&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;crazy-world&#34;&gt;Crazy world&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.bleepingcomputer.com/news/government/russia-bans-18-million-amazon-and-google-ips-in-attempt-to-block-telegram/&#34;&gt;Russia Bans 1.8 Million Amazon and Google IPs in Attempt to Block Telegram&lt;/a&gt; [April 2018]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next&#34;&gt;DRM&amp;rsquo;s Dead Canary: How We Just Lost the Web, What We Learned from It, and What We Need to Do Next&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://staltz.com/the-web-began-dying-in-2014-heres-how.html&#34;&gt;The Web began dying in 2014, here&amp;rsquo;s how&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.locusmag.com/Perspectives/2017/09/cory-doctorow-demon-haunted-world/&#34;&gt;Cory Doctorow: Demon-Haunted World&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;improve&#34;&gt;Improve&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.simplethread.com/software-complexity-killing-us/&#34;&gt;Software Complexity Is Killing Us&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.agilesocks.com/6-coaching-tips-scrum-masters/&#34;&gt;6 Coaching Tips for Scrum Masters&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.mindtheproduct.com/2016/11/unplayable-piano-frustration-makes-us-creative/&#34;&gt;The Unplayable Piano: How Frustration Makes Us Creative&lt;/a&gt;&lt;br /&gt;
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe src=&#34;//player.vimeo.com/video/189660925&#34; width=&#34;640&#34; height=&#34;385&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h1 id=&#34;rest-api&#34;&gt;REST API&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.code-maze.com/different-ways-consume-restful-api-csharp/&#34;&gt;A few great ways to consume RESTful API in C#&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://raygun.com/blog/postman-best-practices/&#34;&gt;Postman best practices: How Raygun’s engineering team uses Postman to improve our workflow&lt;/a&gt;&lt;br /&gt;
+I&amp;rsquo;ll definitely gonna try Postman after my small experience with Swagger&lt;/p&gt;
+
+&lt;h1 id=&#34;netflix-magic&#34;&gt;Netflix magic&lt;/h1&gt;
+
+&lt;p&gt;Incredible work by Netflix. No wonder their service is pristine!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/netflix-techblog/ava-the-art-and-science-of-image-discovery-at-netflix-a442f163af6&#34;&gt;AVA: The Art and Science of Image Discovery at Netflix&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;in case you&amp;rsquo;d like an overview of what they do:&lt;br /&gt;
+&lt;a href=&#34;https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b&#34;&gt;How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/chaos-engineering-a-lesson-from-the-experts?edition=314393&#34;&gt;Chaos Engineering: A Lesson From the Experts&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;entreprise&#34;&gt;Entreprise&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.geek-directeur-technique.com/2017/05/23/les-valeurs-en-entreprise&#34;&gt;[FR] Les valeurs en entreprise&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@fredericdesmoulins/5-statistiques-surprenantes-sur-le-m%C3%A9tier-de-d%C3%A9veloppeur-en-france-f2774cddd9d5&#34;&gt;[FR] 5 statistiques surprenantes sur le métier de développeur en France&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #155 - Sunday fun</title>
