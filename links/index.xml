@@ -7,10 +7,65 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Mon, 03 Dec 2018 23:39:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Dec 2018 21:57:00 +0100</lastBuildDate>
     
         <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Feed #158</title>
+      <link>https://titi.github.io/links/feed-158/</link>
+      <pubDate>Sun, 09 Dec 2018 21:57:00 +0100</pubDate>
+      <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
+      <guid>https://titi.github.io/links/feed-158/</guid>
+      <description>
+
+&lt;h1 id=&#34;web-performance&#34;&gt;Web Performance&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4&#34;&gt;The Cost Of JavaScript In 2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3&#34;&gt;Start Performance Budgeting&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/&#34;&gt;Can You Afford It?: Real-world Web Performance Budgets&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe src=&#34;//player.vimeo.com/video/254947097&#34; width=&#34;640&#34; height=&#34;385&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+Source: &lt;a href=&#34;https://vimeo.com/254947097&#34;&gt;SmashingConf London — Allison McKnight on Building Performance for the Long Term&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://tonsky.me/blog/pwa/&#34;&gt;You need neither PWA nor AMP to make your website load fast&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;modernize-your-tech-estate&#34;&gt;Modernize your tech estate&lt;/h1&gt;
+
+&lt;p&gt;A serie of 2 great articles about application modernization:
+&lt;a href=&#34;https://www.thoughtworks.com/insights/blog/business-imperative-modernize-your-tech-estate&#34;&gt;The business imperative to modernize your tech estate&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.thoughtworks.com/insights/blog/technical-mechanics-modernizing-your-tech-estate&#34;&gt;The technical mechanics of modernizing your tech estate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde&#34;&gt;We fired our top talent. Best decision we ever made.&lt;/a&gt;&lt;br /&gt;
+Comments are worth reading! And this article too:&lt;br /&gt;
+&lt;a href=&#34;https://startupsventurecapital.com/you-fired-your-top-talent-i-hope-youre-happy-cf57c41183dd&#34;&gt;You fired your top talent. I hope you’re happy.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/coaching-notes/why-your-programmers-just-want-to-code-36da9973388e&#34;&gt;Why your programmers just want to code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nikita draws a state of software engineering. Indeed it&amp;rsquo;s a mess an we should have higher standards. I&amp;rsquo;d like to hear the words &amp;ldquo;quality&amp;rdquo; and &amp;ldquo;performance&amp;rdquo; more often too!&lt;br /&gt;
+&lt;a href=&#34;http://tonsky.me/blog/disenchantment/&#34;&gt;Software disenchantment&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;programming-tips&#34;&gt;Programming tips&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/LTZdmb5-8n8&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+Source: &lt;a href=&#34;https://www.youtube.com/watch?v=LTZdmb5-8n8&#34;&gt;GOTO 2018 • Making It Count: Quality is NOT an Option • Todd Montgomery&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software&#34;&gt;The faster you unlearn OOP, the better for you and your software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hackernoon.com/how-to-organize-software-development-in-a-super-efficient-way-three-practical-tips-86abe7575ed0&#34;&gt;How to Organize Software Development In a Super-Efficient Way: Three Practical Tips&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;More of a tutorial about .prototype, class and inheritance:&lt;br /&gt;
+&lt;a href=&#34;https://overreacted.io/how-does-react-tell-a-class-from-a-function/&#34;&gt;How Does React Tell a Class from a Function?&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feed #157</title>
