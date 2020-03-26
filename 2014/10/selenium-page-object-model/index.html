@@ -47,58 +47,39 @@
 
 <div class="post">
   <h1 id="selenium-at-salesforce-scale">Selenium at Salesforce Scale</h1>
-
 <p>Webinar <a href="http://sauceio.com/index.php/2014/04/webinar-selenium-at-salesforce-scale-register-today/">organised</a> by <strong>Sauce Labs</strong> (Selenium in the cloud) Wednesday, April 16th, 2014 at 10:00am PDT.</p>
-
 <p><a href="https://saucelabs.com/selenium">Sauce Labs</a> hosted webinar with Lead Engineers from Salesforce.com, David Louvton and Sagar Wanaselja, who spoke about Selenium at Salesforce Scale.</p>
-
 <p><a href="https://developer.salesforce.com/"><img src="http://sauceio.com/wp-content/uploads/2014/04/sfdc-logo-300x213.jpg" alt="Salesforce" /></a> + <a href="https://saucelabs.com/"><img src="https://saucelabs.com/images/sauce-labs-logo.png" alt="SauceLabs" /></a></p>
-
 <p><a href="http://sauceio.com/index.php/2014/04/selenium-at-saleforce-scale-webinar-slides-and-recording/">Webinar Recording</a></p>
-
 <p><a href="http://www.slideshare.net/saucelabs/salesforce-seleniumsaucelabswebinarapril2014">Webinar Slides</a></p>
-
 <p>The page object model starts at slide 12. My notes:</p>
-
-<p>It&rsquo;s a software layer between selenium and their [salesforce] tests.<br />
+<p>It&rsquo;s a software layer between selenium and their [salesforce] tests.<br>
 Specifically, this layer expose classes/methods like:</p>
-
-<pre><code class="language-javascript">	myCustomPage.ApproveForm();  
-	myPrintDriverPage.typeComment(text);  
-	myPortalPage.login(username, password);  
-</code></pre>
-
-<p>Tests are only using that api, not immediately the selenium one.<br />
-- Good code reuse<br />
-- Easy maintenance</p>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript">	<span style="color:#a6e22e">myCustomPage</span>.<span style="color:#a6e22e">ApproveForm</span>();  
+	<span style="color:#a6e22e">myPrintDriverPage</span>.<span style="color:#a6e22e">typeComment</span>(<span style="color:#a6e22e">text</span>);  
+	<span style="color:#a6e22e">myPortalPage</span>.<span style="color:#a6e22e">login</span>(<span style="color:#a6e22e">username</span>, <span style="color:#a6e22e">password</span>);  
+</code></pre></div><p>Tests are only using that api, not immediately the selenium one.</p>
+<ul>
+<li>Good code reuse</li>
+<li>Easy maintenance</li>
+</ul>
 <p>Links:</p>
-
 <ul>
 <li><a href="https://code.google.com/p/selenium/wiki/PageObjects">https://code.google.com/p/selenium/wiki/PageObjects</a></li>
 <li><a href="http://martinfowler.com/bliki/PageObject.html">http://martinfowler.com/bliki/PageObject.html</a></li>
 </ul>
-
-<hr />
-
-<h1 id="how-yahoo-mail-transformed-its-functional-testing-continuous-delivery-process">How Yahoo! Mail Transformed Its Functional Testing + Continuous Delivery Process</h1>
-
+<hr>
+<h1 id="how-yahoo-mail-transformed-its-functional-testing--continuous-delivery-process">How Yahoo! Mail Transformed Its Functional Testing + Continuous Delivery Process</h1>
 <p>Webinar <a href="http://info.saucelabs.com/YahooMail_SauceLabs_WebinarRegLP.html">organised</a> by <strong>Sauce Labs</strong> (Selenium in the cloud) Wednesday, October 22nd, 2014, 11:00am PDT<br />
 <br />
 <a href="https://saucelabs.com/selenium">Sauce Labs</a> hosted webinar with front End Developer Neil Manvar&rsquo;s. His most important contribution to Yahoo! has been developing a modern functional testing framework that is based on open-source technologies, plays well with legacy code, supports many browsers, does not need maintenance, is readable to product managers, and makes writing a pleasure.
 <br />
 <br /></p>
-
 <p><a href="https://yahoo.com/"><img src="http://info.saucelabs.com/rs/saucelabsinc/images/Yahoo-mail-logo-0929.png" alt="Yahoo!" /></a> + <a href="https://saucelabs.com/"><img src="https://saucelabs.com/images/sauce-labs-logo.png" alt="SauceLabs" /></a></p>
-
 <p><a href="http://sauceio.com/index.php/2014/10/how-yahoo-mail-transformed-its-functional-testing-continuous-delivery-process-recap/">Webinar Recording</a></p>
-
 <p><a href="http://www.slideshare.net/saucelabs/functional-testing-and-cd-at-yahoo-mail">Webinar Slides</a></p>
-
-<hr />
-
+<hr>
 <h1 id="avoiding-random-failures-in-selenium-ui-tests">Avoiding Random Failures in Selenium UI Tests</h1>
-
 <p><a href="http://bocoup.com/weblog/a-day-at-the-races/">A Day at the Races: Avoiding Random Failures in Selenium UI Tests</a> - bocoup</p>
 </div>
 

@@ -47,71 +47,47 @@
 
 <div class="post">
   <h1 id="discover">Discover</h1>
-
 <p>Collection of <a href="http://redis.io/">Redis</a> tutorials</p>
-
 <p>Note: In 30min-1H reading, you should have a good idea of what is Redis and how data is manipulated.</p>
-
 <p><a href="https://matt.sh/thinking-in-redis-part-one">Thinking In Redis (part one)</a></p>
-
-<p><a href="http://openmymind.net/2011/11/8/Redis-Zero-To-Master-In-30-Minutes-Part-1/">Redis: Zero to Master in 30 minutes - Part 1</a><br />
+<p><a href="http://openmymind.net/2011/11/8/Redis-Zero-To-Master-In-30-Minutes-Part-1/">Redis: Zero to Master in 30 minutes - Part 1</a><br>
 <a href="http://openmymind.net/2011/11/8/Redis-Zero-To-Master-In-30-Minutes-Part-2/">Redis: Zero to Master in 30 minutes - Part 2</a></p>
-
 <p><a href="http://openmymind.net/redis.pdf">The Little Redis Book</a></p>
-
-<p>Videos :<br />
-<span class="genericon genericon-youtube"></span> <a href="https://www.youtube.com/watch?feature=player_detailpage&amp;v=CoQcNgfPYPc#t=265">Why and When You Should Use Redis</a><br />
-<span class="genericon genericon-youtube"></span> <a href="https://www.youtube.com/watch?feature=player_detailpage&amp;v=CoQcNgfPYPc#t=1080">Production problem example</a><br />
+<p>Videos :<br>
+<span class="genericon genericon-youtube"></span> <a href="https://www.youtube.com/watch?feature=player_detailpage&amp;v=CoQcNgfPYPc#t=265">Why and When You Should Use Redis</a><br>
+<span class="genericon genericon-youtube"></span> <a href="https://www.youtube.com/watch?feature=player_detailpage&amp;v=CoQcNgfPYPc#t=1080">Production problem example</a><br>
 <span class="genericon genericon-youtube"></span> <a href="https://www.youtube.com/watch?v=RNLJsjzRa4Y">Using PostgreSQL with Redis</a></p>
-
-<hr />
-
+<hr>
 <h1 id="specifics">Specifics</h1>
-
-<p>Recommendations :<br />
+<p>Recommendations :<br>
 <a href="https://redislabs.com/blog/5-key-takeaways-for-developing-with-redis">5 Key Takeaways for Developing with Redis</a>
 <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Redis_Tips">Redis Tips</a> (Mozilla)</p>
-
 <p><a href="http://www.slideshare.net/vCoreDump/getting-startedwithredis">Getting Started with Redis</a> (by vmware, which was sponsor)</p>
-
-<hr />
-
+<hr>
 <p><a href="http://blog.mjrusso.com/2010/10/17/redis-from-the-ground-up.html">Redis, from the Ground Up</a></p>
-
 <p><a href="https://redis-docs.readthedocs.org/en/latest/">https://redis-docs.readthedocs.org/en/latest/</a></p>
-
 <p><a href="http://www.rediscookbook.org/">http://www.rediscookbook.org/</a></p>
-
-<hr />
-
+<hr>
 <ul>
 <li><a href="http://redis.io/">http://redis.io/</a></li>
 <li><a href="http://try.redis.io/">http://try.redis.io/</a></li>
 <li><a href="https://www.parleys.com/play/535e4ed8e4b03397a8eee8d4">https://www.parleys.com/play/535e4ed8e4b03397a8eee8d4</a></li>
 </ul>
-
-<hr />
-
+<hr>
 <h1 id="browser">Browser</h1>
-
 <ul>
 <li><a href="http://joeferner.github.io/redis-commander/">http://joeferner.github.io/redis-commander/</a></li>
 <li><a href="http://redisdesktop.com/">http://redisdesktop.com/</a></li>
 </ul>
-
-<hr />
-
+<hr>
 <h1 id="persistence">Persistence</h1>
-
 <ul>
 <li><a href="http://redis.io/commands/expire">http://redis.io/commands/expire</a> (cache expiration &amp; sliding timeout)</li>
 <li><a href="http://redis.io/topics/persistence">http://redis.io/topics/persistence</a></li>
 <li><a href="http://fr.slideshare.net/eugef/redis-persistence-in-practice-1">http://fr.slideshare.net/eugef/redis-persistence-in-practice-1</a></li>
 <li><a href="http://blog.sensible.io/2013/08/20/setting-up-redis-for-production-environment.html">http://blog.sensible.io/2013/08/20/setting-up-redis-for-production-environment.html</a></li>
 </ul>
-
 <p>By default, RDB persistence (by snapshots) is activated with several criterias:</p>
-
 <pre><code>################################ SNAPSHOTTING  #################################
 #
 # Save the DB on disk:
@@ -137,16 +113,11 @@
 save 900 1
 save 300 10
 save 60 10000
-</code></pre>
-
-<p>But AOF persistance (append-only file: logs) is yet to be activated:</p>
-
+</code></pre><p>But AOF persistance (append-only file: logs) is yet to be activated:</p>
 <pre><code>  appendonly yes
-</code></pre>
-
-<ul>
-<li>Le tout est sauvé sous /var/lib/redis/ ; cf les paramètres &ldquo;dbfilename&rdquo; et &ldquo;dir&rdquo;</li>
-<li>On peut demander à Redis de sauvegarder MAINTENANT avec la commande &ldquo;&lsquo;BGSAVE&rdquo;&rsquo; (ou &ldquo;&lsquo;SAVE&rdquo;&rsquo;, mais bloquante).</li>
+</code></pre><ul>
+<li>Le tout est sauvé sous /var/lib/redis/ ; cf les paramètres &lsquo;&lsquo;dbfilename&rsquo;&rsquo; et &lsquo;&lsquo;dir&rsquo;&rsquo;</li>
+<li>On peut demander à Redis de sauvegarder MAINTENANT avec la commande &lsquo;&lsquo;&lsquo;BGSAVE&rsquo;&rsquo;&rsquo; (ou &lsquo;&lsquo;&lsquo;SAVE&rsquo;'', mais bloquante).</li>
 <li>La commande <strong>LASTSAVE</strong> donne le timestamp unix de la dernière sauvegarde</li>
 <li>La commande <strong>CONFIG GET *</strong> permet d&rsquo;avoir tous les paramètre d&rsquo;un coup</li>
 <li>La commande <strong><a href="http://redis.io/commands/config-set">CONFIG SET parameter value</a></strong> permet de changer en live sans redémarrer Redis ; mais ne modifie pas /etc/redis/redis.conf</li>

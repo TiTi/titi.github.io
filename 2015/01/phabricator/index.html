@@ -47,144 +47,88 @@
 
 <div class="post">
   <h1 id="why-code-reviews">Why Code Reviews?</h1>
-
 <p><a href="http://blog.codinghorror.com/code-reviews-just-do-it/">Code Reviews: Just Do It</a> - Coding Horror</p>
-
 <p><a href="http://www.arguingwithalgorithms.com/posts/13-03-14-code-reviews">Coding for review</a></p>
-
 <p><a href="http://swreflections.blogspot.fr/2014/12/if-you-could-only-do-one-thing-to-make.html">If you could only do one thing to make better software, what would it be?</a></p>
-
 <p><a href="http://blog.beanbaginc.com/2013/05/31/building-a-culture-of-code-review/">Building a culture of code review</a></p>
-
 <blockquote>
 <p>&ldquo;it’s only through collaboration that we produce our best work&rdquo;</p>
 </blockquote>
-
-<p>Code Review for Teams Too Busy to Review Code (start ~16min):<br />
-<br />
+<p>Code Review for Teams Too Busy to Review Code (start ~16min):<br>
+<br /></p>
 <iframe class="youtube-player" width="640" height="385" src="https://www.youtube.com/embed/1m3eRFeCInY?start=980" allowfullscreen></iframe>
-</p>
-
-<hr />
-
+<hr>
 <h1 id="effective-code-review">Effective Code Review</h1>
-
 <p><a href="http://blog.beanbaginc.com/2014/12/01/practicing-effective-self-review/">Practicing effective self-review</a></p>
-
 <p><a href="http://blog.beanbaginc.com/2013/04/24/using-checklists-for-code-review/">Using checklists for code review</a></p>
-
 <p><a href="http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/">Stop More Bugs with our Code Review Checklist</a></p>
-
 <p><a href="http://swreflections.blogspot.fr/2014/08/dont-waste-time-on-code-reviews.html">Don’t waste time on Code Reviews</a></p>
-
 <blockquote>
 <p>&ldquo;developers are often distracted by the tiny problems (style issues, typos) and ignore the larger problems (algorithmic issues, design flaws, bigger picture tasks) when reviewing.&rdquo;</p>
 </blockquote>
-
-<p><img src="http://www.commitstrip.com/wp-content/uploads/2015/02/Strip-Code-review-650-finalenglish1.jpg" alt="" /><br />
+<p><img src="http://www.commitstrip.com/wp-content/uploads/2015/02/Strip-Code-review-650-finalenglish1.jpg" alt=""><br>
 Source: <a href="http://www.commitstrip.com/en/2015/02/10/the-truth-about-code-reviews/">http://www.commitstrip.com/en/2015/02/10/the-truth-about-code-reviews/</a></p>
-
-<hr />
-
+<hr>
 <h1 id="extra">Extra</h1>
-
 <p><a href="http://code.tutsplus.com/tutorials/using-pull-requests-as-code-reviews--cms-21959">Using Pull Requests as Code Reviews</a></p>
-
 <p><a href="https://developer.atlassian.com/blog/2015/01/a-better-pull-request/">A better pull request</a></p>
-
 <p><a href="http://www.arguingwithalgorithms.com/posts/14-12-02-architecture-reviews">Architecture vs. Implementation Reviews</a></p>
-
 <p><a href="http://swreflections.blogspot.fr/2014/09/can-static-analysis-replace-code-reviews.html">Can Static Analysis replace Code Reviews?</a></p>
-
-<br />
+<p><br /></p>
 <iframe class="youtube-player" width="640" height="385" src="https://www.youtube.com/embed/CKjRt48rZGk" allowfullscreen></iframe>
-
-
-<hr />
-
+<hr>
 <h1 id="tools">Tools</h1>
-
 <p>I was looking for a solution to manage <strong>pull requests</strong> and <strong>code reviews</strong> with <a href="http://mercurial.selenic.com/">Mercurial</a>.</p>
-
 <h2 id="hglab">HgLab</h2>
-
 <p><a href="https://hglabhq.com/">HgLab</a> is pretty cool. Basically, it&rsquo;s a GitHub interface for a Mercurial repository.
 It is really look-alike and there are cool features: comment about a particular commit, on a specific line, stats with code languages, pushlog, markdow, wiki, users and groups rights, &hellip;</p>
-
-<p>At the time (november 2014), there was no pull request, but it was in the <a href="https://hglabhq.com/roadmap">roadmap</a> and GUI was already showing a dedicated button.<br />
+<p>At the time (november 2014), there was no pull request, but it was in the <a href="https://hglabhq.com/roadmap">roadmap</a> and GUI was already showing a dedicated button.<br>
 However, there was a feature called <strong>Commit Approvals</strong> + comments which allowed enough to watch commits and practice code review.</p>
-
-<p>Unfortunately, I had performance issue with a huge repository: interface was really slow.<br />
+<p>Unfortunately, I had performance issue with a huge repository: interface was really slow.<br>
 I contacted HgLab creator and he told me he was working on it. He was fast and precise in his answers, which was appreciable.</p>
-
 <p>In the end, it was a litlle light for what I was trying to achieve :</p>
-
 <ul>
 <li>no interface dedicated to code review</li>
 <li>post-push review only (you have to share code with others first)</li>
-<li>commit approval tool is convenient but too simple
-
-<ul>
+<li>commit approval tool is convenient but too simple</li>
 <li>no way to reject commit</li>
 <li>no way to know if a commit was reviewed</li>
 <li>hard to identify commits to be checked</li>
-</ul></li>
 <li>pull request not yet available, see roadmap</li>
 </ul>
-
-<hr />
-
+<hr>
 <h2 id="review-board">Review Board</h2>
-
 <p>A collegue of mine tried <a href="https://www.reviewboard.org/">Review Board</a> with his team. It worked but was a bit painful to set up.</p>
-
 <p>If I remember correctly, he also said that review had to be manually &ldquo;asked for&rdquo;, rather than automatically triggered.</p>
-
 <p>There was a Visual Studio plugin but I didn&rsquo;t play enough to make my opinion.</p>
-
-<hr />
-
+<hr>
 <h2 id="crucible">Crucible</h2>
-
 <p>From Atlassian (awesome tutorials and tools)
 <a href="https://www.atlassian.com/software/crucible/overview/screenshot-tour">Crucible overview</a></p>
-
-<hr />
-
+<hr>
 <h2 id="phabricator">Phabricator</h2>
-
 <p>Then I discovered <a href="http://phabricator.org/">Phabricator</a>, which is coded by guys from Facebook.</p>
-
 <h3 id="presentation">Presentation</h3>
-
 <blockquote>
 <p>&ldquo;Phabricator is a collection of open source web applications that help software companies build better software.&rdquo;</p>
 </blockquote>
-
 <ul>
 <li><a href="http://phabricator.org/">Official Website</a></li>
 <li><a href="http://phabricator.org/tour/">Screenshot tour</a></li>
 <li><a href="https://secure.phabricator.com/">&ldquo;Demo&rdquo; website</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Phabricator">Wikipedia</a></li>
 </ul>
-
-<p>I&rsquo;m pretty impressed.<br />
+<p>I&rsquo;m pretty impressed.<br>
 Also it&rsquo;s free!</p>
-
 <h3 id="details">Details</h3>
-
 <p>Server has to be installed on a linux box. But it&rsquo;s pretty straightforward and easy installation + configuration.</p>
-
 <p>Phabricator can work with <code>svn</code>, <code>git</code> and <code>mercurial</code> repositories.</p>
-
 <p>It can either poll an existing repository, or manage one itself.
 Either way, their is an initial phase where the repository is fully parsed to store infos in a database.
 It can take a few hours for huge repositories, and it will burn your CPU and I/O but that&rsquo;s it.
 You can add several repositories.</p>
-
 <p>The GUI is excellent and is composed of a lot of tools, but in an homogenous way.
 Amongst apps, the most interesting ones are:</p>
-
 <ul>
 <li>Code review (pre-push[review] and post-push[audit])</li>
 <li>Herald (automatic notifications with a lot of customization)</li>
@@ -194,144 +138,94 @@ Amongst apps, the most interesting ones are:</p>
 <li>Projects / Flags / Hashtag / Owners</li>
 <li>Wiki</li>
 </ul>
-
-<p>I invite everyone to <strong>read this page</strong>: <a href="https://secure.phabricator.com/book/phabricator/article/reviews_vs_audit/">User Guide: Review vs Audit </a><br />
+<p>I invite everyone to <strong>read this page</strong>: <a href="https://secure.phabricator.com/book/phabricator/article/reviews_vs_audit/">User Guide: Review vs Audit </a><br>
 Apart from tools, code reviews concepts are well explained.</p>
-
-<p>In the end, it a great sum of awesome and well crafted tools.<br />
+<p>In the end, it a great sum of awesome and well crafted tools.<br>
 Also they have a great sens of humor: have a look at the links in the footer of their homepage! (+memes generator inside)</p>
-
-<p>Interface is simple and really easy to discover.<br />
-Tracability levels and details are amazing!<br />
+<p>Interface is simple and really easy to discover.<br>
+Tracability levels and details are amazing!<br>
 Want to upload an image in a comment: just drag it from your filesystem, and voilà ! <span class="genericon genericon-heart"></span><span class="genericon genericon-heart"></span><span class="genericon genericon-heart"></span></p>
-
 <h3 id="arcanist">Arcanist</h3>
-
 <p>Since then, I&rsquo;ve played with Arcanist to do pre-push reviews.</p>
-
-<p><a href="https://secure.phabricator.com/book/phabricator/article/arcanist/">Arcanist User Guide</a><br />
+<p><a href="https://secure.phabricator.com/book/phabricator/article/arcanist/">Arcanist User Guide</a><br>
 <a href="https://secure.phabricator.com/book/phabricator/article/arcanist_windows/">Arcanist User Guide: Windows</a></p>
-
-<p><a href="https://secure.phabricator.com/book/phabricator/article/reviews_vs_audit/">User Guide: Review vs Audit</a><br />
-<a href="http://verraes.net/2013/10/pre-merge-code-reviews/">Pre-merge Code Reviews</a><br />
+<p><a href="https://secure.phabricator.com/book/phabricator/article/reviews_vs_audit/">User Guide: Review vs Audit</a><br>
+<a href="http://verraes.net/2013/10/pre-merge-code-reviews/">Pre-merge Code Reviews</a><br>
 <a href="https://www.youtube.com/watch?v=CKjRt48rZGk">Mondrian Code Review On The Web</a> - Youtube</p>
-
 <p>It&rsquo;s not as practical with a Mercurial repository than with a git one, especially <code>arc land</code>, but it&rsquo;s ok.</p>
-
 <p>Here&rsquo;s how to get started on windows:</p>
-
 <h4 id="install-php">Install PHP</h4>
-
 <ul>
 <li>Download setup on <a href="http://php.iis.net/">http://php.iis.net/</a> and install it</li>
-<li>Fix PATH environment variable after installation to add the missing &ldquo;(x86)&rdquo;:
-<code>
-C:\Program Files (x86)\PHP\v5.3
-</code></li>
+<li>Fix PATH environment variable after installation to add the missing &ldquo;(x86)&quot;:</li>
 </ul>
-
-<h4 id="install-arcanist">Install Arcanist</h4>
-
+<pre><code>C:\Program Files (x86)\PHP\v5.3
+</code></pre><h4 id="install-arcanist">Install Arcanist</h4>
 <p>Download the following repository, either with <code>Download ZIP</code> link (on the right) or git:</p>
-
 <ul>
 <li><a href="https://github.com/phacility/arcanist/">arcanist on GitHub</a></li>
 <li><a href="https://github.com/phacility/libphutil/">libphutil sur GitHub</a></li>
 </ul>
-
 <p>Extract them in a common folder, for instance:</p>
-
 <pre><code>E:\BuildSystem\Phabricator\
                           \arcanist
                           \libphutil
-</code></pre>
-
-<p>I recommend to rename folders &ldquo;arcanist&rdquo; and &ldquo;libphutil&rdquo; in case you&rsquo;ve used the download ZIP link because GitHub add <strong>-master</strong> in the name.</p>
-
+</code></pre><p>I recommend to rename folders &ldquo;arcanist&rdquo; and &ldquo;libphutil&rdquo; in case you&rsquo;ve used the download ZIP link because GitHub add <strong>-master</strong> in the name.</p>
 <p>Then add folder E:\BuildSystem\Phabricator\<strong>arcanist\bin</strong> to the PATH environment variable.</p>
-
 <h4 id="configure-arcanist">Configure Arcanist</h4>
-
 <p>Once and for all, in a terminal:</p>
-
 <ul>
-<li><p>Set phabricator url:</p>
-
-<pre><code class="language-html">arc set-config default http://phabricator-test.esker.corp
-</code></pre>
-
-<p><em>Edit: not required if you have a .arcconfig file in your project</em></p></li>
-
-<li><p>Allow arcanist web service:</p>
-
-<pre><code class="language-html">arc install-certificate
-</code></pre>
-
-<p>. Copy url displayed in terminal, ex: <a href="http://phabricator-test.esker.corp/conduit/token/">http://phabricator-test.esker.corp/conduit/token/</a><br />
-. Login &amp; copy the displayed token from the web page into your terminal</p></li>
-
-<li><p>Setup editor:</p>
-
-<pre><code class="language-html">arc set-config editor &quot;\&quot;C:\Program Files (x86)\Notepad++\notepad++.exe\&quot; -multiInst -nosession&quot;
-</code></pre>
-
-<p>According to officiel documentation:  &ldquo;You can not use Notepad as your editor, because it does not have a blocking mode.&rdquo;<br />
-I&rsquo;m using Notepad2 which works great. But Notepad++ and GitPad work too.</p></li>
+<li>Set phabricator url:</li>
 </ul>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc set-config default http://phabricator-test.esker.corp
+</code></pre></div><p><em>Edit: not required if you have a .arcconfig file in your project</em></p>
+<ul>
+<li>Allow arcanist web service:</li>
+</ul>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc install-certificate
+</code></pre></div><p>. Copy url displayed in terminal, ex: <a href="http://phabricator-test.esker.corp/conduit/token/">http://phabricator-test.esker.corp/conduit/token/</a><br>
+. Login &amp; copy the displayed token from the web page into your terminal</p>
+<ul>
+<li>Setup editor:</li>
+</ul>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc set-config editor &#34;\&#34;C:\Program Files (x86)\Notepad++\notepad++.exe\&#34; -multiInst -nosession&#34;
+</code></pre></div><p>According to officiel documentation:  &ldquo;You can not use Notepad as your editor, because it does not have a blocking mode.&rdquo;<br>
+I&rsquo;m using Notepad2 which works great. But Notepad++ and GitPad work too.</p>
 <h4 id="submit-code-for-pre-push-review">Submit code for pre-push review</h4>
-
 <ul>
 <li>Do one or more commits, still in <code>draft</code> state (not pushed).</li>
-<li>Open a terminal and type:
-<code>html
-arc diff
-</code>
-Editor is going to open, you have to specify some infos:<br /></li>
-<li>test plan ; can be optionnal, cf config differential.require-test-plan-field<br /></li>
+<li>Open a terminal and type:</li>
+</ul>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc diff
+</code></pre></div><p>Editor is going to open, you have to specify some infos:</p>
+<ul>
+<li>test plan ; can be optionnal, cf config differential.require-test-plan-field</li>
 <li>reviewers ; you can specify one or several (comma separation)</li>
 </ul>
-
 <h4 id="arc-patch">Arc patch</h4>
-
 <p>Reviewer can inject the commits into his repository with <code>arc patch &lt;revision&gt;</code>.
 It will first update the repository on the very ancestor your development started.</p>
-
 <h4 id="finalize-push">Finalize push</h4>
-
 <p>Once code review has been approved, you can push your commit(s).
 Phabricator is going to automatically close the code review when it will see commits in repository (can also be done manually).</p>
-
 <p>Make sure to re-do <code>arc diff</code> each time you bring modifications. For instance in case you rebase before push.
 Otherwise Phabricator will ignore the new commits because changesets don&rsquo;t match.</p>
-
 <p>See <a href="https://secure.phabricator.com/book/phabricator/article/differential_faq/">Differential User Guide: FAQ</a></p>
-
 <p><code>arc land</code> allows to do merge + push automatically.
 Unfortunately, it doesn&rsquo;t work to merge a branch on itself yet, you have to use bookmarks.
 See ticket: <a href="https://secure.phabricator.com/T3855">https://secure.phabricator.com/T3855</a></p>
-
 <h4 id="known-issues">Known issues</h4>
-
 <p>In case you have encoding warnings, you can use <strong>&ndash;encoding</strong>. See <a href="https://secure.phabricator.com/book/phabricator/article/utf8/">https://secure.phabricator.com/book/phabricator/article/utf8/</a></p>
-
-<p>In case you got: &ldquo;Command failed with error #1!&rdquo; with &ldquo;STDERR&rdquo; &ldquo;not found!&rdquo;, you&rsquo;re likely missing the <code>default</code> repository in mercurial. See <code>[paths]</code> section in your <code>.hg/hgrc</code>.</p>
-
+<p>In case you got: &ldquo;Command failed with error #1!&rdquo; with &ldquo;STDERR&rdquo; &ldquo;not found!&quot;, you&rsquo;re likely missing the <code>default</code> repository in mercurial. See <code>[paths]</code> section in your <code>.hg/hgrc</code>.</p>
 <h4 id="go-further">Go further</h4>
-
 <p><a href="https://secure.phabricator.com/book/phabricator/article/arcanist_new_project/">.arcconfig documentation</a></p>
-
 <p>Sample:</p>
-
 <pre><code>{
 	&quot;phabricator.uri&quot; : &quot;http://ly-phabricator-test.esker.corp/&quot;
 }
-</code></pre>
-
-<p>Linters:<br />
-<a href="https://secure.phabricator.com/book/phabricator/article/arcanist_lint/">Arcanist User Guide: Lint</a><br />
+</code></pre><p>Linters:<br>
+<a href="https://secure.phabricator.com/book/phabricator/article/arcanist_lint/">Arcanist User Guide: Lint</a><br>
 <a href="https://secure.phabricator.com/book/phabricator/article/arcanist_extending_lint/">Arcanist User Guide: Customizing Existing Linters</a></p>
-
 <pre><code>{
 	&quot;linters&quot;:
 	{
