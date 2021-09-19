@@ -334,7 +334,7 @@ Want to upload an image in a comment: just drag it from your filesystem, and voi
 &lt;li&gt;Download setup on &lt;a href=&#34;http://php.iis.net/&#34;&gt;http://php.iis.net/&lt;/a&gt; and install it&lt;/li&gt;
 &lt;li&gt;Fix PATH environment variable after installation to add the missing &amp;ldquo;(x86)&amp;quot;:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;C:\Program Files (x86)\PHP\v5.3
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;C:\Program Files (x86)\PHP\v5.3
 &lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;install-arcanist&#34;&gt;Install Arcanist&lt;/h4&gt;
 &lt;p&gt;Download the following repository, either with &lt;code&gt;Download ZIP&lt;/code&gt; link (on the right) or git:&lt;/p&gt;
 &lt;ul&gt;
@@ -342,7 +342,7 @@ Want to upload an image in a comment: just drag it from your filesystem, and voi
 &lt;li&gt;&lt;a href=&#34;https://github.com/phacility/libphutil/&#34;&gt;libphutil sur GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Extract them in a common folder, for instance:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;E:\BuildSystem\Phabricator\
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;E:\BuildSystem\Phabricator\
                           \arcanist
                           \libphutil
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I recommend to rename folders &amp;ldquo;arcanist&amp;rdquo; and &amp;ldquo;libphutil&amp;rdquo; in case you&amp;rsquo;ve used the download ZIP link because GitHub add &lt;strong&gt;-master&lt;/strong&gt; in the name.&lt;/p&gt;
@@ -352,18 +352,18 @@ Want to upload an image in a comment: just drag it from your filesystem, and voi
 &lt;ul&gt;
 &lt;li&gt;Set phabricator url:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;arc set-config default http://phabricator-test.esker.corp
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;arc set-config default http://phabricator-test.esker.corp
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;Edit: not required if you have a .arcconfig file in your project&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Allow arcanist web service:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;arc install-certificate
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;arc install-certificate
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;. Copy url displayed in terminal, ex: &lt;a href=&#34;http://phabricator-test.esker.corp/conduit/token/&#34;&gt;http://phabricator-test.esker.corp/conduit/token/&lt;/a&gt;&lt;br&gt;
 . Login &amp;amp; copy the displayed token from the web page into your terminal&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Setup editor:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;arc set-config editor &amp;#34;\&amp;#34;C:\Program Files (x86)\Notepad++\notepad++.exe\&amp;#34; -multiInst -nosession&amp;#34;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;arc set-config editor &amp;#34;\&amp;#34;C:\Program Files (x86)\Notepad++\notepad++.exe\&amp;#34; -multiInst -nosession&amp;#34;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;According to officiel documentation:  &amp;ldquo;You can not use Notepad as your editor, because it does not have a blocking mode.&amp;rdquo;&lt;br&gt;
 I&amp;rsquo;m using Notepad2 which works great. But Notepad++ and GitPad work too.&lt;/p&gt;
 &lt;h4 id=&#34;submit-code-for-pre-push-review&#34;&gt;Submit code for pre-push review&lt;/h4&gt;
@@ -371,7 +371,7 @@ I&amp;rsquo;m using Notepad2 which works great. But Notepad++ and GitPad work to
 &lt;li&gt;Do one or more commits, still in &lt;code&gt;draft&lt;/code&gt; state (not pushed).&lt;/li&gt;
 &lt;li&gt;Open a terminal and type:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;arc diff
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;arc diff
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Editor is going to open, you have to specify some infos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;test plan ; can be optionnal, cf config differential.require-test-plan-field&lt;/li&gt;
@@ -391,17 +391,17 @@ Unfortunately, it doesn&amp;rsquo;t work to merge a branch on itself yet, you ha
 See ticket: &lt;a href=&#34;https://secure.phabricator.com/T3855&#34;&gt;https://secure.phabricator.com/T3855&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;known-issues&#34;&gt;Known issues&lt;/h4&gt;
 &lt;p&gt;In case you have encoding warnings, you can use &lt;strong&gt;&amp;ndash;encoding&lt;/strong&gt;. See &lt;a href=&#34;https://secure.phabricator.com/book/phabricator/article/utf8/&#34;&gt;https://secure.phabricator.com/book/phabricator/article/utf8/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In case you got: &amp;ldquo;Command failed with error #1!&amp;rdquo; with &amp;ldquo;STDERR&amp;rdquo; &amp;ldquo;not found!&amp;quot;, you&amp;rsquo;re likely missing the &lt;code&gt;default&lt;/code&gt; repository in mercurial. See &lt;code&gt;[paths]&lt;/code&gt; section in your &lt;code&gt;.hg/hgrc&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;In case you got: &amp;ldquo;Command failed with error #1!&amp;rdquo; with &amp;ldquo;STDERR&amp;rdquo; &amp;ldquo;not found!&amp;rdquo;, you&amp;rsquo;re likely missing the &lt;code&gt;default&lt;/code&gt; repository in mercurial. See &lt;code&gt;[paths]&lt;/code&gt; section in your &lt;code&gt;.hg/hgrc&lt;/code&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;go-further&#34;&gt;Go further&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://secure.phabricator.com/book/phabricator/article/arcanist_new_project/&#34;&gt;.arcconfig documentation&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sample:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{
 	&amp;quot;phabricator.uri&amp;quot; : &amp;quot;http://ly-phabricator-test.esker.corp/&amp;quot;
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Linters:&lt;br&gt;
 &lt;a href=&#34;https://secure.phabricator.com/book/phabricator/article/arcanist_lint/&#34;&gt;Arcanist User Guide: Lint&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://secure.phabricator.com/book/phabricator/article/arcanist_extending_lint/&#34;&gt;Arcanist User Guide: Customizing Existing Linters&lt;/a&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{
 	&amp;quot;linters&amp;quot;:
 	{
 		&amp;quot;jshint no_SAP&amp;quot;:
@@ -467,7 +467,7 @@ See ticket: &lt;a href=&#34;https://secure.phabricator.com/T3855&#34;&gt;https:/
 &lt;li&gt;&lt;a href=&#34;http://blog.sensible.io/2013/08/20/setting-up-redis-for-production-environment.html&#34;&gt;http://blog.sensible.io/2013/08/20/setting-up-redis-for-production-environment.html&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;By default, RDB persistence (by snapshots) is activated with several criterias:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;################################ SNAPSHOTTING  #################################
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;################################ SNAPSHOTTING  #################################
 #
 # Save the DB on disk:
 #
@@ -493,10 +493,10 @@ save 900 1
 save 300 10
 save 60 10000
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;But AOF persistance (append-only file: logs) is yet to be activated:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  appendonly yes
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;  appendonly yes
 &lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
 &lt;li&gt;Le tout est sauvé sous /var/lib/redis/ ; cf les paramètres &amp;lsquo;&amp;lsquo;dbfilename&amp;rsquo;&amp;rsquo; et &amp;lsquo;&amp;lsquo;dir&amp;rsquo;&amp;rsquo;&lt;/li&gt;
-&lt;li&gt;On peut demander à Redis de sauvegarder MAINTENANT avec la commande &amp;lsquo;&amp;lsquo;&amp;lsquo;BGSAVE&amp;rsquo;&amp;rsquo;&amp;rsquo; (ou &amp;lsquo;&amp;lsquo;&amp;lsquo;SAVE&amp;rsquo;&#39;&#39;, mais bloquante).&lt;/li&gt;
+&lt;li&gt;On peut demander à Redis de sauvegarder MAINTENANT avec la commande &amp;lsquo;&amp;lsquo;&amp;lsquo;BGSAVE&amp;rsquo;&amp;rsquo;&amp;rsquo; (ou &amp;lsquo;&amp;lsquo;&amp;lsquo;SAVE&amp;rsquo;&#39;&amp;rsquo;, mais bloquante).&lt;/li&gt;
 &lt;li&gt;La commande &lt;strong&gt;LASTSAVE&lt;/strong&gt; donne le timestamp unix de la dernière sauvegarde&lt;/li&gt;
 &lt;li&gt;La commande &lt;strong&gt;CONFIG GET *&lt;/strong&gt; permet d&amp;rsquo;avoir tous les paramètre d&amp;rsquo;un coup&lt;/li&gt;
 &lt;li&gt;La commande &lt;strong&gt;&lt;a href=&#34;http://redis.io/commands/config-set&#34;&gt;CONFIG SET parameter value&lt;/a&gt;&lt;/strong&gt; permet de changer en live sans redémarrer Redis ; mais ne modifie pas /etc/redis/redis.conf&lt;/li&gt;
@@ -518,7 +518,7 @@ save 60 10000
 &lt;p&gt;The page object model starts at slide 12. My notes:&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s a software layer between selenium and their [salesforce] tests.&lt;br&gt;
 Specifically, this layer expose classes/methods like:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;	&lt;span style=&#34;color:#a6e22e&#34;&gt;myCustomPage&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;ApproveForm&lt;/span&gt;();  
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;	&lt;span style=&#34;color:#a6e22e&#34;&gt;myCustomPage&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;ApproveForm&lt;/span&gt;();  
 	&lt;span style=&#34;color:#a6e22e&#34;&gt;myPrintDriverPage&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;typeComment&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;text&lt;/span&gt;);  
 	&lt;span style=&#34;color:#a6e22e&#34;&gt;myPortalPage&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;login&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;username&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;password&lt;/span&gt;);  
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Tests are only using that api, not immediately the selenium one.&lt;/p&gt;
@@ -658,7 +658,7 @@ Great collection of short tips&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://specificity.keegan.st/&#34;&gt;CSS Specificity Calculator&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.w3.org/TR/CSS21/cascade.html#specificity&#34;&gt;CSS specificity rule&lt;/a&gt; is very important.
 For instance, imagine you have:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;item&lt;/span&gt; .&lt;span style=&#34;color:#a6e22e&#34;&gt;text-normal&lt;/span&gt; {
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;item&lt;/span&gt; .&lt;span style=&#34;color:#a6e22e&#34;&gt;text-normal&lt;/span&gt; {
   &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;blue&lt;/span&gt;;
 }
 
@@ -666,7 +666,7 @@ For instance, imagine you have:&lt;/p&gt;
 &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;red&lt;/span&gt;;
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And the following HTML:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;item&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;item&amp;#34;&lt;/span&gt;&amp;gt;
   &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;text-normal text-color-color2&amp;#34;&lt;/span&gt;&amp;gt;test&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
 &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Well guess what will be the color of &lt;code&gt;test&lt;/code&gt;?&lt;br&gt;

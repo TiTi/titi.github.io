@@ -159,7 +159,7 @@ Want to upload an image in a comment: just drag it from your filesystem, and voi
 <li>Download setup on <a href="http://php.iis.net/">http://php.iis.net/</a> and install it</li>
 <li>Fix PATH environment variable after installation to add the missing &ldquo;(x86)&quot;:</li>
 </ul>
-<pre><code>C:\Program Files (x86)\PHP\v5.3
+<pre tabindex="0"><code>C:\Program Files (x86)\PHP\v5.3
 </code></pre><h4 id="install-arcanist">Install Arcanist</h4>
 <p>Download the following repository, either with <code>Download ZIP</code> link (on the right) or git:</p>
 <ul>
@@ -167,7 +167,7 @@ Want to upload an image in a comment: just drag it from your filesystem, and voi
 <li><a href="https://github.com/phacility/libphutil/">libphutil sur GitHub</a></li>
 </ul>
 <p>Extract them in a common folder, for instance:</p>
-<pre><code>E:\BuildSystem\Phabricator\
+<pre tabindex="0"><code>E:\BuildSystem\Phabricator\
                           \arcanist
                           \libphutil
 </code></pre><p>I recommend to rename folders &ldquo;arcanist&rdquo; and &ldquo;libphutil&rdquo; in case you&rsquo;ve used the download ZIP link because GitHub add <strong>-master</strong> in the name.</p>
@@ -177,18 +177,18 @@ Want to upload an image in a comment: just drag it from your filesystem, and voi
 <ul>
 <li>Set phabricator url:</li>
 </ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc set-config default http://phabricator-test.esker.corp
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc set-config default http://phabricator-test.esker.corp
 </code></pre></div><p><em>Edit: not required if you have a .arcconfig file in your project</em></p>
 <ul>
 <li>Allow arcanist web service:</li>
 </ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc install-certificate
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc install-certificate
 </code></pre></div><p>. Copy url displayed in terminal, ex: <a href="http://phabricator-test.esker.corp/conduit/token/">http://phabricator-test.esker.corp/conduit/token/</a><br>
 . Login &amp; copy the displayed token from the web page into your terminal</p>
 <ul>
 <li>Setup editor:</li>
 </ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc set-config editor &#34;\&#34;C:\Program Files (x86)\Notepad++\notepad++.exe\&#34; -multiInst -nosession&#34;
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc set-config editor &#34;\&#34;C:\Program Files (x86)\Notepad++\notepad++.exe\&#34; -multiInst -nosession&#34;
 </code></pre></div><p>According to officiel documentation:  &ldquo;You can not use Notepad as your editor, because it does not have a blocking mode.&rdquo;<br>
 I&rsquo;m using Notepad2 which works great. But Notepad++ and GitPad work too.</p>
 <h4 id="submit-code-for-pre-push-review">Submit code for pre-push review</h4>
@@ -196,7 +196,7 @@ I&rsquo;m using Notepad2 which works great. But Notepad++ and GitPad work too.</
 <li>Do one or more commits, still in <code>draft</code> state (not pushed).</li>
 <li>Open a terminal and type:</li>
 </ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc diff
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc diff
 </code></pre></div><p>Editor is going to open, you have to specify some infos:</p>
 <ul>
 <li>test plan ; can be optionnal, cf config differential.require-test-plan-field</li>
@@ -216,17 +216,17 @@ Unfortunately, it doesn&rsquo;t work to merge a branch on itself yet, you have t
 See ticket: <a href="https://secure.phabricator.com/T3855">https://secure.phabricator.com/T3855</a></p>
 <h4 id="known-issues">Known issues</h4>
 <p>In case you have encoding warnings, you can use <strong>&ndash;encoding</strong>. See <a href="https://secure.phabricator.com/book/phabricator/article/utf8/">https://secure.phabricator.com/book/phabricator/article/utf8/</a></p>
-<p>In case you got: &ldquo;Command failed with error #1!&rdquo; with &ldquo;STDERR&rdquo; &ldquo;not found!&quot;, you&rsquo;re likely missing the <code>default</code> repository in mercurial. See <code>[paths]</code> section in your <code>.hg/hgrc</code>.</p>
+<p>In case you got: &ldquo;Command failed with error #1!&rdquo; with &ldquo;STDERR&rdquo; &ldquo;not found!&rdquo;, you&rsquo;re likely missing the <code>default</code> repository in mercurial. See <code>[paths]</code> section in your <code>.hg/hgrc</code>.</p>
 <h4 id="go-further">Go further</h4>
 <p><a href="https://secure.phabricator.com/book/phabricator/article/arcanist_new_project/">.arcconfig documentation</a></p>
 <p>Sample:</p>
-<pre><code>{
+<pre tabindex="0"><code>{
 	&quot;phabricator.uri&quot; : &quot;http://ly-phabricator-test.esker.corp/&quot;
 }
 </code></pre><p>Linters:<br>
 <a href="https://secure.phabricator.com/book/phabricator/article/arcanist_lint/">Arcanist User Guide: Lint</a><br>
 <a href="https://secure.phabricator.com/book/phabricator/article/arcanist_extending_lint/">Arcanist User Guide: Customizing Existing Linters</a></p>
-<pre><code>{
+<pre tabindex="0"><code>{
 	&quot;linters&quot;:
 	{
 		&quot;jshint no_SAP&quot;:

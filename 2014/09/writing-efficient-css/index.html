@@ -82,7 +82,7 @@ Great collection of short tips</p>
 <p><a href="http://specificity.keegan.st/">CSS Specificity Calculator</a></p>
 <p><a href="http://www.w3.org/TR/CSS21/cascade.html#specificity">CSS specificity rule</a> is very important.
 For instance, imagine you have:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css">.<span style="color:#a6e22e">item</span> .<span style="color:#a6e22e">text-normal</span> {
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css">.<span style="color:#a6e22e">item</span> .<span style="color:#a6e22e">text-normal</span> {
   <span style="color:#66d9ef">color</span>: <span style="color:#66d9ef">blue</span>;
 }
 
@@ -90,7 +90,7 @@ For instance, imagine you have:</p>
 <span style="color:#66d9ef">color</span>: <span style="color:#66d9ef">red</span>;
 }
 </code></pre></div><p>And the following HTML:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;item&#34;</span>&gt;
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;item&#34;</span>&gt;
   &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text-normal text-color-color2&#34;</span>&gt;test&lt;/<span style="color:#f92672">div</span>&gt;
 &lt;/<span style="color:#f92672">div</span>&gt;
 </code></pre></div><p>Well guess what will be the color of <code>test</code>?<br>

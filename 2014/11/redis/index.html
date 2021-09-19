@@ -88,7 +88,7 @@
 <li><a href="http://blog.sensible.io/2013/08/20/setting-up-redis-for-production-environment.html">http://blog.sensible.io/2013/08/20/setting-up-redis-for-production-environment.html</a></li>
 </ul>
 <p>By default, RDB persistence (by snapshots) is activated with several criterias:</p>
-<pre><code>################################ SNAPSHOTTING  #################################
+<pre tabindex="0"><code>################################ SNAPSHOTTING  #################################
 #
 # Save the DB on disk:
 #
@@ -114,10 +114,10 @@ save 900 1
 save 300 10
 save 60 10000
 </code></pre><p>But AOF persistance (append-only file: logs) is yet to be activated:</p>
-<pre><code>  appendonly yes
+<pre tabindex="0"><code>  appendonly yes
 </code></pre><ul>
 <li>Le tout est sauvé sous /var/lib/redis/ ; cf les paramètres &lsquo;&lsquo;dbfilename&rsquo;&rsquo; et &lsquo;&lsquo;dir&rsquo;&rsquo;</li>
-<li>On peut demander à Redis de sauvegarder MAINTENANT avec la commande &lsquo;&lsquo;&lsquo;BGSAVE&rsquo;&rsquo;&rsquo; (ou &lsquo;&lsquo;&lsquo;SAVE&rsquo;'', mais bloquante).</li>
+<li>On peut demander à Redis de sauvegarder MAINTENANT avec la commande &lsquo;&lsquo;&lsquo;BGSAVE&rsquo;&rsquo;&rsquo; (ou &lsquo;&lsquo;&lsquo;SAVE&rsquo;'&rsquo;, mais bloquante).</li>
 <li>La commande <strong>LASTSAVE</strong> donne le timestamp unix de la dernière sauvegarde</li>
 <li>La commande <strong>CONFIG GET *</strong> permet d&rsquo;avoir tous les paramètre d&rsquo;un coup</li>
 <li>La commande <strong><a href="http://redis.io/commands/config-set">CONFIG SET parameter value</a></strong> permet de changer en live sans redémarrer Redis ; mais ne modifie pas /etc/redis/redis.conf</li>
