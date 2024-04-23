@@ -74,7 +74,7 @@ Source: <a href="http://www.commitstrip.com/en/2015/02/10/the-truth-about-code-r
 <p><a href="https://developer.atlassian.com/blog/2015/01/a-better-pull-request/">A better pull request</a></p>
 <p><a href="http://www.arguingwithalgorithms.com/posts/14-12-02-architecture-reviews">Architecture vs. Implementation Reviews</a></p>
 <p><a href="http://swreflections.blogspot.fr/2014/09/can-static-analysis-replace-code-reviews.html">Can Static Analysis replace Code Reviews?</a></p>
-<p><br /></p>
+<br />
 <iframe class="youtube-player" width="640" height="385" src="https://www.youtube.com/embed/CKjRt48rZGk" allowfullscreen></iframe>
 <hr>
 <h1 id="tools">Tools</h1>
@@ -157,7 +157,7 @@ Want to upload an image in a comment: just drag it from your filesystem, and voi
 <h4 id="install-php">Install PHP</h4>
 <ul>
 <li>Download setup on <a href="http://php.iis.net/">http://php.iis.net/</a> and install it</li>
-<li>Fix PATH environment variable after installation to add the missing &ldquo;(x86)&quot;:</li>
+<li>Fix PATH environment variable after installation to add the missing &ldquo;(x86)&rdquo;:</li>
 </ul>
 <pre tabindex="0"><code>C:\Program Files (x86)\PHP\v5.3
 </code></pre><h4 id="install-arcanist">Install Arcanist</h4>
@@ -177,27 +177,27 @@ Want to upload an image in a comment: just drag it from your filesystem, and voi
 <ul>
 <li>Set phabricator url:</li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc set-config default http://phabricator-test.esker.corp
-</code></pre></div><p><em>Edit: not required if you have a .arcconfig file in your project</em></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>arc set-config default http://phabricator-test.esker.corp
+</span></span></code></pre></div><p><em>Edit: not required if you have a .arcconfig file in your project</em></p>
 <ul>
 <li>Allow arcanist web service:</li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc install-certificate
-</code></pre></div><p>. Copy url displayed in terminal, ex: <a href="http://phabricator-test.esker.corp/conduit/token/">http://phabricator-test.esker.corp/conduit/token/</a><br>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>arc install-certificate
+</span></span></code></pre></div><p>. Copy url displayed in terminal, ex: <a href="http://phabricator-test.esker.corp/conduit/token/">http://phabricator-test.esker.corp/conduit/token/</a><br>
 . Login &amp; copy the displayed token from the web page into your terminal</p>
 <ul>
 <li>Setup editor:</li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc set-config editor &#34;\&#34;C:\Program Files (x86)\Notepad++\notepad++.exe\&#34; -multiInst -nosession&#34;
-</code></pre></div><p>According to officiel documentation:  &ldquo;You can not use Notepad as your editor, because it does not have a blocking mode.&rdquo;<br>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>arc set-config editor &#34;\&#34;C:\Program Files (x86)\Notepad++\notepad++.exe\&#34; -multiInst -nosession&#34;
+</span></span></code></pre></div><p>According to officiel documentation:  &ldquo;You can not use Notepad as your editor, because it does not have a blocking mode.&rdquo;<br>
 I&rsquo;m using Notepad2 which works great. But Notepad++ and GitPad work too.</p>
 <h4 id="submit-code-for-pre-push-review">Submit code for pre-push review</h4>
 <ul>
 <li>Do one or more commits, still in <code>draft</code> state (not pushed).</li>
 <li>Open a terminal and type:</li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">arc diff
-</code></pre></div><p>Editor is going to open, you have to specify some infos:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>arc diff
+</span></span></code></pre></div><p>Editor is going to open, you have to specify some infos:</p>
 <ul>
 <li>test plan ; can be optionnal, cf config differential.require-test-plan-field</li>
 <li>reviewers ; you can specify one or several (comma separation)</li>
@@ -221,22 +221,22 @@ See ticket: <a href="https://secure.phabricator.com/T3855">https://secure.phabri
 <p><a href="https://secure.phabricator.com/book/phabricator/article/arcanist_new_project/">.arcconfig documentation</a></p>
 <p>Sample:</p>
 <pre tabindex="0"><code>{
-	&quot;phabricator.uri&quot; : &quot;http://ly-phabricator-test.esker.corp/&quot;
+	&#34;phabricator.uri&#34; : &#34;http://ly-phabricator-test.esker.corp/&#34;
 }
 </code></pre><p>Linters:<br>
 <a href="https://secure.phabricator.com/book/phabricator/article/arcanist_lint/">Arcanist User Guide: Lint</a><br>
 <a href="https://secure.phabricator.com/book/phabricator/article/arcanist_extending_lint/">Arcanist User Guide: Customizing Existing Linters</a></p>
 <pre tabindex="0"><code>{
-	&quot;linters&quot;:
+	&#34;linters&#34;:
 	{
-		&quot;jshint no_SAP&quot;:
+		&#34;jshint no_SAP&#34;:
 		{
-			&quot;type&quot;: &quot;jshint&quot;,
-			&quot;bin&quot;: &quot;C:\\Users\\TiTi\\AppData\\Roaming\\npm\\jshint.cmd&quot;,
-			&quot;include&quot;: &quot;(^DocMgr2/WebAccess/no_SAP/ap_reject.js$)&quot;,
-			&quot;severity.rules&quot;:
+			&#34;type&#34;: &#34;jshint&#34;,
+			&#34;bin&#34;: &#34;C:\\Users\\TiTi\\AppData\\Roaming\\npm\\jshint.cmd&#34;,
+			&#34;include&#34;: &#34;(^DocMgr2/WebAccess/no_SAP/ap_reject.js$)&#34;,
+			&#34;severity.rules&#34;:
 			{
-				&quot;(^W)&quot;: &quot;error&quot;
+				&#34;(^W)&#34;: &#34;error&#34;
 			}
 		}
 	}
@@ -271,7 +271,7 @@ See ticket: <a href="https://secure.phabricator.com/T3855">https://secure.phabri
 <div id="sidebar">
 <div class="sidebar">
   <div class="sidebar-about">
-    <a href="https://titi.github.io">
+    <a href="https://titi.github.io/">
       <img src="media/me.jpg" title="Thibault ROHMER" alt="Me" />
       <h4 class="sidebar-title">Hi! I&#39;m Thibault ROHMER</h4>
     </a>
@@ -280,7 +280,7 @@ See ticket: <a href="https://secure.phabricator.com/T3855">https://secure.phabri
   <nav class="sidebar-nav">
     <ul class="sidebar-nav-list">
       <li class="sidebar-nav-item nav-home">
-        <span class="genericon genericon-home"></span><a class="sidebar-link" href="https://titi.github.io">Home</a>
+        <span class="genericon genericon-home"></span><a class="sidebar-link" href="https://titi.github.io/">Home</a>
       </li>
       <li class="sidebar-nav-item">
         <a class="genericon genericon-feed" href="posts/index.xml"></a><a class="sidebar-link" href="posts/">Posts/</a>

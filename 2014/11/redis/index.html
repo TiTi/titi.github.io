@@ -102,13 +102,13 @@
 #   after 300 sec (5 min) if at least 10 keys changed
 #   after 60 sec if at least 10000 keys changed
 #
-#   Note: you can disable saving at all commenting all the &quot;save&quot; lines.
+#   Note: you can disable saving at all commenting all the &#34;save&#34; lines.
 #
 #   It is also possible to remove all the previously configured save
 #   points by adding a save directive with a single empty string argument
 #   like in the following example:
 #
-#   save &quot;&quot;
+#   save &#34;&#34;
 
 save 900 1
 save 300 10
@@ -117,7 +117,7 @@ save 60 10000
 <pre tabindex="0"><code>  appendonly yes
 </code></pre><ul>
 <li>Le tout est sauvé sous /var/lib/redis/ ; cf les paramètres &lsquo;&lsquo;dbfilename&rsquo;&rsquo; et &lsquo;&lsquo;dir&rsquo;&rsquo;</li>
-<li>On peut demander à Redis de sauvegarder MAINTENANT avec la commande &lsquo;&lsquo;&lsquo;BGSAVE&rsquo;&rsquo;&rsquo; (ou &lsquo;&lsquo;&lsquo;SAVE&rsquo;'&rsquo;, mais bloquante).</li>
+<li>On peut demander à Redis de sauvegarder MAINTENANT avec la commande &lsquo;&lsquo;&lsquo;BGSAVE&rsquo;&rsquo;&rsquo; (ou &lsquo;&lsquo;&lsquo;SAVE&rsquo;&rsquo;&rsquo;, mais bloquante).</li>
 <li>La commande <strong>LASTSAVE</strong> donne le timestamp unix de la dernière sauvegarde</li>
 <li>La commande <strong>CONFIG GET *</strong> permet d&rsquo;avoir tous les paramètre d&rsquo;un coup</li>
 <li>La commande <strong><a href="http://redis.io/commands/config-set">CONFIG SET parameter value</a></strong> permet de changer en live sans redémarrer Redis ; mais ne modifie pas /etc/redis/redis.conf</li>
@@ -151,7 +151,7 @@ save 60 10000
 <div id="sidebar">
 <div class="sidebar">
   <div class="sidebar-about">
-    <a href="https://titi.github.io">
+    <a href="https://titi.github.io/">
       <img src="media/me.jpg" title="Thibault ROHMER" alt="Me" />
       <h4 class="sidebar-title">Hi! I&#39;m Thibault ROHMER</h4>
     </a>
@@ -160,7 +160,7 @@ save 60 10000
   <nav class="sidebar-nav">
     <ul class="sidebar-nav-list">
       <li class="sidebar-nav-item nav-home">
-        <span class="genericon genericon-home"></span><a class="sidebar-link" href="https://titi.github.io">Home</a>
+        <span class="genericon genericon-home"></span><a class="sidebar-link" href="https://titi.github.io/">Home</a>
       </li>
       <li class="sidebar-nav-item">
         <a class="genericon genericon-feed" href="posts/index.xml"></a><a class="sidebar-link" href="posts/">Posts/</a>

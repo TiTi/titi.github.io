@@ -4,9 +4,10 @@
     <link>https://titi.github.io/links/</link>
     <description>Recent content in Links on Hi! I&#39;m Thibault ROHMER</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Sun, 09 Dec 2018 21:57:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 20 Dec 2018 21:45:00 +0100</lastBuildDate>
     
         <atom:link href="https://titi.github.io/links/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,7 +38,7 @@ Comments are worth reading! And this article too:&lt;br&gt;
 &lt;p&gt;Nikita draws a state of software engineering. Indeed it&amp;rsquo;s a mess an we should have higher standards. I&amp;rsquo;d like to hear the words &amp;ldquo;quality&amp;rdquo; and &amp;ldquo;performance&amp;rdquo; more often too!&lt;br&gt;
 &lt;a href=&#34;http://tonsky.me/blog/disenchantment/&#34;&gt;Software disenchantment&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;programming-tips&#34;&gt;Programming tips&lt;/h1&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/LTZdmb5-8n8&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;Source: &lt;a href=&#34;https://www.youtube.com/watch?v=LTZdmb5-8n8&#34;&gt;GOTO 2018 • Making It Count: Quality is NOT an Option • Todd Montgomery&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software&#34;&gt;The faster you unlearn OOP, the better for you and your software&lt;/a&gt;&lt;/p&gt;
@@ -142,12 +143,12 @@ I&amp;rsquo;ll definitely gonna try Postman after my small experience with Swagg
       <pubDate>Sun, 06 Aug 2017 22:40:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-155/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.monkeyuser.com/assets/images/2017/54-bottom-of-backlog.png&#34; alt=&#34;Bottom of the backlog&#34; width=&#34;600&#34; /&gt;&lt;br&gt;
-Source: &lt;a href=&#34;http://www.monkeyuser.com/2017/bottom-of-the-backlog/&#34;&gt;Bottom of the backlog&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;img src=&#34;http://www.monkeyuser.com/assets/images/2017/54-bottom-of-backlog.png&#34; alt=&#34;Bottom of the backlog&#34; width=&#34;600&#34; /&gt;  
+Source: [Bottom of the backlog](http://www.monkeyuser.com/2017/bottom-of-the-backlog/)
 &lt;p&gt;&lt;img src=&#34;https://www.commitstrip.com/wp-content/uploads/2017/08/Strip-Le-codeur-arros%C3%A9-english.jpg&#34; alt=&#34;It&amp;rsquo;s an improvement&#34;&gt;&lt;br&gt;
 Source: &lt;a href=&#34;http://www.commitstrip.com/en/2017/08/03/its-an-improvement/&#34;&gt;It&amp;rsquo;s an improvement | CommitStrip&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.monkeyuser.com/assets/images/2017/56-refactor-man.png&#34; alt=&#34;Refactor Man&#34; width=&#34;600&#34; /&gt;&lt;br&gt;
-Source: &lt;a href=&#34;http://www.monkeyuser.com/2017/refactor-man/&#34;&gt;Refactor Man&lt;/a&gt;&lt;/p&gt;</description>
+&lt;img src=&#34;http://www.monkeyuser.com/assets/images/2017/56-refactor-man.png&#34; alt=&#34;Refactor Man&#34; width=&#34;600&#34; /&gt;  
+Source: [Refactor Man](http://www.monkeyuser.com/2017/refactor-man/)</description>
     </item>
     
     <item>
@@ -218,14 +219,14 @@ Source: &lt;a href=&#34;http://www.monkeyuser.com/2017/refactor-man/&#34;&gt;Ref
 Spoilerwall introduces a brand new concept in the field of network hardening. Avoid being scanned by spoiling movies on all your ports!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://sudoscript.com/reddit-place/&#34;&gt;When Pixels Collide&lt;/a&gt; - Reddit Place&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.monkeyuser.com/assets/images/2017/28-programming-languages-as-humans.png&#34; alt=&#34;Programming languages as humans&#34; width=&#34;600&#34; /&gt;&lt;br&gt;
-Source: &lt;a href=&#34;http://www.monkeyuser.com/2017/programming-languages-as-humans/&#34;&gt;Programming languages as humans&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;http://www.monkeyuser.com/assets/images/2017/28-programming-languages-as-humans.png&#34; alt=&#34;Programming languages as humans&#34; width=&#34;600&#34; /&gt;  
+Source: [Programming languages as humans](http://www.monkeyuser.com/2017/programming-languages-as-humans/)
 &lt;p&gt;&lt;a href=&#34;https://www.theverge.com/2017/4/4/15180374/ghost-in-the-shell-art-design-ash-thorp&#34;&gt;A closer look at the art behind the new Ghost in the Shell movie&lt;/a&gt;:&lt;/p&gt;
 &lt;div class=&#34;embed video-player&#34;&gt;
 &lt;iframe src=&#34;//player.vimeo.com/video/211519393&#34; width=&#34;640&#34; height=&#34;385&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.monkeyuser.com/assets/images/2017/46-code-review-stages.png&#34; alt=&#34;Code Review Stages&#34; width=&#34;600&#34; /&gt;&lt;br&gt;
-Source: &lt;a href=&#34;http://www.monkeyuser.com/2017/code-review-stages/&#34;&gt;Code Review Stages&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;http://www.monkeyuser.com/assets/images/2017/46-code-review-stages.png&#34; alt=&#34;Code Review Stages&#34; width=&#34;600&#34; /&gt;  
+Source: [Code Review Stages](http://www.monkeyuser.com/2017/code-review-stages/)
 </description>
     </item>
     
@@ -371,7 +372,7 @@ Source: &lt;a href=&#34;http://www.monkeyuser.com/2017/code-review-stages/&#34;&
 &lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/clean-architecture-is-screaming&#34;&gt;Clean Architecture Is Screaming&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://labsblog.f-secure.com/2017/03/09/apple-google-and-the-cia/&#34;&gt;Apple, Google, And The CIA&lt;/a&gt; - F-Secure Lab&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.zdnet.com/article/fda-one-of-many-toothless-dragons-in-medical-device-security-realm/#ftag=RSSbaffb68&#34;&gt;FDA one of many &amp;lsquo;toothless dragons&amp;rsquo; with no will to tackle medical device security&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.zdnet.com/article/fda-one-of-many-toothless-dragons-in-medical-device-security-realm/#ftag=RSSbaffb68&#34;&gt;FDA one of many &amp;rsquo;toothless dragons&amp;rsquo; with no will to tackle medical device security&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/security-testing-tools-you-need-to-know-about?edition=245486&#34;&gt;Security Testing Tools You Need To Know About&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://arstechnica.co.uk/security/2017/03/firefox-gets-complaint-for-labeling-unencrypted-login-page-insecure/&#34;&gt;HTTPS laggard complains when Firefox warns of insecure login page&lt;/a&gt; (Hilarity Ensues)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.troyhunt.com/heres-how-i-verify-data-breaches/&#34;&gt;Here&amp;rsquo;s how I verify data breaches&lt;/a&gt;&lt;/p&gt;
@@ -511,7 +512,7 @@ Love the picture in picture!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blogs.dropbox.com/tech/2016/11/annotations-on-document-previews/&#34;&gt;Annotations on Document Previews&lt;/a&gt; - Dropbox Tech Blog&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://ascii.textfiles.com/archives/5089&#34;&gt;A Simple Explanation: VLC.js&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;relationships&#34;&gt;Relationships&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/lifeandstyle/2016/nov/25/how-to-be-a-good-listener-the-experts-guide&#34;&gt;How to be a good listener: the experts&#39; guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/lifeandstyle/2016/nov/25/how-to-be-a-good-listener-the-experts-guide&#34;&gt;How to be a good listener: the experts&amp;rsquo; guide&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.scrum.org/development-team-evolution/&#34;&gt;Evolution of the Development Team&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;performance&#34;&gt;Performance&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/black-friday-and-cyber-monday-performance-report-2?edition=155252&#34;&gt;Black Friday and Cyber Monday Performance Report 2016&lt;/a&gt;&lt;/p&gt;
@@ -977,7 +978,7 @@ Interesting answer: &lt;a href=&#34;https://dzone.com/articles/on-ubers-choice-o
 &lt;p&gt;&lt;a href=&#34;https://vladmihalcea.com/2016/04/11/how-to-run-database-integration-tests-20-times-faster/&#34;&gt;How to run database integration tests 20 times faster&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
 &lt;h2 id=&#34;browsers&#34;&gt;Browsers&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;http://googlechromereleases.blogspot.fr/2016/05/stable-channel-update_25.html&#34;&gt;Chrome Chrome 51.0.2704.63 
+&lt;p&gt;&lt;a href=&#34;http://googlechromereleases.blogspot.fr/2016/05/stable-channel-update_25.html&#34;&gt;Chrome Chrome 51.0.2704.63
 Stable Channel Update&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.mozilla.org/blog/2016/05/11/advanced-disclosure-needed-to-keep-users-secure/&#34;&gt;Advance Disclosure Needed to Keep Users Secure&lt;/a&gt; - The Mozilla Blog&lt;/p&gt;
 &lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;
@@ -1180,11 +1181,11 @@ I disagree regarding the &amp;ldquo;path [that] leads to code of the same mainta
       <description>&lt;p&gt;&lt;a href=&#34;http://whichcatisyourjavascriptframework.com&#34;&gt;Which cat is your JavaScript framework?&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.fxguide.com/featured/so-just-how-was-that-chemical-brothers-video-made/&#34;&gt;So, just how was that Chemical Brothers video made?&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.jitbit.com/alexblog/203-what-if-drivers-were-hired-like-programmers/&#34;&gt;What If Drivers Were Hired Like Programmers?&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/boysnoize/status/715075699883638785&#34;&gt;Boys Noize on Twitter : &amp;ldquo;right @SoundCloud &amp;hellip;&amp;quot;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.telegraph.co.uk/technology/2016/03/24/microsofts-teen-girl-ai-turns-into-a-hitler-loving-sex-robot-wit/&#34;&gt;Microsoft deletes &amp;lsquo;teen girl&amp;rsquo; AI after it became a Hitler-loving sex robot within 24 hours&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/boysnoize/status/715075699883638785&#34;&gt;Boys Noize on Twitter : &amp;ldquo;right @SoundCloud &amp;hellip;&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.telegraph.co.uk/technology/2016/03/24/microsofts-teen-girl-ai-turns-into-a-hitler-loving-sex-robot-wit/&#34;&gt;Microsoft deletes &amp;rsquo;teen girl&amp;rsquo; AI after it became a Hitler-loving sex robot within 24 hours&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;http://imgur.com/gallery/VhlAW&#34;&gt;More at imgur&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://imgur.com/gallery/LfDZSHA&#34;&gt;I need a clever WiFi Name for the new router&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/tGHcyKTIXIM&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2016/03/Strip-La-maison-de-stacks-650-finalenglish.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
 Source: &lt;a href=&#34;http:www.commitstrip.com/en/2016/03/17/too-full-stack/&#34;&gt;CommitStrip - Too Full Stack&lt;/a&gt;&lt;/p&gt;
@@ -1312,7 +1313,7 @@ and the &lt;a href=&#34;https://azure.microsoft.com/en-us/documentation/infograp
       <guid>https://titi.github.io/links/feed-117/</guid>
       <description>&lt;h1 id=&#34;communication&#34;&gt;Communication&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.theeffectiveengineer.com/blog/communication-first-casualty-of-teams-growth&#34;&gt;Communication: The First Casualty of a Team&amp;rsquo;s Growth&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/GitHubActivityGuiltAndTheCodersFitBit.aspx&#34;&gt;GitHub Activity Guilt and the Coder&amp;rsquo;s FitBit&lt;/a&gt; - 
+&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/GitHubActivityGuiltAndTheCodersFitBit.aspx&#34;&gt;GitHub Activity Guilt and the Coder&amp;rsquo;s FitBit&lt;/a&gt; -
 Scott Hanselman&lt;/p&gt;
 &lt;h1 id=&#34;css&#34;&gt;CSS&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;http://thenewcode.com/368/Controlling-Elements-with-JavaScript-classList&#34;&gt;Controlling Elements with JavaScript classList&lt;/a&gt;&lt;/p&gt;
@@ -1508,7 +1509,7 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/12/31/happy-new-year-
 &lt;p&gt;&lt;a href=&#34;http://blog.dylanjpierce.com/raspberrypi/magicmirror/tutorial/2015/12/27/build-a-magic-mirror.html&#34;&gt;Building MirrorMirror:&lt;br&gt;
 &lt;img src=&#34;http://i.imgur.com/lNB7QSt.jpg?1&#34; alt=&#34;MirrorMirror&#34; width=&#34;600&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/UBWAcNJf5pM?t=113&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.ted.com/talks/a_robot_that_flies_like_a_bird?language=en&#34;&gt;Markus Fischer: A robot that flies like a bird&lt;/a&gt; - TED Talks&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://starbnb.co/&#34;&gt;Explore New Horizons - StarBnB&lt;/a&gt;&lt;br&gt;
@@ -1846,7 +1847,7 @@ It is easier to understand on the &lt;a href=&#34;https://github.com/MicrosoftEd
 &lt;p&gt;&lt;a href=&#34;http://www.wired.com/2015/09/facebooks-new-anti-spam-system-hints-future-coding/&#34;&gt;Facebook’s New Spam-Killer Hints at the Future of Coding&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;http://semver.org/&#34;&gt;Semantic Versioning 2.0.0&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/XDqZemwVXUk&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.nczonline.net/blog/2015/08/wordpress-jekyll-my-new-blog-setup/&#34;&gt;From Wordpress to Jekyll: My new blog setup&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://blog.8thlight.com/uncle-bob/2015/05/28/TheFirstMicroserviceArchitecture.html&#34;&gt;The First Micro-service Architecture&lt;/a&gt;&lt;/p&gt;
@@ -2092,7 +2093,7 @@ Source: &lt;a href=&#34;http://geek-and-poke.com/geekandpoke/2015/7/27/the-last-
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-90/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://chrome.blogspot.fr/2015/06/quick-answers-to-quick-questions.html&#34;&gt;Quick answers to quick questions&lt;/a&gt; - Google Chrome Blog&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/HowToEnableHTTPStrictTransportSecurityHSTSInIIS7.aspx&#34;&gt;How to enable HTTP Strict Transport Security (HSTS) in IIS7+&lt;/a&gt; - 
+&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/HowToEnableHTTPStrictTransportSecurityHSTSInIIS7.aspx&#34;&gt;How to enable HTTP Strict Transport Security (HSTS) in IIS7+&lt;/a&gt; -
 Scott Hanselman&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/oldnewthing/archive/2015/05/28/10617693.aspx&#34;&gt;When designing your user interface, be mindful of the selection-readers&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html&#34;&gt;We have a problem with promises&lt;/a&gt;&lt;/p&gt;
@@ -2130,7 +2131,7 @@ I don&amp;rsquo;t feel the title reflect the article but it&amp;rsquo;s interest
       <guid>https://titi.github.io/links/feed-89/</guid>
       <description>&lt;p&gt;[FR] &lt;a href=&#34;http://piwee.net/1-phrases-insolites-proncees-client-agences-web-260515/&#34;&gt;30 phrases totalement insolites prononcées par des clients à des agences web&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.in2white.com/&#34;&gt;http://www.in2white.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/glitchr_&#34;&gt;https://twitter.com/glitchr_&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/glitchr&#34;&gt;https://twitter.com/glitchr&lt;/a&gt;_&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;KUNG FURY Official Movie&lt;br&gt;
 Kung fu, Nazis, kung führer!, hackerman, E=mc3, portal, dinausors, ninjas, vikings, thor,&amp;hellip;  A.W.E.S.O.M.E. mashup and graphics
@@ -2203,7 +2204,7 @@ Kung fu, Nazis, kung führer!, hackerman, E=mc3, portal, dinausors, ninjas, viki
 &lt;p&gt;&lt;a href=&#34;http://mortoray.com/2015/05/25/blocking-and-asynchronous-operations-without-timeout-are-broken/&#34;&gt;Blocking and asynchronous operations without timeout are broken&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://hacks.mozilla.org/2015/06/new-performance-tools-in-firefox-developer-edition-40/&#34;&gt;New Performance Tools in Firefox Developer Edition 40&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://githubengineering.com/deploying-branches-to-github-com/&#34;&gt;Deploying branches to GitHub.com&lt;/a&gt; - GitHub Engineering&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/WhatsTheDealWithWindows10ForTheNonTechnicalFriend.aspx&#34;&gt;What&amp;rsquo;s the deal with Windows 10 for the Non-Technical Friend&lt;/a&gt; - 
+&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/WhatsTheDealWithWindows10ForTheNonTechnicalFriend.aspx&#34;&gt;What&amp;rsquo;s the deal with Windows 10 for the Non-Technical Friend&lt;/a&gt; -
 Scott Hanselman&lt;/p&gt;
 &lt;p&gt;[FR] &lt;a href=&#34;http://www.freenews.fr/freenews-edition-nationale-299/freebox-9/free-a-corrige-faille-critique-freebox&#34;&gt;Comment Free a corrigé une faille critique sur Freebox&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -2308,9 +2309,9 @@ Scott Hanselman&lt;/p&gt;
       <description>&lt;p&gt;Luke (11y.o) solving the MoYu 13x13 Cube in 5h30m:&lt;br&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/dJ6301NOl-s&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;a href=&#34;http://boingboing.net/2015/05/19/watch-cute-video-blends-playf.html&#34;&gt;Cute video blends playful child with Super Mario Bros. effects&lt;/a&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
+[Cute video blends playful child with Super Mario Bros. effects](http://boingboing.net/2015/05/19/watch-cute-video-blends-playf.html)
+&lt;br /&gt;&lt;br /&gt;
 &lt;p&gt;The US Navy&amp;rsquo;s X-47B performs the first ever autonomous midair refueling:&lt;br&gt;
 &lt;img src=&#34;http://i.imgur.com/LopfDkh.jpg&#34; alt=&#34;X-47B midair refueling&#34; width=&#34;1000&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.thalmic.com/en/myo/&#34;&gt;Thalmic Labs - Makers of Myo gesture control armband&lt;/a&gt;&lt;/p&gt;
@@ -2582,7 +2583,7 @@ Source: &lt;a href=&#34;http://geek-and-poke.com/geekandpoke/2010/12/21/the-free
 &lt;p&gt;&lt;a href=&#34;http://java.dzone.com/articles/agile-metrics-people&#34;&gt;Agile Metrics to the People!&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;visual-studio&#34;&gt;Visual Studio&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;http://haacked.com/archive/2015/04/30/github-in-your-visual-studio/&#34;&gt;GitHub Inside Your Visual Studio&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/IntroducingVisualStudioCodeForWindowsMacAndLinux.aspx&#34;&gt;Introducing Visual Studio Code for Windows, Mac, and Linux&lt;/a&gt; - 
+&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/IntroducingVisualStudioCodeForWindowsMacAndLinux.aspx&#34;&gt;Introducing Visual Studio Code for Windows, Mac, and Linux&lt;/a&gt; -
 Scott Hanselman / Microsoft&lt;/p&gt;
 &lt;h1 id=&#34;browsers&#34;&gt;Browsers&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.favbrowser.com/microsoft-edge-will-support-firefox-and-chrome-extensions/&#34;&gt;Microsoft Edge Will Support Firefox And Chrome Extensions&lt;/a&gt;&lt;/p&gt;
@@ -2673,17 +2674,17 @@ Scott Hanselman / Microsoft&lt;/p&gt;
       <description>&lt;p&gt;CRS-6 First Stage Landing - SpaceX
 &lt;br /&gt;&lt;/p&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/BhMSzC1crr0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.telegraph.co.uk/news/worldnews/asia/singapore/11534378/When-is-Cheryls-birthday-The-tricky-math-problem-that-has-everyone-stumped.html&#34;&gt;When is Cheryl&amp;rsquo;s birthday?&#39; The tricky maths problem that has everyone stumped&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.telegraph.co.uk/news/worldnews/asia/singapore/11534378/When-is-Cheryls-birthday-The-tricky-math-problem-that-has-everyone-stumped.html&#34;&gt;When is Cheryl&amp;rsquo;s birthday?&amp;rsquo; The tricky maths problem that has everyone stumped&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://8088mph.blogspot.fr/2015/04/cga-in-1024-colors-new-mode-illustrated.html&#34;&gt;CGA in 1024 Colors - a New Mode: the Illustrated Guide&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://codekingdoms.com/&#34;&gt;Code Kingdoms - A game that teaches kids how to code&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;p&gt;Last Week Tonight with John Oliver: Patents
 &lt;br /&gt;&lt;/p&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/3bxcc3SM_KA&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;h1 id=&#34;star-wars&#34;&gt;Star Wars&lt;/h1&gt;
-&lt;p&gt;A Son&amp;rsquo;s reaction to &amp;lsquo;Empire Strikes Back&amp;rsquo; reveal!!!! 
+&lt;p&gt;A Son&amp;rsquo;s reaction to &amp;lsquo;Empire Strikes Back&amp;rsquo; reveal!!!!
 &lt;br /&gt;&lt;/p&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/ZbV5hn_ET0U&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&#34;http://hackaday.com/2015/04/19/bb-8-is-real-but-how-did-they-do-it/&#34;&gt;BB-8 is real! But how did they do it?&lt;/a&gt;&lt;/p&gt;
@@ -2705,7 +2706,7 @@ Scott Hanselman / Microsoft&lt;/p&gt;
       <pubDate>Sun, 26 Apr 2015 21:08:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-72/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/BadUXAndUserSelfBlameImSorryImNotAComputerPerson.aspx&#34;&gt;Bad UX and User Self-Blame - &amp;ldquo;I&amp;rsquo;m sorry, I&amp;rsquo;m not a computer person.&amp;quot;&lt;/a&gt; - Scott Hanselman&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.hanselman.com/blog/BadUXAndUserSelfBlameImSorryImNotAComputerPerson.aspx&#34;&gt;Bad UX and User Self-Blame - &amp;ldquo;I&amp;rsquo;m sorry, I&amp;rsquo;m not a computer person.&amp;rdquo;&lt;/a&gt; - Scott Hanselman&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://playbook.cio.gov/&#34;&gt;U.S. Digital Services Playbook&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://blog.codinghorror.com/your-password-is-too-damn-short/&#34;&gt;Your Password is Too Damn Short&lt;/a&gt; - Jeff Atwood&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/&#34;&gt;Go&amp;rsquo;s error handling: good and bad&lt;/a&gt;&lt;/p&gt;
@@ -2744,7 +2745,7 @@ Scott Hanselman / Microsoft&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://blog.jquery.com/2015/04/23/announcing-globalize-1-0/&#34;&gt;Announcing Globalize 1.0&lt;/a&gt; - jQuery blog&lt;/p&gt;
 &lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.praetorian.com/blog/statistics-will-crack-your-password-mask-structure&#34;&gt;Statistics Will Crack Your Password&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.theguardian.com/technology/2015/apr/22/wi-fi-hack-ios-iphone-ipad-apple&#34;&gt;Wi-Fi hack creates &amp;lsquo;no iOS zone&amp;rsquo; that cripples iPhones and iPads&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.theguardian.com/technology/2015/apr/22/wi-fi-hack-ios-iphone-ipad-apple&#34;&gt;Wi-Fi hack creates &amp;rsquo;no iOS zone&amp;rsquo; that cripples iPhones and iPads&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;http://www.popsci.com/security-flaw-can-cause-your-iphone-reboot-endlessly&#34;&gt;This Security Flaw Can Cause Your iPhone To Reboot Endlessly&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;other-stuff&#34;&gt;Other stuff&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://digitalserb.me/writing-a-redis-client-in-pure-bash/&#34;&gt;Writing a Redis client in pure Bash&lt;/a&gt;&lt;/p&gt;
@@ -2938,7 +2939,7 @@ Interesting trick to trigger &lt;code&gt;DOMContentLoaded&lt;/code&gt; faster. B
       <pubDate>Sun, 05 Apr 2015 00:28:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-63/</guid>
-      <description>&lt;h1 id=&#34;special-april-fools-day---april-1-2015&#34;&gt;Special April Fools&#39; Day - April 1, 2015&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;special-april-fools-day---april-1-2015&#34;&gt;Special April Fools&amp;rsquo; Day - April 1, 2015&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://com.google/&#34;&gt;elgooG - https://com.google/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://chrome.blogspot.fr/2015/04/re-rethinking-computing.html&#34;&gt;Re-rethinking computing&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://dev.opera.com/blog/introducing-massage-api/&#34;&gt;Introducing a Massage API&lt;/a&gt;&lt;/p&gt;
@@ -3303,7 +3304,7 @@ Also see &lt;a href=&#34;http://en.wikipedia.org/wiki/Recovery_time_objective&#3
 In case you missed it: &lt;a href=&#34;http://en.wikipedia.org/wiki/The_dress_%28viral_phenomenon%29&#34;&gt;The dress (viral phenomenon)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/03/Strip-Lendemain-de-soir%C3%A9e-650-finalenglish.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
 Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/03/13/coding-with-a-hangover/&#34;&gt;http://www.commitstrip.com/en/2015/03/13/coding-with-a-hangover/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/PcO5JSfhEcc&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;img src=&#34;http://www.commitstrip.com/wp-content/uploads/2015/03/Strip-Confession-650-finalenglish.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
 Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-house-of-code/&#34;&gt;http://www.commitstrip.com/en/2015/03/06/welcome-to-the-house-of-code/&lt;/a&gt;&lt;/p&gt;
@@ -3949,7 +3950,7 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2014/09/16/le-commitstrip-
       <pubDate>Fri, 08 Aug 2014 09:21:00 +0100</pubDate>
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/links/feed-4/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://image-store.slidesharecdn.com/9e674346-1971-11e4-9312-12313d03353b-large.jpeg&#34; alt=&#34;Pizza as a service&#34; width=&#34;500&#34; /&gt;&lt;/p&gt;
+      <description>&lt;img src=&#34;http://image-store.slidesharecdn.com/9e674346-1971-11e4-9312-12313d03353b-large.jpeg&#34; alt=&#34;Pizza as a service&#34; width=&#34;500&#34; /&gt;
 &lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2014/08/feature-toggles-are-one-of-worst-kinds.html&#34;&gt;Feature Toggles are one of the worst kinds of Technical Debt&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;You can’t do decentralized versioning unless you also decentralize your testing and integration&amp;rdquo;&lt;/p&gt;

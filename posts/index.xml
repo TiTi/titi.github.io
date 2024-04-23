@@ -4,9 +4,10 @@
     <link>https://titi.github.io/posts/</link>
     <description>Recent content in Posts on Hi! I&#39;m Thibault ROHMER</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <managingEditor>thibault.rohmer@gmail.com (Thibault ROHMER)</managingEditor>
     <webMaster>thibault.rohmer@gmail.com (Thibault ROHMER)</webMaster>
-    <lastBuildDate>Mon, 18 May 2015 20:42:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jul 2016 20:20:20 +0100</lastBuildDate>
     
         <atom:link href="https://titi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -249,7 +250,7 @@ Source: &lt;a href=&#34;http://www.commitstrip.com/en/2015/02/10/the-truth-about
 &lt;p&gt;&lt;a href=&#34;https://developer.atlassian.com/blog/2015/01/a-better-pull-request/&#34;&gt;A better pull request&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.arguingwithalgorithms.com/posts/14-12-02-architecture-reviews&#34;&gt;Architecture vs. Implementation Reviews&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://swreflections.blogspot.fr/2014/09/can-static-analysis-replace-code-reviews.html&#34;&gt;Can Static Analysis replace Code Reviews?&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/CKjRt48rZGk&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
@@ -332,7 +333,7 @@ Want to upload an image in a comment: just drag it from your filesystem, and voi
 &lt;h4 id=&#34;install-php&#34;&gt;Install PHP&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Download setup on &lt;a href=&#34;http://php.iis.net/&#34;&gt;http://php.iis.net/&lt;/a&gt; and install it&lt;/li&gt;
-&lt;li&gt;Fix PATH environment variable after installation to add the missing &amp;ldquo;(x86)&amp;quot;:&lt;/li&gt;
+&lt;li&gt;Fix PATH environment variable after installation to add the missing &amp;ldquo;(x86)&amp;rdquo;:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;C:\Program Files (x86)\PHP\v5.3
 &lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;install-arcanist&#34;&gt;Install Arcanist&lt;/h4&gt;
@@ -352,27 +353,27 @@ Want to upload an image in a comment: just drag it from your filesystem, and voi
 &lt;ul&gt;
 &lt;li&gt;Set phabricator url:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;arc set-config default http://phabricator-test.esker.corp
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;Edit: not required if you have a .arcconfig file in your project&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;arc set-config default http://phabricator-test.esker.corp
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;Edit: not required if you have a .arcconfig file in your project&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Allow arcanist web service:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;arc install-certificate
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;. Copy url displayed in terminal, ex: &lt;a href=&#34;http://phabricator-test.esker.corp/conduit/token/&#34;&gt;http://phabricator-test.esker.corp/conduit/token/&lt;/a&gt;&lt;br&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;arc install-certificate
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;. Copy url displayed in terminal, ex: &lt;a href=&#34;http://phabricator-test.esker.corp/conduit/token/&#34;&gt;http://phabricator-test.esker.corp/conduit/token/&lt;/a&gt;&lt;br&gt;
 . Login &amp;amp; copy the displayed token from the web page into your terminal&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Setup editor:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;arc set-config editor &amp;#34;\&amp;#34;C:\Program Files (x86)\Notepad++\notepad++.exe\&amp;#34; -multiInst -nosession&amp;#34;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;According to officiel documentation:  &amp;ldquo;You can not use Notepad as your editor, because it does not have a blocking mode.&amp;rdquo;&lt;br&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;arc set-config editor &amp;#34;\&amp;#34;C:\Program Files (x86)\Notepad++\notepad++.exe\&amp;#34; -multiInst -nosession&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;According to officiel documentation:  &amp;ldquo;You can not use Notepad as your editor, because it does not have a blocking mode.&amp;rdquo;&lt;br&gt;
 I&amp;rsquo;m using Notepad2 which works great. But Notepad++ and GitPad work too.&lt;/p&gt;
 &lt;h4 id=&#34;submit-code-for-pre-push-review&#34;&gt;Submit code for pre-push review&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Do one or more commits, still in &lt;code&gt;draft&lt;/code&gt; state (not pushed).&lt;/li&gt;
 &lt;li&gt;Open a terminal and type:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;arc diff
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Editor is going to open, you have to specify some infos:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;arc diff
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Editor is going to open, you have to specify some infos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;test plan ; can be optionnal, cf config differential.require-test-plan-field&lt;/li&gt;
 &lt;li&gt;reviewers ; you can specify one or several (comma separation)&lt;/li&gt;
@@ -396,22 +397,22 @@ See ticket: &lt;a href=&#34;https://secure.phabricator.com/T3855&#34;&gt;https:/
 &lt;p&gt;&lt;a href=&#34;https://secure.phabricator.com/book/phabricator/article/arcanist_new_project/&#34;&gt;.arcconfig documentation&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sample:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{
-	&amp;quot;phabricator.uri&amp;quot; : &amp;quot;http://ly-phabricator-test.esker.corp/&amp;quot;
+	&amp;#34;phabricator.uri&amp;#34; : &amp;#34;http://ly-phabricator-test.esker.corp/&amp;#34;
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Linters:&lt;br&gt;
 &lt;a href=&#34;https://secure.phabricator.com/book/phabricator/article/arcanist_lint/&#34;&gt;Arcanist User Guide: Lint&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://secure.phabricator.com/book/phabricator/article/arcanist_extending_lint/&#34;&gt;Arcanist User Guide: Customizing Existing Linters&lt;/a&gt;&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{
-	&amp;quot;linters&amp;quot;:
+	&amp;#34;linters&amp;#34;:
 	{
-		&amp;quot;jshint no_SAP&amp;quot;:
+		&amp;#34;jshint no_SAP&amp;#34;:
 		{
-			&amp;quot;type&amp;quot;: &amp;quot;jshint&amp;quot;,
-			&amp;quot;bin&amp;quot;: &amp;quot;C:\\Users\\TiTi\\AppData\\Roaming\\npm\\jshint.cmd&amp;quot;,
-			&amp;quot;include&amp;quot;: &amp;quot;(^DocMgr2/WebAccess/no_SAP/ap_reject.js$)&amp;quot;,
-			&amp;quot;severity.rules&amp;quot;:
+			&amp;#34;type&amp;#34;: &amp;#34;jshint&amp;#34;,
+			&amp;#34;bin&amp;#34;: &amp;#34;C:\\Users\\TiTi\\AppData\\Roaming\\npm\\jshint.cmd&amp;#34;,
+			&amp;#34;include&amp;#34;: &amp;#34;(^DocMgr2/WebAccess/no_SAP/ap_reject.js$)&amp;#34;,
+			&amp;#34;severity.rules&amp;#34;:
 			{
-				&amp;quot;(^W)&amp;quot;: &amp;quot;error&amp;quot;
+				&amp;#34;(^W)&amp;#34;: &amp;#34;error&amp;#34;
 			}
 		}
 	}
@@ -481,13 +482,13 @@ See ticket: &lt;a href=&#34;https://secure.phabricator.com/T3855&#34;&gt;https:/
 #   after 300 sec (5 min) if at least 10 keys changed
 #   after 60 sec if at least 10000 keys changed
 #
-#   Note: you can disable saving at all commenting all the &amp;quot;save&amp;quot; lines.
+#   Note: you can disable saving at all commenting all the &amp;#34;save&amp;#34; lines.
 #
 #   It is also possible to remove all the previously configured save
 #   points by adding a save directive with a single empty string argument
 #   like in the following example:
 #
-#   save &amp;quot;&amp;quot;
+#   save &amp;#34;&amp;#34;
 
 save 900 1
 save 300 10
@@ -496,7 +497,7 @@ save 60 10000
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;  appendonly yes
 &lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
 &lt;li&gt;Le tout est sauvé sous /var/lib/redis/ ; cf les paramètres &amp;lsquo;&amp;lsquo;dbfilename&amp;rsquo;&amp;rsquo; et &amp;lsquo;&amp;lsquo;dir&amp;rsquo;&amp;rsquo;&lt;/li&gt;
-&lt;li&gt;On peut demander à Redis de sauvegarder MAINTENANT avec la commande &amp;lsquo;&amp;lsquo;&amp;lsquo;BGSAVE&amp;rsquo;&amp;rsquo;&amp;rsquo; (ou &amp;lsquo;&amp;lsquo;&amp;lsquo;SAVE&amp;rsquo;&#39;&amp;rsquo;, mais bloquante).&lt;/li&gt;
+&lt;li&gt;On peut demander à Redis de sauvegarder MAINTENANT avec la commande &amp;lsquo;&amp;lsquo;&amp;lsquo;BGSAVE&amp;rsquo;&amp;rsquo;&amp;rsquo; (ou &amp;lsquo;&amp;lsquo;&amp;lsquo;SAVE&amp;rsquo;&amp;rsquo;&amp;rsquo;, mais bloquante).&lt;/li&gt;
 &lt;li&gt;La commande &lt;strong&gt;LASTSAVE&lt;/strong&gt; donne le timestamp unix de la dernière sauvegarde&lt;/li&gt;
 &lt;li&gt;La commande &lt;strong&gt;CONFIG GET *&lt;/strong&gt; permet d&amp;rsquo;avoir tous les paramètre d&amp;rsquo;un coup&lt;/li&gt;
 &lt;li&gt;La commande &lt;strong&gt;&lt;a href=&#34;http://redis.io/commands/config-set&#34;&gt;CONFIG SET parameter value&lt;/a&gt;&lt;/strong&gt; permet de changer en live sans redémarrer Redis ; mais ne modifie pas /etc/redis/redis.conf&lt;/li&gt;
@@ -518,10 +519,10 @@ save 60 10000
 &lt;p&gt;The page object model starts at slide 12. My notes:&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s a software layer between selenium and their [salesforce] tests.&lt;br&gt;
 Specifically, this layer expose classes/methods like:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;	&lt;span style=&#34;color:#a6e22e&#34;&gt;myCustomPage&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;ApproveForm&lt;/span&gt;();  
-	&lt;span style=&#34;color:#a6e22e&#34;&gt;myPrintDriverPage&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;typeComment&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;text&lt;/span&gt;);  
-	&lt;span style=&#34;color:#a6e22e&#34;&gt;myPortalPage&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;login&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;username&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;password&lt;/span&gt;);  
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Tests are only using that api, not immediately the selenium one.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#a6e22e&#34;&gt;myCustomPage&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;ApproveForm&lt;/span&gt;();  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#a6e22e&#34;&gt;myPrintDriverPage&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;typeComment&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;text&lt;/span&gt;);  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#a6e22e&#34;&gt;myPortalPage&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;login&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;username&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;password&lt;/span&gt;);  
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Tests are only using that api, not immediately the selenium one.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Good code reuse&lt;/li&gt;
 &lt;li&gt;Easy maintenance&lt;/li&gt;
@@ -568,7 +569,7 @@ Specifically, this layer expose classes/methods like:&lt;/p&gt;
       <author>thibault.rohmer@gmail.com (Thibault ROHMER)</author>
       <guid>https://titi.github.io/2014/10/scalability/</guid>
       <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
-&lt;p&gt;Here are a few links related to scalability, including some from &lt;a href=&#34;http://highscalability.com/,&#34;&gt;http://highscalability.com/,&lt;/a&gt; in particular thoses from the &lt;a href=&#34;http://highscalability.com/blog/category/example&#34;&gt;Real Life Architectures&lt;/a&gt; section.&lt;/p&gt;
+&lt;p&gt;Here are a few links related to scalability, including some from &lt;a href=&#34;http://highscalability.com/&#34;&gt;http://highscalability.com/&lt;/a&gt;, in particular thoses from the &lt;a href=&#34;http://highscalability.com/blog/category/example&#34;&gt;Real Life Architectures&lt;/a&gt; section.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;http://highscalability.com/blog/2013/9/23/salesforce-architecture-how-they-handle-13-billion-transacti.html&#34;&gt;Salesforce Architecture - How They Handle 1.3 Billion Transactions A Day&lt;/a&gt;&lt;/p&gt;
@@ -658,18 +659,18 @@ Great collection of short tips&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://specificity.keegan.st/&#34;&gt;CSS Specificity Calculator&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.w3.org/TR/CSS21/cascade.html#specificity&#34;&gt;CSS specificity rule&lt;/a&gt; is very important.
 For instance, imagine you have:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;item&lt;/span&gt; .&lt;span style=&#34;color:#a6e22e&#34;&gt;text-normal&lt;/span&gt; {
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;blue&lt;/span&gt;;
-}
-
-.&lt;span style=&#34;color:#a6e22e&#34;&gt;text-color-color2&lt;/span&gt; {
-&lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;red&lt;/span&gt;;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And the following HTML:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;item&amp;#34;&lt;/span&gt;&amp;gt;
-  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;text-normal text-color-color2&amp;#34;&lt;/span&gt;&amp;gt;test&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
-&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Well guess what will be the color of &lt;code&gt;test&lt;/code&gt;?&lt;br&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;item&lt;/span&gt; .&lt;span style=&#34;color:#a6e22e&#34;&gt;text-normal&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;blue&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;text-color-color2&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;red&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And the following HTML:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;item&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;text-normal text-color-color2&amp;#34;&lt;/span&gt;&amp;gt;test&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Well guess what will be the color of &lt;code&gt;test&lt;/code&gt;?&lt;br&gt;
 The color &lt;span style=&#34;color:blue&#34;&gt;blue&lt;/span&gt; wins because the specificity is higher with the first selector (20 vs 10).&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Mars 24, 2015 7:33pm&lt;/p&gt;
@@ -787,7 +788,7 @@ Complexity explanation: &lt;a href=&#34;https://github.com/philbooth/complexity-
 &lt;a href=&#34;http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/&#34;&gt;Writing Great Unit Tests: Best and Worst Practices&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;November 17, 2014 6:14pm&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;iframe class=&#34;youtube-player&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/Y8YVSohnlgY&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;First 20 minutes are really interesting. He talks about:&lt;/p&gt;
 &lt;ul&gt;
