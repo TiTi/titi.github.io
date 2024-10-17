@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Ansible tips</title>
+
+  <meta name="description" content="Ansible tips"/>
+  <meta name="author" content="Thibault ROHMER"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <base href="https://titi.github.io/" />
+
+  <link rel="stylesheet" href="css/fonts.css"/>
+  <link rel="stylesheet" href="css/normalize.css"/>
+  <link rel="stylesheet" href="css/skeleton.css"/>
+  <link rel="stylesheet" href="css/custom.css"/>
+  <link rel="stylesheet" href="genericons/genericons.css"/>
+  
+  
+  <link rel="stylesheet" href="highlight/tomorrow-night.css"/>
+
+  <link href="index.xml" rel="alternate" type="application/rss+xml" title="Posts + Links" />
+  <link href="links/index.xml" rel="alternate" type="application/rss+xml" title="Links" />
+  <link href="posts/index.xml" rel="alternate" type="application/rss+xml" title="Posts" />
+
+  
+</head>
+<body>
+
+<div id="flex-container">
+  <input type="checkbox" id="sidebar-menu-checkbox" />
+  <label for="sidebar-menu-checkbox" id="sidebar-menu"></label>
+
+  <div id="fake-sidebar"></div>
+  <div id="container">
+
+
+<div id="post-header">
+  <p class="post-infos">
+    <time>2024-10-11 22:29</time>
+    
+
+  </p>
+  <h1>Ansible tips</h1>
+</div>
+
+
+
+<div class="post">
+  <h1 id="indent-json-output">Indent json output</h1>
+<p>The default output format when using -v[vvv] is json. However, it&rsquo;s one 1 line without indentation, like that:</p>
+<pre tabindex="0"><code>TASK [Set fact] ********************************************************************************************************
+Tuesday 01 October 2024  15:53:10 +0200 (0:00:00.053)       0:00:00.053 *******
+ok: [localhost] =&gt; {&#34;ansible_facts&#34;: {&#34;my_fact&#34;: &#34;hello world&#34;}, &#34;changed&#34;: false}
+</code></pre><p>I&rsquo;ve copied this tons of time in a formatter to understand a module output.<br>
+Until&hellip; I found you can just set this in <strong>ansible.cfg</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ini" data-lang="ini"><span style="display:flex;"><span><span style="color:#66d9ef">[defaults]</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">callback_format_pretty</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">true</span>
+</span></span></code></pre></div><p>Result of a <strong>set_fact</strong>:</p>
+<pre tabindex="0"><code>TASK [Set fact] ********************************************************************************************************
+Tuesday 01 October 2024  15:53:39 +0200 (0:00:00.042)       0:00:00.042 *******
+ok: [localhost] =&gt; {
+    &#34;ansible_facts&#34;: {
+        &#34;my_fact&#34;: &#34;hello world&#34;
+    },
+    &#34;changed&#34;: false
+}
+</code></pre><p>That&rsquo;s automatically more readable! Especially if the output json is big.</p>
+<h1 id="dont-use-quotes-unless-needed">Don&rsquo;t use quotes unless needed</h1>
+<p>First read this page: <a href="https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html#gotchas">https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html#gotchas</a></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#75715e"># Bad</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">storageaccount</span>: <span style="color:#e6db74">&#34;artifacts&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">buy_key</span>: <span style="color:#e6db74">&#34;abc 123&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">admin_name</span>: <span style="color:#e6db74">&#34;contoso\\admin_svc&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">chef_user</span>: {{ <span style="color:#ae81ff">ansible_user }}  </span> <span style="color:#75715e"># doesn&#39;t work (dictionary vs ansible var)</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">drive_letter: D</span>:   <span style="color:#75715e"># doesn&#39;t work (colons)</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">weird_msg</span>: [<span style="color:#ae81ff">IMPORTANT MESSAGE]   </span> <span style="color:#75715e"># doesn&#39;t work (array)</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">app_services</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#e6db74">&#34;service A&#34;</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#e6db74">&#34;service B&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Good</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">storageaccount</span>: <span style="color:#ae81ff">artifacts</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">buy_key</span>: <span style="color:#ae81ff">abc with spaces</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">admin_name</span>: <span style="color:#ae81ff">contoso\admin_svc</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">chef_user</span>: <span style="color:#e6db74">&#34;{{ ansible_user }}&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">drive_letter</span>: <span style="color:#e6db74">&#34;D:&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">weird_msg</span>: <span style="color:#e6db74">&#34;[IMPORTANT MESSAGE]&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">app_services</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">service A</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">service B</span>
+</span></span></code></pre></div><p>More: <a href="https://blogs.perl.org/users/tinita/2018/03/strings-in-yaml---to-quote-or-not-to-quote.html">https://blogs.perl.org/users/tinita/2018/03/strings-in-yaml---to-quote-or-not-to-quote.html</a></p>
+<h1 id="use-linters">Use linters</h1>
+<p>You can use:</p>
+<ul>
+<li><strong>yamllint</strong></li>
+<li><strong>ansible-lint</strong></li>
+<li><strong>XLAB Steampunk <a href="https://steampunk.si/spotter/">Spotter</a></strong></li>
+</ul>
+<h1 id="harness-the-power-of-default">Harness the power of default()</h1>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672">time_zone</span>: <span style="color:#e6db74">&#34;{{ time_zones_available[customLocation | default(location) | default(&#39;UTC&#39;)] }}&#34;</span>
+</span></span></code></pre></div><h1 id="work-on-more-machines-at-a-time">Work on more machines at a time</h1>
+<p>This is related to the <a href="https://docs.ansible.com/ansible/latest/reference_appendices/config.html#default-forks">default number of forks</a></p>
+<p>Update the default value (currently 5) like so:</p>
+<p>In <strong>ansible.cfg</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ini" data-lang="ini"><span style="display:flex;"><span><span style="color:#66d9ef">[defaults]</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">forks</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">10</span>
+</span></span></code></pre></div><p>Make sure you have enough resources (CPU/RAM/Network) to do so.</p>
+<h1 id="have-a-nice-summary-of-time-spent-by-task">Have a nice summary of time spent by task</h1>
+<p>In <strong>ansible.cfg</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ini" data-lang="ini"><span style="display:flex;"><span><span style="color:#66d9ef">[defaults]</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">callbacks_enabled</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">profile_tasks</span>
+</span></span></code></pre></div><p>Result:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-md" data-lang="md"><span style="display:flex;"><span>Thursday 26 September 2024  14:21:05 +0000 (0:17:41.644)       0:22:41.235 <span style="font-style:italic">**</span>** 
+</span></span><span style="display:flex;"><span>=============================================================================== 
+</span></span><span style="display:flex;"><span>Install all updates and reboot as many times as needed --------------- 1061.64s
+</span></span><span style="display:flex;"><span>Install Cortex XDR ----------------------------------------------------- 76.19s
+</span></span><span style="display:flex;"><span>Install Qualys --------------------------------------------------------- 53.11s
+</span></span><span style="display:flex;"><span>Remove setup ----------------------------------------------------------- 31.11s
+</span></span><span style="display:flex;"><span>Collect required facts for later --------------------------------------- 26.38s
+</span></span><span style="display:flex;"><span>Disable disk defrag service -------------------------------------------- 23.85s
+</span></span><span style="display:flex;"><span>Remove setup ----------------------------------------------------------- 22.31s
+</span></span><span style="display:flex;"><span>Download Qualys from network share mount with a domain identity --------- 5.54s
+</span></span><span style="display:flex;"><span>Download Cortex XDR from network share mount with a domain identity ----- 4.34s
+</span></span><span style="display:flex;"><span>Get disks facts --------------------------------------------------------- 4.25s
+</span></span><span style="display:flex;"><span>Enable firewall for Domain, Public and Private profiles ----------------- 3.75s
+</span></span><span style="display:flex;"><span>Get disks volumes ------------------------------------------------------- 3.48s
+</span></span><span style="display:flex;"><span>Get disks facts --------------------------------------------------------- 3.45s
+</span></span><span style="display:flex;"><span>Firewall rule to allow ICMP v4 on all type codes ------------------------ 3.06s
+</span></span><span style="display:flex;"><span>Disable indexing service ------------------------------------------------ 3.01s
+</span></span><span style="display:flex;"><span>Ensure NetBIOS is disabled system wide ---------------------------------- 2.96s
+</span></span><span style="display:flex;"><span>Check edge business is installed ---------------------------------------- 2.80s
+</span></span><span style="display:flex;"><span>Ensure Qualys service is runnning --------------------------------------- 2.66s
+</span></span><span style="display:flex;"><span>Change power plan to high performance ----------------------------------- 2.64s
+</span></span><span style="display:flex;"><span>Remove CD/DVD drive letter ---------------------------------------------- 2.44
+</span></span></code></pre></div><h1 id="improve-speed-basic">Improve speed [basic]</h1>
+<p>Use pipelining in <strong>ansible.cfg</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ini" data-lang="ini"><span style="display:flex;"><span><span style="color:#66d9ef">[defaults]</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">pipelining</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">true</span>
+</span></span></code></pre></div><p>Do not gather facts in your plays (unless needed):</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>---
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>- <span style="color:#f92672">name</span>: <span style="color:#ae81ff">List vms with SQL Server</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">hosts</span>: <span style="color:#ae81ff">windows</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">gather_facts</span>: <span style="color:#66d9ef">false</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">tasks</span>:
+</span></span></code></pre></div><p>By default, i never gather facts unless specific play.<br>
+You can also only gather specific facts with <a href="https://docs.ansible.com/ansible/latest/collections/ansible/builtin/setup_module.html">ansible.builtin.setup</a></p>
+<h1 id="improve-windows-speed">Improve windows speed</h1>
+<p>Use <strong>psrp</strong> rather than <strong>winrm</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>---
+</span></span><span style="display:flex;"><span><span style="color:#f92672">ansible_connection</span>: <span style="color:#ae81ff">psrp</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">ansible_port</span>: <span style="color:#ae81ff">5985</span>
+</span></span></code></pre></div><p>Official documentation about this plugin: <a href="https://docs.ansible.com/ansible/latest/collections/ansible/builtin/psrp_connection.html">https://docs.ansible.com/ansible/latest/collections/ansible/builtin/psrp_connection.html</a></p>
+<p>For hosts requiring kerberos, add them to a &lsquo;kerberos&rsquo; group and declare kerberos.yml in your group_vars:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>---
+</span></span><span style="display:flex;"><span><span style="color:#f92672">ansible_connection</span>: <span style="color:#ae81ff">winrm</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">ansible_winrm_transport</span>: <span style="color:#ae81ff">kerberos</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">ansible_winrm_message_encryption</span>: <span style="color:#ae81ff">auto</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">ansible_winrm_kerberos_delegation</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><h1 id="simple-things-to-troubleshoot">Simple things to troubleshoot</h1>
+<p>Show vars: <code>ansible-inventory -i inventories/dev/ --list --limit vm1</code></p>
+<p>Show facts:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>- <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Show facts</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">hosts</span>: <span style="color:#ae81ff">all</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">gather_facts</span>: <span style="color:#66d9ef">true</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">tasks</span>:
+</span></span><span style="display:flex;"><span>    - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Show facts</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">ansible.builtin.debug</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">var</span>: <span style="color:#ae81ff">ansible_facts</span>
+</span></span></code></pre></div><p>Test connectivity:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>---
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>- <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Test connectivity</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">hosts</span>: <span style="color:#ae81ff">all</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">gather_facts</span>: <span style="color:#66d9ef">false</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">tasks</span>:
+</span></span><span style="display:flex;"><span>    - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Check windows connectivity</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">ansible.windows.win_ping</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">when</span>: <span style="color:#ae81ff">inventory_hostname in groups[&#39;windows&#39;]</span>
+</span></span><span style="display:flex;"><span>    - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Check linux connectivity</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">ansible.builtin.ping</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">when</span>: <span style="color:#ae81ff">inventory_hostname in groups[&#39;linux&#39;]</span>
+</span></span></code></pre></div><h1 id="use-tag-always">Use tag &lsquo;always&rsquo;</h1>
+<p><a href="https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_tags.html#always-and-never">https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_tags.html#always-and-never</a></p>
+<p>For instance, if you gather facts manually and other tasks depent on it, but the user decide to launch the playbook with &ndash;tags, it will likely skip this mandatory step and fail.<br>
+To avoid this, you can use tag &lsquo;always&rsquo;:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>- <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Collect required facts for later</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">ansible.builtin.setup</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">gather_subset</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#e6db74">&#39;!all&#39;</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">min</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">filter</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">ansible_os_installation_type</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">ansible_domain</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">tags</span>: <span style="color:#ae81ff">always</span>
+</span></span></code></pre></div><h1 id="simplify-ansible-vault-credentials">Simplify ansible vault credentials</h1>
+<p>In case you are using ansible vault to store some secrets, I advise to set <code>vault_password_file</code> in your <strong>ansible.cfg</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ini" data-lang="ini"><span style="display:flex;"><span><span style="color:#66d9ef">[defaults]</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">vault_password_file</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">~/.vault_pass</span>
+</span></span></code></pre></div><p>This will prevent any prompt and help you for <code>ansible-vault</code> command.</p>
+<h1 id="azure-dynamic-inventory-plugin-tricks">Azure dynamic inventory plugin tricks</h1>
+<p>Here is a sample:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>---
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">plugin</span>: <span style="color:#ae81ff">azure.azcollection.azure_rm</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">auth_source</span>: <span style="color:#ae81ff">auto</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">include_vm_resource_groups</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#e6db74">&#34;*&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">subscription_id</span>: <span style="color:#ae81ff">2c60a3c5-9d3f-40f1-973b-3ca81d281ae4</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">plain_host_names</span>: <span style="color:#66d9ef">true</span>  <span style="color:#75715e"># prevents generated suffix</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">default_host_filters</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">powerstate != &#39;running&#39; </span> <span style="color:#75715e"># ignore stopped machine (connection will fail!)</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">provisioning_state != &#39;succeeded&#39; </span> <span style="color:#75715e"># ignore machine being provisioned or failed</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">hostvar_expressions</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># kerberos needs FQDN ; zscaler (remote) needs dns</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">ansible_host</span>: <span style="color:#ae81ff">(private_ipv4_addresses | first) if os_profile.system == &#39;linux&#39; else computer_name | default(name, true)</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">conditional_groups</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">windows</span>: <span style="color:#ae81ff">os_profile.system == &#39;windows&#39;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">linux</span>: <span style="color:#ae81ff">os_profile.system == &#39;linux&#39;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">kerberos</span>: <span style="color:#ae81ff">os_profile.system == &#39;windows&#39; and tags.Role is defined and tags.Role not in [&#39;XAB&#39;, &#39;CBR&#39;]</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">keyed_groups</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># places each host in a group named &#39;tag_(tag name)_(tag value)&#39; for each tag on a VM.</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">prefix</span>: <span style="color:#ae81ff">tag</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">key</span>: <span style="color:#ae81ff">tags</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">prefix</span>: <span style="color:#ae81ff">geo</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">key</span>: <span style="color:#ae81ff">location</span>
+</span></span></code></pre></div><p>Explanations:</p>
+<p><strong>default_host_filters</strong>:<br>
+Ignore stopped vms or vms being built, as we cannot connect to it.<br>
+Up to the operator to know which vms remains to configure if some were stopped during playbook execution.</p>
+<p><strong>keyed_groups</strong>:<br>
+Will automatically create groups based on each tag and also on the location of the vm</p>
+<p><strong>hostvar_expressions to set ansible_host</strong>:<br>
+The default azurerm inventory plugin logic is to set ansible_host with the public or private ipv4 provided by azure. See:<br>
+<a href="https://github.com/ansible-collections/azure/blob/dev/plugins/inventory/azure_rm.py#L357">https://github.com/ansible-collections/azure/blob/dev/plugins/inventory/azure_rm.py#L357</a> (look for &lsquo;ansible_host&rsquo;, line might change with time)<br>
+However, that isn&rsquo;t great in some scenarios where fqdn is required:</p>
+<ul>
+<li>kerberos authentication  (ansible_connection: winrm ; ansible_winrm_transport: kerberos)</li>
+<li>zscaler (ex: remote work)</li>
+</ul>
+<p>Thus, this hostvar expression allows us to set ansible_host with infos provided by azure and use conditions.</p>
+<h1 id="craft-a-list-of-objects">Craft a list of objects</h1>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>- <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Store result for final output</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">ansible.builtin.set_fact</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">versions</span>: |<span style="color:#e6db74">
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      [
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      {% for n in res.results %}
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        {
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &#34;subenv&#34;: &#34;{{ n.item.key }}&#34;,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &#34;version&#34;: &#34;{{ (n.content | b64decode | split(&#39;_&#39;))[1] }}&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        },
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      {% endfor %}
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      ]</span>      
+</span></span></code></pre></div><h1 id="generate-a-custom-report-for-reachable-machines">Generate a custom report for reachable machines</h1>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>- <span style="color:#f92672">name: Merge infos  # noqa</span>: <span style="color:#ae81ff">run-once[task]</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">ansible.builtin.set_fact</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">servers</span>: |<span style="color:#e6db74">
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      [
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      {% for host in ansible_play_hosts_all %}
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        {% set host_vars = hostvars[host] %}
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        {% if host_vars.inventory_hostname not in ansible_play_hosts %} # unreachable
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        {
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &#34;name&#34;: &#34;{{ host_vars.inventory_hostname }}&#34;,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &#34;ips&#34;: {{ host_vars.ansible_facts.ip_addresses }},
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &#34;system&#34;: &#34;{{ host_vars.os_profile.system }}&#34;,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &#34;os&#34;: &#34;vm unreachable&#34;,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &#34;uptime_days&#34;: -1,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &#34;size&#34;:
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          {
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">            &#34;name&#34;: &#34;{{ host_vars.virtual_machine_size | default(&#39;&#39;) }}&#34;,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">            &#34;vCPUs&#34;: 0,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">            &#34;RAM&#34;: 0,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          },
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        },
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        {% else %}
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        {
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &#34;name&#34;: &#34;{{ host_vars.inventory_hostname }}&#34;,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &#34;ips&#34;: {{ host_vars.ansible_facts.ip_addresses }},
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &#34;system&#34;: &#34;{{ host_vars.ansible_facts.os_family }}&#34;,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &#34;os&#34;: &#34;{{ host_vars.ansible_facts.os_name }}&#34;,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &#34;uptime_days&#34;: {{ (host_vars.ansible_facts.uptime_seconds / 86400) | round(2) }},
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &#34;size&#34;:
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          {
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">            &#34;name&#34;: &#34;{{ host_vars.virtual_machine_size | default(&#39;&#39;) }}&#34;,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">            &#34;vCPUs&#34;: {{ host_vars.ansible_processor_vcpus }},
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">            &#34;RAM&#34;: {{ (host_vars.ansible_memtotal_mb / 1024) | round | int }},
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          },
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        },
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        {% endif %}
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      {% endfor %}
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      ]</span>      
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">delegate_to</span>: <span style="color:#ae81ff">localhost</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">run_once</span>: <span style="color:#66d9ef">true</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">name: Generate report.html  # noqa</span>: <span style="color:#ae81ff">run-once[task]</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">ansible.builtin.template</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">src</span>: <span style="color:#ae81ff">templates/report.html.j2</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">dest</span>: <span style="color:#e6db74">&#34;{{ out_folder }}/report.html&#34;</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">mode</span>: <span style="color:#e6db74">&#34;0644&#34;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">delegate_to</span>: <span style="color:#ae81ff">localhost</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">run_once</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><h1 id="compute-a-list-with-set_fact-and-loop">Compute a list with set_fact and loop</h1>
+<p>Advanced sample:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>- <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Get disks facts</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">community.windows.win_disk_facts</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">filter</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">physical_disk</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">no_log</span>: <span style="color:#66d9ef">true</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>- <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Compute RAW disks</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">ansible.builtin.set_fact</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">raw_disks</span>: <span style="color:#e6db74">&#34;{{ ansible_disks | community.general.json_query(&#39;[?partition_style==`RAW`].number&#39;) }}&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Give the ability to customize drive letters, sample to skip letter F:</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># raw_disks: [7, 23, 2]</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># custom_data_disks:</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#   E: Data</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#   G: Backup</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#   L: Log</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>- <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Compute custom list of disk infos</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">ansible.builtin.set_fact</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">disks_infos</span>: <span style="color:#e6db74">&#39;{{ disks_infos | default([]) + [{&#34;disk_number&#34;: raw_disks[idx], &#34;letter&#34;: item.key, &#34;label&#34;: item.value}] }}&#39;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">loop</span>: <span style="color:#e6db74">&#34;{{ query(&#39;dict&#39;, custom_data_disks) }}&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">loop_control</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">index_var</span>: <span style="color:#ae81ff">idx</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">when</span>:
+</span></span><span style="display:flex;"><span>    - <span style="color:#ae81ff">custom_data_disks is defined</span>
+</span></span><span style="display:flex;"><span>    - <span style="color:#ae81ff">raw_disks | length &gt; 0</span>
+</span></span></code></pre></div><h1 id="compute-a-list-with-lookup-query-and-jinja-statements">Compute a list with lookup query and jinja statements</h1>
+<p>See: <a href="https://jinja.palletsprojects.com/en/3.1.x/templates/#list-of-control-structures">https://jinja.palletsprojects.com/en/3.1.x/templates/#list-of-control-structures</a></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>- <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Determine logstash servers</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">ansible.builtin.set_fact</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">logstash_servers</span>: &gt;-<span style="color:#e6db74">
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      {% set result = [] -%}
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      {% for s in query(&#39;inventory_hostnames&#39;, &#39;tag_tech_logstash&#39;) -%}
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      {%   set dummy = result.append(hostvars[s].name) -%}
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      {% endfor -%}
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      {{ result }}</span>      
+</span></span></code></pre></div>
+</div>
+
+
+  <div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'thibaultrohmer';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+
+<footer>
+  <p class="footnote">Copyright &copy;: All rights reserved by <a href="mailto:thibault.rohmer@gmail.com">Thibault ROHMER</a></p>
+</footer>
+
+  </div>
+  <div id="container-mask"></div>
+<div id="sidebar">
+<div class="sidebar">
+  <div class="sidebar-about">
+    <a href="https://titi.github.io/">
+      <img src="media/me.jpg" title="Thibault ROHMER" alt="Me" />
+      <h4 class="sidebar-title">Hi! I&#39;m Thibault ROHMER</h4>
+    </a>
+    <span class="sidebar-tagline"> \o/<br/>|<br/>/&nbsp;\ </span>
+  </div>
+  <nav class="sidebar-nav">
+    <ul class="sidebar-nav-list">
+      <li class="sidebar-nav-item nav-home">
+        <span class="genericon genericon-home"></span><a class="sidebar-link" href="https://titi.github.io/">Home</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a class="genericon genericon-feed" href="posts/index.xml"></a><a class="sidebar-link" href="posts/">Posts/</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a class="genericon genericon-feed" href="links/index.xml"></a><a class="sidebar-link" href="links/">Links/</a>
+      </li>
+    </ul>
+  </nav>
+  <div class="sidebar-externals">
+  
+
+  
+  <a class="genericon genericon-github" href="https://github.com/TiTi" ></a>
+  
+
+  
+
+  
+
+  
+  | <a class="genericon genericon-linkedin-alt" href="https://www.linkedin.com/in/thibaultrohmer"></a>
+  
+
+  
+  | <a class="genericon genericon-mail" href="mailto:thibault.rohmer@gmail.com"></a>
+  </div>
+  <div class="sidebar-bottom">
+    <hr />
+    <p>Powered by <a href="http://gohugo.io">Hugo</a>.</p> <p>Theme: <a href="https://github.com/TiTi/hurock">Hurock</a>.</p>
+  </div>
+</div>
+</div>
+
+</div>
+
+<script src="highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G3WXBDDK35"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G3WXBDDK35');
+</script>
+
+
+
+
+</body>
+</html>
+

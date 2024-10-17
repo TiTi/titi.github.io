@@ -269,6 +269,30 @@ Source: [Refactor Man](http://www.monkeyuser.com/2017/refactor-man/)
 <section class="post">
   <header class="post-header">
     <p class="post-infos">
+      <time datetime="2024-10-11T22:29:00+01:00">11 Oct 2024, 22:29</time>
+    </p>
+    <h2><a href="/2024/10/ansible-tips/">Ansible tips</a></h2>
+  </header>
+  <div class="post-description">
+  <h1 id="indent-json-output">Indent json output</h1>
+<p>The default output format when using -v[vvv] is json. However, it&rsquo;s one 1 line without indentation, like that:</p>
+<pre tabindex="0"><code>TASK [Set fact] ********************************************************************************************************
+Tuesday 01 October 2024  15:53:10 +0200 (0:00:00.053)       0:00:00.053 *******
+ok: [localhost] =&gt; {&#34;ansible_facts&#34;: {&#34;my_fact&#34;: &#34;hello world&#34;}, &#34;changed&#34;: false}
+</code></pre><p>I&rsquo;ve copied this tons of time in a formatter to understand a module output.<br>
+Until&hellip; I found you can just set this in <strong>ansible.cfg</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ini" data-lang="ini"><span style="display:flex;"><span><span style="color:#66d9ef">[defaults]</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">callback_format_pretty</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">true</span>
+</span></span></code></pre></div><p>Result of a <strong>set_fact</strong>:</p>
+  
+  <br /><a class="readmore" href="/2024/10/ansible-tips/"><span class="genericon genericon-reply"></span> Read more…</a>
+  
+  </div>
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-infos">
       <time datetime="2015-05-18T20:42:00+01:00">18 May 2015, 20:42</time>
     </p>
     <h2><a href="/2015/05/windows-shortcuts/">Windows shortcuts you should know</a></h2>
@@ -354,24 +378,6 @@ Try them out if you don&rsquo;t know them!</p>
 <p><a href="http://www.slideshare.net/saucelabs/salesforce-seleniumsaucelabswebinarapril2014">Webinar Slides</a></p>
   
   <br /><a class="readmore" href="/2014/10/selenium-page-object-model/"><span class="genericon genericon-reply"></span> Read more…</a>
-  
-  </div>
-</section>
-
-<section class="post">
-  <header class="post-header">
-    <p class="post-infos">
-      <time datetime="2014-10-17T15:15:00+01:00">17 Oct 2014, 15:15</time>
-    </p>
-    <h2><a href="/2014/10/no-defect/">No defect</a></h2>
-  </header>
-  <div class="post-description">
-  <p><a href="http://www.fastcompany.com/28121/they-write-right-stuff">They Write the Right Stuff</a> - NASA / Software for Grown-Ups</p>
-<p><a href="http://www.klocwork.com/resources/research/research-improving-software-by-reducing-defects/download">Improving software by reducing coding defects</a></p>
-<p><a href="http://www.tenberry.com/errfree/steps.htm">Nine Steps to Delivering Defect-Free Software</a><br>
-(first 3 steps = gold)</p>
-  
-  <br /><a class="readmore" href="/2014/10/no-defect/"><span class="genericon genericon-reply"></span> Read more…</a>
   
   </div>
 </section>
